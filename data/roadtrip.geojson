@@ -35,6 +35,7 @@
       "type": "Feature",
       "properties": {
         "name": "Chicago",
+        "state": "MO",
         "fips": ""
       },
       "geometry": {
