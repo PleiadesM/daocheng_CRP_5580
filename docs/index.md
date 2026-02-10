@@ -1,10 +1,10 @@
 ---
-layout: splash
-title: "Daocheng Lin's Web Mapping and Data Visualization Portfolio"
+layout: home
+title: "Daocheng Lin"
 header:
   overlay_image: /assets/images/cover.jpg
   overlay_filter: 0.3
-excerpt: "LA5880 – Web Mapping Portfolio"
+excerpt: "LA5880 – Web Mapping Portfolio and Data Visualization"
 custom_head: head/custom.html
 
 ---
