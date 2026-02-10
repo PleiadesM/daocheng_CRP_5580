@@ -1,0 +1,52 @@
+# Top navigation (shown on splash & pages)
+main:
+# - title: "Home"
+#  url: /
+
+ #- title: "About Me"
+ #  url: /about/
+
+    
+# Sidebar navigation (docs-style)
+sidebar:
+  - title: "About Me"
+    url: /about/
+  - title: "Tasks"
+    children:
+      - title: "2a QGIS PDF"
+        url: /tasks/2a-pdf/
+      - title: "2a QGIS JPG"
+        url: /tasks/2a-jpg/
+      - title: "2b OSM Embed"
+        url: /tasks/2b-osm/
+      - title: "3a Tableau Embed 1"
+        url: /tasks/3a-tableau-embed1/
+      - title: "3a Tableau Embed 2"
+        url: /tasks/3a-tableau-embed2/
+      - title: "3a Tableau Embed 3"
+        url: /tasks/3a-tableau-embed3/
+
+  - title: "Exercises"
+    children:
+      - title: "2a"
+        url: /exercises/2a/
+      - title: "3a"
+        url: /exercises/3a/
+
+  - title: "Assignments"
+    children:
+      - title: "5a with title"
+        url: /assignments/5a/
+      - title: "Mid Semester Project"
+        url: /assignments/mid/
+
+  - title: "Final Project"
+    children:
+      - title: "Proposal"
+        url: /final-project/proposal/
+      - title: "Data Overview"
+        url: /final-project/data-overview/
+      - title: "Final Project Process"
+        url: /final-project/process/
+      - title: "Final Project Dashboards"
+        url: /final-project/dashboards/
