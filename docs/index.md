@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: "Daocheng Lin"
 header:
   overlay_image: /assets/images/cover.jpg
