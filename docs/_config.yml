@@ -1,0 +1,29 @@
+title: "Daocheng Lin's Web Mapping Projects"
+description: "This is the portfolio page for the course, CRP 5580 - Web Mapping and Data Visualization."
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "contrast"
+
+search: false
+markdown: kramdown
+permalink: pretty
+
+atom_feed:
+  hide: true
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      custom_head: head/custom.html
+      sidebar:
+        nav: "sidebar"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache

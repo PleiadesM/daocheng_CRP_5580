@@ -1,0 +1,46 @@
+
+/* assets/css/custom.css */
+
+/* Example: add your custom styles here */
+body {
+  /* background-color: #f5f5f5;*/ 
+}
+
+h1 {
+ /* color: #ffff00;*/ 
+}
+
+
+
+/* Reduce hero header height */
+.layout--home .page__hero--overlay {
+  min-height: 560px;
+}
+
+.feature__item img {
+  max-height: 120px;
+  object-fit: cover;
+}
+
+.feature__item img {
+  border-radius: 8px;
+}
+
+.feature__item img {
+  max-height: 120px !important;
+  outline: 4px solid red !important;
+}
+
+.button-container {
+  display: flex;
+  flex-wrap: nowrap; /* prevents wrapping */
+  gap: 0.3rem;       /* space between buttons reduced from 0.5rem - adjust as needed */
+  justify-content: center; /* center everything */
+}
+
+@media (max-width: 768px) {
+  .button-container {
+    flex-wrap: wrap; /* allow wrapping on small screens */
+    gap: 0.3rem;
+  }
+}
