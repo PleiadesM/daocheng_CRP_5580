@@ -4,7 +4,7 @@ title: "Daocheng Lin"
 header:
   overlay_image: /assets/images/cover.jpg
   overlay_filter: 0.3
-excerpt: "LA5880 – Web Mapping Portfolio and Data Visualization"
+excerpt: "LA5880 – Web Mapping and Data Visualization Portfolio"
 custom_head: head/custom.html
 
 # Feature Row
