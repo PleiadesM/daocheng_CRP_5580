@@ -32,6 +32,8 @@ sidebar:
         url: /exercises/2a/
       - title: "3a"
         url: /exercises/3a/
+      - title: "4a Tableau Filters, Relations & Geometry"
+        url: /exercises/4a/
 
   - title: "Assignments"
     children:

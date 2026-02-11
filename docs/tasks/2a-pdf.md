@@ -9,7 +9,7 @@ It has to use a HTML iFrame to display the PDF correctly.
 
 
 <iframe
-  src="/daocheng_CRP_5580/assets/pdf/2a_household_income.pdf"
+  src="/assets/pdf/ex2a.pdf"
   width="100%"
   height="900px"
   style="border: none;"

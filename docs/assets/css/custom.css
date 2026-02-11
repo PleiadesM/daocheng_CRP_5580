@@ -17,18 +17,15 @@ h1 {
   min-height: 560px;
 }
 
-.feature__item img {
-  max-height: 120px;
+.feature__item .archive__item-teaser img {
+  height: 200px;
+  width: 100%;
   object-fit: cover;
 }
 
-.feature__item img {
-  border-radius: 8px;
-}
 
 .feature__item img {
-  max-height: 120px !important;
-  outline: 4px solid red !important;
+  border-radius: 8px;
 }
 
 .button-container {
