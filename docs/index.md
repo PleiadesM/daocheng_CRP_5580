@@ -40,6 +40,9 @@ feature_row:
 
 ---
 
+## Latest Updates
+- [The first graded assignment](/assignments/5a/) has been uploaded.
+
 ## Welcome
 
 This site contains my coursework, exercises, and final project for **LA5880**.
