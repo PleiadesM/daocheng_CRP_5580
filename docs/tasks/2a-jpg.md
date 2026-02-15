@@ -7,7 +7,7 @@ Below is a jpeg image that was exported from QGIS. The map shows household incom
 
 
 <img
-  src="/assets/images/2a_household_income.jpeg"
+  src="assets/images/2a_household_income.jpeg"
   alt="Household income by county in Iowa"
   style="max-width: 800px; width: 100%; height: auto;"
 />

@@ -9,7 +9,7 @@ It has to use a HTML iFrame to display the PDF correctly.
 
 
 <iframe
-  src="/assets/pdf/ex2a.pdf"
+  src="assets/pdf/ex2a.pdf"
   width="100%"
   height="900px"
   style="border: none;"
