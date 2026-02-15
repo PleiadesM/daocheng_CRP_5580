@@ -41,7 +41,7 @@ feature_row:
 ---
 
 ## Latest Updates
-- [The first graded assignment](/assignments/5a/) has been uploaded.
+- [The first graded assignment](assignments/5a/) has been uploaded.
 
 ## Welcome
 
