@@ -10,7 +10,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Assignment 5a - Daocheng Lin’s Web Mapping Projects</title>
+<!-- begin _includes/seo.html --><title>Assignment 2 - Daocheng Lin’s Web Mapping Projects</title>
 <meta name="description" content="This is the portfolio page for the course, CRP 5580 - Web Mapping and Data Visualization.">
 
 
@@ -18,8 +18,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Daocheng Lin&#39;s Web Mapping Projects">
-<meta property="og:title" content="Assignment 5a">
-<meta property="og:url" content="http://localhost:4000/assignments/5a/">
+<meta property="og:title" content="Assignment 2">
+<meta property="og:url" content="http://localhost:4000/assignments/assignment_2/">
 
 
   <meta property="og:description" content="This is the portfolio page for the course, CRP 5580 - Web Mapping and Data Visualization.">
@@ -35,7 +35,7 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/assignments/5a/">
+<link rel="canonical" href="http://localhost:4000/assignments/assignment_2/">
 
 
 
@@ -66,7 +66,7 @@
 
 
     <!-- This file is included in all layouts that support `custom_head` -->
-<link rel="stylesheet" href="/assets/css/custom.css?v=1771125420">
+<link rel="stylesheet" href="/assets/css/custom.css?v=1772173676">
 
   </head>
 
@@ -164,12 +164,6 @@
             
               <li><a href="/tasks/2b-osm/">2b OSM Embed</a></li>
             
-              <li><a href="/tasks/3a-tableau-embed1/">3a Tableau Embed 1</a></li>
-            
-              <li><a href="/tasks/3a-tableau-embed2/">3a Tableau Embed 2</a></li>
-            
-              <li><a href="/tasks/3a-tableau-embed3/">3a Tableau Embed 3</a></li>
-            
           </ul>
           
         </li>
@@ -200,7 +194,9 @@
           
           <ul>
             
-              <li><a href="/assignments/5a/" class="active">5a Net Farm Income in the United State in 2024 and 2004</a></li>
+              <li><a href="/assignments/assignment_1/">Assignment 1</a></li>
+            
+              <li><a href="/assignments/assignment_2/" class="active">Assignment 2</a></li>
             
               <li><a href="/assignments/mid/">Mid Semester Project</a></li>
             
@@ -239,7 +235,7 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Assignment 5a">
+    <meta itemprop="headline" content="Assignment 2">
     
     
     
@@ -248,7 +244,7 @@
       
         <header>
           <h1 id="page-title" class="page__title" itemprop="headline">
-            <a href="http://localhost:4000/assignments/5a/" itemprop="url">Assignment 5a
+            <a href="http://localhost:4000/assignments/assignment_2/" itemprop="url">Assignment 2
 </a>
           </h1>
           
@@ -259,25 +255,24 @@
 
       <section class="page__content" itemprop="text">
         
-        <p>This is the first graded assignment in the course, <em>CRP-5580, Introduction to Web Mapping and Spatial Data Visualization</em>. I chose the data from the recently renewed dataset from USDA: <a href="https://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics">Farm Income and Wealth Statistics</a>. From this dataset, I filtered the “Net farm income” among the various categories in 2024 and 2004 to make a comparison.</p>
+        <p>This is the second graded assignment for the course. Monthly rent is an important issue for many people living in the United States, so I tried to make this one using U.S. Census Data.</p>
 
-<p>The assignment is also available on <a href="https://public.tableau.com/views/FarmNetIncome/Dashboard1?:language=en-US&amp;publish=yes&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link">Tableau Public</a>.</p>
+<p>This is also available on <a href="https://public.tableau.com/app/profile/daocheng.lin/viz/Rent_Map_v2/Dashboard?publish=yes">Tableau Public</a>.</p>
 
-<div class="tableauPlaceholder" id="viz1771120723300" style="position: relative;">
+<div class="tableauPlaceholder" id="viz1772172884190" style="position: relative">
   <noscript>
     <a href="#">
-      <img alt="Dashboard 1" src="https://public.tableau.com/static/images/Fa/FarmNetIncome/Dashboard1/1_rss.png" style="border: none;" />
+      <img alt="Dashboard" src="https://public.tableau.com/static/images/Re/Rent_Map_v2/Dashboard/1_rss.png" style="border: none" />
     </a>
   </noscript>
-
   <object class="tableauViz" style="display:none;">
-    <param name="host_url" value="https://public.tableau.com/" />
+    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
     <param name="embed_code_version" value="3" />
     <param name="site_root" value="" />
-    <param name="name" value="FarmNetIncome/Dashboard1" />
+    <param name="name" value="Rent_Map_v2/Dashboard" />
     <param name="tabs" value="no" />
     <param name="toolbar" value="yes" />
-    <param name="static_image" value="https://public.tableau.com/static/images/Fa/FarmNetIncome/Dashboard1/1.png" />
+    <param name="static_image" value="https://public.tableau.com/static/images/Re/Rent_Map_v2/Dashboard/1.png" />
     <param name="animate_transition" value="yes" />
     <param name="display_static_image" value="yes" />
     <param name="display_spinner" value="yes" />
@@ -289,27 +284,17 @@
 </div>
 
 <script type="text/javascript">
-  var divElement = document.getElementById("viz1771120723300");
-  var vizElement = divElement.getElementsByTagName("object")[0];
+  var divElement = document.getElementById('viz1772172884190');
+  var vizElement = divElement.getElementsByTagName('object')[0];
 
-  if (divElement.offsetWidth > 800) {
-    vizElement.style.width = "100%";
-    vizElement.style.maxWidth = "900px";
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
-  } else if (divElement.offsetWidth > 500) {
-    vizElement.style.width = "100%";
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
-  } else {
-    vizElement.style.width = "100%";
-    vizElement.style.height = "900px";
-  }
+  vizElement.style.width = '100%';
+  vizElement.style.height = '900px';
 
-  var scriptElement = document.createElement("script");
-  scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-<p><em>I asked ChatGPT to reformat the embedded code generated from the Tableau.</em></p>
 
         
       </section>
