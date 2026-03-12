@@ -1,16 +1,21 @@
+
+
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
-  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.28.0 by Michael Rose
+  Copyright 2013-2026 Michael Rose - mademistakes.com | @mmistakes
+  Copyright 2024-2026 iBug - ibugone.com | @iBug
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
 
 <html lang="en" class="no-js">
   <head>
-    <meta charset="utf-8">
+    
+<meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Mid Semester project - Daocheng Lin’s Web Mapping Projects</title>
+
+<!-- begin _includes/seo.html --><title>Assignment 3 - Daocheng Lin’s Web Mapping Projects</title>
 <meta name="description" content="This is the portfolio page for the course, CRP 5580 - Web Mapping and Data Visualization.">
 
 
@@ -18,8 +23,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Daocheng Lin&#39;s Web Mapping Projects">
-<meta property="og:title" content="Mid Semester project">
-<meta property="og:url" content="http://localhost:4000/assignments/mid/">
+<meta property="og:title" content="Assignment 3">
+<meta property="og:url" content="http://localhost:4000/assignments/assignment_3/">
 
 
   <meta property="og:description" content="This is the portfolio page for the course, CRP 5580 - Web Mapping and Data Visualization.">
@@ -35,7 +40,9 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/assignments/mid/">
+
+
+<link rel="canonical" href="http://localhost:4000/assignments/assignment_3/">
 
 
 
@@ -66,12 +73,13 @@
 
 
     <!-- This file is included in all layouts that support `custom_head` -->
-<link rel="stylesheet" href="/assets/css/custom.css?v=1772173676">
+<link rel="stylesheet" href="/assets/css/custom.css?v=1773293282">
 
   </head>
 
   <body class="layout--single" dir="ltr">
-    <nav class="skip-links">
+    
+<nav class="skip-links" aria-label="Skip links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
@@ -81,10 +89,11 @@
 
     
 
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
         
         <a class="site-title" href="/">
           Daocheng Lin&#39;s Web Mapping Projects
@@ -122,8 +131,11 @@
 
 
 
+
+
 <div id="main" role="main">
   
+
   <div class="sidebar sticky">
   
   
@@ -134,7 +146,8 @@
       
     
     
-      <nav class="nav__list">
+      
+<nav class="nav__list">
   
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">Toggle Menu</label>
@@ -162,26 +175,6 @@
             
               <li><a href="/tasks/2a-jpg/">2a QGIS JPG</a></li>
             
-              <li><a href="/tasks/2b-osm/">2b OSM Embed</a></li>
-            
-          </ul>
-          
-        </li>
-      
-        <li>
-          
-            <span class="nav__sub-title">Exercises</span>
-          
-
-          
-          <ul>
-            
-              <li><a href="/exercises/2a/">2a</a></li>
-            
-              <li><a href="/exercises/3a/">3a</a></li>
-            
-              <li><a href="/exercises/4a/">4a Tableau Filters, Relations & Geometry</a></li>
-            
           </ul>
           
         </li>
@@ -198,27 +191,7 @@
             
               <li><a href="/assignments/assignment_2/">Assignment 2</a></li>
             
-              <li><a href="/assignments/mid/" class="active">Mid Semester Project</a></li>
-            
-          </ul>
-          
-        </li>
-      
-        <li>
-          
-            <span class="nav__sub-title">Final Project</span>
-          
-
-          
-          <ul>
-            
-              <li><a href="/final-project/proposal/">Proposal</a></li>
-            
-              <li><a href="/final-project/data-overview/">Data Overview</a></li>
-            
-              <li><a href="/final-project/process/">Final Project Process</a></li>
-            
-              <li><a href="/final-project/dashboards/">Final Project Dashboards</a></li>
+              <li><a href="/assignments/assignment_3/" class="active">Assignment 3</a></li>
             
           </ul>
           
@@ -230,12 +203,13 @@
 
     
   
+  
   </div>
 
 
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Mid Semester project">
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Assignment 3">
     
     
     
@@ -243,19 +217,65 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">
-            <a href="http://localhost:4000/assignments/mid/" itemprop="url">Mid Semester project
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="http://localhost:4000/assignments/assignment_3/" itemprop="url">Assignment 3
 </a>
           </h1>
           
 
 
+
         </header>
       
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content e-content" itemprop="text">
         
-        <p>Mid Semester Project description</p>
+        <p>The assignment 3 uses TidyCensus to import 2024 ACS data (1-year Estimate) to RStudio, then export the data into Tableau to make the map. The table I use is B12503, Divorces in the Last Year by Sex by Marital Status. I tried to calculate a percentage (not officially the divorced rate) of the male divorced last year among male ever married based on the original data.</p>
+
+<p>This is also available on <a href="https://public.tableau.com/views/Assignment3_17732538677040/Dashboard1?:language=en-US&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link">Tableau Public</a>.</p>
+
+<div class="tableauPlaceholder" id="viz1773292420945" style="position: relative">
+  <noscript>
+    <a href="#">
+      <img alt="Dashboard 1" src="https://public.tableau.com/static/images/As/Assignment3_17732538677040/Dashboard1/1_rss.png" style="border: none" />
+    </a>
+  </noscript>
+  <object class="tableauViz" style="display:none;">
+    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+    <param name="embed_code_version" value="3" />
+    <param name="site_root" value="" />
+    <param name="name" value="Assignment3_17732538677040/Dashboard1" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="yes" />
+    <param name="static_image" value="https://public.tableau.com/static/images/As/Assignment3_17732538677040/Dashboard1/1.png" />
+    <param name="animate_transition" value="yes" />
+    <param name="display_static_image" value="yes" />
+    <param name="display_spinner" value="yes" />
+    <param name="display_overlay" value="yes" />
+    <param name="display_count" value="yes" />
+    <param name="language" value="en-US" />
+  </object>
+</div>
+
+<script type="text/javascript">
+  var divElement = document.getElementById('viz1773292420945');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+
+  if (divElement.offsetWidth > 800) {
+    vizElement.style.width = '800px';
+    vizElement.style.height = '1027px';
+  } else if (divElement.offsetWidth > 500) {
+    vizElement.style.width = '800px';
+    vizElement.style.height = '1027px';
+  } else {
+    vizElement.style.width = '100%';
+    vizElement.style.height = '1577px';
+  }
+
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 
         
@@ -265,8 +285,14 @@
         
         
 
+  
+
+  
+
 
         
+
+
 
       </footer>
 
@@ -300,7 +326,9 @@
     </div>
 
     
+
   <script src="/assets/js/main.min.js"></script>
+
 
 
 

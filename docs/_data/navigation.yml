@@ -17,17 +17,6 @@ sidebar:
         url: /tasks/2a-pdf/
       - title: "2a QGIS JPG"
         url: /tasks/2a-jpg/
-      - title: "2b OSM Embed"
-        url: /tasks/2b-osm/
-
-  - title: "Exercises"
-    children:
-      - title: "2a"
-        url: /exercises/2a/
-      - title: "3a"
-        url: /exercises/3a/
-      - title: "4a Tableau Filters, Relations & Geometry"
-        url: /exercises/4a/
 
   - title: "Assignments"
     children:
@@ -35,16 +24,16 @@ sidebar:
         url: /assignments/assignment_1/
       - title: "Assignment 2"
         url: /assignments/assignment_2/
-      - title: "Mid Semester Project"
-        url: /assignments/mid/
+      - title: "Assignment 3"
+        url: /assignments/assignment_3/
 
-  - title: "Final Project"
-    children:
-      - title: "Proposal"
-        url: /final-project/proposal/
-      - title: "Data Overview"
-        url: /final-project/data-overview/
-      - title: "Final Project Process"
-        url: /final-project/process/
-      - title: "Final Project Dashboards"
-        url: /final-project/dashboards/
+  # - title: "Final Project"
+  #   children:
+  #     - title: "Proposal"
+  #       url: /final-project/proposal/
+  #     - title: "Data Overview"
+  #       url: /final-project/data-overview/
+  #     - title: "Final Project Process"
+  #       url: /final-project/process/
+  #     - title: "Final Project Dashboards"
+  #       url: /final-project/dashboards/
