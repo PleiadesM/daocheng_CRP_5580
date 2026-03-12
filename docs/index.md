@@ -52,16 +52,17 @@ feature_row:
 </body>
 </html> -->
 
+## Welcome
+
+Welcome to my portfolio of web mapping! This site contains my coursework, exercises, and final project for **LA5880**. Click here to learn more <a href = "about">about me</a>.
+
+Please see the major updates below to find the assignments. 
+
 ## Latest Updates
 - *Mar. 12, 2026:* [The assignment 3](assignments/assignment_3) has been updated.
 - *Feb. 26, 2026:* [The assignment 2](assignments/assignment_2) has been updated.
 - *Feb. 16, 2026:* [The first graded assignment](assignments/assignment_1/) has been uploaded.
 
-## Welcome
-
-This site contains my coursework, exercises, and final project for **LA5880**.
-
-Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a>.
 
 <!-- {% include feature_row %} -->
 
