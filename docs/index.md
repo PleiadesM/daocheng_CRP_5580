@@ -53,7 +53,7 @@ feature_row:
 </html> -->
 
 ## Latest Updates
-- *Mar. 12, 2026:* [The assignment 3](assgnments/assignment_3) has been updated.
+- *Mar. 12, 2026:* [The assignment 3](assignments/assignment_3) has been updated.
 - *Feb. 26, 2026:* [The assignment 2](assignments/assignment_2) has been updated.
 - *Feb. 16, 2026:* [The first graded assignment](assignments/assignment_1/) has been uploaded.
 
