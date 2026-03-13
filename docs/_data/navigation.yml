@@ -5,7 +5,6 @@ main:
 
 - title: "About Me"
   url: /about/
-
     
 # Sidebar navigation (docs-style)
 sidebar:
@@ -17,7 +16,10 @@ sidebar:
         url: /tasks/2a-pdf/
       - title: "2a QGIS JPG"
         url: /tasks/2a-jpg/
-
+  - title: "Quizzes"
+    children:
+      - title: "Quiz 1"
+        url: /quizzes/quiz_1/
   - title: "Assignments"
     children:
       - title: "Assignment 1"
