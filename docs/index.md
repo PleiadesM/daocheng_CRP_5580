@@ -59,6 +59,7 @@ Welcome to my portfolio of web mapping! This site contains my coursework, exerci
 Please see the major updates below to find the assignments. 
 
 ## Latest Updates
+- *Mar. 12, 2026:* The exercise for [the quiz 1](quizzes/quiz_1/) has been updated.
 - *Mar. 12, 2026:* [The assignment 3](assignments/assignment_3/) has been updated.
 - *Feb. 26, 2026:* [The assignment 2](assignments/assignment_2) has been updated.
 - *Feb. 16, 2026:* [The first graded assignment](assignments/assignment_1/) has been uploaded.
