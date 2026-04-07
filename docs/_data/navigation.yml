@@ -28,6 +28,8 @@ sidebar:
         url: /assignments/assignment_2/
       - title: "Assignment 3"
         url: /assignments/assignment_3/
+      - title: "Assignment 4"
+        url: /assignments/assignment_4/
 
   # - title: "Final Project"
   #   children:
