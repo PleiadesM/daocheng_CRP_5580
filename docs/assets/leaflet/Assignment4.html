@@ -2,6 +2,40 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
+<style>
+/* ET Book font faces */
+@font-face {
+    font-family: "et-book";
+    src: url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff"),
+         url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "et-book";
+    src: url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff") format("woff"),
+         url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Leaflet font overrides */
+.leaflet-container,
+.leaflet-container .leaflet-control,
+.leaflet-container .leaflet-popup-content,
+.leaflet-container .leaflet-popup-content-wrapper,
+.leaflet-container .leaflet-tooltip,
+.leaflet-container .leaflet-bar a,
+.leaflet-container .leaflet-control-layers,
+.leaflet-container .leaflet-control-layers label,
+.leaflet-container .info {
+    font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD",
+                 "Book Antiqua", Georgia, serif !important;
+    font-size: 16px;
+}
+</style>
 <style>body{background-color:white;}</style>
 <style type="text/css">@layer htmltools {
 .html-fill-container {
