@@ -1,6 +1,6 @@
 title: "Daocheng Lin's Web Mapping"
 description: "This is the portfolio page for the course, CRP 5580 - Web Mapping and Data Visualization."
-url: "https://dclin.me/"
+url: "https://dclin.me"
 baseurl: "/daocheng_CRP_5580"
 
 remote_theme: "mmistakes/minimal-mistakes"
