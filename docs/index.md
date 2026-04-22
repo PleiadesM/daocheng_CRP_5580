@@ -59,6 +59,7 @@ Welcome to my portfolio of web mapping! This site contains my coursework, exerci
 Please see the major updates below to find the assignments. 
 
 ## Latest Updates
+- *Apr. 20, 2026:* The [Mini Project](assignments/miniproject) has been updated.
 - *Mar. 30, 2026:* The [Assignment 4](assignments/assignment_4) has been updated, with a Leaflet map with the font compatible with the overall typographic system.
 - *Mar. 12, 2026:* The exercise for [the quiz 1](quizzes/quiz_1/) has been updated.
 - *Mar. 12, 2026:* [The assignment 3](assignments/assignment_3/) has been updated.
