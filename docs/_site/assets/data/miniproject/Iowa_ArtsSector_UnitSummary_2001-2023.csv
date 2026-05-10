@@ -1,0 +1,806 @@
+Year,Description,Employees (units of 500 jobs),Actual Employees (Number of Jobs),Compensation (units of $20M),Actual Compensation (Thousands of Dollars)
+2001,Advertising,3,1666.0,2,35141.0
+2001,Agents/managers for artists,0,17.0,0,580.0
+2001,All other design services,0,66.0,0,599.0
+2001,All other industries 2/,5,2277.0,4,87111.0
+2001,Architectural services,1,563.0,2,41358.0
+2001,Broadcasting,6,3056.0,8,154366.0
+2001,Computer systems design,0,,0,
+2001,Construction,3,1499.0,4,77887.0
+2001,Custom architectural woodwork and metalwork manufacturing,0,191.0,0,7800.0
+2001,Education services,2,1147.0,1,26613.0
+2001,Fine arts education,1,328.0,0,4853.0
+2001,Government,74,36922.0,41,826851.0
+2001,Grantmaking and giving services,0,129.0,0,2910.0
+2001,Graphic design services,1,252.0,0,8608.0
+2001,"Independent artists, writers, and performers",1,321.0,0,7718.0
+2001,Industrial design services,0,67.0,0,890.0
+2001,Interior design services,0,83.0,0,2159.0
+2001,Jewelry and silverware manufacturing,0,,0,
+2001,Landscape architectural services,0,178.0,1,10105.0
+2001,Motion pictures,4,1938.0,2,32851.0
+2001,Museums,1,637.0,0,7431.0
+2001,Musical instruments manufacturing,0,37.0,0,2644.0
+2001,Other goods manufacturing,1,411.0,1,19785.0
+2001,Other information services,1,474.0,1,28865.0
+2001,Other support services,0,24.0,0,522.0
+2001,Performing arts companies,0,,0,
+2001,Photography and photofinishing services,1,399.0,2,42613.0
+2001,Printed goods manufacturing,0,,0,
+2001,Promoters of performing arts and similar events,1,291.0,0,5227.0
+2001,Publishing,9,4629.0,9,176426.0
+2001,Rental and leasing,1,415.0,0,8207.0
+2001,Retail industries,13,6397.0,6,126562.0
+2001,Sound recording,0,17.0,0,877.0
+2001,Unions,1,368.0,0,9229.0
+2001,Wholesale and transportation industries,3,1262.0,3,50230.0
+2002,Advertising,3,1522.0,2,34022.0
+2002,Agents/managers for artists,0,37.0,0,834.0
+2002,All other design services,0,,0,
+2002,All other industries 2/,5,2255.0,4,89426.0
+2002,Architectural services,1,621.0,2,43385.0
+2002,Broadcasting,6,3055.0,8,155659.0
+2002,Computer systems design,0,,0,
+2002,Construction,4,1840.0,5,93120.0
+2002,Custom architectural woodwork and metalwork manufacturing,1,262.0,1,11156.0
+2002,Education services,2,1227.0,2,31187.0
+2002,Fine arts education,1,345.0,0,4747.0
+2002,Government,74,36969.0,43,856799.0
+2002,Grantmaking and giving services,0,131.0,0,3038.0
+2002,Graphic design services,1,257.0,0,9157.0
+2002,"Independent artists, writers, and performers",1,284.0,0,6943.0
+2002,Industrial design services,0,,0,
+2002,Interior design services,0,72.0,0,2081.0
+2002,Jewelry and silverware manufacturing,0,11.0,0,312.0
+2002,Landscape architectural services,0,152.0,0,9043.0
+2002,Motion pictures,4,1912.0,2,31827.0
+2002,Museums,1,688.0,1,10684.0
+2002,Musical instruments manufacturing,0,33.0,0,2464.0
+2002,Other goods manufacturing,0,,0,
+2002,Other information services,1,372.0,1,20971.0
+2002,Other support services,0,14.0,0,377.0
+2002,Performing arts companies,1,271.0,0,9875.0
+2002,Photography and photofinishing services,1,399.0,2,42760.0
+2002,Printed goods manufacturing,0,,0,
+2002,Promoters of performing arts and similar events,0,234.0,0,8502.0
+2002,Publishing,9,4531.0,9,181641.0
+2002,Rental and leasing,1,381.0,0,9891.0
+2002,Retail industries,13,6262.0,6,128591.0
+2002,Sound recording,0,15.0,0,745.0
+2002,Unions,1,333.0,0,8006.0
+2002,Wholesale and transportation industries,3,1276.0,3,51897.0
+2003,Advertising,3,1464.0,2,35879.0
+2003,Agents/managers for artists,0,29.0,0,817.0
+2003,All other design services,0,,0,
+2003,All other industries 2/,4,2126.0,4,88214.0
+2003,Architectural services,1,610.0,2,46185.0
+2003,Broadcasting,6,3225.0,8,165523.0
+2003,Computer systems design,0,,0,
+2003,Construction,3,1357.0,3,67476.0
+2003,Custom architectural woodwork and metalwork manufacturing,1,254.0,1,10826.0
+2003,Education services,2,1137.0,1,28842.0
+2003,Fine arts education,1,368.0,0,6171.0
+2003,Government,68,34068.0,40,807544.0
+2003,Grantmaking and giving services,0,148.0,0,3466.0
+2003,Graphic design services,1,272.0,0,9777.0
+2003,"Independent artists, writers, and performers",1,267.0,0,5804.0
+2003,Industrial design services,0,,0,
+2003,Interior design services,0,75.0,0,2349.0
+2003,Jewelry and silverware manufacturing,0,,0,
+2003,Landscape architectural services,0,118.0,0,7202.0
+2003,Motion pictures,4,1924.0,2,32822.0
+2003,Museums,1,712.0,1,10096.0
+2003,Musical instruments manufacturing,0,25.0,0,1487.0
+2003,Other goods manufacturing,1,398.0,1,21476.0
+2003,Other information services,1,345.0,1,19180.0
+2003,Other support services,0,15.0,0,457.0
+2003,Performing arts companies,1,269.0,0,9480.0
+2003,Photography and photofinishing services,1,401.0,2,40723.0
+2003,Printed goods manufacturing,0,,0,
+2003,Promoters of performing arts and similar events,0,171.0,0,7103.0
+2003,Publishing,9,4610.0,11,211383.0
+2003,Rental and leasing,1,378.0,0,7827.0
+2003,Retail industries,13,6292.0,7,137691.0
+2003,Sound recording,0,15.0,0,691.0
+2003,Unions,1,353.0,0,8061.0
+2003,Wholesale and transportation industries,2,1091.0,2,47844.0
+2004,Advertising,3,1539.0,2,40567.0
+2004,Agents/managers for artists,0,21.0,0,660.0
+2004,All other design services,0,,0,
+2004,All other industries 2/,4,2083.0,5,91233.0
+2004,Architectural services,1,642.0,2,49056.0
+2004,Broadcasting,0,,0,
+2004,Computer systems design,0,61.0,0,3869.0
+2004,Construction,3,1311.0,3,67716.0
+2004,Custom architectural woodwork and metalwork manufacturing,0,242.0,1,10304.0
+2004,Education services,2,1063.0,1,27577.0
+2004,Fine arts education,1,407.0,0,8155.0
+2004,Government,64,31927.0,39,774024.0
+2004,Grantmaking and giving services,0,121.0,0,3062.0
+2004,Graphic design services,1,264.0,0,9512.0
+2004,"Independent artists, writers, and performers",1,276.0,0,5094.0
+2004,Industrial design services,0,,0,
+2004,Interior design services,0,96.0,0,2359.0
+2004,Jewelry and silverware manufacturing,0,8.0,0,355.0
+2004,Landscape architectural services,0,94.0,0,5172.0
+2004,Motion pictures,4,2084.0,2,36141.0
+2004,Museums,1,738.0,1,10598.0
+2004,Musical instruments manufacturing,0,25.0,0,1305.0
+2004,Other goods manufacturing,1,382.0,1,22559.0
+2004,Other information services,0,241.0,1,13887.0
+2004,Other support services,0,15.0,0,572.0
+2004,Performing arts companies,1,288.0,1,15103.0
+2004,Photography and photofinishing services,1,414.0,2,36845.0
+2004,Printed goods manufacturing,0,,0,
+2004,Promoters of performing arts and similar events,0,167.0,0,6520.0
+2004,Publishing,9,4432.0,11,212272.0
+2004,Rental and leasing,0,,0,
+2004,Retail industries,13,6640.0,7,144241.0
+2004,Sound recording,0,27.0,0,1301.0
+2004,Unions,1,354.0,0,8793.0
+2004,Wholesale and transportation industries,2,999.0,2,46239.0
+2005,Advertising,3,1434.0,2,43884.0
+2005,Agents/managers for artists,0,6.0,0,223.0
+2005,All other design services,0,9.0,0,156.0
+2005,All other industries 2/,4,2083.0,5,94532.0
+2005,Architectural services,1,664.0,3,53742.0
+2005,Broadcasting,0,,0,
+2005,Computer systems design,0,62.0,0,4200.0
+2005,Construction,4,1991.0,5,100151.0
+2005,Custom architectural woodwork and metalwork manufacturing,1,275.0,1,11895.0
+2005,Education services,2,1029.0,1,26845.0
+2005,Fine arts education,1,415.0,0,9411.0
+2005,Government,59,29603.0,36,723067.0
+2005,Grantmaking and giving services,0,99.0,0,2786.0
+2005,Graphic design services,1,269.0,0,9576.0
+2005,"Independent artists, writers, and performers",1,339.0,0,8810.0
+2005,Industrial design services,0,137.0,0,3070.0
+2005,Interior design services,0,91.0,0,1964.0
+2005,Jewelry and silverware manufacturing,0,5.0,0,299.0
+2005,Landscape architectural services,0,99.0,0,5510.0
+2005,Motion pictures,4,2137.0,2,36288.0
+2005,Museums,2,769.0,1,12339.0
+2005,Musical instruments manufacturing,0,25.0,0,1398.0
+2005,Other goods manufacturing,1,379.0,1,22290.0
+2005,Other information services,0,199.0,1,12166.0
+2005,Other support services,0,16.0,0,547.0
+2005,Performing arts companies,1,301.0,1,14418.0
+2005,Photography and photofinishing services,1,410.0,2,33566.0
+2005,Printed goods manufacturing,0,,0,
+2005,Promoters of performing arts and similar events,0,158.0,0,5673.0
+2005,Publishing,9,4378.0,10,208354.0
+2005,Rental and leasing,0,,0,
+2005,Retail industries,13,6583.0,7,144013.0
+2005,Sound recording,0,26.0,0,1099.0
+2005,Unions,1,374.0,0,8692.0
+2005,Wholesale and transportation industries,2,947.0,2,45792.0
+2006,Advertising,3,1366.0,2,46770.0
+2006,Agents/managers for artists,0,6.0,0,182.0
+2006,All other design services,0,11.0,0,204.0
+2006,All other industries 2/,4,2062.0,5,96400.0
+2006,Architectural services,1,652.0,3,51422.0
+2006,Broadcasting,0,,0,
+2006,Computer systems design,0,71.0,0,4904.0
+2006,Construction,4,2091.0,5,107765.0
+2006,Custom architectural woodwork and metalwork manufacturing,1,295.0,1,13261.0
+2006,Education services,2,1054.0,1,28645.0
+2006,Fine arts education,1,452.0,1,10013.0
+2006,Government,55,27519.0,35,691226.0
+2006,Grantmaking and giving services,0,122.0,0,3662.0
+2006,Graphic design services,1,295.0,1,10663.0
+2006,"Independent artists, writers, and performers",1,287.0,0,9521.0
+2006,Industrial design services,0,170.0,0,3698.0
+2006,Interior design services,0,93.0,0,2235.0
+2006,Jewelry and silverware manufacturing,0,3.0,0,227.0
+2006,Landscape architectural services,0,102.0,0,6554.0
+2006,Motion pictures,4,2165.0,2,41896.0
+2006,Museums,2,822.0,1,14356.0
+2006,Musical instruments manufacturing,0,,0,
+2006,Other goods manufacturing,1,365.0,1,23821.0
+2006,Other information services,0,183.0,1,12169.0
+2006,Other support services,0,15.0,0,570.0
+2006,Performing arts companies,1,295.0,1,12616.0
+2006,Photography and photofinishing services,1,417.0,2,32672.0
+2006,Printed goods manufacturing,0,,0,
+2006,Promoters of performing arts and similar events,1,426.0,1,11120.0
+2006,Publishing,9,4411.0,12,240602.0
+2006,Rental and leasing,0,,0,
+2006,Retail industries,13,6468.0,7,146356.0
+2006,Sound recording,0,30.0,0,1220.0
+2006,Unions,1,375.0,0,9966.0
+2006,Wholesale and transportation industries,2,1094.0,3,53819.0
+2007,Advertising,3,1389.0,3,53321.0
+2007,Agents/managers for artists,0,4.0,0,170.0
+2007,All other design services,0,9.0,0,188.0
+2007,All other industries 2/,4,2091.0,5,102116.0
+2007,Architectural services,1,677.0,3,59483.0
+2007,Broadcasting,8,3892.0,10,200212.0
+2007,Computer systems design,0,79.0,0,5827.0
+2007,Construction,2,1128.0,3,59296.0
+2007,Custom architectural woodwork and metalwork manufacturing,1,409.0,1,18279.0
+2007,Education services,2,998.0,1,28476.0
+2007,Fine arts education,1,425.0,0,9416.0
+2007,Government,52,25790.0,32,647861.0
+2007,Grantmaking and giving services,0,133.0,0,4103.0
+2007,Graphic design services,1,325.0,1,11790.0
+2007,"Independent artists, writers, and performers",1,293.0,1,10149.0
+2007,Industrial design services,0,192.0,0,4527.0
+2007,Interior design services,0,89.0,0,2684.0
+2007,Jewelry and silverware manufacturing,0,9.0,0,419.0
+2007,Landscape architectural services,0,,0,
+2007,Motion pictures,4,2103.0,2,40990.0
+2007,Museums,2,830.0,1,15646.0
+2007,Musical instruments manufacturing,0,24.0,0,1672.0
+2007,Other goods manufacturing,1,404.0,1,28442.0
+2007,Other information services,1,307.0,1,11701.0
+2007,Other support services,0,17.0,0,663.0
+2007,Performing arts companies,1,304.0,1,12325.0
+2007,Photography and photofinishing services,0,,0,
+2007,Printed goods manufacturing,0,,0,
+2007,Promoters of performing arts and similar events,1,439.0,1,12838.0
+2007,Publishing,9,4549.0,12,242038.0
+2007,Rental and leasing,0,,0,
+2007,Retail industries,13,6565.0,7,144812.0
+2007,Sound recording,0,23.0,0,806.0
+2007,Unions,1,365.0,0,9379.0
+2007,Wholesale and transportation industries,2,1205.0,3,60268.0
+2008,Advertising,3,1438.0,3,55901.0
+2008,Agents/managers for artists,0,5.0,0,167.0
+2008,All other design services,0,9.0,0,188.0
+2008,All other industries 2/,4,2029.0,5,103309.0
+2008,Architectural services,1,690.0,3,59091.0
+2008,Broadcasting,8,3875.0,10,206841.0
+2008,Computer systems design,0,81.0,0,5953.0
+2008,Construction,2,839.0,2,47292.0
+2008,Custom architectural woodwork and metalwork manufacturing,1,418.0,1,21042.0
+2008,Education services,2,958.0,1,27336.0
+2008,Fine arts education,1,421.0,0,9822.0
+2008,Government,52,25806.0,33,664007.0
+2008,Grantmaking and giving services,0,131.0,0,4193.0
+2008,Graphic design services,1,344.0,1,13876.0
+2008,"Independent artists, writers, and performers",1,393.0,1,13890.0
+2008,Industrial design services,0,208.0,0,4093.0
+2008,Interior design services,0,95.0,0,2483.0
+2008,Jewelry and silverware manufacturing,0,10.0,0,591.0
+2008,Landscape architectural services,0,79.0,0,4355.0
+2008,Motion pictures,4,1946.0,2,38561.0
+2008,Museums,2,875.0,1,17281.0
+2008,Musical instruments manufacturing,0,22.0,0,1450.0
+2008,Other goods manufacturing,1,360.0,1,22965.0
+2008,Other information services,0,,0,
+2008,Other support services,0,15.0,0,606.0
+2008,Performing arts companies,0,,0,
+2008,Photography and photofinishing services,0,,0,
+2008,Printed goods manufacturing,0,,0,
+2008,Promoters of performing arts and similar events,1,433.0,1,14291.0
+2008,Publishing,9,4355.0,11,229015.0
+2008,Rental and leasing,0,,0,
+2008,Retail industries,13,6409.0,7,145502.0
+2008,Sound recording,0,25.0,0,1322.0
+2008,Unions,1,407.0,1,10856.0
+2008,Wholesale and transportation industries,2,1209.0,3,63177.0
+2009,Advertising,3,1278.0,3,51344.0
+2009,Agents/managers for artists,0,6.0,0,194.0
+2009,All other design services,0,9.0,0,281.0
+2009,All other industries 2/,4,1937.0,5,100102.0
+2009,Architectural services,1,721.0,3,54799.0
+2009,Broadcasting,8,3889.0,11,219601.0
+2009,Computer systems design,0,87.0,0,6309.0
+2009,Construction,2,1052.0,3,62529.0
+2009,Custom architectural woodwork and metalwork manufacturing,1,339.0,1,16222.0
+2009,Education services,2,911.0,1,27860.0
+2009,Fine arts education,1,396.0,1,11025.0
+2009,Government,51,25605.0,36,710485.0
+2009,Grantmaking and giving services,0,160.0,0,4718.0
+2009,Graphic design services,1,301.0,1,11557.0
+2009,"Independent artists, writers, and performers",1,416.0,0,9939.0
+2009,Industrial design services,0,220.0,0,5445.0
+2009,Interior design services,0,92.0,0,2223.0
+2009,Jewelry and silverware manufacturing,0,7.0,0,401.0
+2009,Landscape architectural services,0,100.0,0,5786.0
+2009,Motion pictures,4,1932.0,2,39381.0
+2009,Museums,2,834.0,1,18194.0
+2009,Musical instruments manufacturing,0,22.0,0,1818.0
+2009,Other goods manufacturing,1,262.0,1,16882.0
+2009,Other information services,0,,0,
+2009,Other support services,0,23.0,0,759.0
+2009,Performing arts companies,0,,0,
+2009,Photography and photofinishing services,0,,0,
+2009,Printed goods manufacturing,3,1409.0,3,62452.0
+2009,Promoters of performing arts and similar events,1,494.0,1,18137.0
+2009,Publishing,8,3886.0,11,212207.0
+2009,Rental and leasing,0,,0,
+2009,Retail industries,11,5680.0,6,121915.0
+2009,Sound recording,0,26.0,0,1227.0
+2009,Unions,1,462.0,1,11813.0
+2009,Wholesale and transportation industries,2,832.0,2,41021.0
+2010,Advertising,3,1319.0,3,55917.0
+2010,Agents/managers for artists,0,10.0,0,319.0
+2010,All other design services,0,12.0,0,447.0
+2010,All other industries 2/,4,1762.0,5,93146.0
+2010,Architectural services,2,770.0,3,53910.0
+2010,Broadcasting,8,3994.0,11,225453.0
+2010,Computer systems design,0,114.0,0,8295.0
+2010,Construction,5,2257.0,7,140979.0
+2010,Custom architectural woodwork and metalwork manufacturing,1,324.0,1,14087.0
+2010,Education services,2,855.0,1,26129.0
+2010,Fine arts education,1,392.0,1,10710.0
+2010,Government,50,25037.0,37,739776.0
+2010,Grantmaking and giving services,0,159.0,0,4150.0
+2010,Graphic design services,1,269.0,1,11627.0
+2010,"Independent artists, writers, and performers",1,354.0,0,8841.0
+2010,Industrial design services,0,248.0,0,8106.0
+2010,Interior design services,0,86.0,0,1989.0
+2010,Jewelry and silverware manufacturing,0,8.0,0,344.0
+2010,Landscape architectural services,0,89.0,0,5140.0
+2010,Motion pictures,4,1802.0,2,32089.0
+2010,Museums,2,815.0,1,16540.0
+2010,Musical instruments manufacturing,0,,0,
+2010,Other goods manufacturing,0,249.0,1,17916.0
+2010,Other information services,1,265.0,1,13678.0
+2010,Other support services,0,23.0,0,884.0
+2010,Performing arts companies,0,,0,
+2010,Photography and photofinishing services,0,,0,
+2010,Printed goods manufacturing,3,1314.0,3,59417.0
+2010,Promoters of performing arts and similar events,1,355.0,1,15427.0
+2010,Publishing,7,3629.0,10,198714.0
+2010,Rental and leasing,0,,0,
+2010,Retail industries,11,5529.0,6,118947.0
+2010,Sound recording,0,27.0,0,1038.0
+2010,Unions,1,411.0,1,10854.0
+2010,Wholesale and transportation industries,2,973.0,3,50876.0
+2011,Advertising,3,1397.0,3,61675.0
+2011,Agents/managers for artists,0,9.0,0,543.0
+2011,All other design services,0,7.0,0,331.0
+2011,All other industries 2/,3,1721.0,5,93183.0
+2011,Architectural services,2,787.0,3,58118.0
+2011,Broadcasting,8,4009.0,11,223790.0
+2011,Computer systems design,0,127.0,0,9627.0
+2011,Construction,4,2066.0,7,136700.0
+2011,Custom architectural woodwork and metalwork manufacturing,0,,0,
+2011,Education services,2,899.0,1,28921.0
+2011,Fine arts education,1,387.0,1,10078.0
+2011,Government,50,25065.0,38,764482.0
+2011,Grantmaking and giving services,0,159.0,0,4977.0
+2011,Graphic design services,1,320.0,1,14782.0
+2011,"Independent artists, writers, and performers",1,346.0,0,9067.0
+2011,Industrial design services,0,230.0,0,9223.0
+2011,Interior design services,0,83.0,0,2027.0
+2011,Jewelry and silverware manufacturing,0,6.0,0,220.0
+2011,Landscape architectural services,0,74.0,0,4470.0
+2011,Motion pictures,3,1739.0,2,32006.0
+2011,Museums,2,822.0,1,17092.0
+2011,Musical instruments manufacturing,0,21.0,0,1921.0
+2011,Other goods manufacturing,0,194.0,1,15981.0
+2011,Other information services,1,279.0,1,17532.0
+2011,Other support services,0,19.0,0,463.0
+2011,Performing arts companies,0,,0,
+2011,Photography and photofinishing services,0,,0,
+2011,Printed goods manufacturing,3,1263.0,3,60108.0
+2011,Promoters of performing arts and similar events,1,498.0,1,19522.0
+2011,Publishing,7,3520.0,10,200528.0
+2011,Rental and leasing,0,,0,
+2011,Retail industries,12,6115.0,7,147068.0
+2011,Sound recording,0,31.0,0,1604.0
+2011,Unions,1,441.0,1,10621.0
+2011,Wholesale and transportation industries,2,1003.0,3,53798.0
+2012,Advertising,3,1429.0,3,66361.0
+2012,Agents/managers for artists,0,3.0,0,131.0
+2012,All other design services,0,8.0,0,485.0
+2012,All other industries 2/,3,1614.0,4,89734.0
+2012,Architectural services,1,744.0,3,54833.0
+2012,Broadcasting,8,3976.0,12,232144.0
+2012,Computer systems design,0,140.0,1,11214.0
+2012,Construction,2,1013.0,3,67121.0
+2012,Custom architectural woodwork and metalwork manufacturing,1,375.0,1,17596.0
+2012,Education services,2,929.0,2,31545.0
+2012,Fine arts education,1,399.0,0,9451.0
+2012,Government,50,25167.0,39,771240.0
+2012,Grantmaking and giving services,0,173.0,0,5122.0
+2012,Graphic design services,1,268.0,1,18831.0
+2012,"Independent artists, writers, and performers",1,465.0,0,9598.0
+2012,Industrial design services,0,229.0,1,12580.0
+2012,Interior design services,0,82.0,0,3569.0
+2012,Jewelry and silverware manufacturing,0,9.0,0,229.0
+2012,Landscape architectural services,0,83.0,0,4972.0
+2012,Motion pictures,3,1678.0,2,32381.0
+2012,Museums,2,849.0,1,23377.0
+2012,Musical instruments manufacturing,0,22.0,0,1966.0
+2012,Other goods manufacturing,0,202.0,1,14806.0
+2012,Other information services,0,,0,
+2012,Other support services,0,15.0,0,475.0
+2012,Performing arts companies,0,,0,
+2012,Photography and photofinishing services,0,,0,
+2012,Printed goods manufacturing,2,1234.0,3,60871.0
+2012,Promoters of performing arts and similar events,1,471.0,1,21345.0
+2012,Publishing,7,3307.0,10,198927.0
+2012,Rental and leasing,0,,0,
+2012,Retail industries,12,6215.0,8,150823.0
+2012,Sound recording,0,42.0,0,2669.0
+2012,Unions,1,392.0,1,11098.0
+2012,Wholesale and transportation industries,2,957.0,3,53262.0
+2013,Advertising,3,1345.0,3,66948.0
+2013,Agents/managers for artists,0,15.0,0,546.0
+2013,All other design services,0,9.0,0,418.0
+2013,All other industries 2/,3,1563.0,4,88238.0
+2013,Architectural services,1,742.0,3,57044.0
+2013,Broadcasting,7,3731.0,11,224673.0
+2013,Computer systems design,0,170.0,1,12632.0
+2013,Construction,1,629.0,2,42588.0
+2013,Custom architectural woodwork and metalwork manufacturing,1,405.0,1,19702.0
+2013,Education services,2,829.0,1,28382.0
+2013,Fine arts education,1,431.0,0,9686.0
+2013,Government,50,25143.0,39,789432.0
+2013,Grantmaking and giving services,0,173.0,0,5155.0
+2013,Graphic design services,1,300.0,1,15032.0
+2013,"Independent artists, writers, and performers",1,348.0,0,8278.0
+2013,Industrial design services,0,213.0,0,8165.0
+2013,Interior design services,0,92.0,0,2600.0
+2013,Jewelry and silverware manufacturing,0,5.0,0,163.0
+2013,Landscape architectural services,0,79.0,0,5170.0
+2013,Motion pictures,3,1622.0,2,30842.0
+2013,Museums,2,938.0,1,27253.0
+2013,Musical instruments manufacturing,0,21.0,0,1575.0
+2013,Other goods manufacturing,0,207.0,1,15202.0
+2013,Other information services,0,,0,
+2013,Other support services,0,8.0,0,233.0
+2013,Performing arts companies,0,,0,
+2013,Photography and photofinishing services,0,,0,
+2013,Printed goods manufacturing,3,1283.0,3,62570.0
+2013,Promoters of performing arts and similar events,1,526.0,1,21923.0
+2013,Publishing,6,3090.0,10,195561.0
+2013,Rental and leasing,1,282.0,0,8756.0
+2013,Retail industries,11,5366.0,6,129952.0
+2013,Sound recording,0,,0,
+2013,Unions,1,313.0,0,7530.0
+2013,Wholesale and transportation industries,2,919.0,3,51723.0
+2014,Advertising,0,,0,
+2014,Agents/managers for artists,0,3.0,0,192.0
+2014,All other design services,0,9.0,0,492.0
+2014,All other industries 2/,3,1589.0,5,92743.0
+2014,Architectural services,1,748.0,3,61428.0
+2014,Broadcasting,7,3692.0,12,234038.0
+2014,Computer systems design,0,165.0,1,12864.0
+2014,Construction,1,637.0,2,45370.0
+2014,Custom architectural woodwork and metalwork manufacturing,1,378.0,1,18967.0
+2014,Education services,2,797.0,1,28779.0
+2014,Fine arts education,1,466.0,1,12073.0
+2014,Government,50,25056.0,41,819020.0
+2014,Grantmaking and giving services,0,186.0,0,5193.0
+2014,Graphic design services,1,311.0,1,19620.0
+2014,"Independent artists, writers, and performers",1,392.0,0,7607.0
+2014,Industrial design services,0,234.0,1,11740.0
+2014,Interior design services,0,112.0,0,4658.0
+2014,Jewelry and silverware manufacturing,0,3.0,0,72.0
+2014,Landscape architectural services,0,79.0,0,5939.0
+2014,Motion pictures,3,1611.0,2,32742.0
+2014,Museums,2,954.0,1,29099.0
+2014,Musical instruments manufacturing,0,,0,
+2014,Other goods manufacturing,0,244.0,1,17622.0
+2014,Other information services,1,359.0,1,29546.0
+2014,Other support services,0,8.0,0,259.0
+2014,Performing arts companies,0,,0,
+2014,Photography and photofinishing services,1,447.0,1,29005.0
+2014,Printed goods manufacturing,2,1201.0,3,60894.0
+2014,Promoters of performing arts and similar events,1,523.0,1,23891.0
+2014,Publishing,6,3009.0,10,199288.0
+2014,Rental and leasing,1,293.0,0,9582.0
+2014,Retail industries,10,5206.0,6,127325.0
+2014,Sound recording,0,,0,
+2014,Unions,1,275.0,0,6671.0
+2014,Wholesale and transportation industries,2,859.0,2,48963.0
+2015,Advertising,3,1483.0,4,76994.0
+2015,Agents/managers for artists,0,4.0,0,206.0
+2015,All other design services,0,10.0,0,490.0
+2015,All other industries 2/,3,1639.0,5,98293.0
+2015,Architectural services,2,761.0,3,65895.0
+2015,Broadcasting,7,3545.0,12,234018.0
+2015,Computer systems design,0,173.0,1,13836.0
+2015,Construction,1,687.0,3,50554.0
+2015,Custom architectural woodwork and metalwork manufacturing,1,412.0,1,21989.0
+2015,Education services,2,784.0,1,27706.0
+2015,Fine arts education,1,452.0,1,12397.0
+2015,Government,49,24607.0,42,849358.0
+2015,Grantmaking and giving services,0,189.0,0,5602.0
+2015,Graphic design services,1,324.0,1,20315.0
+2015,"Independent artists, writers, and performers",1,413.0,0,7692.0
+2015,Industrial design services,0,185.0,0,9257.0
+2015,Interior design services,0,129.0,0,5096.0
+2015,Jewelry and silverware manufacturing,0,3.0,0,171.0
+2015,Landscape architectural services,0,78.0,0,5865.0
+2015,Motion pictures,3,1649.0,2,32966.0
+2015,Museums,2,944.0,1,26296.0
+2015,Musical instruments manufacturing,0,23.0,0,1691.0
+2015,Other goods manufacturing,1,260.0,1,18811.0
+2015,Other information services,1,373.0,2,33652.0
+2015,Other support services,0,7.0,0,260.0
+2015,Performing arts companies,1,370.0,1,15854.0
+2015,Photography and photofinishing services,1,463.0,1,28177.0
+2015,Printed goods manufacturing,2,1110.0,3,56218.0
+2015,Promoters of performing arts and similar events,1,547.0,1,24722.0
+2015,Publishing,6,2883.0,10,197117.0
+2015,Rental and leasing,1,292.0,1,10792.0
+2015,Retail industries,10,5036.0,6,124101.0
+2015,Sound recording,0,50.0,0,3370.0
+2015,Unions,1,270.0,0,6354.0
+2015,Wholesale and transportation industries,2,952.0,3,58106.0
+2016,Advertising,3,1486.0,4,82217.0
+2016,Agents/managers for artists,0,4.0,0,177.0
+2016,All other design services,0,12.0,0,531.0
+2016,All other industries 2/,3,1647.0,5,100758.0
+2016,Architectural services,1,745.0,3,65695.0
+2016,Broadcasting,7,3508.0,12,232193.0
+2016,Computer systems design,0,182.0,1,14343.0
+2016,Construction,2,893.0,3,67989.0
+2016,Custom architectural woodwork and metalwork manufacturing,1,436.0,1,23487.0
+2016,Education services,2,853.0,2,31186.0
+2016,Fine arts education,1,476.0,1,13572.0
+2016,Government,50,24878.0,44,885660.0
+2016,Grantmaking and giving services,0,184.0,0,4652.0
+2016,Graphic design services,1,335.0,1,19839.0
+2016,"Independent artists, writers, and performers",1,551.0,0,8144.0
+2016,Industrial design services,0,173.0,0,9847.0
+2016,Interior design services,0,136.0,0,5352.0
+2016,Jewelry and silverware manufacturing,0,3.0,0,80.0
+2016,Landscape architectural services,0,78.0,0,7335.0
+2016,Motion pictures,3,1711.0,2,34074.0
+2016,Museums,2,978.0,2,30262.0
+2016,Musical instruments manufacturing,0,25.0,0,1943.0
+2016,Other goods manufacturing,1,255.0,1,17947.0
+2016,Other information services,1,620.0,3,58257.0
+2016,Other support services,0,5.0,0,211.0
+2016,Performing arts companies,1,356.0,1,20280.0
+2016,Photography and photofinishing services,1,484.0,1,26548.0
+2016,Printed goods manufacturing,2,1089.0,3,56595.0
+2016,Promoters of performing arts and similar events,1,530.0,1,27290.0
+2016,Publishing,5,2700.0,9,185098.0
+2016,Rental and leasing,1,299.0,1,11432.0
+2016,Retail industries,10,4904.0,6,124291.0
+2016,Sound recording,0,,0,
+2016,Unions,0,221.0,0,5489.0
+2016,Wholesale and transportation industries,0,,0,
+2017,Advertising,3,1543.0,5,92113.0
+2017,Agents/managers for artists,0,5.0,0,274.0
+2017,All other design services,0,15.0,0,539.0
+2017,All other industries 2/,3,1586.0,5,100093.0
+2017,Architectural services,1,713.0,3,66408.0
+2017,Broadcasting,7,3397.0,12,232272.0
+2017,Computer systems design,0,132.0,1,11274.0
+2017,Construction,1,733.0,3,54305.0
+2017,Custom architectural woodwork and metalwork manufacturing,0,,0,
+2017,Education services,2,871.0,1,29575.0
+2017,Fine arts education,1,484.0,1,15082.0
+2017,Government,42,21131.0,46,920133.0
+2017,Grantmaking and giving services,0,184.0,0,4207.0
+2017,Graphic design services,1,361.0,1,18898.0
+2017,"Independent artists, writers, and performers",1,398.0,0,6885.0
+2017,Industrial design services,0,186.0,1,11725.0
+2017,Interior design services,0,132.0,0,5359.0
+2017,Jewelry and silverware manufacturing,0,6.0,0,121.0
+2017,Landscape architectural services,0,60.0,0,6234.0
+2017,Motion pictures,4,1782.0,2,35930.0
+2017,Museums,2,1009.0,2,31974.0
+2017,Musical instruments manufacturing,0,24.0,0,2146.0
+2017,Other goods manufacturing,1,298.0,1,23658.0
+2017,Other information services,1,639.0,3,65459.0
+2017,Other support services,0,10.0,0,452.0
+2017,Performing arts companies,1,397.0,1,20834.0
+2017,Photography and photofinishing services,1,485.0,1,26228.0
+2017,Printed goods manufacturing,2,1010.0,3,53820.0
+2017,Promoters of performing arts and similar events,1,497.0,1,27706.0
+2017,Publishing,5,2433.0,9,177890.0
+2017,Rental and leasing,0,,0,
+2017,Retail industries,9,4472.0,6,114008.0
+2017,Sound recording,0,33.0,0,1591.0
+2017,Unions,0,236.0,0,5492.0
+2017,Wholesale and transportation industries,0,,0,
+2018,Advertising,3,1501.0,5,91439.0
+2018,Agents/managers for artists,0,5.0,0,301.0
+2018,All other design services,0,16.0,0,551.0
+2018,All other industries 2/,3,1583.0,5,103355.0
+2018,Architectural services,1,693.0,3,69723.0
+2018,Broadcasting,7,3352.0,12,241674.0
+2018,Computer systems design,0,125.0,1,11084.0
+2018,Construction,4,1830.0,7,145394.0
+2018,Custom architectural woodwork and metalwork manufacturing,0,,0,
+2018,Education services,2,870.0,1,29483.0
+2018,Fine arts education,1,512.0,1,17631.0
+2018,Government,42,21085.0,47,940986.0
+2018,Grantmaking and giving services,0,184.0,0,4450.0
+2018,Graphic design services,1,399.0,1,21090.0
+2018,"Independent artists, writers, and performers",1,415.0,0,7538.0
+2018,Industrial design services,0,175.0,1,10525.0
+2018,Interior design services,0,139.0,0,7031.0
+2018,Jewelry and silverware manufacturing,0,9.0,0,231.0
+2018,Landscape architectural services,0,63.0,0,6133.0
+2018,Motion pictures,4,1786.0,2,35636.0
+2018,Museums,2,1028.0,2,33197.0
+2018,Musical instruments manufacturing,0,28.0,0,2369.0
+2018,Other goods manufacturing,1,291.0,1,22911.0
+2018,Other information services,1,481.0,2,38309.0
+2018,Other support services,0,31.0,0,1650.0
+2018,Performing arts companies,1,429.0,1,22588.0
+2018,Photography and photofinishing services,1,494.0,1,27350.0
+2018,Printed goods manufacturing,2,962.0,3,53215.0
+2018,Promoters of performing arts and similar events,1,532.0,2,31299.0
+2018,Publishing,5,2356.0,9,176849.0
+2018,Rental and leasing,1,337.0,1,14645.0
+2018,Retail industries,9,4412.0,6,112062.0
+2018,Sound recording,0,,0,
+2018,Unions,0,217.0,0,5317.0
+2018,Wholesale and transportation industries,2,1120.0,4,87257.0
+2019,Advertising,0,,0,
+2019,Agents/managers for artists,0,4.0,0,241.0
+2019,All other design services,0,11.0,0,435.0
+2019,All other industries 2/,3,1591.0,5,105637.0
+2019,Architectural services,1,718.0,4,70186.0
+2019,Broadcasting,6,3202.0,12,237242.0
+2019,Computer systems design,0,116.0,1,10795.0
+2019,Construction,2,1244.0,5,99448.0
+2019,Custom architectural woodwork and metalwork manufacturing,0,,0,
+2019,Education services,2,929.0,2,30263.0
+2019,Fine arts education,1,517.0,1,18105.0
+2019,Government,43,21544.0,49,973812.0
+2019,Grantmaking and giving services,0,179.0,0,4774.0
+2019,Graphic design services,1,389.0,1,19419.0
+2019,"Independent artists, writers, and performers",1,410.0,0,9352.0
+2019,Industrial design services,0,169.0,1,10223.0
+2019,Interior design services,0,127.0,0,6560.0
+2019,Jewelry and silverware manufacturing,0,,0,
+2019,Landscape architectural services,0,68.0,0,6912.0
+2019,Motion pictures,4,1968.0,2,38946.0
+2019,Museums,2,1012.0,2,32712.0
+2019,Musical instruments manufacturing,0,28.0,0,2477.0
+2019,Other goods manufacturing,1,310.0,1,25016.0
+2019,Other information services,1,473.0,2,41600.0
+2019,Other support services,0,33.0,0,1778.0
+2019,Performing arts companies,0,,0,
+2019,Photography and photofinishing services,1,474.0,1,25664.0
+2019,Printed goods manufacturing,2,909.0,3,50997.0
+2019,Promoters of performing arts and similar events,1,557.0,2,34264.0
+2019,Publishing,4,2225.0,9,174362.0
+2019,Rental and leasing,1,312.0,1,14620.0
+2019,Retail industries,9,4404.0,6,112008.0
+2019,Sound recording,0,31.0,0,2038.0
+2019,Unions,0,200.0,0,5167.0
+2019,Wholesale and transportation industries,2,1181.0,5,95496.0
+2020,Advertising,0,,0,
+2020,Agents/managers for artists,0,2.0,0,163.0
+2020,All other design services,0,11.0,0,439.0
+2020,All other industries 2/,3,1495.0,5,106725.0
+2020,Architectural services,1,691.0,4,72210.0
+2020,Broadcasting,6,3020.0,12,231126.0
+2020,Computer systems design,0,105.0,1,10397.0
+2020,Construction,3,1395.0,5,109228.0
+2020,Custom architectural woodwork and metalwork manufacturing,0,,0,
+2020,Education services,2,919.0,2,32395.0
+2020,Fine arts education,1,527.0,1,16566.0
+2020,Government,41,20474.0,50,990216.0
+2020,Grantmaking and giving services,0,148.0,0,4044.0
+2020,Graphic design services,1,383.0,1,20072.0
+2020,"Independent artists, writers, and performers",0,223.0,0,9639.0
+2020,Industrial design services,0,171.0,1,10950.0
+2020,Interior design services,0,125.0,0,6379.0
+2020,Jewelry and silverware manufacturing,0,10.0,0,307.0
+2020,Landscape architectural services,0,70.0,0,7483.0
+2020,Motion pictures,2,1206.0,1,25588.0
+2020,Museums,2,825.0,2,39260.0
+2020,Musical instruments manufacturing,0,27.0,0,2227.0
+2020,Other goods manufacturing,1,319.0,1,28000.0
+2020,Other information services,1,464.0,2,43233.0
+2020,Other support services,0,30.0,0,1021.0
+2020,Performing arts companies,1,268.0,1,20125.0
+2020,Photography and photofinishing services,0,,0,
+2020,Printed goods manufacturing,2,788.0,2,44116.0
+2020,Promoters of performing arts and similar events,1,367.0,1,27057.0
+2020,Publishing,4,1943.0,8,161474.0
+2020,Rental and leasing,0,,0,
+2020,Retail industries,8,4193.0,5,109499.0
+2020,Sound recording,0,19.0,0,1439.0
+2020,Unions,0,158.0,0,5073.0
+2020,Wholesale and transportation industries,2,1226.0,6,110054.0
+2021,Advertising,0,,0,
+2021,Agents/managers for artists,0,3.0,0,228.0
+2021,All other design services,0,15.0,0,562.0
+2021,All other industries 2/,3,1509.0,6,111471.0
+2021,Architectural services,1,718.0,4,79779.0
+2021,Broadcasting,6,3005.0,12,243417.0
+2021,Computer systems design,0,95.0,1,10447.0
+2021,Construction,3,1473.0,5,102520.0
+2021,Custom architectural woodwork and metalwork manufacturing,1,354.0,1,24256.0
+2021,Education services,2,816.0,1,29755.0
+2021,Fine arts education,1,514.0,1,19400.0
+2021,Government,40,20237.0,50,990399.0
+2021,Grantmaking and giving services,0,156.0,0,5092.0
+2021,Graphic design services,1,411.0,1,22119.0
+2021,"Independent artists, writers, and performers",0,234.0,1,10555.0
+2021,Industrial design services,0,168.0,1,11351.0
+2021,Interior design services,0,139.0,0,7135.0
+2021,Jewelry and silverware manufacturing,0,11.0,0,311.0
+2021,Landscape architectural services,0,73.0,0,7387.0
+2021,Motion pictures,3,1296.0,2,32743.0
+2021,Museums,2,961.0,2,32836.0
+2021,Musical instruments manufacturing,0,35.0,0,2805.0
+2021,Other goods manufacturing,0,,0,
+2021,Other information services,2,857.0,4,85885.0
+2021,Other support services,0,35.0,0,1252.0
+2021,Performing arts companies,0,,0,
+2021,Photography and photofinishing services,1,449.0,1,21505.0
+2021,Printed goods manufacturing,2,816.0,2,48812.0
+2021,Promoters of performing arts and similar events,1,449.0,1,26480.0
+2021,Publishing,4,1845.0,9,181604.0
+2021,Rental and leasing,0,222.0,1,12680.0
+2021,Retail industries,9,4454.0,6,124633.0
+2021,Sound recording,0,,0,
+2021,Unions,0,187.0,0,5249.0
+2021,Wholesale and transportation industries,2,1218.0,6,110834.0
+2022,Advertising,3,1389.0,5,106513.0
+2022,Agents/managers for artists,0,19.0,0,1931.0
+2022,All other design services,0,16.0,0,675.0
+2022,All other industries 2/,3,1593.0,6,120848.0
+2022,Architectural services,2,761.0,4,82747.0
+2022,Broadcasting,5,2709.0,11,219021.0
+2022,Computer systems design,0,129.0,1,15156.0
+2022,Construction,2,1123.0,4,83719.0
+2022,Custom architectural woodwork and metalwork manufacturing,1,331.0,1,23826.0
+2022,Education services,2,826.0,1,29973.0
+2022,Fine arts education,1,552.0,1,25206.0
+2022,Government,42,20865.0,53,1054786.0
+2022,Grantmaking and giving services,0,157.0,0,5276.0
+2022,Graphic design services,1,425.0,1,24686.0
+2022,"Independent artists, writers, and performers",1,348.0,1,15378.0
+2022,Industrial design services,0,225.0,1,13675.0
+2022,Interior design services,0,154.0,0,9094.0
+2022,Jewelry and silverware manufacturing,0,12.0,0,376.0
+2022,Landscape architectural services,0,69.0,0,7521.0
+2022,Motion pictures,4,1766.0,2,43014.0
+2022,Museums,2,1036.0,2,33180.0
+2022,Musical instruments manufacturing,0,38.0,0,2900.0
+2022,Other goods manufacturing,1,295.0,1,27998.0
+2022,Other information services,1,731.0,3,66143.0
+2022,Other support services,0,40.0,0,1703.0
+2022,Performing arts companies,1,376.0,1,20010.0
+2022,Photography and photofinishing services,1,479.0,1,23374.0
+2022,Printed goods manufacturing,2,858.0,3,53377.0
+2022,Promoters of performing arts and similar events,1,538.0,2,41709.0
+2022,Publishing,4,1784.0,9,187041.0
+2022,Rental and leasing,0,185.0,1,12472.0
+2022,Retail industries,11,5557.0,9,181570.0
+2022,Sound recording,0,21.0,0,1406.0
+2022,Unions,0,170.0,0,5315.0
+2022,Wholesale and transportation industries,2,1241.0,6,117329.0
+2023,Advertising,3,1424.0,6,110633.0
+2023,Agents/managers for artists,0,23.0,0,2391.0
+2023,All other design services,0,17.0,0,797.0
+2023,All other industries 2/,3,1622.0,6,127605.0
+2023,Architectural services,2,793.0,4,84568.0
+2023,Broadcasting,5,2628.0,11,211180.0
+2023,Computer systems design,0,128.0,1,15539.0
+2023,Construction,6,2797.0,12,230852.0
+2023,Custom architectural woodwork and metalwork manufacturing,1,344.0,1,26314.0
+2023,Education services,1,722.0,1,23355.0
+2023,Fine arts education,1,596.0,1,27688.0
+2023,Government,41,20515.0,46,924442.0
+2023,Grantmaking and giving services,0,135.0,0,5251.0
+2023,Graphic design services,1,463.0,1,26962.0
+2023,"Independent artists, writers, and performers",1,346.0,1,12484.0
+2023,Industrial design services,0,235.0,1,15219.0
+2023,Interior design services,0,168.0,1,10591.0
+2023,Jewelry and silverware manufacturing,0,,0,
+2023,Landscape architectural services,0,73.0,0,8056.0
+2023,Motion pictures,4,1780.0,2,46652.0
+2023,Museums,2,1088.0,2,39216.0
+2023,Musical instruments manufacturing,0,39.0,0,3626.0
+2023,Other goods manufacturing,1,287.0,1,28551.0
+2023,Other information services,1,739.0,4,71455.0
+2023,Other support services,0,40.0,0,1848.0
+2023,Performing arts companies,1,427.0,1,24032.0
+2023,Photography and photofinishing services,1,431.0,1,21896.0
+2023,Printed goods manufacturing,2,827.0,3,53554.0
+2023,Promoters of performing arts and similar events,1,569.0,2,48739.0
+2023,Publishing,3,1640.0,9,176213.0
+2023,Rental and leasing,0,183.0,1,13105.0
+2023,Retail industries,12,5793.0,10,195597.0
+2023,Sound recording,0,,0,
+2023,Unions,0,190.0,0,6165.0
+2023,Wholesale and transportation industries,2,1197.0,6,114647.0
