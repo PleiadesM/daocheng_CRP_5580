@@ -1,0 +1,342 @@
+{
+  "imdb_id": "tt0137523",
+  "shorthand": "Fight-Club",
+  "title": "Fight Club",
+  "year": 1999,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0137523 - Fight-Club.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0137523 - Fight-Club.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0137523.json",
+  "source_url": "http://www.movie-locations.com/movies/f/Fight-Club.php",
+  "page_title": "Film locations for Fight Club, around Los Angeles",
+  "meta_description": "Film Locations for Fight Club, around Los Angeles: Promenade Towers, 123 South Figueroa Street, Downtown LA (Pearson Towers); St Brendan’s Church, 310 South Van Ness Avenue (support group); Lavanderia Coin Laundry, 4371 Melrose Avenue, East Hollywood (launderette); 4314 Melrose Avenue, East Hollywood (thrift store); Bristol Hotel, 423 West Eighth Street, Downtown LA (Marla's hotel); California Plaza, 350 South Grand Avenue, Downtown LA (destroying corporate art); 325 West Eighth Street, Downtown LA (Marla gets on bus)",
+  "meta_keywords": "Fight Club, film locations, filming locations, travel, tourism, set-jetting, los angeles, downtown, hotel bristol, clifton's cafeteria, figueroa street, east hollywood, david fincher, brad pitt, ed norton, helena bonham carter",
+  "og_title": "Filming Locations for Fight Club (1999)",
+  "og_description": "Film Locations for Fight Club, around Los Angeles: Promenade Towers, 123 South Figueroa Street, Downtown LA (Pearson Towers); St Brendan’s Church, 310 South Van Ness Avenue (support group); Lavanderia Coin Laundry, 4371 Melrose Avenue, East Hollywood (launderette); 4314 Melrose Avenue, East Hollywood (thrift store); Bristol Hotel, 423 West Eighth Street, Downtown LA (Marla's hotel); California Plaza, 350 South Grand Avenue, Downtown LA (destroying corporate art); 325 West Eighth Street, Downtown LA (Marla gets on bus)",
+  "og_image": "http://www.movie-locations.com/movies/f/Fight-Club-Hotel-Bristol.jpg",
+  "top250_rank": "15",
+  "movie_locations_title": "FIGHT CLUB",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "David Fincher",
+  "cast": [
+    "Ed Norton",
+    "Brad Pitt",
+    "Helena Bonham-Carter",
+    "Meatloaf",
+    "Jared Leto",
+    "Eugenie Bondurant"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0137523%20-%20Fight-Club/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/002.jpg",
+    "exists": true,
+    "alt": "Fight Club poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/poster.jpg",
+    "corpus_asset_src": "../assets/tt0137523/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0137523%20-%20Fight-Club/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/001.jpg",
+    "exists": true,
+    "alt": "Fight Club filming location: Hotel Bristol, West Eighth Street, downtown Los Angeles",
+    "caption": "Fight Club location: Marla’s digs: Hotel Bristol, West Eighth Street, downtown Los Angeles",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/001.jpg",
+    "corpus_asset_src": "../assets/tt0137523/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0137523%20-%20Fight-Club/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/001.jpg",
+      "exists": true,
+      "alt": "Fight Club filming location: Hotel Bristol, West Eighth Street, downtown Los Angeles",
+      "caption": "Fight Club location: Marla’s digs: Hotel Bristol, West Eighth Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/001.jpg",
+      "corpus_asset_src": "../assets/tt0137523/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/002.jpg",
+      "exists": true,
+      "alt": "Fight Club poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/002.jpg",
+      "corpus_asset_src": "../assets/tt0137523/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/003.jpg",
+      "exists": true,
+      "alt": "Fight Club location: Promenade Towers, South Figueroa Street, downtown Los Angeles",
+      "caption": "Fight Club location: Ed Norton’s ‘Pearson Towers’ condo: Promenade Towers, South Figueroa Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/003.jpg",
+      "corpus_asset_src": "../assets/tt0137523/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/004.jpg",
+      "exists": true,
+      "alt": "Fight Club filming location: St Brendan's Church, South Van Ness Avenue, Los Angeles",
+      "caption": "Fight Club location: support group at the church: St Brendan's Church, South Van Ness Avenue, Los Angeles",
+      "width": 1050,
+      "height": 700,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/004.jpg",
+      "corpus_asset_src": "../assets/tt0137523/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/005.jpg",
+      "exists": true,
+      "alt": "Fight Club location: Hotel Bristol, West Eighth Street, downtown Los Angeles",
+      "caption": "Fight Club location: Marla nicks clothes from the launderette: Melrose Avenue, East Hollywood",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/005.jpg",
+      "corpus_asset_src": "../assets/tt0137523/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/006.jpg",
+      "exists": true,
+      "alt": "Fight Club location: Hotel Bristol, West Eighth Street, downtown Los Angeles",
+      "caption": "Fight Club location: Marla sells the stolen clothes at the thrift store: Melrose Avenue, East Hollywood",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/006.jpg",
+      "corpus_asset_src": "../assets/tt0137523/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/007.jpg",
+      "exists": true,
+      "alt": "Fight Club location: Millennium Biltmore, 506 South Grand Avenue, downtown Los Angeles",
+      "caption": "Fight Club location: something in the mushroom soup: Millennium Biltmore, 506 South Grand Avenue, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/007.jpg",
+      "corpus_asset_src": "../assets/tt0137523/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/008.jpg",
+      "exists": true,
+      "alt": "Fight Club location: South Flower Street, downtown Los Angeles",
+      "caption": "Fight Club location: starting a fight: South Flower Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/008.jpg",
+      "corpus_asset_src": "../assets/tt0137523/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/009.jpg",
+      "exists": true,
+      "alt": "Fight Club location: Sixth Street, downtown Los Angeles",
+      "caption": "Fight Club location: blowing up the computer store: Sixth Street at Grand Avenue, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/009.jpg",
+      "corpus_asset_src": "../assets/tt0137523/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/010.jpg",
+      "exists": true,
+      "alt": "Fight Club location: California Plaza, South Grand Avenue, Downtown Los Angeles",
+      "caption": "Fight Club location: 'Operation Latte Thunder' – destroying corporate art and a franchise coffee house: California Plaza, South Grand Avenue, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/010.jpg",
+      "corpus_asset_src": "../assets/tt0137523/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/011.jpg",
+      "exists": true,
+      "alt": "Fight Club filming location: S&H Cleaners, South Spring Street, Downtown Los Angeles",
+      "caption": "Fight Club location: tracking down Durden at the dry cleaners: S&H Cleaners, South Spring Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/011.jpg",
+      "corpus_asset_src": "../assets/tt0137523/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0137523%20-%20Fight-Club/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0137523 - Fight-Club/012.jpg",
+      "exists": true,
+      "alt": "Fight Club location: West Eighth Street, downtown Los Angeles",
+      "caption": "Fight Club location: The exterior of ‘Clifton’s’: West Eighth Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0137523/012.jpg",
+      "corpus_asset_src": "../assets/tt0137523/012.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0137523/001.jpg\" alt=\"Fight Club filming location: Hotel Bristol, West Eighth Street, downtown Los Angeles\"><figcaption>Fight Club location: Marla’s digs: Hotel Bristol, West Eighth Street, downtown Los Angeles</figcaption></figure>\n<p>As in <a href=\"https://www.movie-locations.com/movies/s/Seven-1995.php\">Se7en</a>, <a href=\"https://www.movie-locations.com/people/f/fincherd.php\">David Fincher</a> turns the normally sunny environs of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> into a dank, grim nightmare for this blacker-than-pitch adaptation of Chuck Palahniuk’s satirical novel, nominally set in ‘Wilmington, Delaware’.</p>\n<p>The luxurious ‘Pearson Towers’ condo, in which unnamed narrator <a href=\"https://www.movie-locations.com/people/n/nortone.php\">Ed Norton</a> indulges his IKEA nesting instinct (slogan: ‘<span class=\"ital\">A Place to be Somebody</span>’) is <span class=\"name\">Promenade Towers, 123 South Figueroa Street</span>, between First and Second Streets, downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0137523/003.jpg\" alt=\"Fight Club location: Promenade Towers, South Figueroa Street, downtown Los Angeles\"><figcaption>Fight Club location: Ed Norton’s ‘Pearson Towers’ condo: Promenade Towers, South Figueroa Street, downtown Los Angeles</figcaption></figure>\n<p>When it’s blown to bits, he moves into he dismal squat of anarchic Tyler Durden (<a href=\"https://www.movie-locations.com/people/p/pittb.php\">Brad Pitt</a>). There’s nothing to see: the house on ‘Paper Street’ (a Wilmington address) was nothing more than a temporary set constructed down in the <span class=\"name\">San Pedro</span> harbour area of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>. It's in the basement beneath the nearby ‘Lou’s Tavern’, a real bar, the the Fight Club itself is instituted. Lou's has since been demolished.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0137523/004.jpg\" alt=\"Fight Club filming location: St Brendan's Church, South Van Ness Avenue, Los Angeles\"><figcaption>Fight Club location: support group at the church: St Brendan's Church, South Van Ness Avenue, Los Angeles</figcaption></figure>\n<p>The film, coincidentally, shares a couple of locations with the 1953 <a href=\"https://www.movie-locations.com/movies/w/War-Of-The-Worlds-1953.php\">War of the Worlds</a>. One of these is the ‘St Francis of Assisi Religious Center’, where Norton’s support group evenings are disrupted by the chain-smoking Marla Singer (<a href=\"https://www.movie-locations.com/people/b/bonhamcarterh.php\">Helena Bonham-Carter</a>), which is <span class=\"name\">St Brendan’s Church, 310 South Van Ness Avenue </span>at Third Street, south of <span class=\"name\">Hollywood</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0137523/005.jpg\" alt=\"Fight Club location: Hotel Bristol, West Eighth Street, downtown Los Angeles\"><figcaption>Fight Club location: Marla nicks clothes from the launderette: Melrose Avenue, East Hollywood</figcaption></figure>\n<p>Once they exit the meeting, they're further east, across the Hollywood Freeway toward Silverlake, where you’ll find the launderette from which Marla helps herself to – somebody else’s – clothes. It was Launderland, now <span class=\"name\">Lavanderia Coin Laundry, 4371 Melrose Avenue</span> at North Edgemont Street , East Hollywood.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0137523/006.jpg\" alt=\"Fight Club location: Hotel Bristol, West Eighth Street, downtown Los Angeles\"><figcaption>Fight Club location: Marla sells the stolen clothes at the thrift store: Melrose Avenue, East Hollywood</figcaption></figure>\n<p>And about a block to the east is the thrift store, where she sells the clothes. It was flower shop Potter’s, <span class=\"name\">4314 Melrose Avenue</span> – but it’s since been incorporated into the next door Glamour Hair Studio. Marla agrees to exchange numbers as she's standing opposite in front of the <span class=\"name\">Ukranian Culture Centre, 4315 Melrose Avenue</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0137523/007.jpg\" alt=\"Fight Club location: Millennium Biltmore, 506 South Grand Avenue, downtown Los Angeles\"><figcaption>Fight Club location: something in the mushroom soup: Millennium Biltmore, 506 South Grand Avenue, Downtown Los Angeles</figcaption></figure>\n<p>On to the restaurant of the ‘luxurious Pressman Hotel’, where Durden does something unspeakable to the cream of mushroom soup, which is the <span class=\"name\">Emerald Ballroom</span> of the familiar <a href=\"https://www.millenniumhotels.com/en/los-angeles/millennium-biltmore-hotel-los-angeles/\" target=\"_blank\">Millennium Biltmore Hotel</a>, <span class=\"name\">506 South Grand Avenue</span>, a hotel seen in dozens of films including <a href=\"https://www.movie-locations.com/movies/g/Ghostbusters.php\">Ghostbusters</a>, <a href=\"https://www.movie-locations.com/movies/b/Beverly-Hills-Cop.php\">Beverly Hills Cop</a>, <a href=\"https://www.movie-locations.com/movies/b/Bodyguard.php\">The Bodyguard</a>, <a href=\"https://www.movie-locations.com/movies/s/Speed-1994.php\">Speed</a>, <a href=\"https://www.movie-locations.com/movies/d/Daredevil.php\">Daredevil</a> and many more. Look out for a glimpse of Tyler Durden in the same location, among the hotel staff on the corporate video welcoming <a href=\"https://www.movie-locations.com/people/n/nortone.php\">Norton</a> to his hotel room. Just for the record – the hotel’s soup is perfectly fine.</p>\n<p>As Durden and the narrator discuss which celeb they'd like to fight (<span class=\"name\">Ernest Hemingway</span> and <a href=\"https://www.movie-locations.com/people/s/shatnerw.php\">William Shatner</a>, in fact), they're walking northwest along <span class=\"name\">West 5th Street</span> from South Spring Street, <span class=\"name\">Downtown</span>, past the location where <a href=\"https://www.movie-locations.com/people/f/farrellc.php\">Colin Farrell</a> was pinned down by a sniper in <a href=\"https://www.movie-locations.com/movies/p/Phone-Booth.php\">Phone Booth</a>, and in the background you can see the <span class=\"name\">Alexandria Hotel</span> – home of John Doe in <a href=\"https://www.movie-locations.com/people/f/fincherd.php\">Fincher</a>'s previous <a href=\"https://www.movie-locations.com/movies/s/Seven-1995.php\">Se7en</a>.</p>\n<p>Also downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, but slightly less classy, Marla’s digs was the 1906 <span class=\"name\">Bristol Hotel, 423 West Eighth Street</span>. During filming, cinematographer <span class=\"name\">Jeff Cronenweth</span> was hospitalised after being hit on the head by a beer-bottle flung down by a disgruntled resident. Trust me, you wouldn’t have wanted to stay there in those days.</p>\n<p>The hotel closed in 2003 but, after years of accusations of illegal eviction and  legal wrangling over its use, it’s been renovated and opened at the end of 2010 as affordable housing units.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0137523/008.jpg\" alt=\"Fight Club location: South Flower Street, downtown Los Angeles\"><figcaption>Fight Club location: starting a fight: South Flower Street, downtown Los Angeles</figcaption></figure>\n<p>During the ‘homework assignment’, to start a fight with a complete stranger, you’ll probably recognise the forecourt with the geometric metal sculptures as <span class=\"name\">444 South Flower Street</span> at Fifth Street, downtown: the ‘bank’ robbed by <a href=\"https://www.movie-locations.com/people/d/deniror.php\">Robert De Niro</a>’s crew in <a href=\"https://www.movie-locations.com/movies/h/Heat.php\">Heat</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0137523/009.jpg\" alt=\"Fight Club location: Sixth Street, downtown Los Angeles\"><figcaption>Fight Club location: blowing up the computer store: Sixth Street at Grand Avenue, downtown Los Angeles</figcaption></figure>\n<p>The 'Lightning' computer store blown up by Durden’s ‘Project Mayhem’ space monkeys is on the south corner of  <span class=\"name\">West Sixth Street at Grand Avenue</span>, southwest of <span class=\"name\">Pershing Square</span>, downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>'Operation Latte Thunder', to destroy a piece of corporate art and a franchise coffee shop, sees a huge metal ball launched down the steps of the water feature in the rear of <span class=\"name\">California Plaza, 350 South Grand Avenue</span> between West 3rd and West 4th Streets, alongside the upper terminus of Angels Flight Railway.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0137523/010.jpg\" alt=\"Fight Club location: California Plaza, South Grand Avenue, Downtown Los Angeles\"><figcaption>Fight Club location: 'Operation Latte Thunder' – destroying corporate art and a franchise coffee house: California Plaza, South Grand Avenue, Downtown Los Angeles</figcaption></figure>\n<p>When the narrator begins flying around the US on the trail of Durden and his Fight Club franchises, he doesn't really travel too far. The dry cleaners in which he gets a stilted 'I know nothing' response can be found in <span class=\"name\">Downtown</span> <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a> right alongside the Alexandria Hotel again. It's <span class=\"name\">S&amp;H Cleaners, 511 South Spring Street</span>, and still in business (April 2018)</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0137523/011.jpg\" alt=\"Fight Club filming location: S&amp;H Cleaners, South Spring Street, Downtown Los Angeles\"><figcaption>Fight Club location: tracking down Durden at the dry cleaners: S&amp;H Cleaners, South Spring Street, Downtown Los Angeles</figcaption></figure>\n<p>The old Clifton’s Silver Spoon Cafeteria, <span class=\"name\">515 West Seventh Street</span>, downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, which had closed in 1998, became the restaurant in which a confused <a href=\"https://www.movie-locations.com/people/n/nortone.php\">Norton</a>, warns Marla to get out of town. Don't confuse this with the recently renovated and re-opened Clifton's nearby at 648 South Broadway.</p>\n<p>The exterior, where he puts her on the bus, is faked at <span class=\"name\">325 West Eighth Street</span>, not far from the <span class=\"name\">Bristol</span>. This is the downtown section of street down which <span class=\"name\">Gene Barry</span> seems constantly to be running in – once again – the 1953 <a href=\"https://www.movie-locations.com/movies/w/War-Of-The-Worlds-1953.php\">War of the Worlds</a>.</p>",
+  "main_content_text": "As in Se7en, David Fincher turns the normally sunny environs of Los Angeles into a dank, grim nightmare for this blacker-than-pitch adaptation of Chuck Palahniuk’s satirical novel, nominally set in ‘Wilmington, Delaware’.\n\nThe luxurious ‘Pearson Towers’ condo, in which unnamed narrator Ed Norton indulges his IKEA nesting instinct (slogan: ‘A Place to be Somebody’) is Promenade Towers, 123 South Figueroa Street, between First and Second Streets, downtown Los Angeles.\n\nWhen it’s blown to bits, he moves into he dismal squat of anarchic Tyler Durden (Brad Pitt). There’s nothing to see: the house on ‘Paper Street’ (a Wilmington address) was nothing more than a temporary set constructed down in the San Pedro harbour area of Los Angeles. It's in the basement beneath the nearby ‘Lou’s Tavern’, a real bar, the the Fight Club itself is instituted. Lou's has since been demolished.\n\nThe film, coincidentally, shares a couple of locations with the 1953 War of the Worlds. One of these is the ‘St Francis of Assisi Religious Center’, where Norton’s support group evenings are disrupted by the chain-smoking Marla Singer (Helena Bonham-Carter), which is St Brendan’s Church, 310 South Van Ness Avenue at Third Street, south of Hollywood.\n\nOnce they exit the meeting, they're further east, across the Hollywood Freeway toward Silverlake, where you’ll find the launderette from which Marla helps herself to – somebody else’s – clothes. It was Launderland, now Lavanderia Coin Laundry, 4371 Melrose Avenue at North Edgemont Street , East Hollywood.\n\nAnd about a block to the east is the thrift store, where she sells the clothes. It was flower shop Potter’s, 4314 Melrose Avenue – but it’s since been incorporated into the next door Glamour Hair Studio. Marla agrees to exchange numbers as she's standing opposite in front of the Ukranian Culture Centre, 4315 Melrose Avenue.\n\nOn to the restaurant of the ‘luxurious Pressman Hotel’, where Durden does something unspeakable to the cream of mushroom soup, which is the Emerald Ballroom of the familiar Millennium Biltmore Hotel, 506 South Grand Avenue, a hotel seen in dozens of films including Ghostbusters, Beverly Hills Cop, The Bodyguard, Speed, Daredevil and many more. Look out for a glimpse of Tyler Durden in the same location, among the hotel staff on the corporate video welcoming Norton to his hotel room. Just for the record – the hotel’s soup is perfectly fine.\n\nAs Durden and the narrator discuss which celeb they'd like to fight (Ernest Hemingway and William Shatner, in fact), they're walking northwest along West 5th Street from South Spring Street, Downtown, past the location where Colin Farrell was pinned down by a sniper in Phone Booth, and in the background you can see the Alexandria Hotel – home of John Doe in Fincher's previous Se7en.\n\nAlso downtown Los Angeles, but slightly less classy, Marla’s digs was the 1906 Bristol Hotel, 423 West Eighth Street. During filming, cinematographer Jeff Cronenweth was hospitalised after being hit on the head by a beer-bottle flung down by a disgruntled resident. Trust me, you wouldn’t have wanted to stay there in those days.\n\nThe hotel closed in 2003 but, after years of accusations of illegal eviction and legal wrangling over its use, it’s been renovated and opened at the end of 2010 as affordable housing units.\n\nDuring the ‘homework assignment’, to start a fight with a complete stranger, you’ll probably recognise the forecourt with the geometric metal sculptures as 444 South Flower Street at Fifth Street, downtown: the ‘bank’ robbed by Robert De Niro’s crew in Heat.\n\nThe 'Lightning' computer store blown up by Durden’s ‘Project Mayhem’ space monkeys is on the south corner of West Sixth Street at Grand Avenue, southwest of Pershing Square, downtown Los Angeles.\n\n'Operation Latte Thunder', to destroy a piece of corporate art and a franchise coffee shop, sees a huge metal ball launched down the steps of the water feature in the rear of California Plaza, 350 South Grand Avenue between West 3rd and West 4th Streets, alongside the upper terminus of Angels Flight Railway.\n\nWhen the narrator begins flying around the US on the trail of Durden and his Fight Club franchises, he doesn't really travel too far. The dry cleaners in which he gets a stilted 'I know nothing' response can be found in Downtown LA right alongside the Alexandria Hotel again. It's S&H Cleaners, 511 South Spring Street, and still in business (April 2018)\n\nThe old Clifton’s Silver Spoon Cafeteria, 515 West Seventh Street, downtown Los Angeles, which had closed in 1998, became the restaurant in which a confused Norton, warns Marla to get out of town. Don't confuse this with the recently renovated and re-opened Clifton's nearby at 648 South Broadway.\n\nThe exterior, where he puts her on the bus, is faked at 325 West Eighth Street, not far from the Bristol. This is the downtown section of street down which Gene Barry seems constantly to be running in – once again – the 1953 War of the Worlds.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Fight Club location: Marla’s digs: Hotel Bristol, West Eighth Street, downtown Los Angeles",
+      "src": "_assets/tt0137523%20-%20Fight-Club/001.jpg",
+      "alt": "Fight Club filming location: Hotel Bristol, West Eighth Street, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "As in Se7en, David Fincher turns the normally sunny environs of Los Angeles into a dank, grim nightmare for this blacker-than-pitch adaptation of Chuck Palahniuk’s satirical novel, nominally set in ‘Wilmington, Delaware’."
+    },
+    {
+      "type": "paragraph",
+      "text": "The luxurious ‘Pearson Towers’ condo, in which unnamed narrator Ed Norton indulges his IKEA nesting instinct (slogan: ‘A Place to be Somebody’) is Promenade Towers, 123 South Figueroa Street, between First and Second Streets, downtown Los Angeles."
+    },
+    {
+      "type": "image",
+      "caption": "Fight Club location: Ed Norton’s ‘Pearson Towers’ condo: Promenade Towers, South Figueroa Street, downtown Los Angeles",
+      "src": "_assets/tt0137523%20-%20Fight-Club/003.jpg",
+      "alt": "Fight Club location: Promenade Towers, South Figueroa Street, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "When it’s blown to bits, he moves into he dismal squat of anarchic Tyler Durden (Brad Pitt). There’s nothing to see: the house on ‘Paper Street’ (a Wilmington address) was nothing more than a temporary set constructed down in the San Pedro harbour area of Los Angeles. It's in the basement beneath the nearby ‘Lou’s Tavern’, a real bar, the the Fight Club itself is instituted. Lou's has since been demolished."
+    },
+    {
+      "type": "image",
+      "caption": "Fight Club location: support group at the church: St Brendan's Church, South Van Ness Avenue, Los Angeles",
+      "src": "_assets/tt0137523%20-%20Fight-Club/004.jpg",
+      "alt": "Fight Club filming location: St Brendan's Church, South Van Ness Avenue, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The film, coincidentally, shares a couple of locations with the 1953 War of the Worlds. One of these is the ‘St Francis of Assisi Religious Center’, where Norton’s support group evenings are disrupted by the chain-smoking Marla Singer (Helena Bonham-Carter), which is St Brendan’s Church, 310 South Van Ness Avenue at Third Street, south of Hollywood."
+    },
+    {
+      "type": "image",
+      "caption": "Fight Club location: Marla nicks clothes from the launderette: Melrose Avenue, East Hollywood",
+      "src": "_assets/tt0137523%20-%20Fight-Club/005.jpg",
+      "alt": "Fight Club location: Hotel Bristol, West Eighth Street, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once they exit the meeting, they're further east, across the Hollywood Freeway toward Silverlake, where you’ll find the launderette from which Marla helps herself to – somebody else’s – clothes. It was Launderland, now Lavanderia Coin Laundry, 4371 Melrose Avenue at North Edgemont Street , East Hollywood."
+    },
+    {
+      "type": "image",
+      "caption": "Fight Club location: Marla sells the stolen clothes at the thrift store: Melrose Avenue, East Hollywood",
+      "src": "_assets/tt0137523%20-%20Fight-Club/006.jpg",
+      "alt": "Fight Club location: Hotel Bristol, West Eighth Street, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "And about a block to the east is the thrift store, where she sells the clothes. It was flower shop Potter’s, 4314 Melrose Avenue – but it’s since been incorporated into the next door Glamour Hair Studio. Marla agrees to exchange numbers as she's standing opposite in front of the Ukranian Culture Centre, 4315 Melrose Avenue."
+    },
+    {
+      "type": "image",
+      "caption": "Fight Club location: something in the mushroom soup: Millennium Biltmore, 506 South Grand Avenue, Downtown Los Angeles",
+      "src": "_assets/tt0137523%20-%20Fight-Club/007.jpg",
+      "alt": "Fight Club location: Millennium Biltmore, 506 South Grand Avenue, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "On to the restaurant of the ‘luxurious Pressman Hotel’, where Durden does something unspeakable to the cream of mushroom soup, which is the Emerald Ballroom of the familiar Millennium Biltmore Hotel, 506 South Grand Avenue, a hotel seen in dozens of films including Ghostbusters, Beverly Hills Cop, The Bodyguard, Speed, Daredevil and many more. Look out for a glimpse of Tyler Durden in the same location, among the hotel staff on the corporate video welcoming Norton to his hotel room. Just for the record – the hotel’s soup is perfectly fine."
+    },
+    {
+      "type": "paragraph",
+      "text": "As Durden and the narrator discuss which celeb they'd like to fight (Ernest Hemingway and William Shatner, in fact), they're walking northwest along West 5th Street from South Spring Street, Downtown, past the location where Colin Farrell was pinned down by a sniper in Phone Booth, and in the background you can see the Alexandria Hotel – home of John Doe in Fincher's previous Se7en."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also downtown Los Angeles, but slightly less classy, Marla’s digs was the 1906 Bristol Hotel, 423 West Eighth Street. During filming, cinematographer Jeff Cronenweth was hospitalised after being hit on the head by a beer-bottle flung down by a disgruntled resident. Trust me, you wouldn’t have wanted to stay there in those days."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hotel closed in 2003 but, after years of accusations of illegal eviction and legal wrangling over its use, it’s been renovated and opened at the end of 2010 as affordable housing units."
+    },
+    {
+      "type": "image",
+      "caption": "Fight Club location: starting a fight: South Flower Street, downtown Los Angeles",
+      "src": "_assets/tt0137523%20-%20Fight-Club/008.jpg",
+      "alt": "Fight Club location: South Flower Street, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "During the ‘homework assignment’, to start a fight with a complete stranger, you’ll probably recognise the forecourt with the geometric metal sculptures as 444 South Flower Street at Fifth Street, downtown: the ‘bank’ robbed by Robert De Niro’s crew in Heat."
+    },
+    {
+      "type": "image",
+      "caption": "Fight Club location: blowing up the computer store: Sixth Street at Grand Avenue, downtown Los Angeles",
+      "src": "_assets/tt0137523%20-%20Fight-Club/009.jpg",
+      "alt": "Fight Club location: Sixth Street, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 'Lightning' computer store blown up by Durden’s ‘Project Mayhem’ space monkeys is on the south corner of West Sixth Street at Grand Avenue, southwest of Pershing Square, downtown Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "'Operation Latte Thunder', to destroy a piece of corporate art and a franchise coffee shop, sees a huge metal ball launched down the steps of the water feature in the rear of California Plaza, 350 South Grand Avenue between West 3rd and West 4th Streets, alongside the upper terminus of Angels Flight Railway."
+    },
+    {
+      "type": "image",
+      "caption": "Fight Club location: 'Operation Latte Thunder' – destroying corporate art and a franchise coffee house: California Plaza, South Grand Avenue, Downtown Los Angeles",
+      "src": "_assets/tt0137523%20-%20Fight-Club/010.jpg",
+      "alt": "Fight Club location: California Plaza, South Grand Avenue, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the narrator begins flying around the US on the trail of Durden and his Fight Club franchises, he doesn't really travel too far. The dry cleaners in which he gets a stilted 'I know nothing' response can be found in Downtown LA right alongside the Alexandria Hotel again. It's S&H Cleaners, 511 South Spring Street, and still in business (April 2018)"
+    },
+    {
+      "type": "image",
+      "caption": "Fight Club location: tracking down Durden at the dry cleaners: S&H Cleaners, South Spring Street, Downtown Los Angeles",
+      "src": "_assets/tt0137523%20-%20Fight-Club/011.jpg",
+      "alt": "Fight Club filming location: S&H Cleaners, South Spring Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The old Clifton’s Silver Spoon Cafeteria, 515 West Seventh Street, downtown Los Angeles, which had closed in 1998, became the restaurant in which a confused Norton, warns Marla to get out of town. Don't confuse this with the recently renovated and re-opened Clifton's nearby at 648 South Broadway."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exterior, where he puts her on the bus, is faked at 325 West Eighth Street, not far from the Bristol. This is the downtown section of street down which Gene Barry seems constantly to be running in – once again – the 1953 War of the Worlds."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Stay at: the Millennium Biltmore Hotel, 506 South Grand Ave, Los Angeles, CA 90071 (tel: 213.624.1011)</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nStay at: the Millennium Biltmore Hotel, 506 South Grand Ave, Los Angeles, CA 90071 (tel: 213.624.1011)",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Stay at: the Millennium Biltmore Hotel, 506 South Grand Ave, Los Angeles, CA 90071 (tel: 213.624.1011)"
+      ]
+    }
+  ]
+}

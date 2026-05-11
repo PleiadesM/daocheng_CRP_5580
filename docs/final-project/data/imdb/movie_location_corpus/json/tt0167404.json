@@ -1,0 +1,142 @@
+{
+  "imdb_id": "tt0167404",
+  "shorthand": "Sixth-Sense",
+  "title": "The Sixth Sense",
+  "year": 1999,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0167404 - Sixth-Sense.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0167404 - Sixth-Sense.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0167404.json",
+  "source_url": "http://www.movie-locations.com/movies/s/Sixth-Sense.php",
+  "page_title": "The Sixth Sense | Film Locations",
+  "meta_description": "Film locations for M Night Shyamalan's The Sixth Sense (1999), with Bruce Willis, around Philadelphia.",
+  "meta_keywords": "The Sixth Sense (1999), film locations, filming locations, tourism, travel, set-jetting, philadelphia, m night shyamalan, bruce willis, pennsylvania",
+  "og_title": "Filming Locations for M Night Shyamalan's The Sixth Sense (1999), with Bruce Willis, around Philadelphia.",
+  "og_description": "Travel guide to filming locations for M Night Shyamalan's The Sixth Sense (1999), with Bruce Willis, around Philadelphia.",
+  "og_image": "http://www.movie-locations.com/movies/s/Sixth-Sense.jpg",
+  "top250_rank": "179",
+  "movie_locations_title": "THE SIXTH SENSE",
+  "movie_locations_regions": "Philadelphia, Pennsylvania",
+  "director": "M Night Shyamalan",
+  "cast": [
+    "Bruce Willis",
+    "Haley Joel Osment",
+    "Tony Collette",
+    "Donnie Wahlberg",
+    "Olivia Williams",
+    "Trevor Morgan"
+  ],
+  "locations": [
+    "Philadelphia, Pennsylvania"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0167404%20-%20Sixth-Sense/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167404 - Sixth-Sense/001.jpg",
+    "exists": true,
+    "alt": "The Sixth Sense poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167404/poster.jpg",
+    "corpus_asset_src": "../assets/tt0167404/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0167404%20-%20Sixth-Sense/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167404 - Sixth-Sense/001.jpg",
+    "exists": true,
+    "alt": "The Sixth Sense poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167404/001.jpg",
+    "corpus_asset_src": "../assets/tt0167404/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0167404%20-%20Sixth-Sense/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167404 - Sixth-Sense/001.jpg",
+      "exists": true,
+      "alt": "The Sixth Sense poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167404/001.jpg",
+      "corpus_asset_src": "../assets/tt0167404/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0167404%20-%20Sixth-Sense/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167404 - Sixth-Sense/002.jpg",
+      "exists": true,
+      "alt": "The Sixth Sense location: St Alban's Place, Philadelphia",
+      "caption": "The Sixth Sense film location: the home of Cole Sear: St Alban’s Place, Philadelphia",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167404/002.jpg",
+      "corpus_asset_src": "../assets/tt0167404/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0167404%20-%20Sixth-Sense/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167404 - Sixth-Sense/003.jpg",
+      "exists": true,
+      "alt": "The Sixth Sense location: St Augustine's Roman Catholic Church, 4th Street, Philadelphia",
+      "caption": "The Sixth Sense film location: troubled Cole retreats to the church: St Augustine’s Roman Catholic Church, 4th Street, Philadelphia",
+      "width": 200,
+      "height": 300,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167404/003.jpg",
+      "corpus_asset_src": "../assets/tt0167404/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0167404%20-%20Sixth-Sense/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167404 - Sixth-Sense/004.jpg",
+      "exists": true,
+      "alt": "The Sixth Sense location: Striped Bass, Walnut Street, Philadelphia",
+      "caption": "The Sixth Sense film location: Crowe joins his wife at the upmarket restaurant: Striped Bass (now Butcher and Singer Steakhouse), Walnut Street, Philadelphia",
+      "width": 200,
+      "height": 300,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167404/004.jpg",
+      "corpus_asset_src": "../assets/tt0167404/004.jpg"
+    }
+  ],
+  "main_content_html": "<p><a href=\"https://www.movie-locations.com/people/s/shyamalanmn.php\">M Night Shyamalan</a>’s tricksy supernatural thriller, which turned out to be one of the year’s unexpected smash hits, was shot around <span class=\"name\">Philadelphia</span>, the director’s home town.</p>\n<p>Young Cole Sear (<a href=\"https://www.movie-locations.com/people/o/osmenthj.php\">Haley Joel Osment</a>), troubled by visions of ‘dead people’, lives with his mother Lynn (<a href=\"https://www.movie-locations.com/people/c/collettet.php\">Tony Collette</a>) southwest of Center City at <span class=\"name\">2302 St Alban’s Place, St Alban’s Street</span> at 23rd Street.</p>\n<p>The more upmarket ‘Locust Street’ home of psychologist Malcolm Crowe (<a href=\"https://www.movie-locations.com/people/w/willisb.php\">Bruce Willis</a>) is really on <span class=\"name\">Delancey Street</span> at South 20th Street in the, solidly respectable, <span class=\"name\">Society Hill</span> district.</p>\n<p>The church to which Cole retreats is <span class=\"name\">St Augustine’s Roman Catholic Church, 4th Street</span> at New Street, near the entrance to the Benjamin Franklin Bridge.</p>\n<p>The restaurant, where Crowe keeps an appointment with his wife, Anna (<a href=\"https://www.movie-locations.com/people/w/williamso.php\">Olivia Williams</a>), was the classy Striped Bass, <span class=\"name\">1500 Walnut Street</span>, occupying the marble grandeur of a former brokerage house in the centre of town. The restaurant closed shortly after filming but, don’t worry, it lives on as now the <a href=\"http://www.butcherandsinger.com/\" target=\"_blank\">Butcher and Singer</a> steakhouse. See its new incarnation in 2011's <a href=\"https://www.movie-locations.com/movies/l/Limitless-2011.php\">Limitless</a>, with <a href=\"https://www.movie-locations.com/people/c/cooperb.php\">Bradley Cooper</a>.</p>",
+  "main_content_text": "M Night Shyamalan’s tricksy supernatural thriller, which turned out to be one of the year’s unexpected smash hits, was shot around Philadelphia, the director’s home town.\n\nYoung Cole Sear (Haley Joel Osment), troubled by visions of ‘dead people’, lives with his mother Lynn (Tony Collette) southwest of Center City at 2302 St Alban’s Place, St Alban’s Street at 23rd Street.\n\nThe more upmarket ‘Locust Street’ home of psychologist Malcolm Crowe (Bruce Willis) is really on Delancey Street at South 20th Street in the, solidly respectable, Society Hill district.\n\nThe church to which Cole retreats is St Augustine’s Roman Catholic Church, 4th Street at New Street, near the entrance to the Benjamin Franklin Bridge.\n\nThe restaurant, where Crowe keeps an appointment with his wife, Anna (Olivia Williams), was the classy Striped Bass, 1500 Walnut Street, occupying the marble grandeur of a former brokerage house in the centre of town. The restaurant closed shortly after filming but, don’t worry, it lives on as now the Butcher and Singer steakhouse. See its new incarnation in 2011's Limitless, with Bradley Cooper.",
+  "main_sections": [
+    {
+      "type": "paragraph",
+      "text": "M Night Shyamalan’s tricksy supernatural thriller, which turned out to be one of the year’s unexpected smash hits, was shot around Philadelphia, the director’s home town."
+    },
+    {
+      "type": "paragraph",
+      "text": "Young Cole Sear (Haley Joel Osment), troubled by visions of ‘dead people’, lives with his mother Lynn (Tony Collette) southwest of Center City at 2302 St Alban’s Place, St Alban’s Street at 23rd Street."
+    },
+    {
+      "type": "paragraph",
+      "text": "The more upmarket ‘Locust Street’ home of psychologist Malcolm Crowe (Bruce Willis) is really on Delancey Street at South 20th Street in the, solidly respectable, Society Hill district."
+    },
+    {
+      "type": "paragraph",
+      "text": "The church to which Cole retreats is St Augustine’s Roman Catholic Church, 4th Street at New Street, near the entrance to the Benjamin Franklin Bridge."
+    },
+    {
+      "type": "paragraph",
+      "text": "The restaurant, where Crowe keeps an appointment with his wife, Anna (Olivia Williams), was the classy Striped Bass, 1500 Walnut Street, occupying the marble grandeur of a former brokerage house in the centre of town. The restaurant closed shortly after filming but, don’t worry, it lives on as now the Butcher and Singer steakhouse. See its new incarnation in 2011's Limitless, with Bradley Cooper."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Pennsylvania | Philadelphia</h3>\n<p>Visit: Pennsylvania</p>\n<p>Visit: Philadelphia</p>\n<p>Flights: Philadelphia International Airport, 8000 Essington Avenue (tel: 215.937.6937)</p>\n<p>Dine at: the Butcher and Singer, 1500 Walnut Street, Philadelphia, PA 19102 (tel: 215.732.4444)</p>\n</section>",
+  "visit_info_text": "Pennsylvania | Philadelphia\nVisit: Pennsylvania\nVisit: Philadelphia\nFlights: Philadelphia International Airport, 8000 Essington Avenue (tel: 215.937.6937)\nDine at: the Butcher and Singer, 1500 Walnut Street, Philadelphia, PA 19102 (tel: 215.732.4444)",
+  "visit_sections": [
+    {
+      "title": "Pennsylvania | Philadelphia",
+      "items": [
+        "Visit: Pennsylvania",
+        "Visit: Philadelphia",
+        "Flights: Philadelphia International Airport, 8000 Essington Avenue (tel: 215.937.6937)",
+        "Dine at: the Butcher and Singer, 1500 Walnut Street, Philadelphia, PA 19102 (tel: 215.732.4444)"
+      ]
+    }
+  ]
+}

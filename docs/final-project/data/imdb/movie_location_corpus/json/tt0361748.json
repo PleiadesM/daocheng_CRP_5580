@@ -1,0 +1,230 @@
+{
+  "imdb_id": "tt0361748",
+  "shorthand": "Inglourious-Basterds",
+  "title": "Inglourious Basterds",
+  "year": 2009,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0361748 - Inglourious-Basterds.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0361748 - Inglourious-Basterds.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0361748.json",
+  "source_url": "http://www.movie-locations.com/movies/i/Inglourious-Basterds.php",
+  "page_title": "Inglourious Basterds | Film Locations",
+  "meta_description": "Travel guide to filming locations for Quentin Tarantino's Inglourious Basterds (2009), in Germany and France.",
+  "meta_keywords": "Film locations for Inglourious Basterds (2009), babelsberg studio, berlin, germany, fort hahneberg, cafe einstein, gorlitz, goerlitz, Görlitz, bad schandau, sebnitz, paris, france, bistro la renaissance, la gamaar cinema, quentin tarantino, brad pitt",
+  "og_title": "Film Locations for Quentin Tarantino's Inglourious Basterds (2009), in Germany and France.",
+  "og_description": "Travel guide to filming locations for Quentin Tarantino's Inglourious Basterds (2009), in Germany and France.",
+  "og_image": "http://www.movie-locations.com/movies/i/Inglourious_Basterds_Renaissance_Bistro.jpg",
+  "top250_rank": "78",
+  "movie_locations_title": "INGLOURIOUS BASTERDS",
+  "movie_locations_regions": "Germany | Paris, France",
+  "director": "Quentin Tarantino",
+  "cast": [
+    "Brad Pitt",
+    "Christoph Waltz",
+    "Mélanie Laurent",
+    "Diane Kruger",
+    "Daniel Brühl",
+    "Eli Roth",
+    "BJ Novak",
+    "Til Schweiger",
+    "Michael Fassbender",
+    "Léa Seydoux",
+    "Rod Taylor",
+    "Mike Myers",
+    "Julie Dreyfus",
+    "Samuel L Jackson",
+    "Harvey Keitel"
+  ],
+  "locations": [
+    "Germany;",
+    "Paris, France"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0361748%20-%20Inglourious-Basterds/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0361748 - Inglourious-Basterds/002.jpg",
+    "exists": true,
+    "alt": "Inglourious Basterds poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0361748/poster.jpg",
+    "corpus_asset_src": "../assets/tt0361748/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0361748%20-%20Inglourious-Basterds/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0361748 - Inglourious-Basterds/001.jpg",
+    "exists": true,
+    "alt": "Inglourious Basterds fliming location: Bistrot La Renaissance, Rue Championnet, Paris",
+    "caption": "Inglourious Basterds film location: Shosanna and the German soldier in the Parisian bistro: Bistrot La Renaissance, Rue Championnet, Paris",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0361748/001.jpg",
+    "corpus_asset_src": "../assets/tt0361748/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0361748%20-%20Inglourious-Basterds/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0361748 - Inglourious-Basterds/001.jpg",
+      "exists": true,
+      "alt": "Inglourious Basterds fliming location: Bistrot La Renaissance, Rue Championnet, Paris",
+      "caption": "Inglourious Basterds film location: Shosanna and the German soldier in the Parisian bistro: Bistrot La Renaissance, Rue Championnet, Paris",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0361748/001.jpg",
+      "corpus_asset_src": "../assets/tt0361748/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0361748%20-%20Inglourious-Basterds/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0361748 - Inglourious-Basterds/002.jpg",
+      "exists": true,
+      "alt": "Inglourious Basterds poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0361748/002.jpg",
+      "corpus_asset_src": "../assets/tt0361748/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0361748%20-%20Inglourious-Basterds/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0361748 - Inglourious-Basterds/003.jpg",
+      "exists": true,
+      "alt": "Inglourious Basterds fliming location: Hahneberg Fort, Germany",
+      "caption": "Inglourious Basterds film location: the Basterds interrogate – and scalp – Nazis: Hahneberg Fort, Germany | Photograph: flickr / mKerenski",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0361748/003.jpg",
+      "corpus_asset_src": "../assets/tt0361748/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0361748%20-%20Inglourious-Basterds/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0361748 - Inglourious-Basterds/004.jpg",
+      "exists": true,
+      "alt": "Inglourious Basterds film location: Bistrot La Renaissance, Rue Championnet, Paris",
+      "caption": "Inglourious Basterds film location: the Parisian bistro: Bistrot La Renaissance, Rue Championnet, Paris",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0361748/004.jpg",
+      "corpus_asset_src": "../assets/tt0361748/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0361748%20-%20Inglourious-Basterds/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0361748 - Inglourious-Basterds/005.jpg",
+      "exists": true,
+      "alt": "Inglourious Basterds film location: Cafe Einstein, Kurfurstenstrasse, Berlin, Germany",
+      "caption": "Inglourious Basterds film location: the ‘Parisian’ restaurant, to which Shosanna is summoned to met Dr Goebbels: Cafe Einstein, Kurfürstenstraße, Berlin | Photograph: Cafe Einstein",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0361748/005.jpg",
+      "corpus_asset_src": "../assets/tt0361748/005.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0361748/001.jpg\" alt=\"Inglourious Basterds fliming location: Bistrot La Renaissance, Rue Championnet, Paris\"><figcaption>Inglourious Basterds film location: Shosanna and the German soldier in the Parisian bistro: Bistrot La Renaissance, Rue Championnet, Paris</figcaption></figure>\n<p><a href=\"https://www.movie-locations.com/people/t/tarantinoq.php\">Quentin Tarantino</a> won’t be drawn on the odd title, though I’m sure the quirky spelling was no hindrance when it came to avoiding copyright issues with the 1977 film, <span class=\"name\">Inglorious Bastards</span>.</p>\n<p>‘Once upon a time in occupied France’ gives a clue to the film’s take on reality but, let’s be honest, this audacious fantasy of Jewish revenge on the Third Reich is only fractionally more far-fetched than many Hollywood war movies have been.</p>\n<p>The director kicks off with his magpie habit of lifting music from other movies (the theme from <a href=\"https://www.movie-locations.com/people/w/waynej.php\">John Wayne</a>’s 1960 <a href=\"https://www.movie-locations.com/movies/a/Alamo-1960.php\">The Alamo</a> in this case), before launching into a series of suspense sequences heightened by the director’s matchless ear for dialogue.</p>\n<p>Though set largely in <a href=\"https://www.movie-locations.com/places/europe/france.php\">France</a>, most of the movie  was filmed in <a href=\"https://www.movie-locations.com/places/europe/germany.php\">Germany</a>, at the <a href=\"http://www.studiobabelsberg.com\" target=\"_blank\">Babelsberg Studios</a> at <span class=\"name\">Potsdam</span>, southwest of <span class=\"name\">Berlin</span>.  Built in 1917 as the <span class=\"name\">UFA</span> (Universum Film Aktien Gesellschaft) <span class=\"name\">Studios</span>, the studio really is where   <span class=\"name\">Joseph Goebbels</span> shot his notorious propaganda films for the Führer. Yet before being co-opted for such noxious vehicles as the infamous <span class=\"name\">Jud Süss</span>, <a href=\"http://www.studiobabelsberg.com\" target=\"_blank\">Babelsberg </a>was home to such classics of the Twenties and Thirties as <span class=\"name\">Nosferatu</span>, <span class=\"name\">The Cabinet of Dr Caligari</span>, <span class=\"name\">Metropolis</span> and <span class=\"name\">The Blue Angel</span>.</p>\n<p>So, first the disappointments. You won’t find  ‘La Gamaar’, the cinema run by Shosanna (<a href=\"https://www.movie-locations.com/people/l/laurentm.php\">Mélanie Laurent</a>) in Paris, or indeed, anywhere. It was built – both interior and exterior – in the studio.</p>\n<p>The design was inspired by two favourite <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> picture palaces you may be familiar with: the <a href=\"http://www.vintagecinemas.com/vista/\" target=\"_blank\">Vista Theater</a>, <span class=\"name\">4473 Sunset Drive</span>, in <span class=\"name\">East Hollywood</span> (seen in the <a href=\"https://www.movie-locations.com/people/t/tarantinoq.php\">Tarantino</a>-scripted <a href=\"https://www.movie-locations.com/movies/t/True-Romance.php\">True Romance</a>) and downtown’s lavish <a href=\"http://www.losangelestheatre.com/\" target=\"_blank\">Los Angeles Theatre</a><span class=\"name\">, 615 South Broadway</span> (which has featured in films as diverse as<a href=\"https://www.movie-locations.com/movies/a/Artist.php\"> The Artist</a>, <a href=\"https://www.movie-locations.com/movies/a/Armageddon.php\">Armageddon</a>, <a href=\"https://www.movie-locations.com/movies/b/Batman-Forever.php\">Batman Forever</a>, <a href=\"https://www.movie-locations.com/movies/c/Chaplin.php\">Chaplin</a>, <a href=\"https://www.movie-locations.com/movies/c/Charlies-Angels.php\">Charlie’s Angels</a> and <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>’s <a href=\"https://www.movie-locations.com/movies/p/Prestige.php\">The Prestige</a>). And, just to ensure <a href=\"http://www.studiobabelsberg.com\" target=\"_blank\">Babelsberg</a> was preserved for future productions, a duplicate cinema interior was built in an abandoned cement factory to film the final explosive conflagration.</p>\n<p>‘La Louisiane’, the basement bar where the meeting with film star Bridget von Hammersmark (<a href=\"https://www.movie-locations.com/people/k/krugerd.php\">Diane Kruger</a>) goes horribly wrong, was also no more than a studio set, as was the interior of the LaPadite farmhouse, in which chillingly polite Colonel Hans Landa (<a href=\"https://www.movie-locations.com/people/w/waltzc.php\">Christoph Waltz</a>) interrogates the hapless farmer.  The exterior is a cabin overlooking the village of <span class=\"name\">Sebnitz</span>, just a few miles northeast of <span class=\"name\">Bad Schandau</span> down near the Czech border.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0361748/003.jpg\" alt=\"Inglourious Basterds fliming location: Hahneberg Fort, Germany\"><figcaption>Inglourious Basterds film location: the Basterds interrogate – and scalp – Nazis: Hahneberg Fort, Germany | Photograph: flickr / mKerenski</figcaption></figure>\n<p>Just outside Berlin itself, the wooded ravine with brick arches where Aldo Raine (<a href=\"https://www.movie-locations.com/people/p/pittb.php\">Brad Pitt</a>) and the Basterds interrogate Nazis before taking scalps, is <a href=\"http://www.forthahneberg.de\" target=\"_blank\">Fort Hahneberg</a>, <span class=\"name\">Hahnebergweg 50</span>, west of the city (near to Spandau).  The partition of  <a href=\"https://www.movie-locations.com/places/europe/germany.php\">Germany</a> meant that the fort, built in 1888 as a defence for the city but never actually used, lay for decades undisturbed in a strip of no-man’s-land.  It’s now been opened up and there are regular guided tours (from April to October).</p>\n<p>Hitler's office, where the surviving Private Butz recounts the gory details of his encounter with the Basterds, \n      was shot in the <span class=\"name\">Clay Headquarters Compound</span> of the United States Army in Berlin, at the corner of <span class=\"name\">Clayallee and Saargemuender Strasse</span> in the Dahlem district.</p>\n<p>Built for the German Air Force in the late Thirties, the complex was taken over after the war to be used as headquarters of the US Military Government for Germany.  When the US army finally vacated the compound, it stood empty, occasionally finding use as a film location (<a href=\"https://www.movie-locations.com/people/s/singerb.php\">Bryan Singer</a>’s <span class=\"name\">Valkyrie</span>, with <a href=\"https://www.movie-locations.com/people/c/cruiset.php\">Tom Cruise</a>, filmed here). It was recently sold and its future is uncertain.</p>\n<p>The one genuine Parisian location in the film is the charming little bistro where Shosanna realises that persistent young soldier Fredrick Zoller (<a href=\"https://www.movie-locations.com/people/b/bruhld.php\">Daniel Brühl</a>) is a national hero.  It’s <a href=\"http://www.bistrotlarenaissance.fr\" target=\"_blank\">Bistrot La Renaissance</a>, <span class=\"name\">112 Rue Championnet</span> at Rue du Poteau (<span class=\"ital\">metro: Jules Joffrin</span>), north of the city in the 18th Arrondissement. The bar had been noticed by <a href=\"https://www.movie-locations.com/people/t/tarantinoq.php\">Tarantino</a> in <span class=\"name\">Claude Chabrol</span>’s 1984 drama <span class=\"name\">Le Sangue Des Autres</span> (<span class=\"name\">The Blood of Others</span>) and was found to have remained, amazingly, unchanged. It had featured on screen even before that, in <span class=\"name\">Michel Deville</span>’s wonderfully titled 1974 <span class=\"name\">Le Mouton Enragé</span>, with <span class=\"name\">Jean-Louis Trintignant</span>.</p>\n<p>The other Parisian’ location, ‘Chez Maurice’, the restaurant to which Shosanna is summoned to a meeting over strudel with Josef Goebbels, however, is back in <span class=\"name\">Berlin</span>, where it’s quite famous in its own right. It’s <a href=\"http://www.cafeeinstein.com/\" target=\"_blank\">Cafe Einstein</a>, <span class=\"name\">Kurfürstenstraße 58</span>, the elegant wood-panelled original which spawned a chain of coffee houses in the city.</p>\n<p><span class=\"ital\">Stolz der Nation</span> (<span class=\"ital\">Nation’s Pride</span>), the propaganda film about Fredrick Zoller being premiered at La Gamaar for the Nazi top brass, was actually filmed as a seven-minute short by <a href=\"https://www.movie-locations.com/people/r/rothe.php\">Eli Roth</a> (the director of <span class=\"name\">Hostel</span>, who also wields a mean baseball bat as Donny Donowitz, the ‘Bear Jew’). You can catch the full version (with yet another baby-in-runaway-pram homage to <a href=\"https://www.movie-locations.com/movies/b/Battleship-Potemkin.php\">Battleship Potemkin</a> – see <a href=\"https://www.movie-locations.com/movies/b/Brazil-1985.php\">Brazil</a> or <a href=\"https://www.movie-locations.com/movies/u/Untouchables.php\">The Untouchables</a>) on the DVD of <span class=\"name\">Inglourious Basterds</span>.\t  </p>\n<p>Set in ‘Sicily’, the film-within-a-film was shot on  <span class=\"name\">Untermarkt</span> and <span class=\"name\">Obermarkt</span> in the old town of <span class=\"name\">Görlitz</span>, about 40 miles northeast of <span class=\"name\">Bad Schandau</span>, but on the border with <a href=\"https://www.movie-locations.com/places/europe/poland.php\">Poland</a>.</p>\n<p>The unmodernised streets of <span class=\"name\">Görlitz</span> also served as the backdrop to two more WWII dramas – <a href=\"https://www.movie-locations.com/people/d/daldrys.php\">Stephen Daldry</a>’s 2008 <span class=\"name\">The Reader</span>, with <a href=\"https://www.movie-locations.com/people/w/winsletk.php\">Kate Winslet</a> and <a href=\"https://www.movie-locations.com/people/f/fiennesr.php\">Ralph Fiennes</a>, and <span class=\"name\">The Book Thief</span>; as well as standing in for ‘Paris’ in the 2004 version of<span class=\"name\"> Around The World In 80 Days</span> and for the fictitious country of ‘Zubrowka’ in <a href=\"https://www.movie-locations.com/people/a/andersonw.php\">Wes Anderson</a>’s <a href=\"https://www.movie-locations.com/movies/g/Grand-Budapest-Hotel.php\">The Grand Budapest Hotel</a>.</p>",
+  "main_content_text": "Quentin Tarantino won’t be drawn on the odd title, though I’m sure the quirky spelling was no hindrance when it came to avoiding copyright issues with the 1977 film, Inglorious Bastards.\n\n‘Once upon a time in occupied France’ gives a clue to the film’s take on reality but, let’s be honest, this audacious fantasy of Jewish revenge on the Third Reich is only fractionally more far-fetched than many Hollywood war movies have been.\n\nThe director kicks off with his magpie habit of lifting music from other movies (the theme from John Wayne’s 1960 The Alamo in this case), before launching into a series of suspense sequences heightened by the director’s matchless ear for dialogue.\n\nThough set largely in France, most of the movie was filmed in Germany, at the Babelsberg Studios at Potsdam, southwest of Berlin. Built in 1917 as the UFA (Universum Film Aktien Gesellschaft) Studios, the studio really is where Joseph Goebbels shot his notorious propaganda films for the Führer. Yet before being co-opted for such noxious vehicles as the infamous Jud Süss, Babelsberg was home to such classics of the Twenties and Thirties as Nosferatu, The Cabinet of Dr Caligari, Metropolis and The Blue Angel.\n\nSo, first the disappointments. You won’t find ‘La Gamaar’, the cinema run by Shosanna (Mélanie Laurent) in Paris, or indeed, anywhere. It was built – both interior and exterior – in the studio.\n\nThe design was inspired by two favourite Los Angeles picture palaces you may be familiar with: the Vista Theater, 4473 Sunset Drive, in East Hollywood (seen in the Tarantino-scripted True Romance) and downtown’s lavish Los Angeles Theatre, 615 South Broadway (which has featured in films as diverse as The Artist, Armageddon, Batman Forever, Chaplin, Charlie’s Angels and Christopher Nolan’s The Prestige). And, just to ensure Babelsberg was preserved for future productions, a duplicate cinema interior was built in an abandoned cement factory to film the final explosive conflagration.\n\n‘La Louisiane’, the basement bar where the meeting with film star Bridget von Hammersmark (Diane Kruger) goes horribly wrong, was also no more than a studio set, as was the interior of the LaPadite farmhouse, in which chillingly polite Colonel Hans Landa (Christoph Waltz) interrogates the hapless farmer. The exterior is a cabin overlooking the village of Sebnitz, just a few miles northeast of Bad Schandau down near the Czech border.\n\nJust outside Berlin itself, the wooded ravine with brick arches where Aldo Raine (Brad Pitt) and the Basterds interrogate Nazis before taking scalps, is Fort Hahneberg, Hahnebergweg 50, west of the city (near to Spandau). The partition of Germany meant that the fort, built in 1888 as a defence for the city but never actually used, lay for decades undisturbed in a strip of no-man’s-land. It’s now been opened up and there are regular guided tours (from April to October).\n\nHitler's office, where the surviving Private Butz recounts the gory details of his encounter with the Basterds, was shot in the Clay Headquarters Compound of the United States Army in Berlin, at the corner of Clayallee and Saargemuender Strasse in the Dahlem district.\n\nBuilt for the German Air Force in the late Thirties, the complex was taken over after the war to be used as headquarters of the US Military Government for Germany. When the US army finally vacated the compound, it stood empty, occasionally finding use as a film location (Bryan Singer’s Valkyrie, with Tom Cruise, filmed here). It was recently sold and its future is uncertain.\n\nThe one genuine Parisian location in the film is the charming little bistro where Shosanna realises that persistent young soldier Fredrick Zoller (Daniel Brühl) is a national hero. It’s Bistrot La Renaissance, 112 Rue Championnet at Rue du Poteau (metro: Jules Joffrin), north of the city in the 18th Arrondissement. The bar had been noticed by Tarantino in Claude Chabrol’s 1984 drama Le Sangue Des Autres (The Blood of Others) and was found to have remained, amazingly, unchanged. It had featured on screen even before that, in Michel Deville’s wonderfully titled 1974 Le Mouton Enragé, with Jean-Louis Trintignant.\n\nThe other Parisian’ location, ‘Chez Maurice’, the restaurant to which Shosanna is summoned to a meeting over strudel with Josef Goebbels, however, is back in Berlin, where it’s quite famous in its own right. It’s Cafe Einstein, Kurfürstenstraße 58, the elegant wood-panelled original which spawned a chain of coffee houses in the city.\n\nStolz der Nation (Nation’s Pride), the propaganda film about Fredrick Zoller being premiered at La Gamaar for the Nazi top brass, was actually filmed as a seven-minute short by Eli Roth (the director of Hostel, who also wields a mean baseball bat as Donny Donowitz, the ‘Bear Jew’). You can catch the full version (with yet another baby-in-runaway-pram homage to Battleship Potemkin – see Brazil or The Untouchables) on the DVD of Inglourious Basterds.\n\nSet in ‘Sicily’, the film-within-a-film was shot on Untermarkt and Obermarkt in the old town of Görlitz, about 40 miles northeast of Bad Schandau, but on the border with Poland.\n\nThe unmodernised streets of Görlitz also served as the backdrop to two more WWII dramas – Stephen Daldry’s 2008 The Reader, with Kate Winslet and Ralph Fiennes, and The Book Thief; as well as standing in for ‘Paris’ in the 2004 version of Around The World In 80 Days and for the fictitious country of ‘Zubrowka’ in Wes Anderson’s The Grand Budapest Hotel.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Inglourious Basterds film location: Shosanna and the German soldier in the Parisian bistro: Bistrot La Renaissance, Rue Championnet, Paris",
+      "src": "_assets/tt0361748%20-%20Inglourious-Basterds/001.jpg",
+      "alt": "Inglourious Basterds fliming location: Bistrot La Renaissance, Rue Championnet, Paris"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quentin Tarantino won’t be drawn on the odd title, though I’m sure the quirky spelling was no hindrance when it came to avoiding copyright issues with the 1977 film, Inglorious Bastards."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Once upon a time in occupied France’ gives a clue to the film’s take on reality but, let’s be honest, this audacious fantasy of Jewish revenge on the Third Reich is only fractionally more far-fetched than many Hollywood war movies have been."
+    },
+    {
+      "type": "paragraph",
+      "text": "The director kicks off with his magpie habit of lifting music from other movies (the theme from John Wayne’s 1960 The Alamo in this case), before launching into a series of suspense sequences heightened by the director’s matchless ear for dialogue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Though set largely in France, most of the movie was filmed in Germany, at the Babelsberg Studios at Potsdam, southwest of Berlin. Built in 1917 as the UFA (Universum Film Aktien Gesellschaft) Studios, the studio really is where Joseph Goebbels shot his notorious propaganda films for the Führer. Yet before being co-opted for such noxious vehicles as the infamous Jud Süss, Babelsberg was home to such classics of the Twenties and Thirties as Nosferatu, The Cabinet of Dr Caligari, Metropolis and The Blue Angel."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, first the disappointments. You won’t find ‘La Gamaar’, the cinema run by Shosanna (Mélanie Laurent) in Paris, or indeed, anywhere. It was built – both interior and exterior – in the studio."
+    },
+    {
+      "type": "paragraph",
+      "text": "The design was inspired by two favourite Los Angeles picture palaces you may be familiar with: the Vista Theater, 4473 Sunset Drive, in East Hollywood (seen in the Tarantino-scripted True Romance) and downtown’s lavish Los Angeles Theatre, 615 South Broadway (which has featured in films as diverse as The Artist, Armageddon, Batman Forever, Chaplin, Charlie’s Angels and Christopher Nolan’s The Prestige). And, just to ensure Babelsberg was preserved for future productions, a duplicate cinema interior was built in an abandoned cement factory to film the final explosive conflagration."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘La Louisiane’, the basement bar where the meeting with film star Bridget von Hammersmark (Diane Kruger) goes horribly wrong, was also no more than a studio set, as was the interior of the LaPadite farmhouse, in which chillingly polite Colonel Hans Landa (Christoph Waltz) interrogates the hapless farmer. The exterior is a cabin overlooking the village of Sebnitz, just a few miles northeast of Bad Schandau down near the Czech border."
+    },
+    {
+      "type": "image",
+      "caption": "Inglourious Basterds film location: the Basterds interrogate – and scalp – Nazis: Hahneberg Fort, Germany | Photograph: flickr / mKerenski",
+      "src": "_assets/tt0361748%20-%20Inglourious-Basterds/003.jpg",
+      "alt": "Inglourious Basterds fliming location: Hahneberg Fort, Germany"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just outside Berlin itself, the wooded ravine with brick arches where Aldo Raine (Brad Pitt) and the Basterds interrogate Nazis before taking scalps, is Fort Hahneberg, Hahnebergweg 50, west of the city (near to Spandau). The partition of Germany meant that the fort, built in 1888 as a defence for the city but never actually used, lay for decades undisturbed in a strip of no-man’s-land. It’s now been opened up and there are regular guided tours (from April to October)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hitler's office, where the surviving Private Butz recounts the gory details of his encounter with the Basterds, was shot in the Clay Headquarters Compound of the United States Army in Berlin, at the corner of Clayallee and Saargemuender Strasse in the Dahlem district."
+    },
+    {
+      "type": "paragraph",
+      "text": "Built for the German Air Force in the late Thirties, the complex was taken over after the war to be used as headquarters of the US Military Government for Germany. When the US army finally vacated the compound, it stood empty, occasionally finding use as a film location (Bryan Singer’s Valkyrie, with Tom Cruise, filmed here). It was recently sold and its future is uncertain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The one genuine Parisian location in the film is the charming little bistro where Shosanna realises that persistent young soldier Fredrick Zoller (Daniel Brühl) is a national hero. It’s Bistrot La Renaissance, 112 Rue Championnet at Rue du Poteau (metro: Jules Joffrin), north of the city in the 18th Arrondissement. The bar had been noticed by Tarantino in Claude Chabrol’s 1984 drama Le Sangue Des Autres (The Blood of Others) and was found to have remained, amazingly, unchanged. It had featured on screen even before that, in Michel Deville’s wonderfully titled 1974 Le Mouton Enragé, with Jean-Louis Trintignant."
+    },
+    {
+      "type": "paragraph",
+      "text": "The other Parisian’ location, ‘Chez Maurice’, the restaurant to which Shosanna is summoned to a meeting over strudel with Josef Goebbels, however, is back in Berlin, where it’s quite famous in its own right. It’s Cafe Einstein, Kurfürstenstraße 58, the elegant wood-panelled original which spawned a chain of coffee houses in the city."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stolz der Nation (Nation’s Pride), the propaganda film about Fredrick Zoller being premiered at La Gamaar for the Nazi top brass, was actually filmed as a seven-minute short by Eli Roth (the director of Hostel, who also wields a mean baseball bat as Donny Donowitz, the ‘Bear Jew’). You can catch the full version (with yet another baby-in-runaway-pram homage to Battleship Potemkin – see Brazil or The Untouchables) on the DVD of Inglourious Basterds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Set in ‘Sicily’, the film-within-a-film was shot on Untermarkt and Obermarkt in the old town of Görlitz, about 40 miles northeast of Bad Schandau, but on the border with Poland."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unmodernised streets of Görlitz also served as the backdrop to two more WWII dramas – Stephen Daldry’s 2008 The Reader, with Kate Winslet and Ralph Fiennes, and The Book Thief; as well as standing in for ‘Paris’ in the 2004 version of Around The World In 80 Days and for the fictitious country of ‘Zubrowka’ in Wes Anderson’s The Grand Budapest Hotel."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Germany</h3>\n<p>Visit: Germany</p>\n<p>Visit: Berlin</p>\n<p>Flights: Berlin Tegel Airport, Zufahrt zum Flughafen Tegel, 13405 Berlin (tel: +49.30.60911150)</p>\n<p>Visit: Studio Babelsberg, August-Bebel-Straße. 26-53, 14482 Potsdam (tel: +49.331.7210000)</p>\n<p>Visit: Filmpark Babelsburg, Großbeerenstraße 200, 14482 Potsdam-Babelsberg (+49.331.7212750)</p>\n<p>Visit: Cafe Einstein, Kurfürstenstraße 58, 10785 Berlin (tel: +49.30.2615096)</p>\n<p>Visit: Fort Hahneberg, Hahnebergweg 50, 13593 Berlin (tel: +49.30.3664605)</p>\n<p>Visit: Görlitz</p>\n</section>\n<section><h3>France</h3>\n<p>Visit: France</p>\n<p>Visit: Paris</p>\n<p>Flights: Charles De Gaulle International Airport, 95700 Roissy-en-France, France (tel: 33.1.70.36.39.50)</p>\n<p>Travel around: Paris Metro</p>\n<p>Visit: Bistrot La Renaissance, 112 Rue Championnet, 75018 Paris (tel: 01.46.06.01.76)</p>\n</section>",
+  "visit_info_text": "Germany\nVisit: Germany\nVisit: Berlin\nFlights: Berlin Tegel Airport, Zufahrt zum Flughafen Tegel, 13405 Berlin (tel: +49.30.60911150)\nVisit: Studio Babelsberg, August-Bebel-Straße. 26-53, 14482 Potsdam (tel: +49.331.7210000)\nVisit: Filmpark Babelsburg, Großbeerenstraße 200, 14482 Potsdam-Babelsberg (+49.331.7212750)\nVisit: Cafe Einstein, Kurfürstenstraße 58, 10785 Berlin (tel: +49.30.2615096)\nVisit: Fort Hahneberg, Hahnebergweg 50, 13593 Berlin (tel: +49.30.3664605)\nVisit: Görlitz\nFrance\nVisit: France\nVisit: Paris\nFlights: Charles De Gaulle International Airport, 95700 Roissy-en-France, France (tel: 33.1.70.36.39.50)\nTravel around: Paris Metro\nVisit: Bistrot La Renaissance, 112 Rue Championnet, 75018 Paris (tel: 01.46.06.01.76)",
+  "visit_sections": [
+    {
+      "title": "Germany",
+      "items": [
+        "Visit: Germany",
+        "Visit: Berlin",
+        "Flights: Berlin Tegel Airport, Zufahrt zum Flughafen Tegel, 13405 Berlin (tel: +49.30.60911150)",
+        "Visit: Studio Babelsberg, August-Bebel-Straße. 26-53, 14482 Potsdam (tel: +49.331.7210000)",
+        "Visit: Filmpark Babelsburg, Großbeerenstraße 200, 14482 Potsdam-Babelsberg (+49.331.7212750)",
+        "Visit: Cafe Einstein, Kurfürstenstraße 58, 10785 Berlin (tel: +49.30.2615096)",
+        "Visit: Fort Hahneberg, Hahnebergweg 50, 13593 Berlin (tel: +49.30.3664605)",
+        "Visit: Görlitz"
+      ]
+    },
+    {
+      "title": "France",
+      "items": [
+        "Visit: France",
+        "Visit: Paris",
+        "Flights: Charles De Gaulle International Airport, 95700 Roissy-en-France, France (tel: 33.1.70.36.39.50)",
+        "Travel around: Paris Metro",
+        "Visit: Bistrot La Renaissance, 112 Rue Championnet, 75018 Paris (tel: 01.46.06.01.76)"
+      ]
+    }
+  ]
+}

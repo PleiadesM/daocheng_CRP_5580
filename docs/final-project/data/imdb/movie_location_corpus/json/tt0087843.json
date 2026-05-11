@@ -1,0 +1,198 @@
+{
+  "imdb_id": "tt0087843",
+  "shorthand": "Once-Upon-A-Time-In-America",
+  "title": "Once Upon A Time In America",
+  "year": 1983,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0087843 - Once-Upon-A-Time-In-America.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0087843 - Once-Upon-A-Time-In-America.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0087843.json",
+  "source_url": "http://www.movie-locations.com/movies/o/Once-Upon-A-Time-In-America.php",
+  "page_title": "Once Upon A Time In America | Film Locations",
+  "meta_description": "Film locations for Sergio Leone's epic Once Upon a Time in America (1983), in New York, New Jersey, Florida, Quebec, Paris and Venice; including Brooklyn, Gare du Nord and the Hotel Excelsior on the Lido.",
+  "meta_keywords": "Once Upon A Time In America (1983), film locations, filming locations, tourism, travel, set-jetting, new york, new jersey, florida, quebec, paris, venice, lido, sergio leone, robert de niro, gare du nord, brooklyn",
+  "og_title": "Filming Locations for Sergio Leone's epic Once Upon a Time in America (1983), in New York, New Jersey, Florida, Quebec, Paris and Venice.",
+  "og_description": "Travel guide to film locations for Sergio Leone's epic Once Upon a Time in America (1983), in New York, New Jersey, Florida, Quebec, Paris and Venice.",
+  "og_image": "http://www.movie-locations.com/movies/o/Once-Upon-A-Time-In-America.jpg",
+  "top250_rank": "136",
+  "movie_locations_title": "ONCE UPON A TIME IN AMERICA",
+  "movie_locations_regions": "New York | New Jersey | Florida | Italy | Paris, France | Quebec",
+  "director": "Sergio Leone",
+  "cast": [
+    "Robert De Niro",
+    "James Woods",
+    "Elizabeth McGovern",
+    "James Russo",
+    "William Forsythe",
+    "Treat Williams",
+    "Burt Young",
+    "Tuesday Weld",
+    "Paul Herman",
+    "Richard Bright"
+  ],
+  "locations": [
+    "New York;",
+    "New Jersey;",
+    "Florida;",
+    "Italy;",
+    "Paris, France;",
+    "Quebec"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0087843%20-%20Once-Upon-A-Time-In-America/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0087843 - Once-Upon-A-Time-In-America/001.jpg",
+    "exists": true,
+    "alt": "Once Upon A Time In America poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0087843/poster.jpg",
+    "corpus_asset_src": "../assets/tt0087843/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0087843%20-%20Once-Upon-A-Time-In-America/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0087843 - Once-Upon-A-Time-In-America/001.jpg",
+    "exists": true,
+    "alt": "Once Upon A Time In America poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0087843/001.jpg",
+    "corpus_asset_src": "../assets/tt0087843/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0087843%20-%20Once-Upon-A-Time-In-America/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0087843 - Once-Upon-A-Time-In-America/001.jpg",
+      "exists": true,
+      "alt": "Once Upon A Time In America poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0087843/001.jpg",
+      "corpus_asset_src": "../assets/tt0087843/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0087843%20-%20Once-Upon-A-Time-In-America/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0087843 - Once-Upon-A-Time-In-America/002.jpg",
+      "exists": true,
+      "alt": "Once Upon a Time In America location: 8th Street South, Brooklyn",
+      "caption": "Once Upon a Time In America location: The twenties neighbourhood: 8th Street South, Brooklyn",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0087843/002.jpg",
+      "corpus_asset_src": "../assets/tt0087843/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0087843%20-%20Once-Upon-A-Time-In-America/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0087843 - Once-Upon-A-Time-In-America/003.jpg",
+      "exists": true,
+      "alt": "Once Upon a Time In America location: Hotel Excelsior, the Lido, Venice",
+      "caption": "Once Upon a Time In America location: The ‘Long Island’ restaurant: Hotel Excelsior, the Lido, Venice",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0087843/003.jpg",
+      "corpus_asset_src": "../assets/tt0087843/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0087843%20-%20Once-Upon-A-Time-In-America/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0087843 - Once-Upon-A-Time-In-America/004.jpg",
+      "exists": true,
+      "alt": "Once Upon a Time In America location: Manhattan Bridge, Water Street at Washington Street, Brooklyn",
+      "caption": "Once Upon a Time In America location: The iconic poster image: Manhattan Bridge, Water Street at Washington Street, Brooklyn | Photograph: Simon Robson",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0087843/004.jpg",
+      "corpus_asset_src": "../assets/tt0087843/004.jpg"
+    }
+  ],
+  "main_content_html": "<p>The locations for <a href=\"https://www.movie-locations.com/people/l/leones.php\">Sergio Leone</a>’s magnificent sprawling epic – set in <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> – can be found not only in the <span class=\"name\">USA</span>, but across <span class=\"name\">Europe</span>.</p>\n<p>Following on from <span class=\"name\">Once Upon a Time In The West</span>, the film traces the growth of the States from the Twenties to the Sixties, as the Western becomes the gangster flick. The setting of <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> has obviously changed out of all recognition. <a href=\"https://www.movie-locations.com/people/l/leones.php\">Leone</a> filmed not only in <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> itself – where an entire city block was reconstructed – and <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a> – which you might expect – to <a href=\"https://www.movie-locations.com/places/usa/florida.php\">Florida</a>, up to <span class=\"name\">Montreal</span>, <a href=\"https://www.movie-locations.com/places/canada/quebec.php\">Quebec</a>, and more surprisingly in <a href=\"https://www.movie-locations.com/places/europe/france.php\">France</a> and <a href=\"https://www.movie-locations.com/places/europe/italy.php\">Italy</a>.</p>\n<p>The twenties ‘Lower East Side’ neighbourhood, where Noodles and Max first meet up, was indeed filmed on the streets below the towering <span class=\"name\">Williamsburg Bridge</span> – but not in Manhattan. The location is across the East River on<span class=\"name\"> 8th Avenue South</span> at <span class=\"name\">Bedford Avenue</span> in <span class=\"name\">Brooklyn</span>.</p>\n<p><span class=\"name\">Hoboken Railway Station</span> in <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a> and the <a href=\"https://www.loewshotels.com/don-cesar\" target=\"_blank\">Don CeSar Beach Resort</a>, <span class=\"name\">3400 Gulf Boulevard</span>, <span class=\"name\">St Petersburg Beach</span> in <a href=\"https://www.movie-locations.com/places/usa/florida.php\">Florida</a> also stood in for old Manhattan.</p>\n<p><a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>’s ‘Grand Central Station’, in the thirties flashbacks, is the <span class=\"name\">Gare du Nord</span> in <span class=\"name\">Paris</span>. </p>\n<p>Perhaps the most unexpected location is the lavish ‘Long Island’ restaurant, to which Noodles (<a href=\"https://www.movie-locations.com/people/d/deniror.php\">Robert De Niro</a>) takes his dream date. You'll find this in <span class=\"name\">Venice</span>: it’s the <a href=\"http://www.hotelexcelsiorvenezia.com/en/\" target=\"_blank\">Hotel Excelsior Venice</a>, <span class=\"name\">Lungomare Marconi 41</span> on the <span class=\"name\">Lido</span>. Built in the 1900s, the <a href=\"http://www.hotelexcelsiorvenezia.com/en/\" target=\"_blank\">Excelsior</a> was the world’s top resort hotel and is a favourite of the film festival crowd. It's on the Lido just along from the famous Grand Hotel des Bains, famous onscreen from <a href=\"https://www.movie-locations.com/people/v/viscontil.php\">Luchino Visconti</a>'s <a href=\"https://www.movie-locations.com/movies/d/Death-In-Venice.php\">Death In Venice</a>.</p>\n<p>The bridge towering over the warehouses, an image so striking it was used for the poster art and DVD cover, is <span class=\"name\">Manhattan Bridge</span>, <span class=\"name\">Water Street</span> at Washington Street, once again, over in <span class=\"name\">Brooklyn</span>.</p>",
+  "main_content_text": "The locations for Sergio Leone’s magnificent sprawling epic – set in New York – can be found not only in the USA, but across Europe.\n\nFollowing on from Once Upon a Time In The West, the film traces the growth of the States from the Twenties to the Sixties, as the Western becomes the gangster flick. The setting of New York has obviously changed out of all recognition. Leone filmed not only in New York itself – where an entire city block was reconstructed – and New Jersey – which you might expect – to Florida, up to Montreal, Quebec, and more surprisingly in France and Italy.\n\nThe twenties ‘Lower East Side’ neighbourhood, where Noodles and Max first meet up, was indeed filmed on the streets below the towering Williamsburg Bridge – but not in Manhattan. The location is across the East River on 8th Avenue South at Bedford Avenue in Brooklyn.\n\nHoboken Railway Station in New Jersey and the Don CeSar Beach Resort, 3400 Gulf Boulevard, St Petersburg Beach in Florida also stood in for old Manhattan.\n\nNew York’s ‘Grand Central Station’, in the thirties flashbacks, is the Gare du Nord in Paris.\n\nPerhaps the most unexpected location is the lavish ‘Long Island’ restaurant, to which Noodles (Robert De Niro) takes his dream date. You'll find this in Venice: it’s the Hotel Excelsior Venice, Lungomare Marconi 41 on the Lido. Built in the 1900s, the Excelsior was the world’s top resort hotel and is a favourite of the film festival crowd. It's on the Lido just along from the famous Grand Hotel des Bains, famous onscreen from Luchino Visconti's Death In Venice.\n\nThe bridge towering over the warehouses, an image so striking it was used for the poster art and DVD cover, is Manhattan Bridge, Water Street at Washington Street, once again, over in Brooklyn.",
+  "main_sections": [
+    {
+      "type": "paragraph",
+      "text": "The locations for Sergio Leone’s magnificent sprawling epic – set in New York – can be found not only in the USA, but across Europe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following on from Once Upon a Time In The West, the film traces the growth of the States from the Twenties to the Sixties, as the Western becomes the gangster flick. The setting of New York has obviously changed out of all recognition. Leone filmed not only in New York itself – where an entire city block was reconstructed – and New Jersey – which you might expect – to Florida, up to Montreal, Quebec, and more surprisingly in France and Italy."
+    },
+    {
+      "type": "paragraph",
+      "text": "The twenties ‘Lower East Side’ neighbourhood, where Noodles and Max first meet up, was indeed filmed on the streets below the towering Williamsburg Bridge – but not in Manhattan. The location is across the East River on 8th Avenue South at Bedford Avenue in Brooklyn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoboken Railway Station in New Jersey and the Don CeSar Beach Resort, 3400 Gulf Boulevard, St Petersburg Beach in Florida also stood in for old Manhattan."
+    },
+    {
+      "type": "paragraph",
+      "text": "New York’s ‘Grand Central Station’, in the thirties flashbacks, is the Gare du Nord in Paris."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps the most unexpected location is the lavish ‘Long Island’ restaurant, to which Noodles (Robert De Niro) takes his dream date. You'll find this in Venice: it’s the Hotel Excelsior Venice, Lungomare Marconi 41 on the Lido. Built in the 1900s, the Excelsior was the world’s top resort hotel and is a favourite of the film festival crowd. It's on the Lido just along from the famous Grand Hotel des Bains, famous onscreen from Luchino Visconti's Death In Venice."
+    },
+    {
+      "type": "paragraph",
+      "text": "The bridge towering over the warehouses, an image so striking it was used for the poster art and DVD cover, is Manhattan Bridge, Water Street at Washington Street, once again, over in Brooklyn."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n</section>\n<section><h3>New Jersey</h3>\n<p>Visit: New Jersey</p>\n</section>\n<section><h3>Florida</h3>\n<p>Visit: Florida</p>\n<p>Visit: Miami &amp; The Beaches</p>\n<p>Stay at: the Don CeSar Beach Resort, 3400 Gulf Boulevard, St Petersburg, FL 33706 (tel: 727.360.1881)</p>\n</section>\n<section><h3>Italy</h3>\n<p>Visit: Italy</p>\n<p>Visit: Venice</p>\n<p>Flights: Venice Marco Polo Airport, Via Galileo Galilei, 30/1, 30173 Venezia (tel: +39.041.260.6111)</p>\n<p>Visit: the Hotel Excelsior Venice, Lungomare Guglielmo Marconi, 41, 30126 Lido VE (tel: +39.041.526.0201)</p>\n</section>\n<section><h3>France</h3>\n<p>Visit: France</p>\n<p>Visit: Paris</p>\n<p>Flights: Charles De Gaulle International Airport, 95700 Roissy-en-France, France (tel: 33.1.70.36.39.50)</p>\n<p>Travel around: Paris Metro</p>\n</section>\n<section><h3>Quebec</h3>\n<p>Visit: Québec</p>\n<p>Visit: Québec City</p>\n<p>Flights: Québec City Jean Lesage International Airport, 505 Rue Principale, Ville de Québec, QC G2G 0J4 (tel: 418.640.3300)</p>\n</section>",
+  "visit_info_text": "New York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nNew Jersey\nVisit: New Jersey\nFlorida\nVisit: Florida\nVisit: Miami & The Beaches\nStay at: the Don CeSar Beach Resort, 3400 Gulf Boulevard, St Petersburg, FL 33706 (tel: 727.360.1881)\nItaly\nVisit: Italy\nVisit: Venice\nFlights: Venice Marco Polo Airport, Via Galileo Galilei, 30/1, 30173 Venezia (tel: +39.041.260.6111)\nVisit: the Hotel Excelsior Venice, Lungomare Guglielmo Marconi, 41, 30126 Lido VE (tel: +39.041.526.0201)\nFrance\nVisit: France\nVisit: Paris\nFlights: Charles De Gaulle International Airport, 95700 Roissy-en-France, France (tel: 33.1.70.36.39.50)\nTravel around: Paris Metro\nQuebec\nVisit: Québec\nVisit: Québec City\nFlights: Québec City Jean Lesage International Airport, 505 Rue Principale, Ville de Québec, QC G2G 0J4 (tel: 418.640.3300)",
+  "visit_sections": [
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA"
+      ]
+    },
+    {
+      "title": "New Jersey",
+      "items": [
+        "Visit: New Jersey"
+      ]
+    },
+    {
+      "title": "Florida",
+      "items": [
+        "Visit: Florida",
+        "Visit: Miami & The Beaches",
+        "Stay at: the Don CeSar Beach Resort, 3400 Gulf Boulevard, St Petersburg, FL 33706 (tel: 727.360.1881)"
+      ]
+    },
+    {
+      "title": "Italy",
+      "items": [
+        "Visit: Italy",
+        "Visit: Venice",
+        "Flights: Venice Marco Polo Airport, Via Galileo Galilei, 30/1, 30173 Venezia (tel: +39.041.260.6111)",
+        "Visit: the Hotel Excelsior Venice, Lungomare Guglielmo Marconi, 41, 30126 Lido VE (tel: +39.041.526.0201)"
+      ]
+    },
+    {
+      "title": "France",
+      "items": [
+        "Visit: France",
+        "Visit: Paris",
+        "Flights: Charles De Gaulle International Airport, 95700 Roissy-en-France, France (tel: 33.1.70.36.39.50)",
+        "Travel around: Paris Metro"
+      ]
+    },
+    {
+      "title": "Quebec",
+      "items": [
+        "Visit: Québec",
+        "Visit: Québec City",
+        "Flights: Québec City Jean Lesage International Airport, 505 Rue Principale, Ville de Québec, QC G2G 0J4 (tel: 418.640.3300)"
+      ]
+    }
+  ]
+}

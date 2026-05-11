@@ -1,0 +1,828 @@
+{
+  "imdb_id": "tt1345836",
+  "shorthand": "Dark-Knight-Rises",
+  "title": "The Dark Knight Rises",
+  "year": 2012,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt1345836 - Dark-Knight-Rises.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt1345836 - Dark-Knight-Rises.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt1345836.json",
+  "source_url": "http://www.movie-locations.com/movies/d/Dark-Knight-Rises.php",
+  "page_title": "Film Locations for Christopher Nolan's The Dark Knight Rises, in Pittsburgh, Los Angeles, London, Nottingham, India and more.",
+  "meta_description": "Film Locations for Christopher Nolan's The Dark Knight, in in Pittsburgh, Los Angeles, London, Nottingham and India: including Wollaton Hall, Nottingham; Osterley Park House, West London; Trump Tower, New York; Downtown Los Angeles; Frank Bryan Cement Plant, Heinz Field, Carnegie Mellon Institute in Pittsburgh; Mehrangarh Fort, Jodhpur, India; and Sgwd Henrhyd (Henrhyd Waterfall) in South Wales.",
+  "meta_keywords": "The Dark Knight Rises (2012), film locations, filming locations, tourism, travel, set-jetting, los angeles, california, batman, pittsburgh, pennsylvania, new york, new jersey, india, london, wollaton hall, nottingham, osterley park house, stansted, essex",
+  "og_title": "Filming Locations for The Dark Knight Rises (2012), in Los Angeles, Pittsburgh, New York, New Jersey, London, Nottingham, Bedfordshire, Scotland, Wales, Essex and India.",
+  "og_description": "Film Locations for Christopher Nolan's The Dark Knight, in in Pittsburgh, Los Angeles, London, Nottingham and India: Wollaton Hall, Nottingham, Nottinghamshire ('Wayne Manor' exterior); Wollaton Hall, Nottingham, Nottinghamshire ('Wayne Manor' exterior); Osterley Park House, Jersey Road, Isleworth, West London ('Wayne Manor' interior); Trump Tower, 725 Fifth Avenue, New York ('Wayne Enterprises'exterior); 638 South Broadway, Downtown Los Angeles ('Gotham Museum Benefit', exterior); Senate House, Gower Street, London ('Gotham Museum Benefit', interior); JP Morgan Building, 23 Wall Street, New York (‘Gotham City Stock Exchange’, exterior); 433 South Spring Street, Downtown Los Angeles (‘Gotham City Stock Exchange’, interior); Lebanon Street, Downtown Los Angeles (flying Bat); Delta House, Wellesley Road, West Croydon (‘Gotham General Hospital’); Los Angeles Convention Center, Figueroa Street, Downtown Los Angeles (‘Applied Science Division’ of Wayne Enterprises); Frank Bryan Cement Plant, 100 South 3rd Street, Pittsburgh (‘Broucek Cement Company’); Heinz Field, 100 Art Rooney Avenue, Pittsburgh (home of the ‘Gotham Rogues’); Carnegie Mellon Institute, Fifth Avenue, Pittsburgh (‘Gotham City Hall’); Carnegie Mellon University’s Software Engineering Institute, South Dithridge Street, Pittsburgh (‘Blackgate Prison’); GM Hoff Building, 118 East 5th Street, Downtown Los Angeles (emergency supplies queue); Mehrangarh Fort, Jodhpur, India (subterranean prison); Sgwd Henrhyd (Henrhyd Waterfall), South Wales (waterfall)",
+  "og_image": "http://www.movie-locations.com/movies/d/dark-knight-rises-meta.jpg",
+  "top250_rank": "77",
+  "movie_locations_title": "THE DARK KNIGHT RISES",
+  "movie_locations_regions": "Los Angeles, California | Pittsburgh, Pennsylvania | New York | New Jersey | India | London | Scotland | Wales | Nottinghamshire | Bedfordshire | Essex",
+  "director": "Christopher Nolan",
+  "cast": [
+    "Christian Bale",
+    "Michael Caine",
+    "Tom Hardy",
+    "Anne Hathaway",
+    "Joseph Gordon-Levitt",
+    "Marion Cotillard",
+    "Morgan Freeman",
+    "Gary Oldman",
+    "Liam Neeson",
+    "Cillian Murphy",
+    "William Devane",
+    "Matthew Modine",
+    "Juno Temple",
+    "Tom Conti",
+    "Daniel Sunjata",
+    "Aidan Gillen",
+    "Burn Gorman",
+    "Tomas Arana",
+    "Brett Cullen",
+    "Thomas Lennon",
+    "LOS ANGELES locations",
+    "▶ Sony Studios, Culver City (studio sets, including the Batcave)",
+    "▶ 550 South Hope Street, Downtown (Wayne Enterprises boardroom, interior)",
+    "▶ 638 South Broadway, Downtown (Gotham Museum Benefit ball, exterior)",
+    "▶ Trust Building, 433 South Spring Street, Downtown (Gotham City Stock Exchange, interior)",
+    "▶ Lebanon Street at Wilshire Boulevard (Deputy Commissioner Foley surprised by Flying Bat)",
+    "▶ Los Angeles Convention Center, Figueroa Street (Applied Science Division of Wayne Enterprises)",
+    "▶ Union Station, 800 Alameda Street, Downtown (Dr Crane's makeshift court)",
+    "▶ Bank of America Building, 650 South Spring Street, Downtown (John Blake meets Lucius Fox)",
+    "▶ GM Hoff Building, 118 East 5th Street, Downtown (citizens of ‘Gotham’ queue up for emergency supplies)",
+    "▶ Third Street Tunnel, at South Flower Street, Downtown (cop cars piled up)",
+    "▶ South Grand Avenue at 4th Street, Downtown (truck carrying the bomb plunges to a lower level roadway)",
+    "PITTSBURGH locations",
+    "▶ Frank Bryan Cement Plant, 100 South 3rd Street, McKees Rocks (Blake discovers what's going on at the Broucek Cement Company’)",
+    "▶ Heinz Field, 100 Art Rooney Avenue (home of the ‘Gotham Rogues’, blown up by Bane’)",
+    "▶ 170 41st Street, Lawrenceville (home of Deputy Police Commissioner Foley’)",
+    "▶ Carnegie Mellon Institute, Fifth Avenue (Gotham City Hall, where Bane reads out speech’)",
+    "▶ Software Engineering Institute, South Dithridge Street (the entrance to Blackgate Prison)",
+    "▶ Strawberry Way, 7th Avenue, William Penn Place and Exchange Way (truck carrying the nuclear device)",
+    "▶ Franktuary, 333 Oliver Avenue (Blake evacuates the kids from ‘St Swithin’s’ orphanage’)",
+    "NEW YORK locations",
+    "▶ Trump Tower, 725 Fifth Avenue (entrance to Wayne Enterprises)",
+    "▶ JP Morgan Building, 23 Wall Street (Gotham City Stock Exchange, exterior)",
+    "▶ Queensboro Bridge (Batman atop the bridge)",
+    "▶ Park Avenue at 84th Street (rich Gothamites dragged from their homes)",
+    "LONDON locations",
+    "▶ Osterley Park House, Jersey Road, Isleworth, West London (Wayne Manor, interior)",
+    "▶ Senate House, Malet Street, London WC1 (Gotham Museum Benefit ball, interior)",
+    "▶ Farmiloe Building, 28-36 St John Street, Clerkenwell, EC1 (Gotham City Police Station, interior)",
+    "▶ Delta House, Wellesley Road, West Croydon (Gotham General Hospital, where Wayne visits Commissioner Gordon)",
+    "▶ Old Royal Naval College, King William Walk, London SE10 (terrace of Italian bar)",
+    "NOTTINGHAMSHIRE locations",
+    "▶ Wollaton Hall, Wollaton Park, Nottingham (Wayne Manor, exterior)",
+    "WALES locations",
+    "▶ Sgwd Henrhyd, Brecon Beacons National Park (John Blake makes a discovery behind the waterfall)",
+    "INDIA locations",
+    "▶ Mehrangarh Fort, Jodhpur, Rajasthan (subterranean prison in which Wayne is held captive, exterior)"
+  ],
+  "locations": [
+    "Los Angeles, California;",
+    "Pittsburgh, Pennsylvania;",
+    "New York;",
+    "New Jersey;",
+    "India;",
+    "London;",
+    "Scotland;",
+    "Wales;",
+    "Nottinghamshire;",
+    "Bedfordshire;",
+    "Essex"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/002.jpg",
+    "exists": true,
+    "alt": "The Dark Knight Rises poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/poster.jpg",
+    "corpus_asset_src": "../assets/tt1345836/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/001.jpg",
+    "exists": true,
+    "alt": "The Dark Knight Rises film location: Osterley Park, Osterley, London",
+    "caption": "The Dark Knight Rises film location: Selina Kyle infiltrates ‘Wayne Manor’: Entrance Hall, Osterley Park, Osterley, London",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/001.jpg",
+    "corpus_asset_src": "../assets/tt1345836/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/001.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Osterley Park, Osterley, London",
+      "caption": "The Dark Knight Rises film location: Selina Kyle infiltrates ‘Wayne Manor’: Entrance Hall, Osterley Park, Osterley, London",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/001.jpg",
+      "corpus_asset_src": "../assets/tt1345836/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/002.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/002.jpg",
+      "corpus_asset_src": "../assets/tt1345836/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/003.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Wollaton Hall, Nottingham",
+      "caption": "The Dark Knight Rises film location: the exterior of ‘Wayne Manor’: Wollaton Hall, Nottingham",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/003.jpg",
+      "corpus_asset_src": "../assets/tt1345836/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/004.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Osterley Park, Osterley, London",
+      "caption": "The Dark Knight Rises film location: Selina Kyle robs Bruce Wayne and makes her escape through the window: Long Gallery, Osterley Park, Osterley, London",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/004.jpg",
+      "corpus_asset_src": "../assets/tt1345836/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/005.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Osterley Park, Osterley, London",
+      "caption": "The Dark Knight Rises film location: Alfred threatens to leave ‘Wayne Manor’: Great Stair, Osterley Park, Osterley, London",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/005.jpg",
+      "corpus_asset_src": "../assets/tt1345836/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/006.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Trump Tower, 725 Fifth Avenue, New York",
+      "caption": "The Dark Knight Rises film location: the entrance to ‘Wayne Enterprises’: Trump Tower, 725 Fifth Avenue, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/006.jpg",
+      "corpus_asset_src": "../assets/tt1345836/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/007.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1",
+      "caption": "The Dark Knight Rises film location: ‘Gotham City Police Station’: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/007.jpg",
+      "corpus_asset_src": "../assets/tt1345836/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/008.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: JP Morgan Building, Wall Street, New York",
+      "caption": "The Dark Knight Rises film location: the exterior of ‘Gotham Stock Exchange’: JP Morgan Building, Wall Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/008.jpg",
+      "corpus_asset_src": "../assets/tt1345836/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/009.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Mehrengarh Fort, Jodhpur, India",
+      "caption": "The Dark Knight Rises film location: the cornered 'flying bat' roars out of the side street: Lebanon Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/009.jpg",
+      "corpus_asset_src": "../assets/tt1345836/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/010.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Stansted Airport, Essex",
+      "caption": "The Dark Knight Rises film location: Selina Kyle is picked up at ‘Gotham International Airport’: Stansted Airport, Essex",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/010.jpg",
+      "corpus_asset_src": "../assets/tt1345836/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/011.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Frank Bryan Cement Plant, South 3rd Street, Pittsburgh",
+      "caption": "The Dark Knight Rises film location: Blake discovers what’s really going on at the ‘Broucek Cement Company’: Frank Bryan Cement Plant, South 3rd Street, Pittsburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/011.jpg",
+      "corpus_asset_src": "../assets/tt1345836/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/012.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Heinz Field, Art Rooney Avenue, Pittsburgh",
+      "caption": "The Dark Knight Rises film location: the home of the ‘Gotham Rogues’: Heinz Field, Art Rooney Avenue, Pittsburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/012.jpg",
+      "corpus_asset_src": "../assets/tt1345836/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/013.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Carnegie Mellon Institute, Fifth Avenue, Pittsburgh",
+      "caption": "The Dark Knight Rises film location: Bane reads out Commissioner Gordon’s speech: Carnegie Mellon Institute, Fifth Avenue, Pittsburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/013.jpg",
+      "corpus_asset_src": "../assets/tt1345836/013.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/014.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/014.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Software Engineering Institute, South Dithridge Street, Pittsburgh",
+      "caption": "The Dark Knight Rises film location: the entrance to ‘Blackgate Prison’: Software Engineering Institute, South Dithridge Street, Pittsburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/014.jpg",
+      "corpus_asset_src": "../assets/tt1345836/014.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/015.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/015.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Union Station, downtown Los Angeles",
+      "caption": "The Dark Knight Rises film location: Dr Crane presides over the kangaroo court: Union Station, South Alameda Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/015.jpg",
+      "corpus_asset_src": "../assets/tt1345836/015.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/016.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/016.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Bank Building, 650 South Spring Street, downtown Los Angeles",
+      "caption": "The Dark Knight Rises film location: Blake meets up with Lucius Fox: Bank Building, 650 South Spring Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/016.jpg",
+      "corpus_asset_src": "../assets/tt1345836/016.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/017.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/017.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Hoff Building, East 5th Street, Downtown Los Angeles",
+      "caption": "The Dark Knight Rises film location: amid the anarchy, Gothamites queue up for emergency supplies: Hoff Building, East 5th Street, Downtown Los Angeles | Photograph: Google Streetview",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/017.jpg",
+      "corpus_asset_src": "../assets/tt1345836/017.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/018.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/018.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Mehrengarh Fort, Jodhpur, India",
+      "caption": "The Dark Knight Rises film location: Bruce Wayne escapes the underground prison: Mehrengarh Fort, Jodhpur, India | Photograph: Dinodia Photos / Alamy Stock Photo",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/018.jpg",
+      "corpus_asset_src": "../assets/tt1345836/018.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/019.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/019.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Trinity Cathedral, Oliver Avenue, Pittsburgh",
+      "caption": "The Dark Knight Rises film location: ‘St Swithin’s’ orphanage: Trinity Cathedral, Oliver Avenue, Pittsburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/019.jpg",
+      "corpus_asset_src": "../assets/tt1345836/019.jpg"
+    },
+    {
+      "role": "content",
+      "src": "Dark-Knight-Rises-South-Grand%20Avenue.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/Dark-Knight-Rises-South-Grand Avenue.jpg",
+      "exists": false,
+      "alt": "The Dark Knight Rises film location: Mehrengarh Fort, Jodhpur, India",
+      "caption": "The Dark Knight Rises film location: the truck carrying the bomb plunges to a lower level roadway: South Grand Avenue, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": null,
+      "corpus_asset_src": null
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/021.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1345836 - Dark-Knight-Rises/021.jpg",
+      "exists": true,
+      "alt": "The Dark Knight Rises film location: Henrhyd Falls, Brecon Beacons, South Wales",
+      "caption": "The Dark Knight Rises film location: John Blake makes a discovery at the waterfall: Henrhyd Falls, Brecon Beacons, South Wales | Photograph: wikimedia / Martin Edwards",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1345836/021.jpg",
+      "corpus_asset_src": "../assets/tt1345836/021.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt1345836/001.jpg\" alt=\"The Dark Knight Rises film location: Osterley Park, Osterley, London\"><figcaption>The Dark Knight Rises film location: Selina Kyle infiltrates ‘Wayne Manor’: Entrance Hall, Osterley Park, Osterley, London</figcaption></figure>\n<p>When a sequel is acknowledged to be as good as – or better than – the original film, a third episode is always in danger of falling victim to trying-too-hard syndrome (<a href=\"https://www.movie-locations.com/movies/g/Godfather-3.php\">Godfather Part III</a>, <a href=\"https://www.movie-locations.com/movies/s/Spider-Man-3.php\">Spider-Man 3</a>…) but, despite the unavoidable disappearance of the series’ most memorable character, <span class=\"name\">The Dark Knight Rises</span> wraps up in satisfyingly epic style.</p>\n<p>It’s helped by <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>'s preference for  in-camera effects, giving the film a physicality missing from productions which increasingly rely on CGI.</p>\n<p>Most of the opening sequence – the skyjacking of the CIA plane by a huge C-130 Hercules transporter – was shot for real in the skies above <span class=\"name\">Inverness</span>, <a href=\"https://www.movie-locations.com/places/uk/scotland.php\">Scotland</a>, with four stuntpeople rappelling from one plane to the other. A stunt it’s claimed had never been achieved before.</p>\n<p>As with <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a> and <a href=\"https://www.movie-locations.com/movies/d/Dark-Knight.php\">The Dark Knight</a> (as well as <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Nolan</a>'s <a href=\"https://www.movie-locations.com/movies/i/Inception.php\">Inception</a>), sets were built in one of the two huge airship hangars at <span class=\"name\">Cardington</span> in <a href=\"https://www.movie-locations.com/places/uk/beds.php\">Bedfordshire</a>, north of <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>. Three miles south of <span class=\"name\">Bedford</span>, the <a onclick=\"window.open('http://www.cardington-hangars.co.uk/', 'hangars')\" href=\"#cardington\">Cardington Hangars</a> are ideally suited to large-scale film making – they’re the largest structures of their kind in Europe.</p>\n<p>The struggle inside the turboprop plane was filmed at <span class=\"name\">Cardington</span>, as were the Bat-Bunker, the underground prison and the Gotham sewer base of Bane (<a href=\"https://www.movie-locations.com/people/h/hardyt.php\">Tom Hardy</a>).</p>\n<p>▶ The Batcave set, complete with its working waterfalls, demanded the resources of <span class=\"name\">Stage 30</span> at <span class=\"name\">Sony Studios</span> in <span class=\"name\">Culver City</span>, <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>, where there’s a tank capable of holding almost three-quarters of a million gallons of water. <a href=\"#1st\">⏏</a></p>\n<p>But there’s plenty to see away from the studios, with the practical locations for ‘Gotham City’  ranging across both the <span class=\"name\">USA</span> and the <span class=\"name\">UK</span>.</p>\n<p>After being burned to the ground in the first film, there was no ‘Wayne Manor’ in <a href=\"https://www.movie-locations.com/movies/d/Dark-Knight.php\">The Dark Knight</a>, but now it’s back.</p>\n<p>Bruce Wayne (<a href=\"https://www.movie-locations.com/people/b/balec.php\">Christian Bale</a>), living in <span class=\"name\">Howard Hughes</span>-style seclusion, promised to rebuild the manor “brick for brick”. In fact, he goes slightly better.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/003.jpg\" alt=\"The Dark Knight Rises film location: Wollaton Hall, Nottingham\"><figcaption>The Dark Knight Rises film location: the exterior of ‘Wayne Manor’: Wollaton Hall, Nottingham</figcaption></figure>\n<p>▶ In the earlier film the house was <span class=\"name\">Mentmore Towers</span> in the <a href=\"https://www.movie-locations.com/places/uk/bucks.php\">Buckinghamshire</a> countryside, a Victorian mansion built for the Rothschild family in the Elizabethan style. This time around, it’s the real deal, the genuine Tudor mansion of <a href=\"https://wollatonhall.org.uk/\" target=\"_blank\">Wollaton Hall</a>, <a href=\"https://www.movie-locations.com/places/uk/notts.php\">Nottinghamshire</a>, in the English Midlands.</p>\n<p>It’s no coincidence that the two buildings look so similar; the design of <span class=\"name\">Mentmore</span> was based on that of the extravagant <a href=\"https://wollatonhall.org.uk/\" target=\"_blank\">Wollaton</a>, which just about bankrupted <span class=\"name\">Sir Francis Willoughby</span>, its owner, when it was built in 1588.</p>\n<p>Just a short bus ride from <span class=\"name\">Nottingham</span> city centre, the mansion was bought by the city and entry is free. It’s worth a visit, but you won’t recognise the interior, which houses a fascinatingly quirky Victorian-style natural history museum (warning – lots of period taxidermy). <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/004.jpg\" alt=\"The Dark Knight Rises film location: Osterley Park, Osterley, London\"><figcaption>The Dark Knight Rises film location: Selina Kyle robs Bruce Wayne and makes her escape through the window: Long Gallery, Osterley Park, Osterley, London</figcaption></figure>\n<p>▶ The Manor interior seen in the film is a completely different house. This is <a href=\"http://www.nationaltrust.org.uk/osterley-park-and-house\" target=\"_blank\">Osterley Park House</a>, <span class=\"name\">Jersey Road, Isleworth</span>, west <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>, another Elizabethan mansion, but this one was magnificently transformed by architect <span class=\"name\">Robert Adam</span> between 1760 and 1780, and is now a <a href=\"http://www.nationaltrust.org.uk/\" target=\"_blank\">National Trust</a> property. The house, retaining its original decoration and much of its furnishing, has been meticulously restored to appear as it did at its peak in 1782.</p>\n<p>It’s in <a href=\"http://www.nationaltrust.org.uk/osterley-park-and-house\" target=\"_blank\">Osterley</a>’s <span class=\"name\">Entrance Hall</span> that Selina Kyle (<a href=\"https://www.movie-locations.com/people/h/hathawaya.php\">Anne Hathaway</a>), in the guise of a maid, infiltrates the home of Bruce Wayne. Alongside the entrance hall, the house’s <span class=\"name\">Long Gallery</span>, stripped of furnishings and with its usual pale green walls painted deathly white, becomes Wayne’s private study robbed by Kyle in front of the ailing recluse.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/005.jpg\" alt=\"The Dark Knight Rises film location: Osterley Park, Osterley, London\"><figcaption>The Dark Knight Rises film location: Alfred threatens to leave ‘Wayne Manor’: Great Stair, Osterley Park, Osterley, London</figcaption></figure>\n<p>You can see <a href=\"http://www.nationaltrust.org.uk/osterley-park-and-house\" target=\"_blank\">Osterley</a>’s elegant <span class=\"name\">Grand Stair</span> as Alfred (<a href=\"https://www.movie-locations.com/people/c/cainem.php\">Michael Caine</a>) gravely tells Wayne “I've sewn you up, I've set your bones, but I won't bury you. I've buried enough members of the Wayne family.” before threatening to leave his service.</p>\n<p><a href=\"http://www.nationaltrust.org.uk/osterley-park-and-house\" target=\"_blank\">Osterley</a> has a long history on film. Back in 1960 it was   the ‘Earl of Rhyall’s’ stately home in <a href=\"https://www.movie-locations.com/people/d/donens.php\">Stanley Donen</a>’s <a href=\"https://www.movie-locations.com/movies/g/Grass-Is-Greener.php\">The Grass Is Greener</a>, with <a href=\"https://www.movie-locations.com/people/g/grantc.php\">Cary Grant</a> and <a href=\"https://www.movie-locations.com/people/k/kerrd.php\">Deborah Kerr</a>. In 1965 it became the ancestral pile of Lord Carfax (<a href=\"https://www.movie-locations.com/people/f/fraserj.php\">John Fraser</a>) in <span class=\"name\">James Hill</span>’s Sherlock Holmes vs Jack the Ripper shocker <span class=\"name\">A Study in Terror</span>. The house was seemingly moved to ‘Wimpole Street’ for <span class=\"name\">Patricia Rozema</span>’s 1999 <span class=\"name\">Jane Austen</span> adaptation, <span class=\"name\">Mansfield Park</span>, while the estate held the school concert, where Krishi is supposed to sing <span class=\"ital\">Do Re Mi</span>, in <span class=\"name\">Karan Johar</span>’s 2001 Hindi smash <a href=\"https://www.movie-locations.com/movies/k/Kabhi-Khushi-Kabhie-Gham.php\">Kabhi Khushi Kabhie Gham...</a>. </p>\n<p>Since then, <a href=\"http://www.nationaltrust.org.uk/osterley-park-and-house\" target=\"_blank\">Osterley</a> has appeared in <a href=\"https://www.movie-locations.com/movies/d/Duchess.php\">The Duchess</a>, with <a href=\"https://www.movie-locations.com/people/k/knightleyk.php\">Keira Knightley</a><a href=\"https://www.movie-locations.com/people/d/denchj.php\"></a>, and  in <a href=\"https://www.movie-locations.com/movies/y/Young-Victoria.php\">Young Victoria</a>, with <a href=\"https://www.movie-locations.com/people/b/blunte.php\">Emily Blunt</a>. <a href=\"#1st\">⏏</a></p>\n<p>This is only the beginning of a complex patchwork of locations seamlessly knitted together to form one city.</p>\n<p>For the first movie, ‘Gotham’ was mainly portrayed by the quirky period architecture of old <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>. In <a href=\"https://www.movie-locations.com/movies/d/Dark-Knight.php\">The Dark Knight</a>, the city’s newer, sleeker buildings began to take over. This time, <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a> is gone completely and the city returns to the comic book roots with ‘Gotham’ as a lightly disguised <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> – fleshed out with <span class=\"name\">Pittsburgh</span> and <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> – often in mid-sequence. It gets very confusing.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/006.jpg\" alt=\"The Dark Knight Rises film location: Trump Tower, 725 Fifth Avenue, New York\"><figcaption>The Dark Knight Rises film location: the entrance to ‘Wayne Enterprises’: Trump Tower, 725 Fifth Avenue, New York</figcaption></figure>\n<p>▶ The views over the city are, of course, the skyscrapers of <span class=\"name\">Manhattan</span> and, with a sly nod to Wayne’s celebrity businessman status, the entrance to ‘Wayne Enterprises’ is <span class=\"name\">Trump Tower, 725 Fifth Avenue</span> at East 56th Street. <a href=\"#1st\">⏏</a></p>\n<p>▶ The company’s boardroom, from which Bruce Wayne is later unceremoniously ejected after a takeover, is over in downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, in the office block at <span class=\"name\">550 South Hope Street</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ Still in <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>, the city’s moneyed elite arrive for the Gotham Museum Benefit ball, thrown by Miranda Tate (<a href=\"https://www.movie-locations.com/people/c/cotillardm.php\">Marion Cotillard</a>), at <span class=\"name\">638 South Broadway</span>, alongside the <span class=\"name\">Palace Theatre</span>, also downtown, but that's not where the bash itself was filmed.</p>\n<p>▶ The stylish deco interior, where the intrigued Bruce Wayne gets to dance with burglar Selina Kyle, is the <span class=\"name\">Crush Hall</span> of <span class=\"name\">Senate House, Malet Street</span>, <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> <span class=\"name\">WC1</span>.</p>\n<p>Part of the <span class=\"name\">University of London</span>, it’s not generally open to the public, but regularly features on screen – its elegant corridors became the courthouse lobby where Joe Chill was gunned down in <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/007.jpg\" alt=\"The Dark Knight Rises film location: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1\"><figcaption>The Dark Knight Rises film location: ‘Gotham City Police Station’: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1</figcaption></figure>\n<p>▶ Another returning <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> location is the <span class=\"name\">Farmiloe Building, 28-36 St John Street</span> in <span class=\"name\">Clerkenwell</span>, <span class=\"name\">EC1</span>, which again supplies interiors for ‘Gotham City Police Station’. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/008.jpg\" alt=\"The Dark Knight Rises film location: JP Morgan Building, Wall Street, New York\"><figcaption>The Dark Knight Rises film location: the exterior of ‘Gotham Stock Exchange’: JP Morgan Building, Wall Street, New York</figcaption></figure>\n<p>▶ ‘Gotham City Stock Exchange’ really is in <span class=\"name\">Manhattan</span>’s financial district, though it’s actually the <span class=\"name\">JP Morgan Building, 23 Wall Street</span>, on the south corner at Broad Street. <a href=\"#1st\">⏏</a></p>\n<p>▶ Once inside, the exchange floor invaded by Bane and his men is the Zigzag Moderne <span class=\"name\">Trust Building</span> (formerly the Title Insurance and Trust Building), <span class=\"name\">433 South Spring Street</span>, <span class=\"name\">Downtown</span> <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>. This screen stalwart previously became  <a href=\"https://www.movie-locations.com/people/b/beckinsalek.php\">Kate Beckinsale</a>'s ‘Manhattan’ hotel in <a href=\"https://www.movie-locations.com/people/b/baym.php\">Michael Bay</a>'s <a href=\"https://www.movie-locations.com/movies/p/Pearl-Harbor.php\">Pearl Harbor</a>,  the ‘New York’ TV station office in <a href=\"https://www.movie-locations.com/people/e/emmerichr.php\">Roland Emmerich</a>’s 1998 <a href=\"https://www.movie-locations.com/movies/g/Godzilla-1998.php\">Godzilla</a> and 'Gotham City Imports', where the diamond gets stolen in <a href=\"https://www.movie-locations.com/movies/b/Birds-Of-Prey.php\">Birds Of Prey</a>.</p>\n<p>The subsequent chase is through the nearby streets, where you might recognise the cylindrical towers of the <span class=\"name\">Westin Bonaventure Hotel</span> on <span class=\"name\">South Figueroa Street</span>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/009.jpg\" alt=\"The Dark Knight Rises film location: Mehrengarh Fort, Jodhpur, India\"><figcaption>The Dark Knight Rises film location: the cornered 'flying bat' roars out of the side street: Lebanon Street, Downtown Los Angeles</figcaption></figure>\n<p>▶ A couple of blocks south of the <span class=\"name\">Bonaventure</span>, you’ll find the dead-end alley where Batman appears to be cornered by smug Deputy Commissioner Foley (<a href=\"https://www.movie-locations.com/people/m/modinem.php\">Matthew Modine</a>) only to roar out in the super-dooper flying Bat. This sidestreet is <span class=\"name\">Lebanon Street</span>, running south from <span class=\"name\">Wilshire Boulevard</span> between South Figueroa and South Flower Streets. <a href=\"#1st\">⏏</a></p>\n<p>▶ It’s back to the UK to find ‘Gotham General Hospital’, where a ski-masked Wayne visits the injured Commissioner Gordon (<a href=\"https://www.movie-locations.com/people/o/oldmang.php\">Gary Oldman</a>). To the south of <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>, it’s office block <span class=\"name\">Delta House</span> on <span class=\"name\">Wellesley Road</span>, at Station Road, alongside <span class=\"name\">West Croydon</span> Station. <a href=\"#1st\">⏏</a></p>\n<p>With Bane’s stock market scam leaving Wayne Enterprises broke, and Bruce Wayne entrusting the experimental energy source to Miranda Tate, the company is taken over by devious Roland Daggett. It’s clearly time for the bat-man to return.</p>\n<p>▶ Just as he appeared dramatically among the elaborate ornamentation of <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>’s Jewelers Building in <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a>, here Batman surveys the city from atop the <span class=\"name\">Queensboro Bridge</span> in <span class=\"name\">Manhattan</span>. <a href=\"#1st\">⏏</a></p>\n<p>From the heights to the depths. The subway tunnel to which Kyle lures Batman into Bane’s trap, is <span class=\"name\">Military Park Station</span>, on the <a href=\"http://www.njtransit.com/\" target=\"_blank\">Newark Light Rail</a>, between Orange Street and Newark Penn Station, <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a>.</p>\n<p>▶ We’re not long in <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">Jersey</a>. The tunnel appears to run directly under the ‘Applied Science Division’ of Wayne Enterprises and, once the roof is blown away, this turns out to be the <a onclick=\"window.open('http://www.lacclink.com/', 'center')\" href=\"#convention\">Los Angeles Convention Center, Figueroa Street</a> between 11th Street and Venice Boulevard, downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>, where Bane’s henchmen get their hands on Wayne’s expensive toys. See the Center also in <a href=\"https://www.movie-locations.com/movies/r/Rush-Hour.php\">Rush Hour</a>, <a href=\"https://www.movie-locations.com/people/w/wooj.php\">John Woo</a>’s <a href=\"https://www.movie-locations.com/movies/f/Face-Off.php\">Face/Off</a> and as the spaceport in <a href=\"https://www.movie-locations.com/people/v/verhoevenp.php\">Paul Verhoeven</a>’s <a href=\"https://www.movie-locations.com/movies/s/Starship-Troopers.php\">Starship Troopers</a>. <a href=\"#1st\">⏏</a></p>\n<p>As Wayne is spirited away, and Bane begins his takeover of the city, Selina Kyle plans to leave Gotham for Europe.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/010.jpg\" alt=\"The Dark Knight Rises film location: Stansted Airport, Essex\"><figcaption>The Dark Knight Rises film location: Selina Kyle is picked up at ‘Gotham International Airport’: Stansted Airport, Essex</figcaption></figure>\n<p>‘Gotham International Airport’, where she’s stopped at the last minute by John Blake (<a href=\"https://www.movie-locations.com/people/g/gordonlevittj.php\">Joseph Gordon Levitt</a>),  is the sleekly modern <a href=\"http://www.stanstedairport.com/\" target=\"_blank\">Stansted Airport</a> in <a href=\"https://www.movie-locations.com/places/uk/essex.php\">Essex</a>, which obviously has some kind of American vibe, since we previously saw it masquerading as ‘JFK Airport’ in <a href=\"https://www.movie-locations.com/movies/b/Bridget-Jones-Diary.php\">Bridget Jones’s Diary</a> and more recently as 'Newark New Jersey' at the end of <a href=\"https://www.movie-locations.com/movies/s/Spider-Man-Far-From-Home.php\">Spider-Man: Far From Home</a>.</p>\n<p>After <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>, <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> and <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>, it’s finally time for <span class=\"name\">Pittsburgh</span> to come into its own, with the city’s downtown business district taking over as the streets of ‘Gotham’.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/011.jpg\" alt=\"The Dark Knight Rises film location: Frank Bryan Cement Plant, South 3rd Street, Pittsburgh\"><figcaption>The Dark Knight Rises film location: Blake discovers what’s really going on at the ‘Broucek Cement Company’: Frank Bryan Cement Plant, South 3rd Street, Pittsburgh</figcaption></figure>\n<p>▶ South of downtown, across the <span class=\"name\">Monongahela River</span> at <span class=\"name\">McKees Rocks</span>, there’s a game-changing moment as Blake discovers what’s really going on at the ‘Broucek Cement Company’. This is a real cement works in <span class=\"name\">Pittsburgh</span> – the <span class=\"name\">Frank Bryan Cement Plant, 100 South 3rd Street</span>, beneath the <span class=\"name\">Liberty Bridge</span>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/012.jpg\" alt=\"The Dark Knight Rises film location: Heinz Field, Art Rooney Avenue, Pittsburgh\"><figcaption>The Dark Knight Rises film location: the home of the ‘Gotham Rogues’: Heinz Field, Art Rooney Avenue, Pittsburgh</figcaption></figure>\n<p>▶ North of the river, in the <span class=\"name\">North Shore</span> district, you’ll find the home of the ‘Gotham Rogues’, the football field where Bane demonstrates his explosive power.</p>\n<p>Home in real life to the Pittsburgh Steelers, it’s <a href=\"http://www.steelers.com/tickets-and-stadium/\" target=\"_blank\">Heinz Field</a>, <span class=\"name\">100 Art Rooney Avenue</span>, where the production generated enough excitement to attract more than 11,000 unpaid extras to watch real explosions on the pitch (full advantage was taken of the fact that the stadium’s turf was about to be replaced for the new football season). <a href=\"#1st\">⏏</a></p>\n<p>▶ The home of Deputy Police Commissioner Peter Foley (<a href=\"https://www.movie-locations.com/people/m/modinem.php\">Matthew Modine</a>), where he initially refuses a plea to join the fight against Bane, is <span class=\"name\">170 41st Street</span>, between Foster Street and Eden Way, in <span class=\"name\">Lawrenceville</span>, northwest <span class=\"name\">Pittsburgh</span>. As ever, this is a private home, so please do nothing to disturb the residents. <a href=\"#1st\">⏏</a></p>\n<p>With Bane calling the shots, Gotham is sealed off, and  it’s briefly back to <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> to see tanks stationed on the <span class=\"name\">Queensboro Bridge</span> over the <span class=\"name\">East River</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/013.jpg\" alt=\"The Dark Knight Rises film location: Carnegie Mellon Institute, Fifth Avenue, Pittsburgh\"><figcaption>The Dark Knight Rises film location: Bane reads out Commissioner Gordon’s speech: Carnegie Mellon Institute, Fifth Avenue, Pittsburgh</figcaption></figure>\n<p>▶ But <span class=\"name\">Pittsburgh</span> is soon centre-stage again. ‘Gotham City Hall’, where Bane reads out the incendiary contents of Commissioner Gordon’s stolen speech, is the grand frontage of <span class=\"name\">Pittsburgh</span>’s famous <span class=\"name\">Carnegie Mellon Institute, Fifth Avenue</span>, at Bellefield Avenue. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/014.jpg\" alt=\"The Dark Knight Rises film location: Software Engineering Institute, South Dithridge Street, Pittsburgh\"><figcaption>The Dark Knight Rises film location: the entrance to ‘Blackgate Prison’: Software Engineering Institute, South Dithridge Street, Pittsburgh</figcaption></figure>\n<p>▶ Not quite opposite, as it appears in the film, but alongside the <span class=\"name\">Institute</span>, the western side of  <span class=\"name\">Carnegie Mellon University</span>’s <span class=\"name\">Software Engineering Institute, South Dithridge Street</span> between Fifth Avenue and Winthrop Street, was transformed into the entrance to ‘Blackgate Prison’, from which hundreds of criminals imprisoned under the Dent Act are released. <a href=\"#1st\">⏏</a></p>\n<p>▶ The promised storm arrives, as the mob drags Gotham’s rich citizens from their posh addresses on <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>’s <span class=\"name\">Park Avenue</span> around <span class=\"name\">84th Street</span>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/015.jpg\" alt=\"The Dark Knight Rises film location: Union Station, downtown Los Angeles\"><figcaption>The Dark Knight Rises film location: Dr Crane presides over the kangaroo court: Union Station, South Alameda Street, downtown Los Angeles</figcaption></figure>\n<p>▶ Rough justice is handed out by a makeshift court, presided over by Dr Crane (<a href=\"https://www.movie-locations.com/people/m/murphyc.php\">Cillian Murphy</a>), which is convened in the spacious foyer of <span class=\"name\">Union Station, 800 Alameda Street</span>, downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, another familiar location, probably most famous as the futuristic cop station in <a href=\"https://www.movie-locations.com/people/s/scottr.php\">Ridley Scott</a>’s <a href=\"https://www.movie-locations.com/movies/b/Blade-Runner.php\">Blade Runner</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/016.jpg\" alt=\"The Dark Knight Rises film location: Bank Building, 650 South Spring Street, downtown Los Angeles\"><figcaption>The Dark Knight Rises film location: Blake meets up with Lucius Fox: Bank Building, 650 South Spring Street, downtown Los Angeles</figcaption></figure>\n<p>▶ Most of Gotham police force now trapped underground by Bane’s citywide pyrotechnics, Blake and a handful of good cops meet up with Fox, and the truth about the atomic device is revealed. It’s in the old <span class=\"name\">Bank of America Building, 650 South Spring Street</span>, downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, soon taken over by Bane.</p>\n<p><a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a> filmed part of <a href=\"https://www.movie-locations.com/movies/p/Prestige.php\">The Prestige</a> here, and the location must be familiar to <a href=\"https://www.movie-locations.com/people/f/freemanm.php\">Morgan Freeman</a> too – among its many screen appearances, it was used as the ‘library’ where he researched the Deadly Sins in <a href=\"https://www.movie-locations.com/people/f/fincherd.php\">David Fincher</a>’s <a href=\"https://www.movie-locations.com/movies/s/Seven-1995.php\">Se7en</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/017.jpg\" alt=\"The Dark Knight Rises film location: Hoff Building, East 5th Street, Downtown Los Angeles\"><figcaption>The Dark Knight Rises film location: amid the anarchy, Gothamites queue up for emergency supplies: Hoff Building, East 5th Street, Downtown Los Angeles | Photograph: Google Streetview</figcaption></figure>\n<p>▶ Beleaguered citizens of ‘Gotham’ queue up to receive emergency supplies outside the <span class=\"name\">GM Hoff Building</span>, <span class=\"name\">118 East 5th Street</span> at Los Angeles Street, in downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>. Eagle-eyed movie buffs might recognise this as the bail bonds office of Eddie Moscone (<a href=\"https://www.movie-locations.com/people/p/pantolianoj.php\">Joe Pantoliano</a>) in 1988’s <a href=\"https://www.movie-locations.com/movies/m/Midnight-Run.php\">Midnight Run</a> or as the liquor store raided by the doomed Father Hennessy in <a href=\"https://www.movie-locations.com/people/l/lawrencef.php\">Francis Lawrence</a>'s 2005 supernatural thriller <a href=\"https://www.movie-locations.com/movies/c/Constantine-2005.php\">Constantine</a>, with <a href=\"https://www.movie-locations.com/people/r/reevesk.php\">Keanu Reeves</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/018.jpg\" alt=\"The Dark Knight Rises film location: Mehrengarh Fort, Jodhpur, India\"><figcaption>The Dark Knight Rises film location: Bruce Wayne escapes the underground prison: Mehrengarh Fort, Jodhpur, India | Photograph: Dinodia Photos / Alamy Stock Photo</figcaption></figure>\n<p>▶ There’s a major detour to <a href=\"https://www.movie-locations.com/places/asia/india.php\">India</a>, to <span class=\"name\">Jodhpur</span>, the second largest city in the Indian state of <span class=\"name\">Rajasthan</span>, in the northwest of the subcontinent.</p>\n<p>The subterranean prison in which Wayne is held captive was built at <span class=\"name\">Cardington</span> in the <span class=\"name\">UK</span>, but on finally escaping, he finds himself in front of the spectacular <a href=\"http://www.mehrangarh.org/\" target=\"_blank\">Mehrangarh Fort</a>, a vast 15th century Hindu fort crowning a perpendicular cliff, four hundred feet above the sky line of <span class=\"name\">Jodhpur</span>. <a href=\"#1st\">⏏</a></p>\n<p>The ‘Gotham’ he returns to is, at first, <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>▶ Cop cars are piled up at the entrance to <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>’s <span class=\"name\">Third Street Tunnel</span>, at South Flower Street, and it’s here, on the walkway near<span class=\"name\"> Hill Street</span>, downtown, that Selina Kyle shows a softer side, rescuing a kid with a stolen apple from thugs, and is confronted by the newly-returned Bruce Wayne. <a href=\"#1st\">⏏</a></p>\n<p>When it comes to rescuing Fox and Tate, it’s to <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> and <span class=\"name\">Senate House</span> again. </p>\n<p>▶ The search to pin down the constantly moving truck carrying the nuclear device is largely around downtown <span class=\"name\">Pittsburgh</span>, on <span class=\"name\">Strawberry Way</span>, <span class=\"name\">7th Avenue</span>, <span class=\"name\">William Penn Place</span> and <span class=\"name\">Exchange Way</span>.  <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/019.jpg\" alt=\"The Dark Knight Rises film location: Trinity Cathedral, Oliver Avenue, Pittsburgh\"><figcaption>The Dark Knight Rises film location: ‘St Swithin’s’ orphanage: Trinity Cathedral, Oliver Avenue, Pittsburgh</figcaption></figure>\n<p>▶ With the nuclear detonation approaching, Blake evacuates the kids from ‘St Swithin’s’ orphanage, which is the <span class=\"name\">Franktuary, 333 Oliver Avenue</span> east of Wood Street, at the rear of <span class=\"name\">Pittsburgh</span>’s <span class=\"name\">Trinity Cathedral</span>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"Dark-Knight-Rises-South-Grand%20Avenue.jpg\" alt=\"The Dark Knight Rises film location: Mehrengarh Fort, Jodhpur, India\"><figcaption>The Dark Knight Rises film location: the truck carrying the bomb plunges to a lower level roadway: South Grand Avenue, Downtown Los Angeles</figcaption></figure>\n<p>▶ When the truck carrying the real bomb plunges to a lower level roadway, we’re back in <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>. The drop is from the <span class=\"name\">Upper Level</span> of <span class=\"name\">South Grand Avenue</span> to the <span class=\"name\">Lover Level</span> at <span class=\"name\">4th Street</span> in downtown. You might recognise this two-tier stretch of road as the spot where gifted street musician <a href=\"https://www.movie-locations.com/people/f/foxxj.php\">Jamie Foxx</a> plays cello in <a href=\"https://www.movie-locations.com/people/w/wrightjoe.php\">Joe Wright</a>’s <span class=\"name\">The Soloist</span>. <a href=\"#1st\">⏏</a></p>\n<p>‘Gotham’ is naturally saved, as the Bat flies off with the bomb, to explode away from the city, over the sea.</p>\n<p>The unveiling of the statue of Batman, attended by Commissioner Gordon, is in the rotunda of <span class=\"name\">Newark City Hall, 920 Broad Street, Newark</span>, in <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a>, with its grand double staircase.</p>\n<p>There’s a final funeral  back in the grounds of <a href=\"http://www.wollatonhall.co.uk\" target=\"_blank\">Wollaton Hall</a> in <span class=\"name\">Nottingham</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1345836/021.jpg\" alt=\"The Dark Knight Rises film location: Henrhyd Falls, Brecon Beacons, South Wales\"><figcaption>The Dark Knight Rises film location: John Blake makes a discovery at the waterfall: Henrhyd Falls, Brecon Beacons, South Wales | Photograph: wikimedia / Martin Edwards</figcaption></figure>\n<p>▶ It’s just left to John Blake to make an important discovery behind <span class=\"name\">Sgwd Henrhyd</span>, the <span class=\"name\">Henrhyd Waterfall</span>, about 15 miles northeast of <span class=\"name\">Swansea</span> on the southern edge of the <a href=\"http://www.breconbeacons.org/\" target=\"_blank\">Brecon Beacons National Park</a> in <span class=\"name\">South</span> <a href=\"https://www.movie-locations.com/places/uk/wales.php\">Wales</a>. You can find the falls (at 90 feet, it’s the tallest waterfall in <span class=\"name\">South</span> <a href=\"https://www.movie-locations.com/places/uk/wales.php\">Wales</a>)  just to the north of the village of <span class=\"name\">Coelbren</span>, on the road between Glynneath and Abercraf. From the <a href=\"http://www.nationaltrust.org.uk/\" target=\"_blank\">National Trust</a> car park, east of the village, there’s a steep walk down to the falls. <a href=\"#1st\">⏏</a></p>\n<p>▶ And the epilogue, set on the sun-dappled terrace of an Italian bar? Well, sorry to disappoint but that’s <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>. It’s the colonnade  of the <a href=\"http://www.ornc.org\" target=\"_blank\">Old Royal Naval College</a>, <span class=\"name\">King William Walk, London SE10</span> – a location familiar from such films as <a href=\"https://www.movie-locations.com/movies/m/Miserables.php\">Les Misérables</a>, <a href=\"https://www.movie-locations.com/movies/t/Thor-The-Dark-World.php\">Thor – The Dark World</a>, <a href=\"https://www.movie-locations.com/movies/c/Cruella.php\">Cruella</a> and <a href=\"https://www.movie-locations.com/movies/s/Sherlock-Holmes-2009.php\">Sherlock Holmes</a>, among many others. <a href=\"#1st\">⏏</a></p>",
+  "main_content_text": "When a sequel is acknowledged to be as good as – or better than – the original film, a third episode is always in danger of falling victim to trying-too-hard syndrome (Godfather Part III, Spider-Man 3…) but, despite the unavoidable disappearance of the series’ most memorable character, The Dark Knight Rises wraps up in satisfyingly epic style.\n\nIt’s helped by Christopher Nolan's preference for in-camera effects, giving the film a physicality missing from productions which increasingly rely on CGI.\n\nMost of the opening sequence – the skyjacking of the CIA plane by a huge C-130 Hercules transporter – was shot for real in the skies above Inverness, Scotland, with four stuntpeople rappelling from one plane to the other. A stunt it’s claimed had never been achieved before.\n\nAs with Batman Begins and The Dark Knight (as well as Nolan's Inception), sets were built in one of the two huge airship hangars at Cardington in Bedfordshire, north of London. Three miles south of Bedford, the Cardington Hangars are ideally suited to large-scale film making – they’re the largest structures of their kind in Europe.\n\nThe struggle inside the turboprop plane was filmed at Cardington, as were the Bat-Bunker, the underground prison and the Gotham sewer base of Bane (Tom Hardy).\n\n▶ The Batcave set, complete with its working waterfalls, demanded the resources of Stage 30 at Sony Studios in Culver City, California, where there’s a tank capable of holding almost three-quarters of a million gallons of water. ⏏\n\nBut there’s plenty to see away from the studios, with the practical locations for ‘Gotham City’ ranging across both the USA and the UK.\n\nAfter being burned to the ground in the first film, there was no ‘Wayne Manor’ in The Dark Knight, but now it’s back.\n\nBruce Wayne (Christian Bale), living in Howard Hughes-style seclusion, promised to rebuild the manor “brick for brick”. In fact, he goes slightly better.\n\n▶ In the earlier film the house was Mentmore Towers in the Buckinghamshire countryside, a Victorian mansion built for the Rothschild family in the Elizabethan style. This time around, it’s the real deal, the genuine Tudor mansion of Wollaton Hall, Nottinghamshire, in the English Midlands.\n\nIt’s no coincidence that the two buildings look so similar; the design of Mentmore was based on that of the extravagant Wollaton, which just about bankrupted Sir Francis Willoughby, its owner, when it was built in 1588.\n\nJust a short bus ride from Nottingham city centre, the mansion was bought by the city and entry is free. It’s worth a visit, but you won’t recognise the interior, which houses a fascinatingly quirky Victorian-style natural history museum (warning – lots of period taxidermy). ⏏\n\n▶ The Manor interior seen in the film is a completely different house. This is Osterley Park House, Jersey Road, Isleworth, west London, another Elizabethan mansion, but this one was magnificently transformed by architect Robert Adam between 1760 and 1780, and is now a National Trust property. The house, retaining its original decoration and much of its furnishing, has been meticulously restored to appear as it did at its peak in 1782.\n\nIt’s in Osterley’s Entrance Hall that Selina Kyle (Anne Hathaway), in the guise of a maid, infiltrates the home of Bruce Wayne. Alongside the entrance hall, the house’s Long Gallery, stripped of furnishings and with its usual pale green walls painted deathly white, becomes Wayne’s private study robbed by Kyle in front of the ailing recluse.\n\nYou can see Osterley’s elegant Grand Stair as Alfred (Michael Caine) gravely tells Wayne “I've sewn you up, I've set your bones, but I won't bury you. I've buried enough members of the Wayne family.” before threatening to leave his service.\n\nOsterley has a long history on film. Back in 1960 it was the ‘Earl of Rhyall’s’ stately home in Stanley Donen’s The Grass Is Greener, with Cary Grant and Deborah Kerr. In 1965 it became the ancestral pile of Lord Carfax (John Fraser) in James Hill’s Sherlock Holmes vs Jack the Ripper shocker A Study in Terror. The house was seemingly moved to ‘Wimpole Street’ for Patricia Rozema’s 1999 Jane Austen adaptation, Mansfield Park, while the estate held the school concert, where Krishi is supposed to sing Do Re Mi, in Karan Johar’s 2001 Hindi smash Kabhi Khushi Kabhie Gham....\n\nSince then, Osterley has appeared in The Duchess, with Keira Knightley, and in Young Victoria, with Emily Blunt. ⏏\n\nThis is only the beginning of a complex patchwork of locations seamlessly knitted together to form one city.\n\nFor the first movie, ‘Gotham’ was mainly portrayed by the quirky period architecture of old Chicago. In The Dark Knight, the city’s newer, sleeker buildings began to take over. This time, Chicago is gone completely and the city returns to the comic book roots with ‘Gotham’ as a lightly disguised New York – fleshed out with Pittsburgh and Los Angeles – often in mid-sequence. It gets very confusing.\n\n▶ The views over the city are, of course, the skyscrapers of Manhattan and, with a sly nod to Wayne’s celebrity businessman status, the entrance to ‘Wayne Enterprises’ is Trump Tower, 725 Fifth Avenue at East 56th Street. ⏏\n\n▶ The company’s boardroom, from which Bruce Wayne is later unceremoniously ejected after a takeover, is over in downtown Los Angeles, in the office block at 550 South Hope Street. ⏏\n\n▶ Still in LA, the city’s moneyed elite arrive for the Gotham Museum Benefit ball, thrown by Miranda Tate (Marion Cotillard), at 638 South Broadway, alongside the Palace Theatre, also downtown, but that's not where the bash itself was filmed.\n\n▶ The stylish deco interior, where the intrigued Bruce Wayne gets to dance with burglar Selina Kyle, is the Crush Hall of Senate House, Malet Street, London WC1.\n\nPart of the University of London, it’s not generally open to the public, but regularly features on screen – its elegant corridors became the courthouse lobby where Joe Chill was gunned down in Batman Begins. ⏏\n\n▶ Another returning London location is the Farmiloe Building, 28-36 St John Street in Clerkenwell, EC1, which again supplies interiors for ‘Gotham City Police Station’. ⏏\n\n▶ ‘Gotham City Stock Exchange’ really is in Manhattan’s financial district, though it’s actually the JP Morgan Building, 23 Wall Street, on the south corner at Broad Street. ⏏\n\n▶ Once inside, the exchange floor invaded by Bane and his men is the Zigzag Moderne Trust Building (formerly the Title Insurance and Trust Building), 433 South Spring Street, Downtown Los Angeles. This screen stalwart previously became Kate Beckinsale's ‘Manhattan’ hotel in Michael Bay's Pearl Harbor, the ‘New York’ TV station office in Roland Emmerich’s 1998 Godzilla and 'Gotham City Imports', where the diamond gets stolen in Birds Of Prey.\n\nThe subsequent chase is through the nearby streets, where you might recognise the cylindrical towers of the Westin Bonaventure Hotel on South Figueroa Street. ⏏\n\n▶ A couple of blocks south of the Bonaventure, you’ll find the dead-end alley where Batman appears to be cornered by smug Deputy Commissioner Foley (Matthew Modine) only to roar out in the super-dooper flying Bat. This sidestreet is Lebanon Street, running south from Wilshire Boulevard between South Figueroa and South Flower Streets. ⏏\n\n▶ It’s back to the UK to find ‘Gotham General Hospital’, where a ski-masked Wayne visits the injured Commissioner Gordon (Gary Oldman). To the south of London, it’s office block Delta House on Wellesley Road, at Station Road, alongside West Croydon Station. ⏏\n\nWith Bane’s stock market scam leaving Wayne Enterprises broke, and Bruce Wayne entrusting the experimental energy source to Miranda Tate, the company is taken over by devious Roland Daggett. It’s clearly time for the bat-man to return.\n\n▶ Just as he appeared dramatically among the elaborate ornamentation of Chicago’s Jewelers Building in Batman Begins, here Batman surveys the city from atop the Queensboro Bridge in Manhattan. ⏏\n\nFrom the heights to the depths. The subway tunnel to which Kyle lures Batman into Bane’s trap, is Military Park Station, on the Newark Light Rail, between Orange Street and Newark Penn Station, New Jersey.\n\n▶ We’re not long in Jersey. The tunnel appears to run directly under the ‘Applied Science Division’ of Wayne Enterprises and, once the roof is blown away, this turns out to be the Los Angeles Convention Center, Figueroa Street between 11th Street and Venice Boulevard, downtown LA, where Bane’s henchmen get their hands on Wayne’s expensive toys. See the Center also in Rush Hour, John Woo’s Face/Off and as the spaceport in Paul Verhoeven’s Starship Troopers. ⏏\n\nAs Wayne is spirited away, and Bane begins his takeover of the city, Selina Kyle plans to leave Gotham for Europe.\n\n‘Gotham International Airport’, where she’s stopped at the last minute by John Blake (Joseph Gordon Levitt), is the sleekly modern Stansted Airport in Essex, which obviously has some kind of American vibe, since we previously saw it masquerading as ‘JFK Airport’ in Bridget Jones’s Diary and more recently as 'Newark New Jersey' at the end of Spider-Man: Far From Home.\n\nAfter New York, Los Angeles and London, it’s finally time for Pittsburgh to come into its own, with the city’s downtown business district taking over as the streets of ‘Gotham’.\n\n▶ South of downtown, across the Monongahela River at McKees Rocks, there’s a game-changing moment as Blake discovers what’s really going on at the ‘Broucek Cement Company’. This is a real cement works in Pittsburgh – the Frank Bryan Cement Plant, 100 South 3rd Street, beneath the Liberty Bridge. ⏏\n\n▶ North of the river, in the North Shore district, you’ll find the home of the ‘Gotham Rogues’, the football field where Bane demonstrates his explosive power.\n\nHome in real life to the Pittsburgh Steelers, it’s Heinz Field, 100 Art Rooney Avenue, where the production generated enough excitement to attract more than 11,000 unpaid extras to watch real explosions on the pitch (full advantage was taken of the fact that the stadium’s turf was about to be replaced for the new football season). ⏏\n\n▶ The home of Deputy Police Commissioner Peter Foley (Matthew Modine), where he initially refuses a plea to join the fight against Bane, is 170 41st Street, between Foster Street and Eden Way, in Lawrenceville, northwest Pittsburgh. As ever, this is a private home, so please do nothing to disturb the residents. ⏏\n\nWith Bane calling the shots, Gotham is sealed off, and it’s briefly back to New York to see tanks stationed on the Queensboro Bridge over the East River.\n\n▶ But Pittsburgh is soon centre-stage again. ‘Gotham City Hall’, where Bane reads out the incendiary contents of Commissioner Gordon’s stolen speech, is the grand frontage of Pittsburgh’s famous Carnegie Mellon Institute, Fifth Avenue, at Bellefield Avenue. ⏏\n\n▶ Not quite opposite, as it appears in the film, but alongside the Institute, the western side of Carnegie Mellon University’s Software Engineering Institute, South Dithridge Street between Fifth Avenue and Winthrop Street, was transformed into the entrance to ‘Blackgate Prison’, from which hundreds of criminals imprisoned under the Dent Act are released. ⏏\n\n▶ The promised storm arrives, as the mob drags Gotham’s rich citizens from their posh addresses on New York’s Park Avenue around 84th Street. ⏏\n\n▶ Rough justice is handed out by a makeshift court, presided over by Dr Crane (Cillian Murphy), which is convened in the spacious foyer of Union Station, 800 Alameda Street, downtown Los Angeles, another familiar location, probably most famous as the futuristic cop station in Ridley Scott’s Blade Runner. ⏏\n\n▶ Most of Gotham police force now trapped underground by Bane’s citywide pyrotechnics, Blake and a handful of good cops meet up with Fox, and the truth about the atomic device is revealed. It’s in the old Bank of America Building, 650 South Spring Street, downtown Los Angeles, soon taken over by Bane.\n\nChristopher Nolan filmed part of The Prestige here, and the location must be familiar to Morgan Freeman too – among its many screen appearances, it was used as the ‘library’ where he researched the Deadly Sins in David Fincher’s Se7en. ⏏\n\n▶ Beleaguered citizens of ‘Gotham’ queue up to receive emergency supplies outside the GM Hoff Building, 118 East 5th Street at Los Angeles Street, in downtown Los Angeles. Eagle-eyed movie buffs might recognise this as the bail bonds office of Eddie Moscone (Joe Pantoliano) in 1988’s Midnight Run or as the liquor store raided by the doomed Father Hennessy in Francis Lawrence's 2005 supernatural thriller Constantine, with Keanu Reeves. ⏏\n\n▶ There’s a major detour to India, to Jodhpur, the second largest city in the Indian state of Rajasthan, in the northwest of the subcontinent.\n\nThe subterranean prison in which Wayne is held captive was built at Cardington in the UK, but on finally escaping, he finds himself in front of the spectacular Mehrangarh Fort, a vast 15th century Hindu fort crowning a perpendicular cliff, four hundred feet above the sky line of Jodhpur. ⏏\n\nThe ‘Gotham’ he returns to is, at first, Los Angeles.\n\n▶ Cop cars are piled up at the entrance to Los Angeles’s Third Street Tunnel, at South Flower Street, and it’s here, on the walkway near Hill Street, downtown, that Selina Kyle shows a softer side, rescuing a kid with a stolen apple from thugs, and is confronted by the newly-returned Bruce Wayne. ⏏\n\nWhen it comes to rescuing Fox and Tate, it’s to London and Senate House again.\n\n▶ The search to pin down the constantly moving truck carrying the nuclear device is largely around downtown Pittsburgh, on Strawberry Way, 7th Avenue, William Penn Place and Exchange Way. ⏏\n\n▶ With the nuclear detonation approaching, Blake evacuates the kids from ‘St Swithin’s’ orphanage, which is the Franktuary, 333 Oliver Avenue east of Wood Street, at the rear of Pittsburgh’s Trinity Cathedral. ⏏\n\n▶ When the truck carrying the real bomb plunges to a lower level roadway, we’re back in Los Angeles. The drop is from the Upper Level of South Grand Avenue to the Lover Level at 4th Street in downtown. You might recognise this two-tier stretch of road as the spot where gifted street musician Jamie Foxx plays cello in Joe Wright’s The Soloist. ⏏\n\n‘Gotham’ is naturally saved, as the Bat flies off with the bomb, to explode away from the city, over the sea.\n\nThe unveiling of the statue of Batman, attended by Commissioner Gordon, is in the rotunda of Newark City Hall, 920 Broad Street, Newark, in New Jersey, with its grand double staircase.\n\nThere’s a final funeral back in the grounds of Wollaton Hall in Nottingham.\n\n▶ It’s just left to John Blake to make an important discovery behind Sgwd Henrhyd, the Henrhyd Waterfall, about 15 miles northeast of Swansea on the southern edge of the Brecon Beacons National Park in South Wales. You can find the falls (at 90 feet, it’s the tallest waterfall in South Wales) just to the north of the village of Coelbren, on the road between Glynneath and Abercraf. From the National Trust car park, east of the village, there’s a steep walk down to the falls. ⏏\n\n▶ And the epilogue, set on the sun-dappled terrace of an Italian bar? Well, sorry to disappoint but that’s London. It’s the colonnade of the Old Royal Naval College, King William Walk, London SE10 – a location familiar from such films as Les Misérables, Thor – The Dark World, Cruella and Sherlock Holmes, among many others. ⏏",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: Selina Kyle infiltrates ‘Wayne Manor’: Entrance Hall, Osterley Park, Osterley, London",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/001.jpg",
+      "alt": "The Dark Knight Rises film location: Osterley Park, Osterley, London"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a sequel is acknowledged to be as good as – or better than – the original film, a third episode is always in danger of falling victim to trying-too-hard syndrome (Godfather Part III, Spider-Man 3…) but, despite the unavoidable disappearance of the series’ most memorable character, The Dark Knight Rises wraps up in satisfyingly epic style."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s helped by Christopher Nolan's preference for in-camera effects, giving the film a physicality missing from productions which increasingly rely on CGI."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most of the opening sequence – the skyjacking of the CIA plane by a huge C-130 Hercules transporter – was shot for real in the skies above Inverness, Scotland, with four stuntpeople rappelling from one plane to the other. A stunt it’s claimed had never been achieved before."
+    },
+    {
+      "type": "paragraph",
+      "text": "As with Batman Begins and The Dark Knight (as well as Nolan's Inception), sets were built in one of the two huge airship hangars at Cardington in Bedfordshire, north of London. Three miles south of Bedford, the Cardington Hangars are ideally suited to large-scale film making – they’re the largest structures of their kind in Europe."
+    },
+    {
+      "type": "paragraph",
+      "text": "The struggle inside the turboprop plane was filmed at Cardington, as were the Bat-Bunker, the underground prison and the Gotham sewer base of Bane (Tom Hardy)."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The Batcave set, complete with its working waterfalls, demanded the resources of Stage 30 at Sony Studios in Culver City, California, where there’s a tank capable of holding almost three-quarters of a million gallons of water. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "But there’s plenty to see away from the studios, with the practical locations for ‘Gotham City’ ranging across both the USA and the UK."
+    },
+    {
+      "type": "paragraph",
+      "text": "After being burned to the ground in the first film, there was no ‘Wayne Manor’ in The Dark Knight, but now it’s back."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bruce Wayne (Christian Bale), living in Howard Hughes-style seclusion, promised to rebuild the manor “brick for brick”. In fact, he goes slightly better."
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: the exterior of ‘Wayne Manor’: Wollaton Hall, Nottingham",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/003.jpg",
+      "alt": "The Dark Knight Rises film location: Wollaton Hall, Nottingham"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ In the earlier film the house was Mentmore Towers in the Buckinghamshire countryside, a Victorian mansion built for the Rothschild family in the Elizabethan style. This time around, it’s the real deal, the genuine Tudor mansion of Wollaton Hall, Nottinghamshire, in the English Midlands."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s no coincidence that the two buildings look so similar; the design of Mentmore was based on that of the extravagant Wollaton, which just about bankrupted Sir Francis Willoughby, its owner, when it was built in 1588."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just a short bus ride from Nottingham city centre, the mansion was bought by the city and entry is free. It’s worth a visit, but you won’t recognise the interior, which houses a fascinatingly quirky Victorian-style natural history museum (warning – lots of period taxidermy). ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: Selina Kyle robs Bruce Wayne and makes her escape through the window: Long Gallery, Osterley Park, Osterley, London",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/004.jpg",
+      "alt": "The Dark Knight Rises film location: Osterley Park, Osterley, London"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The Manor interior seen in the film is a completely different house. This is Osterley Park House, Jersey Road, Isleworth, west London, another Elizabethan mansion, but this one was magnificently transformed by architect Robert Adam between 1760 and 1780, and is now a National Trust property. The house, retaining its original decoration and much of its furnishing, has been meticulously restored to appear as it did at its peak in 1782."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s in Osterley’s Entrance Hall that Selina Kyle (Anne Hathaway), in the guise of a maid, infiltrates the home of Bruce Wayne. Alongside the entrance hall, the house’s Long Gallery, stripped of furnishings and with its usual pale green walls painted deathly white, becomes Wayne’s private study robbed by Kyle in front of the ailing recluse."
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: Alfred threatens to leave ‘Wayne Manor’: Great Stair, Osterley Park, Osterley, London",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/005.jpg",
+      "alt": "The Dark Knight Rises film location: Osterley Park, Osterley, London"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can see Osterley’s elegant Grand Stair as Alfred (Michael Caine) gravely tells Wayne “I've sewn you up, I've set your bones, but I won't bury you. I've buried enough members of the Wayne family.” before threatening to leave his service."
+    },
+    {
+      "type": "paragraph",
+      "text": "Osterley has a long history on film. Back in 1960 it was the ‘Earl of Rhyall’s’ stately home in Stanley Donen’s The Grass Is Greener, with Cary Grant and Deborah Kerr. In 1965 it became the ancestral pile of Lord Carfax (John Fraser) in James Hill’s Sherlock Holmes vs Jack the Ripper shocker A Study in Terror. The house was seemingly moved to ‘Wimpole Street’ for Patricia Rozema’s 1999 Jane Austen adaptation, Mansfield Park, while the estate held the school concert, where Krishi is supposed to sing Do Re Mi, in Karan Johar’s 2001 Hindi smash Kabhi Khushi Kabhie Gham...."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since then, Osterley has appeared in The Duchess, with Keira Knightley, and in Young Victoria, with Emily Blunt. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is only the beginning of a complex patchwork of locations seamlessly knitted together to form one city."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the first movie, ‘Gotham’ was mainly portrayed by the quirky period architecture of old Chicago. In The Dark Knight, the city’s newer, sleeker buildings began to take over. This time, Chicago is gone completely and the city returns to the comic book roots with ‘Gotham’ as a lightly disguised New York – fleshed out with Pittsburgh and Los Angeles – often in mid-sequence. It gets very confusing."
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: the entrance to ‘Wayne Enterprises’: Trump Tower, 725 Fifth Avenue, New York",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/006.jpg",
+      "alt": "The Dark Knight Rises film location: Trump Tower, 725 Fifth Avenue, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The views over the city are, of course, the skyscrapers of Manhattan and, with a sly nod to Wayne’s celebrity businessman status, the entrance to ‘Wayne Enterprises’ is Trump Tower, 725 Fifth Avenue at East 56th Street. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The company’s boardroom, from which Bruce Wayne is later unceremoniously ejected after a takeover, is over in downtown Los Angeles, in the office block at 550 South Hope Street. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Still in LA, the city’s moneyed elite arrive for the Gotham Museum Benefit ball, thrown by Miranda Tate (Marion Cotillard), at 638 South Broadway, alongside the Palace Theatre, also downtown, but that's not where the bash itself was filmed."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The stylish deco interior, where the intrigued Bruce Wayne gets to dance with burglar Selina Kyle, is the Crush Hall of Senate House, Malet Street, London WC1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Part of the University of London, it’s not generally open to the public, but regularly features on screen – its elegant corridors became the courthouse lobby where Joe Chill was gunned down in Batman Begins. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: ‘Gotham City Police Station’: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/007.jpg",
+      "alt": "The Dark Knight Rises film location: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Another returning London location is the Farmiloe Building, 28-36 St John Street in Clerkenwell, EC1, which again supplies interiors for ‘Gotham City Police Station’. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: the exterior of ‘Gotham Stock Exchange’: JP Morgan Building, Wall Street, New York",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/008.jpg",
+      "alt": "The Dark Knight Rises film location: JP Morgan Building, Wall Street, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ ‘Gotham City Stock Exchange’ really is in Manhattan’s financial district, though it’s actually the JP Morgan Building, 23 Wall Street, on the south corner at Broad Street. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Once inside, the exchange floor invaded by Bane and his men is the Zigzag Moderne Trust Building (formerly the Title Insurance and Trust Building), 433 South Spring Street, Downtown Los Angeles. This screen stalwart previously became Kate Beckinsale's ‘Manhattan’ hotel in Michael Bay's Pearl Harbor, the ‘New York’ TV station office in Roland Emmerich’s 1998 Godzilla and 'Gotham City Imports', where the diamond gets stolen in Birds Of Prey."
+    },
+    {
+      "type": "paragraph",
+      "text": "The subsequent chase is through the nearby streets, where you might recognise the cylindrical towers of the Westin Bonaventure Hotel on South Figueroa Street. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: the cornered 'flying bat' roars out of the side street: Lebanon Street, Downtown Los Angeles",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/009.jpg",
+      "alt": "The Dark Knight Rises film location: Mehrengarh Fort, Jodhpur, India"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ A couple of blocks south of the Bonaventure, you’ll find the dead-end alley where Batman appears to be cornered by smug Deputy Commissioner Foley (Matthew Modine) only to roar out in the super-dooper flying Bat. This sidestreet is Lebanon Street, running south from Wilshire Boulevard between South Figueroa and South Flower Streets. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ It’s back to the UK to find ‘Gotham General Hospital’, where a ski-masked Wayne visits the injured Commissioner Gordon (Gary Oldman). To the south of London, it’s office block Delta House on Wellesley Road, at Station Road, alongside West Croydon Station. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "With Bane’s stock market scam leaving Wayne Enterprises broke, and Bruce Wayne entrusting the experimental energy source to Miranda Tate, the company is taken over by devious Roland Daggett. It’s clearly time for the bat-man to return."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Just as he appeared dramatically among the elaborate ornamentation of Chicago’s Jewelers Building in Batman Begins, here Batman surveys the city from atop the Queensboro Bridge in Manhattan. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "From the heights to the depths. The subway tunnel to which Kyle lures Batman into Bane’s trap, is Military Park Station, on the Newark Light Rail, between Orange Street and Newark Penn Station, New Jersey."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ We’re not long in Jersey. The tunnel appears to run directly under the ‘Applied Science Division’ of Wayne Enterprises and, once the roof is blown away, this turns out to be the Los Angeles Convention Center, Figueroa Street between 11th Street and Venice Boulevard, downtown LA, where Bane’s henchmen get their hands on Wayne’s expensive toys. See the Center also in Rush Hour, John Woo’s Face/Off and as the spaceport in Paul Verhoeven’s Starship Troopers. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "As Wayne is spirited away, and Bane begins his takeover of the city, Selina Kyle plans to leave Gotham for Europe."
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: Selina Kyle is picked up at ‘Gotham International Airport’: Stansted Airport, Essex",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/010.jpg",
+      "alt": "The Dark Knight Rises film location: Stansted Airport, Essex"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Gotham International Airport’, where she’s stopped at the last minute by John Blake (Joseph Gordon Levitt), is the sleekly modern Stansted Airport in Essex, which obviously has some kind of American vibe, since we previously saw it masquerading as ‘JFK Airport’ in Bridget Jones’s Diary and more recently as 'Newark New Jersey' at the end of Spider-Man: Far From Home."
+    },
+    {
+      "type": "paragraph",
+      "text": "After New York, Los Angeles and London, it’s finally time for Pittsburgh to come into its own, with the city’s downtown business district taking over as the streets of ‘Gotham’."
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: Blake discovers what’s really going on at the ‘Broucek Cement Company’: Frank Bryan Cement Plant, South 3rd Street, Pittsburgh",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/011.jpg",
+      "alt": "The Dark Knight Rises film location: Frank Bryan Cement Plant, South 3rd Street, Pittsburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ South of downtown, across the Monongahela River at McKees Rocks, there’s a game-changing moment as Blake discovers what’s really going on at the ‘Broucek Cement Company’. This is a real cement works in Pittsburgh – the Frank Bryan Cement Plant, 100 South 3rd Street, beneath the Liberty Bridge. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: the home of the ‘Gotham Rogues’: Heinz Field, Art Rooney Avenue, Pittsburgh",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/012.jpg",
+      "alt": "The Dark Knight Rises film location: Heinz Field, Art Rooney Avenue, Pittsburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ North of the river, in the North Shore district, you’ll find the home of the ‘Gotham Rogues’, the football field where Bane demonstrates his explosive power."
+    },
+    {
+      "type": "paragraph",
+      "text": "Home in real life to the Pittsburgh Steelers, it’s Heinz Field, 100 Art Rooney Avenue, where the production generated enough excitement to attract more than 11,000 unpaid extras to watch real explosions on the pitch (full advantage was taken of the fact that the stadium’s turf was about to be replaced for the new football season). ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The home of Deputy Police Commissioner Peter Foley (Matthew Modine), where he initially refuses a plea to join the fight against Bane, is 170 41st Street, between Foster Street and Eden Way, in Lawrenceville, northwest Pittsburgh. As ever, this is a private home, so please do nothing to disturb the residents. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "With Bane calling the shots, Gotham is sealed off, and it’s briefly back to New York to see tanks stationed on the Queensboro Bridge over the East River."
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: Bane reads out Commissioner Gordon’s speech: Carnegie Mellon Institute, Fifth Avenue, Pittsburgh",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/013.jpg",
+      "alt": "The Dark Knight Rises film location: Carnegie Mellon Institute, Fifth Avenue, Pittsburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ But Pittsburgh is soon centre-stage again. ‘Gotham City Hall’, where Bane reads out the incendiary contents of Commissioner Gordon’s stolen speech, is the grand frontage of Pittsburgh’s famous Carnegie Mellon Institute, Fifth Avenue, at Bellefield Avenue. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: the entrance to ‘Blackgate Prison’: Software Engineering Institute, South Dithridge Street, Pittsburgh",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/014.jpg",
+      "alt": "The Dark Knight Rises film location: Software Engineering Institute, South Dithridge Street, Pittsburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Not quite opposite, as it appears in the film, but alongside the Institute, the western side of Carnegie Mellon University’s Software Engineering Institute, South Dithridge Street between Fifth Avenue and Winthrop Street, was transformed into the entrance to ‘Blackgate Prison’, from which hundreds of criminals imprisoned under the Dent Act are released. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The promised storm arrives, as the mob drags Gotham’s rich citizens from their posh addresses on New York’s Park Avenue around 84th Street. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: Dr Crane presides over the kangaroo court: Union Station, South Alameda Street, downtown Los Angeles",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/015.jpg",
+      "alt": "The Dark Knight Rises film location: Union Station, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Rough justice is handed out by a makeshift court, presided over by Dr Crane (Cillian Murphy), which is convened in the spacious foyer of Union Station, 800 Alameda Street, downtown Los Angeles, another familiar location, probably most famous as the futuristic cop station in Ridley Scott’s Blade Runner. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: Blake meets up with Lucius Fox: Bank Building, 650 South Spring Street, downtown Los Angeles",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/016.jpg",
+      "alt": "The Dark Knight Rises film location: Bank Building, 650 South Spring Street, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Most of Gotham police force now trapped underground by Bane’s citywide pyrotechnics, Blake and a handful of good cops meet up with Fox, and the truth about the atomic device is revealed. It’s in the old Bank of America Building, 650 South Spring Street, downtown Los Angeles, soon taken over by Bane."
+    },
+    {
+      "type": "paragraph",
+      "text": "Christopher Nolan filmed part of The Prestige here, and the location must be familiar to Morgan Freeman too – among its many screen appearances, it was used as the ‘library’ where he researched the Deadly Sins in David Fincher’s Se7en. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: amid the anarchy, Gothamites queue up for emergency supplies: Hoff Building, East 5th Street, Downtown Los Angeles | Photograph: Google Streetview",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/017.jpg",
+      "alt": "The Dark Knight Rises film location: Hoff Building, East 5th Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Beleaguered citizens of ‘Gotham’ queue up to receive emergency supplies outside the GM Hoff Building, 118 East 5th Street at Los Angeles Street, in downtown Los Angeles. Eagle-eyed movie buffs might recognise this as the bail bonds office of Eddie Moscone (Joe Pantoliano) in 1988’s Midnight Run or as the liquor store raided by the doomed Father Hennessy in Francis Lawrence's 2005 supernatural thriller Constantine, with Keanu Reeves. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: Bruce Wayne escapes the underground prison: Mehrengarh Fort, Jodhpur, India | Photograph: Dinodia Photos / Alamy Stock Photo",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/018.jpg",
+      "alt": "The Dark Knight Rises film location: Mehrengarh Fort, Jodhpur, India"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ There’s a major detour to India, to Jodhpur, the second largest city in the Indian state of Rajasthan, in the northwest of the subcontinent."
+    },
+    {
+      "type": "paragraph",
+      "text": "The subterranean prison in which Wayne is held captive was built at Cardington in the UK, but on finally escaping, he finds himself in front of the spectacular Mehrangarh Fort, a vast 15th century Hindu fort crowning a perpendicular cliff, four hundred feet above the sky line of Jodhpur. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Gotham’ he returns to is, at first, Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Cop cars are piled up at the entrance to Los Angeles’s Third Street Tunnel, at South Flower Street, and it’s here, on the walkway near Hill Street, downtown, that Selina Kyle shows a softer side, rescuing a kid with a stolen apple from thugs, and is confronted by the newly-returned Bruce Wayne. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "When it comes to rescuing Fox and Tate, it’s to London and Senate House again."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The search to pin down the constantly moving truck carrying the nuclear device is largely around downtown Pittsburgh, on Strawberry Way, 7th Avenue, William Penn Place and Exchange Way. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: ‘St Swithin’s’ orphanage: Trinity Cathedral, Oliver Avenue, Pittsburgh",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/019.jpg",
+      "alt": "The Dark Knight Rises film location: Trinity Cathedral, Oliver Avenue, Pittsburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ With the nuclear detonation approaching, Blake evacuates the kids from ‘St Swithin’s’ orphanage, which is the Franktuary, 333 Oliver Avenue east of Wood Street, at the rear of Pittsburgh’s Trinity Cathedral. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: the truck carrying the bomb plunges to a lower level roadway: South Grand Avenue, Downtown Los Angeles",
+      "src": "Dark-Knight-Rises-South-Grand%20Avenue.jpg",
+      "alt": "The Dark Knight Rises film location: Mehrengarh Fort, Jodhpur, India"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ When the truck carrying the real bomb plunges to a lower level roadway, we’re back in Los Angeles. The drop is from the Upper Level of South Grand Avenue to the Lover Level at 4th Street in downtown. You might recognise this two-tier stretch of road as the spot where gifted street musician Jamie Foxx plays cello in Joe Wright’s The Soloist. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Gotham’ is naturally saved, as the Bat flies off with the bomb, to explode away from the city, over the sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unveiling of the statue of Batman, attended by Commissioner Gordon, is in the rotunda of Newark City Hall, 920 Broad Street, Newark, in New Jersey, with its grand double staircase."
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s a final funeral back in the grounds of Wollaton Hall in Nottingham."
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight Rises film location: John Blake makes a discovery at the waterfall: Henrhyd Falls, Brecon Beacons, South Wales | Photograph: wikimedia / Martin Edwards",
+      "src": "_assets/tt1345836%20-%20Dark-Knight-Rises/021.jpg",
+      "alt": "The Dark Knight Rises film location: Henrhyd Falls, Brecon Beacons, South Wales"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ It’s just left to John Blake to make an important discovery behind Sgwd Henrhyd, the Henrhyd Waterfall, about 15 miles northeast of Swansea on the southern edge of the Brecon Beacons National Park in South Wales. You can find the falls (at 90 feet, it’s the tallest waterfall in South Wales) just to the north of the village of Coelbren, on the road between Glynneath and Abercraf. From the National Trust car park, east of the village, there’s a steep walk down to the falls. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ And the epilogue, set on the sun-dappled terrace of an Italian bar? Well, sorry to disappoint but that’s London. It’s the colonnade of the Old Royal Naval College, King William Walk, London SE10 – a location familiar from such films as Les Misérables, Thor – The Dark World, Cruella and Sherlock Holmes, among many others. ⏏"
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n</section>\n<section><h3>Pennsylvania</h3>\n<p>Visit: Pennsylvania</p>\n<p>Visit: Pittsburgh</p>\n<p>Flights: Pittsburgh International Airport, 1000 Airport Boulevard, Pittsburgh, PA 15231 (tel: 412.472.3525)</p>\n<p>Visit: Heinz Field, 100 Art Rooney Avenue, Pittsburgh, PA 15212 (tel: 412.697.7700)</p>\n</section>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n</section>\n<section><h3>New Jersey</h3>\n<p>Visit: New Jersey</p>\n</section>\n<section><h3>India</h3>\n<p>Visit: India</p>\n<p>Visit: Jodhpur</p>\n<p>Visit: Mehrangarh Fort, Fateh Pol Road, Sodagaran Mohalla, Jodhpur, Rajasthan 342006</p>\n</section>\n<section><h3>UK | London</h3>\n<p>Flights: Heathrow Airport; Gatwick Airport</p>\n<p>Visit: London</p>\n<p>Travelling: Transport For London</p>\n<p>Visit: Osterley Park House, Jersey Road, Isleworth, TW7 4RB (tel: 020.8232.5050)</p>\n<p>Visit: the Old Royal Naval College, King William Walk, London SE10 9NN (tel: 020.8269.4747) (rail: Greenwich)</p>\n</section>\n<section><h3>Scotland</h3>\n<p>Visit: Scotland</p>\n</section>\n<section><h3>Wales</h3>\n<p>Visit: Wales</p>\n<p>Visit: the Brecon Beacons National Park</p>\n</section>\n<section><h3>Nottinghamshire</h3>\n<p>Visit: Nottinghamshire</p>\n<p>Visit: Wollaton Hall, Gardens &amp; Deer Park, Wollaton Park, Wollaton, Nottingham, NG8 2AE (tel: 0115.8763100)</p>\n</section>\n<section><h3>Bedfordshire</h3>\n<p>Visit: Bedfordshire</p>\n</section>\n<section><h3>Essex</h3>\n<p>Visit: Essex</p>\n<p>Flights: Stansted Airport, Bassingbourn Road, Stansted, Essex CM24 1QW (tel: 0844.335.1803)</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nPennsylvania\nVisit: Pennsylvania\nVisit: Pittsburgh\nFlights: Pittsburgh International Airport, 1000 Airport Boulevard, Pittsburgh, PA 15231 (tel: 412.472.3525)\nVisit: Heinz Field, 100 Art Rooney Avenue, Pittsburgh, PA 15212 (tel: 412.697.7700)\nNew York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nNew Jersey\nVisit: New Jersey\nIndia\nVisit: India\nVisit: Jodhpur\nVisit: Mehrangarh Fort, Fateh Pol Road, Sodagaran Mohalla, Jodhpur, Rajasthan 342006\nUK | London\nFlights: Heathrow Airport; Gatwick Airport\nVisit: London\nTravelling: Transport For London\nVisit: Osterley Park House, Jersey Road, Isleworth, TW7 4RB (tel: 020.8232.5050)\nVisit: the Old Royal Naval College, King William Walk, London SE10 9NN (tel: 020.8269.4747) (rail: Greenwich)\nScotland\nVisit: Scotland\nWales\nVisit: Wales\nVisit: the Brecon Beacons National Park\nNottinghamshire\nVisit: Nottinghamshire\nVisit: Wollaton Hall, Gardens & Deer Park, Wollaton Park, Wollaton, Nottingham, NG8 2AE (tel: 0115.8763100)\nBedfordshire\nVisit: Bedfordshire\nEssex\nVisit: Essex\nFlights: Stansted Airport, Bassingbourn Road, Stansted, Essex CM24 1QW (tel: 0844.335.1803)",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro"
+      ]
+    },
+    {
+      "title": "Pennsylvania",
+      "items": [
+        "Visit: Pennsylvania",
+        "Visit: Pittsburgh",
+        "Flights: Pittsburgh International Airport, 1000 Airport Boulevard, Pittsburgh, PA 15231 (tel: 412.472.3525)",
+        "Visit: Heinz Field, 100 Art Rooney Avenue, Pittsburgh, PA 15212 (tel: 412.697.7700)"
+      ]
+    },
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA"
+      ]
+    },
+    {
+      "title": "New Jersey",
+      "items": [
+        "Visit: New Jersey"
+      ]
+    },
+    {
+      "title": "India",
+      "items": [
+        "Visit: India",
+        "Visit: Jodhpur",
+        "Visit: Mehrangarh Fort, Fateh Pol Road, Sodagaran Mohalla, Jodhpur, Rajasthan 342006"
+      ]
+    },
+    {
+      "title": "UK | London",
+      "items": [
+        "Flights: Heathrow Airport; Gatwick Airport",
+        "Visit: London",
+        "Travelling: Transport For London",
+        "Visit: Osterley Park House, Jersey Road, Isleworth, TW7 4RB (tel: 020.8232.5050)",
+        "Visit: the Old Royal Naval College, King William Walk, London SE10 9NN (tel: 020.8269.4747) (rail: Greenwich)"
+      ]
+    },
+    {
+      "title": "Scotland",
+      "items": [
+        "Visit: Scotland"
+      ]
+    },
+    {
+      "title": "Wales",
+      "items": [
+        "Visit: Wales",
+        "Visit: the Brecon Beacons National Park"
+      ]
+    },
+    {
+      "title": "Nottinghamshire",
+      "items": [
+        "Visit: Nottinghamshire",
+        "Visit: Wollaton Hall, Gardens & Deer Park, Wollaton Park, Wollaton, Nottingham, NG8 2AE (tel: 0115.8763100)"
+      ]
+    },
+    {
+      "title": "Bedfordshire",
+      "items": [
+        "Visit: Bedfordshire"
+      ]
+    },
+    {
+      "title": "Essex",
+      "items": [
+        "Visit: Essex",
+        "Flights: Stansted Airport, Bassingbourn Road, Stansted, Essex CM24 1QW (tel: 0844.335.1803)"
+      ]
+    }
+  ]
+}

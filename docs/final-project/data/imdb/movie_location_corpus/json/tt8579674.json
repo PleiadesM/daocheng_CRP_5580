@@ -1,0 +1,280 @@
+{
+  "imdb_id": "tt8579674",
+  "shorthand": "1917",
+  "title": "1917",
+  "year": 2020,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt8579674 - 1917.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt8579674 - 1917.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt8579674.json",
+  "source_url": "http://www.movie-locations.com/movies/0/1917.php",
+  "page_title": "Where was 1917 filmed? | Film Locations in Wiltshire, Oxfordshire, Glasgow and Co Durham",
+  "meta_description": "Film locations for Sam Mendes' 1917 (2020), in Wiltshire, Oxfordshire, County Durham and Scotland; including Salisbury Plain, the Tees Barrage White Water Centre and Glagow Dry Docks.",
+  "meta_keywords": "1917 (2020), film locations, filming locations, tourism, travel, set-jetting, salisbury plain, erlestoke, shrewton, wiltshire, glasgow",
+  "og_title": "Film locations for 1917 (2020), in Wiltshire, Oxfordshire, County Durham and Scotland.",
+  "og_description": "Film locations for Sam Mendes' 1917 (2020), in Wiltshire, Oxfordshire, County Durham and Scotland; including Salisbury Plain, the Tees Barrage White Water Centre and Glagow Dry Docks.",
+  "og_image": "http://www.movie-locations.com/movies/0/1917-Shrewton-farmhouse.jpg",
+  "top250_rank": "190",
+  "movie_locations_title": "1917",
+  "movie_locations_regions": "Wiltshire | Oxfordshire | Hertfordshire | County Durham | Scotland",
+  "director": "Sam Mendes",
+  "cast": [
+    "George MacKay",
+    "Dean-Charles Chapman",
+    "Colin Firth",
+    "Mark Strong",
+    "Benedict Cumberbatch",
+    "Richard Madden",
+    "Andrew Scott",
+    "Daniel Mays",
+    "Richard McCabe",
+    "Adrian Scarborough",
+    "Jamie Parker"
+  ],
+  "locations": [
+    "Wiltshire;",
+    "Oxfordshire;",
+    "Hertfordshire;",
+    "County Durham;",
+    "Scotland"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt8579674%20-%201917/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt8579674 - 1917/002.jpg",
+    "exists": true,
+    "alt": "1917 poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt8579674/poster.jpg",
+    "corpus_asset_src": "../assets/tt8579674/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt8579674%20-%201917/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt8579674 - 1917/001.jpg",
+    "exists": true,
+    "alt": "1917 film location: Pear Tree Hill, Erlestoke, Wiltshire",
+    "caption": "1917 film location: the lone tree by the field hospital: Pear Tree Hill, Erlestoke, Wiltshire",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt8579674/001.jpg",
+    "corpus_asset_src": "../assets/tt8579674/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt8579674%20-%201917/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt8579674 - 1917/001.jpg",
+      "exists": true,
+      "alt": "1917 film location: Pear Tree Hill, Erlestoke, Wiltshire",
+      "caption": "1917 film location: the lone tree by the field hospital: Pear Tree Hill, Erlestoke, Wiltshire",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt8579674/001.jpg",
+      "corpus_asset_src": "../assets/tt8579674/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt8579674%20-%201917/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt8579674 - 1917/002.jpg",
+      "exists": true,
+      "alt": "1917 poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt8579674/002.jpg",
+      "corpus_asset_src": "../assets/tt8579674/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt8579674%20-%201917/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt8579674 - 1917/003.jpg",
+      "exists": true,
+      "alt": "1917 film location: Salisbury Plain, Wiltshire",
+      "caption": "1917 film location: the countryside of 'Northern France': Salisbury Plain, Wiltshire",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt8579674/003.jpg",
+      "corpus_asset_src": "../assets/tt8579674/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt8579674%20-%201917/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt8579674 - 1917/004.jpg",
+      "exists": true,
+      "alt": "1917 film location: Pear Tree Hill, Erlestoke, Wiltshire",
+      "caption": "1917 film location: Blake and Schofield are woken up at the beginning of the film: Pear Tree Hill, Erlestoke, Wiltshire",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt8579674/004.jpg",
+      "corpus_asset_src": "../assets/tt8579674/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt8579674%20-%201917/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt8579674 - 1917/005.jpg",
+      "exists": true,
+      "alt": "1917 film location: Pear Tree Hill, Erlestoke, Wiltshire",
+      "caption": "1917 film location: Blake and Schofield walk down into the trench for their orders: Pear Tree Hill, Erlestoke, Wiltshire",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt8579674/005.jpg",
+      "corpus_asset_src": "../assets/tt8579674/005.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt8579674/001.jpg\" alt=\"1917 film location: Pear Tree Hill, Erlestoke, Wiltshire\"><figcaption>1917 film location: the lone tree by the field hospital: Pear Tree Hill, Erlestoke, Wiltshire</figcaption></figure>\n<p><span class=\"name\">1917</span> was made entirely in the <span class=\"name\">UK</span>, with <a href=\"https://www.visitwiltshire.co.uk/explore/salisbury-plain\" target=\"_blank\">Salisbury Plain</a> in <a href=\"https://www.movie-locations.com/places/uk/wilts.php\">Wiltshire</a>, southern <a href=\"https://www.movie-locations.com/places/england.php\">England</a>, standing in for the flat, open landscape of ‘Northern France’, but with other locations found in <a href=\"https://www.movie-locations.com/places/uk/oxford.php\">Oxfordshire</a>, <a href=\"https://www.movie-locations.com/places/uk/herts.php\">Hertfordshire</a>, <a href=\"https://www.movie-locations.com/places/uk/durham.php\">County Durham</a> and even <a href=\"https://www.movie-locations.com/places/uk/scotland.php\">Scotland</a>, seamlessly blended in what appears to be a single take. There's a lot to cover, so don't forget the continuation on <a href=\"https://www.movie-locations.com/movies/0/1917-2.php\">Page 2</a>.</p>\n<p>Director and co-writer <a href=\"https://www.movie-locations.com/people/m/mendess.php\">Sam Mendes</a> turns a simple story from the trenches of World War I into an intensely visceral experience by playing out the narrative without any traditional cuts, in what seems like real time.</p>\n<p>To get an idea of the phenomenal technical achievement, and the contribution of Oscar-winning cinematographer <span class=\"name\">Roger Deakins</span>, listen to the commentaries on the DVD – but see the film on a full-size movie screen first.</p>\n<p><a href=\"https://www.movie-locations.com/people/m/mendess.php\">Mendes</a> and <span class=\"name\">Deakins</span> keep the camera shifting imperceptibly between locations and studio sets – all the while ensuring lighting and weather conditions remain consistent throughout.</p>\n<p><span class=\"name\">1917</span> was made entirely in the <span class=\"name\">UK</span>, with <a href=\"https://www.visitwiltshire.co.uk/explore/salisbury-plain\" target=\"_blank\">Salisbury Plain</a> in <a href=\"https://www.movie-locations.com/places/uk/wilts.php\">Wiltshire</a>, southern <a href=\"https://www.movie-locations.com/places/england.php\">England</a>, standing in for the flat, open landscape of ‘Northern France’.</p>\n<p><a href=\"https://www.visitwiltshire.co.uk/explore/salisbury-plain\" target=\"_blank\">Salisbury Plain</a>, covering 300 square miles of chalk grassland north of the city of <a href=\"https://www.visitwiltshire.co.uk/salisbury\" target=\"_blank\">Salisbury</a>, is probably best known as the home of Stonehenge, the ring of prehistoric stones which have stood here for between four and five thousand years.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt8579674/003.jpg\" alt=\"1917 film location: Salisbury Plain, Wiltshire\"><figcaption>1917 film location: the countryside of 'Northern France': Salisbury Plain, Wiltshire</figcaption></figure>\n<p>Much of the rest of the <a href=\"https://www.visitwiltshire.co.uk/explore/salisbury-plain\" target=\"_blank\">Plain</a> is used for army training. Firing ranges and tank manouevres mean that access to some areas is restricted but the sheer extent of unbroken plain meant that the camera could be moved 360° without the constant need to remove buildings or other modern features digitally.</p>\n<p>Six separate spots on the <a href=\"https://www.visitwiltshire.co.uk/explore/salisbury-plain\" target=\"_blank\">Plain</a> were used and over a mile of trenches dug, though only after consultation to avoid disturbing the unique ecology or archaeology of the area. It's a tribute to the skills of the greenspeople on the production that, from the areas I saw, absolutely no sign of disturbance remains.</p>\n<p>Simpler interior sets were built inside two large local barns, a standard practice to ensure filming can continue even when weather conditions are not ideal. In this case, though, instead of waiting for the sun, the sets were used when the sun was too bright for the film’s overcast tone.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt8579674/004.jpg\" alt=\"1917 film location: Pear Tree Hill, Erlestoke, Wiltshire\"><figcaption>1917 film location: Blake and Schofield are woken up at the beginning of the film: Pear Tree Hill, Erlestoke, Wiltshire</figcaption></figure>\n<p>The chaotic and somewhat ramshackle British trenches were dug near to the village <span class=\"name\">West Chisenbury</span>, on the A345 north of <span class=\"name\">Amesbury</span>, and near <span class=\"name\">Erlestoke</span>, a village on the <span class=\"name\">B3098</span>, about 12 miles west.</p>\n<p>It’s beneath trees on <span class=\"name\">Pear Tree Hill</span>, south of <span class=\"name\">Erlestoke</span>, where Lance Corporals Blake (<a href=\"https://www.movie-locations.com/people/c/chapmandc.php\">Dean-Charles Chapman</a>) and Schofield (<a href=\"https://www.movie-locations.com/people/m/mackayg.php\">George MacKay</a>), are woken up at the opening of the film.</p>\n<p>From here, they walk down into the trench where they're charged by General Erinmore (<a href=\"https://www.movie-locations.com/people/f/firthc.php\">Colin Firth</a>) with getting an urgent message to the Devonshire Regiment, to call off a scheduled attack that might cost the lives of 1,600 men, including Blake's own brother.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt8579674/005.jpg\" alt=\"1917 film location: Pear Tree Hill, Erlestoke, Wiltshire\"><figcaption>1917 film location: Blake and Schofield walk down into the trench for their orders: Pear Tree Hill, Erlestoke, Wiltshire</figcaption></figure>\n<p>As the two enter Erinmore’s bunker, there’s one of the film’s hidden transitions to a surprisingly complex set, built with moving walls to allow fluid camera movement, which was constructed, like most of the main sets, at <span class=\"name\">Shepperton Studios</span> in <a href=\"https://www.movie-locations.com/places/uk/surrey.php\">Surrey</a>.</p>\n<p>The mission involves not only negotiating a way across No Man’s Land, the hellish wasteland between the frontline trenches, but crossing ground only recently vacated, according to intelligence, by German troops to reach the village of ‘Ecoust’.</p>\n<p>Blake and Schofield go over the top from the frontline trench into the grim desolation of No Man’s Land, dotted with bomb craters, the fly-riddled bodies of dead horses and criss-crossed by barbed-wire, which was created on the site of the old <span class=\"name\">Bovingdon Airfield</span> southwest of <span class=\"name\">Hemel Hempstead</span> in <a href=\"https://www.movie-locations.com/places/uk/herts.php\">Hertfordshire</a>.</p>\n<p>Convenient for the film studios, the site has hosted outdoor sets for <a href=\"https://www.movie-locations.com/movies/w/World-War-Z.php\">World War Z</a>, the 'Live Aid' concert in <a href=\"https://www.movie-locations.com/movies/b/Bohemian-Rhapsody.php\">Bohemian Rhapsody</a>, the explosions and epic stunts on ‘Scarif’ in <a href=\"https://www.movie-locations.com/movies/r/Rogue-One.php\">Rogue One: A Star Wars Story</a>, and <span class=\"name\">Bovingdon</span> also provided that incredibly long runway for <a href=\"https://www.movie-locations.com/movies/f/Fast-And-Furious-6.php\">Fast and Furious 6</a>.</p>\n<p>In earlier days, the airfield itself was seen in a clutch of classic World War II films, including <span class=\"name\">The War Lover</span>, <span class=\"name\">633 Squadron</span>, <span class=\"name\">Battle Of Britain</span> and <span class=\"name\">Mosquito Squadron</span>.</p>\n<p>Blake and Schofield are mightily relieved to discover that the Germans really have retreated from their trenches, which they discover are far more sophisticated than the British dugouts.</p>\n<p>The deserted tunnels explored by the pair were filmed inside those local barns, but the underground bunker where a potentially lethal booby trap is triggered by a hungry rat, was built at <span class=\"name\">Shepperton</span>.</p>\n<p>Choking on dust, Blake and Schofield emerge from darkness into a bleached-out compound littered with piles of shells and abandoned artillery.</p>\n<p>This was a disused quarry in <a href=\"https://www.movie-locations.com/places/uk/oxford.php\">Oxfordshire</a>. It’s <span class=\"name\">Ambrose Quarry</span>, on <span class=\"name\">Old London Road</span> southeast of the village of <span class=\"name\">Ewelme</span>, itself about 10 miles southeast of Oxford. Overrun by vegetation, it had to be stripped to the bare rock and earth to become the abandoned German base.   <a href=\"https://www.movie-locations.com/movies/0/1917-2.php\">▶</a></p>\n<p>Page 1   |   <a href=\"https://www.movie-locations.com/movies/0/1917-2.php\">Page 2</a>   </p>",
+  "main_content_text": "1917 was made entirely in the UK, with Salisbury Plain in Wiltshire, southern England, standing in for the flat, open landscape of ‘Northern France’, but with other locations found in Oxfordshire, Hertfordshire, County Durham and even Scotland, seamlessly blended in what appears to be a single take. There's a lot to cover, so don't forget the continuation on Page 2.\n\nDirector and co-writer Sam Mendes turns a simple story from the trenches of World War I into an intensely visceral experience by playing out the narrative without any traditional cuts, in what seems like real time.\n\nTo get an idea of the phenomenal technical achievement, and the contribution of Oscar-winning cinematographer Roger Deakins, listen to the commentaries on the DVD – but see the film on a full-size movie screen first.\n\nMendes and Deakins keep the camera shifting imperceptibly between locations and studio sets – all the while ensuring lighting and weather conditions remain consistent throughout.\n\n1917 was made entirely in the UK, with Salisbury Plain in Wiltshire, southern England, standing in for the flat, open landscape of ‘Northern France’.\n\nSalisbury Plain, covering 300 square miles of chalk grassland north of the city of Salisbury, is probably best known as the home of Stonehenge, the ring of prehistoric stones which have stood here for between four and five thousand years.\n\nMuch of the rest of the Plain is used for army training. Firing ranges and tank manouevres mean that access to some areas is restricted but the sheer extent of unbroken plain meant that the camera could be moved 360° without the constant need to remove buildings or other modern features digitally.\n\nSix separate spots on the Plain were used and over a mile of trenches dug, though only after consultation to avoid disturbing the unique ecology or archaeology of the area. It's a tribute to the skills of the greenspeople on the production that, from the areas I saw, absolutely no sign of disturbance remains.\n\nSimpler interior sets were built inside two large local barns, a standard practice to ensure filming can continue even when weather conditions are not ideal. In this case, though, instead of waiting for the sun, the sets were used when the sun was too bright for the film’s overcast tone.\n\nThe chaotic and somewhat ramshackle British trenches were dug near to the village West Chisenbury, on the A345 north of Amesbury, and near Erlestoke, a village on the B3098, about 12 miles west.\n\nIt’s beneath trees on Pear Tree Hill, south of Erlestoke, where Lance Corporals Blake (Dean-Charles Chapman) and Schofield (George MacKay), are woken up at the opening of the film.\n\nFrom here, they walk down into the trench where they're charged by General Erinmore (Colin Firth) with getting an urgent message to the Devonshire Regiment, to call off a scheduled attack that might cost the lives of 1,600 men, including Blake's own brother.\n\nAs the two enter Erinmore’s bunker, there’s one of the film’s hidden transitions to a surprisingly complex set, built with moving walls to allow fluid camera movement, which was constructed, like most of the main sets, at Shepperton Studios in Surrey.\n\nThe mission involves not only negotiating a way across No Man’s Land, the hellish wasteland between the frontline trenches, but crossing ground only recently vacated, according to intelligence, by German troops to reach the village of ‘Ecoust’.\n\nBlake and Schofield go over the top from the frontline trench into the grim desolation of No Man’s Land, dotted with bomb craters, the fly-riddled bodies of dead horses and criss-crossed by barbed-wire, which was created on the site of the old Bovingdon Airfield southwest of Hemel Hempstead in Hertfordshire.\n\nConvenient for the film studios, the site has hosted outdoor sets for World War Z, the 'Live Aid' concert in Bohemian Rhapsody, the explosions and epic stunts on ‘Scarif’ in Rogue One: A Star Wars Story, and Bovingdon also provided that incredibly long runway for Fast and Furious 6.\n\nIn earlier days, the airfield itself was seen in a clutch of classic World War II films, including The War Lover, 633 Squadron, Battle Of Britain and Mosquito Squadron.\n\nBlake and Schofield are mightily relieved to discover that the Germans really have retreated from their trenches, which they discover are far more sophisticated than the British dugouts.\n\nThe deserted tunnels explored by the pair were filmed inside those local barns, but the underground bunker where a potentially lethal booby trap is triggered by a hungry rat, was built at Shepperton.\n\nChoking on dust, Blake and Schofield emerge from darkness into a bleached-out compound littered with piles of shells and abandoned artillery.\n\nThis was a disused quarry in Oxfordshire. It’s Ambrose Quarry, on Old London Road southeast of the village of Ewelme, itself about 10 miles southeast of Oxford. Overrun by vegetation, it had to be stripped to the bare rock and earth to become the abandoned German base. ▶\n\nPage 1 | Page 2",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "1917 film location: the lone tree by the field hospital: Pear Tree Hill, Erlestoke, Wiltshire",
+      "src": "_assets/tt8579674%20-%201917/001.jpg",
+      "alt": "1917 film location: Pear Tree Hill, Erlestoke, Wiltshire"
+    },
+    {
+      "type": "paragraph",
+      "text": "1917 was made entirely in the UK, with Salisbury Plain in Wiltshire, southern England, standing in for the flat, open landscape of ‘Northern France’, but with other locations found in Oxfordshire, Hertfordshire, County Durham and even Scotland, seamlessly blended in what appears to be a single take. There's a lot to cover, so don't forget the continuation on Page 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Director and co-writer Sam Mendes turns a simple story from the trenches of World War I into an intensely visceral experience by playing out the narrative without any traditional cuts, in what seems like real time."
+    },
+    {
+      "type": "paragraph",
+      "text": "To get an idea of the phenomenal technical achievement, and the contribution of Oscar-winning cinematographer Roger Deakins, listen to the commentaries on the DVD – but see the film on a full-size movie screen first."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mendes and Deakins keep the camera shifting imperceptibly between locations and studio sets – all the while ensuring lighting and weather conditions remain consistent throughout."
+    },
+    {
+      "type": "paragraph",
+      "text": "1917 was made entirely in the UK, with Salisbury Plain in Wiltshire, southern England, standing in for the flat, open landscape of ‘Northern France’."
+    },
+    {
+      "type": "paragraph",
+      "text": "Salisbury Plain, covering 300 square miles of chalk grassland north of the city of Salisbury, is probably best known as the home of Stonehenge, the ring of prehistoric stones which have stood here for between four and five thousand years."
+    },
+    {
+      "type": "image",
+      "caption": "1917 film location: the countryside of 'Northern France': Salisbury Plain, Wiltshire",
+      "src": "_assets/tt8579674%20-%201917/003.jpg",
+      "alt": "1917 film location: Salisbury Plain, Wiltshire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Much of the rest of the Plain is used for army training. Firing ranges and tank manouevres mean that access to some areas is restricted but the sheer extent of unbroken plain meant that the camera could be moved 360° without the constant need to remove buildings or other modern features digitally."
+    },
+    {
+      "type": "paragraph",
+      "text": "Six separate spots on the Plain were used and over a mile of trenches dug, though only after consultation to avoid disturbing the unique ecology or archaeology of the area. It's a tribute to the skills of the greenspeople on the production that, from the areas I saw, absolutely no sign of disturbance remains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simpler interior sets were built inside two large local barns, a standard practice to ensure filming can continue even when weather conditions are not ideal. In this case, though, instead of waiting for the sun, the sets were used when the sun was too bright for the film’s overcast tone."
+    },
+    {
+      "type": "image",
+      "caption": "1917 film location: Blake and Schofield are woken up at the beginning of the film: Pear Tree Hill, Erlestoke, Wiltshire",
+      "src": "_assets/tt8579674%20-%201917/004.jpg",
+      "alt": "1917 film location: Pear Tree Hill, Erlestoke, Wiltshire"
+    },
+    {
+      "type": "paragraph",
+      "text": "The chaotic and somewhat ramshackle British trenches were dug near to the village West Chisenbury, on the A345 north of Amesbury, and near Erlestoke, a village on the B3098, about 12 miles west."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s beneath trees on Pear Tree Hill, south of Erlestoke, where Lance Corporals Blake (Dean-Charles Chapman) and Schofield (George MacKay), are woken up at the opening of the film."
+    },
+    {
+      "type": "paragraph",
+      "text": "From here, they walk down into the trench where they're charged by General Erinmore (Colin Firth) with getting an urgent message to the Devonshire Regiment, to call off a scheduled attack that might cost the lives of 1,600 men, including Blake's own brother."
+    },
+    {
+      "type": "image",
+      "caption": "1917 film location: Blake and Schofield walk down into the trench for their orders: Pear Tree Hill, Erlestoke, Wiltshire",
+      "src": "_assets/tt8579674%20-%201917/005.jpg",
+      "alt": "1917 film location: Pear Tree Hill, Erlestoke, Wiltshire"
+    },
+    {
+      "type": "paragraph",
+      "text": "As the two enter Erinmore’s bunker, there’s one of the film’s hidden transitions to a surprisingly complex set, built with moving walls to allow fluid camera movement, which was constructed, like most of the main sets, at Shepperton Studios in Surrey."
+    },
+    {
+      "type": "paragraph",
+      "text": "The mission involves not only negotiating a way across No Man’s Land, the hellish wasteland between the frontline trenches, but crossing ground only recently vacated, according to intelligence, by German troops to reach the village of ‘Ecoust’."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blake and Schofield go over the top from the frontline trench into the grim desolation of No Man’s Land, dotted with bomb craters, the fly-riddled bodies of dead horses and criss-crossed by barbed-wire, which was created on the site of the old Bovingdon Airfield southwest of Hemel Hempstead in Hertfordshire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Convenient for the film studios, the site has hosted outdoor sets for World War Z, the 'Live Aid' concert in Bohemian Rhapsody, the explosions and epic stunts on ‘Scarif’ in Rogue One: A Star Wars Story, and Bovingdon also provided that incredibly long runway for Fast and Furious 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "In earlier days, the airfield itself was seen in a clutch of classic World War II films, including The War Lover, 633 Squadron, Battle Of Britain and Mosquito Squadron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blake and Schofield are mightily relieved to discover that the Germans really have retreated from their trenches, which they discover are far more sophisticated than the British dugouts."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deserted tunnels explored by the pair were filmed inside those local barns, but the underground bunker where a potentially lethal booby trap is triggered by a hungry rat, was built at Shepperton."
+    },
+    {
+      "type": "paragraph",
+      "text": "Choking on dust, Blake and Schofield emerge from darkness into a bleached-out compound littered with piles of shells and abandoned artillery."
+    },
+    {
+      "type": "paragraph",
+      "text": "This was a disused quarry in Oxfordshire. It’s Ambrose Quarry, on Old London Road southeast of the village of Ewelme, itself about 10 miles southeast of Oxford. Overrun by vegetation, it had to be stripped to the bare rock and earth to become the abandoned German base. ▶"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 1 | Page 2"
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>UK | Wiltshire</h3>\n<p>Visit: Wiltshire</p>\n<p>Visit: Salisbury (rail: Salisbury, from London Waterloo)</p>\n<p>Visit: Salisbury Plain</p>\n</section>\n<section><h3>UK | Oxfordshire</h3>\n<p>Visit: Oxford &amp; Oxfordshire</p>\n</section>\n<section><h3>UK | Hertfordshire</h3>\n<p>Visit: Hertfordshire</p>\n</section>\n<section><h3>UK | County Durham</h3>\n<p>Visit: County Durham</p>\n<p>Visit: the Tees Barrage International White Water Centre, Tees Barrage Way, Stockton-on-Tees TS18 2QW (tel: 01642.678000)</p>\n</section>\n<section><h3>UK | Scotland</h3>\n<p>Visit: Scotland</p>\n<p>Visit: Glasgow (rail: Glasgow Central, from London Euston or London King's Cross)</p>\n</section>",
+  "visit_info_text": "UK | Wiltshire\nVisit: Wiltshire\nVisit: Salisbury (rail: Salisbury, from London Waterloo)\nVisit: Salisbury Plain\nUK | Oxfordshire\nVisit: Oxford & Oxfordshire\nUK | Hertfordshire\nVisit: Hertfordshire\nUK | County Durham\nVisit: County Durham\nVisit: the Tees Barrage International White Water Centre, Tees Barrage Way, Stockton-on-Tees TS18 2QW (tel: 01642.678000)\nUK | Scotland\nVisit: Scotland\nVisit: Glasgow (rail: Glasgow Central, from London Euston or London King's Cross)",
+  "visit_sections": [
+    {
+      "title": "UK | Wiltshire",
+      "items": [
+        "Visit: Wiltshire",
+        "Visit: Salisbury (rail: Salisbury, from London Waterloo)",
+        "Visit: Salisbury Plain"
+      ]
+    },
+    {
+      "title": "UK | Oxfordshire",
+      "items": [
+        "Visit: Oxford & Oxfordshire"
+      ]
+    },
+    {
+      "title": "UK | Hertfordshire",
+      "items": [
+        "Visit: Hertfordshire"
+      ]
+    },
+    {
+      "title": "UK | County Durham",
+      "items": [
+        "Visit: County Durham",
+        "Visit: the Tees Barrage International White Water Centre, Tees Barrage Way, Stockton-on-Tees TS18 2QW (tel: 01642.678000)"
+      ]
+    },
+    {
+      "title": "UK | Scotland",
+      "items": [
+        "Visit: Scotland",
+        "Visit: Glasgow (rail: Glasgow Central, from London Euston or London King's Cross)"
+      ]
+    }
+  ]
+}

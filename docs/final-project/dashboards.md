@@ -3,5 +3,6 @@ title: "Final Project Dashboards"
 permalink: /final-project/dashboards/
 ---
 
-Final project dashboards and other materials might be located here.
+The final data storytelling is lived here:
 
+https://moviemap-tdjfc.ondigitalocean.app/

@@ -1,0 +1,391 @@
+{
+  "imdb_id": "tt0109830",
+  "shorthand": "Forrest-Gump",
+  "title": "Forrest Gump",
+  "year": 1994,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0109830 - Forrest-Gump.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0109830 - Forrest-Gump.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0109830.json",
+  "source_url": "http://www.movie-locations.com/movies/f/Forrest-Gump.php",
+  "page_title": "Forrest Gump | Film Locations",
+  "meta_description": "Filming locations for Forrest Gump (1994) around the USA in South Carolina, North Carolina, Georgia, Washington DC, Los Angeles, Arizona, Maine and Montana.",
+  "meta_keywords": "Forrest Gump film locations, filming locations, tourism, travel, set-jetting, holiday, vacation, visiting, chippewa square, savannah, georgia, beaufort, south carolina, los angeles, watergate hotel, washington DC, maine, utal, flagstaff, arizona",
+  "og_title": "Filming locations for Forrest Gump (1994) around the USA in South Carolina, North Carolina, Georgia, Washington DC, Los Angeles, Arizona, Maine and Montana.",
+  "og_description": "Film Locations for The French Connection in South Carolina, North Carolina, Georgia, Washington DC, Los Angeles, Arizona, Maine and Montana: Chippewa Square, Savannah, Georgia (Forrest's bench); Bluff Plantation, Twickenham Road, Beaufort (South Carolina); Fripp Island, Hunting Island State Park,South Carolina (Vietnam); Ebell of Los Angeles, 4400 West Eighth Street, Los Angeles (Saigon hospital); Reflecting Pool, Washington DC (reunited with Jenny); Cole’s Restaurant at 610 South Main Street, Los Angeles (TV studio, exterior; New Year party, interior); Alston Road, Lucy Point Creek, South Carolina (Bubba's home); Twin Arrows Trading Post, Flagstaff, Arizona (running)",
+  "og_image": "http://www.movie-locations.com/movies/f/forrest-gump-meta.jpg",
+  "top250_rank": "16",
+  "movie_locations_title": "FORREST GUMP",
+  "movie_locations_regions": "South Carolina | North Carolina | Georgia | Washington DC | Los Angeles, California | Arizona | Maine | Montana",
+  "director": "Robert Zemeckis",
+  "cast": [
+    "Tom Hanks",
+    "Robin Wright Penn",
+    "Gary Sinise",
+    "Mykelti Williamson",
+    "Sally Field",
+    "Haley Joel Osment"
+  ],
+  "locations": [
+    "South Carolina;",
+    "North Carolina;",
+    "Georgia;",
+    "Washington DC;",
+    "Los Angeles, California;",
+    "Arizona;",
+    "Maine;",
+    "Montana"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0109830%20-%20Forrest-Gump/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/002.jpg",
+    "exists": true,
+    "alt": "Forrest Gump poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/poster.jpg",
+    "corpus_asset_src": "../assets/tt0109830/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0109830%20-%20Forrest-Gump/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/001.jpg",
+    "exists": true,
+    "alt": "Forrest Gump filming location: Chippewa Square, Savannah, Georgia",
+    "caption": "Forrest Gump location: “Life is like a box of chocolates...”: Chippewa Square, Savannah, Georgia | Photograph: William Thigpen",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/001.jpg",
+    "corpus_asset_src": "../assets/tt0109830/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/001.jpg",
+      "exists": true,
+      "alt": "Forrest Gump filming location: Chippewa Square, Savannah, Georgia",
+      "caption": "Forrest Gump location: “Life is like a box of chocolates...”: Chippewa Square, Savannah, Georgia | Photograph: William Thigpen",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/001.jpg",
+      "corpus_asset_src": "../assets/tt0109830/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/002.jpg",
+      "exists": true,
+      "alt": "Forrest Gump poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/002.jpg",
+      "corpus_asset_src": "../assets/tt0109830/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/003.jpg",
+      "exists": true,
+      "alt": "Forrest Gump location: Bovard Administration Building, University of Southern California, Exposition Park, Los Angeles",
+      "caption": "Forrest Gump location: Gump graduates from the ‘University of Alabama’: Bovard Administration Building, University of Southern California, Exposition Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/003.jpg",
+      "corpus_asset_src": "../assets/tt0109830/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/004.jpg",
+      "exists": true,
+      "alt": "Forrest Gump location: Ebell of Los Angeles",
+      "caption": "Forrest Gump location: Gump recuperates in hospital: The Ebell of Los Angeles, West Eighth Street, midtown",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/004.jpg",
+      "corpus_asset_src": "../assets/tt0109830/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/005.jpg",
+      "exists": true,
+      "alt": "Forrest Gump location: Reflecting Pool and Washington Monument, Washington DC",
+      "caption": "Forrest Gump location: Gump addresses the anti-war rally in front of the Lincoln Memorial",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/005.jpg",
+      "corpus_asset_src": "../assets/tt0109830/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/006.jpg",
+      "exists": true,
+      "alt": "Forrest Gump location: Chippewa Square, Savannah, Georgia",
+      "caption": "Forrest Gump location: the ‘New York’ TV studio: South Main Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/006.jpg",
+      "corpus_asset_src": "../assets/tt0109830/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/007.jpg",
+      "exists": true,
+      "alt": "Forrest Gump location: Chippewa Square, Savannah, Georgia",
+      "caption": "Forrest Gump location: the New Year’s party: Cole’s Restaurant, South Main Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/007.jpg",
+      "corpus_asset_src": "../assets/tt0109830/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/008.jpg",
+      "exists": true,
+      "alt": "Forrest Gump location: The Watergate Hotel, Washington DC",
+      "caption": "Forrest Gump location: Gump spots the burglars: Watergate Hotel, Virginia Avenue NW, Washington DC",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/008.jpg",
+      "corpus_asset_src": "../assets/tt0109830/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/009.jpg",
+      "exists": true,
+      "alt": "Forrest Gump location: Marshall Point Lighthouse, Point Clyde, Maine",
+      "caption": "Forrest Gump location: Gump's run takes him to the coast: Marshall Point Lighthouse, Point Clyde, Maine | Photograph: flickr/Justin Russell",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/009.jpg",
+      "corpus_asset_src": "../assets/tt0109830/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0109830 - Forrest-Gump/010.jpg",
+      "exists": true,
+      "alt": "Forrest Gump location: Grandfather Mountain, Linville, North Carolina",
+      "caption": "Forrest Gump location: Forrest has company...: Grandfather Mountain, Linville, North Carolina | Photograph: flickr/lalagalore",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0109830/010.jpg",
+      "corpus_asset_src": "../assets/tt0109830/010.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0109830/001.jpg\" alt=\"Forrest Gump filming location: Chippewa Square, Savannah, Georgia\"><figcaption>Forrest Gump location: “Life is like a box of chocolates...”: Chippewa Square, Savannah, Georgia | Photograph: William Thigpen</figcaption></figure>\n<p>Discover where <span class=\"name\">Forrest Gump</span> (1994) was filmed around the <span class=\"name\">USA</span>, in <span class=\"name\">South Carolina, North Carolina, Georgia, Washington DC, Los Angeles, Arizona, Maine</span> and <span class=\"name\">Montana</span>.</p>\n<p>Audiences were split down the middle on this one – a moving affirmation of simple values or a reactionary celebration of slow-witted sentimentality? Box office went with the former, and so did the Academy, handing out for the second time a Best Actor award to <a href=\"https://www.movie-locations.com/people/h/hankst.php\">Tom Hanks</a>.</p>\n<p>Most of the film’s locations were found in a small area of <a href=\"https://www.movie-locations.com/places/usa/scarolina.php\">South Carolina</a> around <span class=\"name\">Beaufort</span>.</p>\n<p>The bench, though, on which Gump collars anyone who’ll listen, stood on the north side of <span class=\"name\">Chippewa Square, Savannah</span>, <a href=\"https://www.movie-locations.com/places/usa/georgia.php\">Georgia</a> – but only for the film.  If you really want to sit and ponder exactly how much like a box of chocolates life is, you’ll find the seats are within the garden square itself; and you’ll also notice that the direction of traffic around the square was reversed (to allow the buses to pull in to the centre of the square).</p>\n<p>The actual bench now resides in the <a href=\"http://www.savannah.com/the-savannah-history-museum/\" target=\"_blank\">Savannah History Museum</a>, <span class=\"name\">303 Martin Luther King, Jr. Boulevard, Savannah</span>.      </p>\n<p>The fictitious town of ‘Greenbow, Alabama’, where the young Gump grows up, is <span class=\"name\">Varnville</span>, on Route 68 about 35 miles northwest of <span class=\"name\">Beaufort</span>. Many of the main street shops dressed for the movie have elected to retain the Gump look. Gump’s school, where the Principal uses a helpful diagram to explain Forrest’s intelligence to his mum (<a href=\"https://www.movie-locations.com/people/f/fields.php\">Sally Field</a>), was Hampton Street Elementary School, now the <span class=\"name\">Colleton Center, 494 Hampton Street, Walterboro</span>, north of <span class=\"name\">Beaufort</span>.</p>\n<p>The Gump boarding house and Jenny’s (<a href=\"https://www.movie-locations.com/people/w/wrightpennr.php\">Robin Wright Penn</a>) farmhouse stood on the <span class=\"name\">Bluff Plantation, Twickenham Road</span>, just southeast of <span class=\"name\">Yemassee</span>, on the <span class=\"name\">Combahee River</span> between <span class=\"name\">Varnville</span> and <span class=\"name\">Beaufort</span>. Built only for the movie, they were torn down after filming.</p>\n<p>Gump’s running prowess gets him into the ‘University of Alabama’, though the university scenes are in <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>. The football stadium is the <a href=\"http://www.lasports.org/lafacilities/display.php?s=Stadium&amp;id=17\" target=\"_blank\">Weingart Stadium</a> of <span class=\"name\">East Los Angeles College, 1301 Avenida Cesar Chavez</span> – packed out with CGI crowds. The stadium went on to host the Metropolis-Gotham City football match in <a href=\"https://www.movie-locations.com/movies/b/Batman-V-Superman.php\">Batman V Superman</a>.</p>\n<p>Jenny’s ‘Margaret Mitchell Hall’, outside which Gump punches the lights out of her male friend, is <span class=\"name\">Marks Hall, 612 West 35th Place</span>, on the campus of the <span class=\"name\">University of Southern California</span>, in the <span class=\"name\">Exposition Park</span> district south of downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.  It’s in front of the same university’s <span class=\"name\">Bovard Administration Building</span> that Gump graduates before being recruited into the army.</p>\n<p>And don’t be fooled by those CGI mountains, either – the ‘Vietnam’ scenes, where Gump first meets both Bubba (<a href=\"https://www.movie-locations.com/people/w/williamsonm.php\">Mykelti Williamson</a>) and Lieutenant Dan (<a href=\"https://www.movie-locations.com/people/s/siniseg.php\">Gary Sinise</a>), were filmed on <span class=\"name\">Fripp Island</span> and <span class=\"name\">Hunting Island State Park</span>, off the <span class=\"name\">Beaufort</span> coast of <a href=\"https://www.movie-locations.com/places/usa/scarolina.php\">South Carolina</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0109830/004.jpg\" alt=\"Forrest Gump location: Ebell of Los Angeles\"><figcaption>Forrest Gump location: Gump recuperates in hospital: The Ebell of Los Angeles, West Eighth Street, midtown</figcaption></figure>\n<p> It’s back to <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> for the ‘Saigon’ hospital in which Gump recuperates alongside the embittered Lt Dan, which was the <a href=\"http://www.ebellla.com\" target=\"_blank\">Ebell of Los Angeles</a>, <span class=\"name\">4400 West Eighth Street</span> at Lucerne Boulevard, midtown. This complex, comprised of a women’s club and the Wilshire Ebell Theatre, can be seen in scads of films, including <a href=\"https://www.movie-locations.com/movies/a/Addams-Family.php\">The Addams Family</a>, <a href=\"https://www.movie-locations.com/movies/a/Air-Force-One.php\">Air Force One</a>, <a href=\"https://www.movie-locations.com/movies/c/Catch-Me-If-You-Can.php\">Catch Me If You Can</a>, <a href=\"https://www.movie-locations.com/movies/o/Old-School.php\">Old School</a>, <a href=\"https://www.movie-locations.com/movies/c/Cruel-Intentions.php\">Cruel Intentions</a>, <span class=\"name\">Darkman</span>, <a href=\"https://www.movie-locations.com/movies/d/Death-Becomes-Her.php\">Death Becomes Her</a>, <span class=\"name\">The General’s Daughter</span>, <a href=\"https://www.movie-locations.com/movies/g/Ghost.php\">Ghost</a>, <span class=\"name\">Very Bad Things</span> and <span class=\"name\">The Wedding Planner</span>. Coincidentally, it even turns up again as a hospital in another offbeat SFX fantasy adapted by <span class=\"name\">Eric Roth</span>, <span class=\"name\">The Curious Case of Benjamin Button</span>.</p>\n<p>Gump addresses the crowd at the <span class=\"name\">Lincoln Memorial</span> in <a href=\"https://www.movie-locations.com/places/usa/dc.php\">Washington DC</a>, with the <span class=\"name\">Washington Monument</span> in the distance, before wading into the <span class=\"name\">Reflecting Pool</span> to be reunited with Jenny.  After the demo, Gump hands over his Congressional Medal of Honor to Jenny on <span class=\"name\">Maine Avenue SW</span>, in front of the <span class=\"name\">Jefferson Memorial</span> in <span class=\"name\">East Potomac Park</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0109830/006.jpg\" alt=\"Forrest Gump location: Chippewa Square, Savannah, Georgia\"><figcaption>Forrest Gump location: the ‘New York’ TV studio: South Main Street, downtown Los Angeles</figcaption></figure>\n<p>After the Dick Cavett chat show appearance, which seems to inspire <a href=\"https://www.movie-locations.com/people/l/lennonj.php\">John Lennon</a> to write <span class=\"ital\">Imagine</span>, Gump meets up again with wheelchair-bound Lt Dan. The TV studio exterior is the ramp outside  <span class=\"name\">Cole’s Restaurant</span> at <span class=\"name\"> 610 South Main Street</span> – the stretch of road used for the attack on the police convoy in <a href=\"https://www.movie-locations.com/movies/s/SWAT.php\">S.W.A.T.</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0109830/007.jpg\" alt=\"Forrest Gump location: Chippewa Square, Savannah, Georgia\"><figcaption>Forrest Gump location: the New Year’s party: Cole’s Restaurant, South Main Street, downtown Los Angeles</figcaption></figure>\n<p>It’s inside <span class=\"name\">Cole’s Restaurant</span>, in the <span class=\"name\">Pacific Electric Building, 610 South Main Street</span>, that Gump and Lt Dan raucously celebrate New Year 1972. A much-used location, the building has also hosted filming for <a href=\"https://www.movie-locations.com/movies/l/LA-Confidential.php\">L.A. Confidential</a>, <a href=\"https://www.movie-locations.com/movies/s/Seven-1995.php\">Se7en</a> and <span class=\"name\">Face/Off</span> ).</p>\n<p>It’s briefly back to <a href=\"https://www.movie-locations.com/places/usa/dc.php\">Washington DC</a> to meet Richard Nixon, where Gump stays at the <a href=\"http://www.thewatergatehotel.com/\" target=\"_blank\">Watergate Hotel</a>, <span class=\"name\">2650 Virginia Avenue NW</span>, and reports mysterious men with torches in the building opposite (see <a href=\"https://www.movie-locations.com/movies/a/All-The-Presidents-Men.php\">All the President’s Men</a> for more details of this odd event). </p>\n<p>After his discharge from the army, Gump visits Bubba’s ‘Louisiana’ home, not in ‘Bayou La Batre’, but on <span class=\"name\">Alston Road</span>,  <span class=\"name\">Lucy Point Creek</span>, on <span class=\"name\">Ladies Island</span> just southeast of <span class=\"name\">Beaufort</span>. Nearby <span class=\"name\">Port Royal</span> (which claims to be the first settlement in the New World, predating Jamestown by some 45 years) was the site of the disastrous hurricane, which brings Gump such good fortune.</p>\n<p>The ‘Four Square Baptist Church’, where Gump prays with the choir for shrimp, is <span class=\"name\">Stoney Creek Chapel, McPhersonville, Hampton County</span>. In <span class=\"name\">Beaufort</span> itself, the <span class=\"name\">University of South Carolina</span>’s <span class=\"name\">Beaufort Performing Arts Center, 801 Carteret Street, </span> became the ‘Bayou La Batre Hospital’, which gets transformed into the ‘Gump Medical Center’ with the shrimping profits.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0109830/009.jpg\" alt=\"Forrest Gump location: Marshall Point Lighthouse, Point Clyde, Maine\"><figcaption>Forrest Gump location: Gump's run takes him to the coast: Marshall Point Lighthouse, Point Clyde, Maine | Photograph: flickr/Justin Russell</figcaption></figure>\n<p>Gump takes a little run, first through downtown <span class=\"name\">Varnville</span>. The tiny bridge with the ‘Mississippi Welcomes You’ sign is <span class=\"name\">Chowan Creek</span> (or <span class=\"name\">Cowan Creek</span>) <span class=\"name\">Bridge</span> linking <span class=\"name\">Ladies Island</span> and <span class=\"name\">St. Helena Island</span>, east of downtown <span class=\"name\">Beaufort</span>.</p>\n<p>Gump runs “clear to the ocean”,  to <span class=\"name\">Santa Monica Yacht Harbor</span> on the west coast, then to “another ocean” – at the <a href=\"http://www.marshallpoint.org\" target=\"_blank\">Marshall Point Lighthouse</a>, near <span class=\"name\">Point Clyde</span>, <a href=\"https://www.movie-locations.com/places/usa/maine.php\">Maine</a>, on the east coast.</p>\n<p> In the blink of an eye he's jogging through golden wheatfields at <span class=\"name\">Cut Bank</span>, <a href=\"https://www.movie-locations.com/places/usa/montana.php\">Montana</a>. The picturesque stone bridge set against a background of snowy peaks is at the <span class=\"name\">St. Mary Entrance</span> to <a href=\"http://www.nps.gov/glac/\" target=\"_blank\">Glacier National Park</a>, north of Kalispell, also in <a href=\"https://www.movie-locations.com/places/usa/montana.php\">Montana</a>. <span class=\"name\">Going-to-the-Sun Road</span>, the 52-mile scenic road which crosses the park from <span class=\"name\">St. Mary</span> on the east side to Apgar Village on the west (built in the Thirties and named after Going-To-The-Sun Mountain) can be seen in the opening shots of <a href=\"https://www.movie-locations.com/people/k/kubricks.php\">Stanley Kubrick</a>’s <a href=\"https://www.movie-locations.com/movies/s/Shining-1980.php\">The Shining</a>. </p>\n<p>On the girdered swing bridge, the <span class=\"name\">Woods Memorial Bridge</span> where <span class=\"name\">US21</span>, <span class=\"name\">Sea Island Parkway</span>, crosses the <span class=\"name\">Beaufort River</span> east of downtown <span class=\"name\">Beaufort</span>, TV crews question Gump on his motivation for running.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0109830/010.jpg\" alt=\"Forrest Gump location: Grandfather Mountain, Linville, North Carolina\"><figcaption>Forrest Gump location: Forrest has company...: Grandfather Mountain, Linville, North Carolina | Photograph: flickr/lalagalore</figcaption></figure>\n<p>As he rounds the hairpin bend on <a href=\"http://www.grandfather.com/\" target=\"_blank\">Grandfather Mountain</a> near <span class=\"name\">Linville</span>, up near Asheville in <a href=\"https://www.movie-locations.com/places/usa/ncarolina.php\">North Carolina</a>, he begins to realise he’s got company. The bend is now signposted as <span class=\"name\">Forrest Gump Curve</span>. The entrance to <a onclick=\"window.open('http://www.grandfather.com/', 'mountain')\" href=\"#grandfather\">Grandfather Mountain</a> (there’s an admission fee) is on US 221, about two miles north of <span class=\"name\">Linville</span>, and a mile south of the <span class=\"name\">Blue Ridge Parkway</span>, at milepost 305. And don’t miss the mountain’s Mile High Swinging Bridge. </p>\n<p>Tramping through dog poo as he  runs north from <span class=\"name\">East Aspen Street</span> along <span class=\"name\">North San Francisco Street</span>  in downtown <span class=\"name\">Flagstaff</span>, <a href=\"https://www.movie-locations.com/places/usa/arizona.php\">Arizona</a>, Gump inadvertently invents the ‘<span class=\"ital\">Shit Happens</span>’ bumper sticker.</p>\n<p>He gives rise to another cultural icon – the ‘Smiley Face’ t-shirt – as he jogs past the old <span class=\"name\">Twin Arrows Trading Post</span>, about 20 miles east of <span class=\"name\">Flagstaff</span> (you can see the two giant arrows which gave this old Route 66 stop its name to the left of the frame). When I-40 replaced Route 66, the trading post closed and the two arrows are now in a sad state of disrepair. Catch them while you can. </p>\n<p>Three years, two months, fourteen days and sixteen hours after the start of his run, Gump decides, at <span class=\"name\">Monument Valley</span> in <a href=\"https://www.movie-locations.com/places/usa/arizona.php\">Arizona</a>, to go home.</p>",
+  "main_content_text": "Discover where Forrest Gump (1994) was filmed around the USA, in South Carolina, North Carolina, Georgia, Washington DC, Los Angeles, Arizona, Maine and Montana.\n\nAudiences were split down the middle on this one – a moving affirmation of simple values or a reactionary celebration of slow-witted sentimentality? Box office went with the former, and so did the Academy, handing out for the second time a Best Actor award to Tom Hanks.\n\nMost of the film’s locations were found in a small area of South Carolina around Beaufort.\n\nThe bench, though, on which Gump collars anyone who’ll listen, stood on the north side of Chippewa Square, Savannah, Georgia – but only for the film. If you really want to sit and ponder exactly how much like a box of chocolates life is, you’ll find the seats are within the garden square itself; and you’ll also notice that the direction of traffic around the square was reversed (to allow the buses to pull in to the centre of the square).\n\nThe actual bench now resides in the Savannah History Museum, 303 Martin Luther King, Jr. Boulevard, Savannah.\n\nThe fictitious town of ‘Greenbow, Alabama’, where the young Gump grows up, is Varnville, on Route 68 about 35 miles northwest of Beaufort. Many of the main street shops dressed for the movie have elected to retain the Gump look. Gump’s school, where the Principal uses a helpful diagram to explain Forrest’s intelligence to his mum (Sally Field), was Hampton Street Elementary School, now the Colleton Center, 494 Hampton Street, Walterboro, north of Beaufort.\n\nThe Gump boarding house and Jenny’s (Robin Wright Penn) farmhouse stood on the Bluff Plantation, Twickenham Road, just southeast of Yemassee, on the Combahee River between Varnville and Beaufort. Built only for the movie, they were torn down after filming.\n\nGump’s running prowess gets him into the ‘University of Alabama’, though the university scenes are in California. The football stadium is the Weingart Stadium of East Los Angeles College, 1301 Avenida Cesar Chavez – packed out with CGI crowds. The stadium went on to host the Metropolis-Gotham City football match in Batman V Superman.\n\nJenny’s ‘Margaret Mitchell Hall’, outside which Gump punches the lights out of her male friend, is Marks Hall, 612 West 35th Place, on the campus of the University of Southern California, in the Exposition Park district south of downtown Los Angeles. It’s in front of the same university’s Bovard Administration Building that Gump graduates before being recruited into the army.\n\nAnd don’t be fooled by those CGI mountains, either – the ‘Vietnam’ scenes, where Gump first meets both Bubba (Mykelti Williamson) and Lieutenant Dan (Gary Sinise), were filmed on Fripp Island and Hunting Island State Park, off the Beaufort coast of South Carolina.\n\nIt’s back to Los Angeles for the ‘Saigon’ hospital in which Gump recuperates alongside the embittered Lt Dan, which was the Ebell of Los Angeles, 4400 West Eighth Street at Lucerne Boulevard, midtown. This complex, comprised of a women’s club and the Wilshire Ebell Theatre, can be seen in scads of films, including The Addams Family, Air Force One, Catch Me If You Can, Old School, Cruel Intentions, Darkman, Death Becomes Her, The General’s Daughter, Ghost, Very Bad Things and The Wedding Planner. Coincidentally, it even turns up again as a hospital in another offbeat SFX fantasy adapted by Eric Roth, The Curious Case of Benjamin Button.\n\nGump addresses the crowd at the Lincoln Memorial in Washington DC, with the Washington Monument in the distance, before wading into the Reflecting Pool to be reunited with Jenny. After the demo, Gump hands over his Congressional Medal of Honor to Jenny on Maine Avenue SW, in front of the Jefferson Memorial in East Potomac Park.\n\nAfter the Dick Cavett chat show appearance, which seems to inspire John Lennon to write Imagine, Gump meets up again with wheelchair-bound Lt Dan. The TV studio exterior is the ramp outside Cole’s Restaurant at 610 South Main Street – the stretch of road used for the attack on the police convoy in S.W.A.T.\n\nIt’s inside Cole’s Restaurant, in the Pacific Electric Building, 610 South Main Street, that Gump and Lt Dan raucously celebrate New Year 1972. A much-used location, the building has also hosted filming for L.A. Confidential, Se7en and Face/Off ).\n\nIt’s briefly back to Washington DC to meet Richard Nixon, where Gump stays at the Watergate Hotel, 2650 Virginia Avenue NW, and reports mysterious men with torches in the building opposite (see All the President’s Men for more details of this odd event).\n\nAfter his discharge from the army, Gump visits Bubba’s ‘Louisiana’ home, not in ‘Bayou La Batre’, but on Alston Road, Lucy Point Creek, on Ladies Island just southeast of Beaufort. Nearby Port Royal (which claims to be the first settlement in the New World, predating Jamestown by some 45 years) was the site of the disastrous hurricane, which brings Gump such good fortune.\n\nThe ‘Four Square Baptist Church’, where Gump prays with the choir for shrimp, is Stoney Creek Chapel, McPhersonville, Hampton County. In Beaufort itself, the University of South Carolina’s Beaufort Performing Arts Center, 801 Carteret Street, became the ‘Bayou La Batre Hospital’, which gets transformed into the ‘Gump Medical Center’ with the shrimping profits.\n\nGump takes a little run, first through downtown Varnville. The tiny bridge with the ‘Mississippi Welcomes You’ sign is Chowan Creek (or Cowan Creek) Bridge linking Ladies Island and St. Helena Island, east of downtown Beaufort.\n\nGump runs “clear to the ocean”, to Santa Monica Yacht Harbor on the west coast, then to “another ocean” – at the Marshall Point Lighthouse, near Point Clyde, Maine, on the east coast.\n\nIn the blink of an eye he's jogging through golden wheatfields at Cut Bank, Montana. The picturesque stone bridge set against a background of snowy peaks is at the St. Mary Entrance to Glacier National Park, north of Kalispell, also in Montana. Going-to-the-Sun Road, the 52-mile scenic road which crosses the park from St. Mary on the east side to Apgar Village on the west (built in the Thirties and named after Going-To-The-Sun Mountain) can be seen in the opening shots of Stanley Kubrick’s The Shining.\n\nOn the girdered swing bridge, the Woods Memorial Bridge where US21, Sea Island Parkway, crosses the Beaufort River east of downtown Beaufort, TV crews question Gump on his motivation for running.\n\nAs he rounds the hairpin bend on Grandfather Mountain near Linville, up near Asheville in North Carolina, he begins to realise he’s got company. The bend is now signposted as Forrest Gump Curve. The entrance to Grandfather Mountain (there’s an admission fee) is on US 221, about two miles north of Linville, and a mile south of the Blue Ridge Parkway, at milepost 305. And don’t miss the mountain’s Mile High Swinging Bridge.\n\nTramping through dog poo as he runs north from East Aspen Street along North San Francisco Street in downtown Flagstaff, Arizona, Gump inadvertently invents the ‘Shit Happens’ bumper sticker.\n\nHe gives rise to another cultural icon – the ‘Smiley Face’ t-shirt – as he jogs past the old Twin Arrows Trading Post, about 20 miles east of Flagstaff (you can see the two giant arrows which gave this old Route 66 stop its name to the left of the frame). When I-40 replaced Route 66, the trading post closed and the two arrows are now in a sad state of disrepair. Catch them while you can.\n\nThree years, two months, fourteen days and sixteen hours after the start of his run, Gump decides, at Monument Valley in Arizona, to go home.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Forrest Gump location: “Life is like a box of chocolates...”: Chippewa Square, Savannah, Georgia | Photograph: William Thigpen",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/001.jpg",
+      "alt": "Forrest Gump filming location: Chippewa Square, Savannah, Georgia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover where Forrest Gump (1994) was filmed around the USA, in South Carolina, North Carolina, Georgia, Washington DC, Los Angeles, Arizona, Maine and Montana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Audiences were split down the middle on this one – a moving affirmation of simple values or a reactionary celebration of slow-witted sentimentality? Box office went with the former, and so did the Academy, handing out for the second time a Best Actor award to Tom Hanks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most of the film’s locations were found in a small area of South Carolina around Beaufort."
+    },
+    {
+      "type": "paragraph",
+      "text": "The bench, though, on which Gump collars anyone who’ll listen, stood on the north side of Chippewa Square, Savannah, Georgia – but only for the film. If you really want to sit and ponder exactly how much like a box of chocolates life is, you’ll find the seats are within the garden square itself; and you’ll also notice that the direction of traffic around the square was reversed (to allow the buses to pull in to the centre of the square)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The actual bench now resides in the Savannah History Museum, 303 Martin Luther King, Jr. Boulevard, Savannah."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fictitious town of ‘Greenbow, Alabama’, where the young Gump grows up, is Varnville, on Route 68 about 35 miles northwest of Beaufort. Many of the main street shops dressed for the movie have elected to retain the Gump look. Gump’s school, where the Principal uses a helpful diagram to explain Forrest’s intelligence to his mum (Sally Field), was Hampton Street Elementary School, now the Colleton Center, 494 Hampton Street, Walterboro, north of Beaufort."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Gump boarding house and Jenny’s (Robin Wright Penn) farmhouse stood on the Bluff Plantation, Twickenham Road, just southeast of Yemassee, on the Combahee River between Varnville and Beaufort. Built only for the movie, they were torn down after filming."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gump’s running prowess gets him into the ‘University of Alabama’, though the university scenes are in California. The football stadium is the Weingart Stadium of East Los Angeles College, 1301 Avenida Cesar Chavez – packed out with CGI crowds. The stadium went on to host the Metropolis-Gotham City football match in Batman V Superman."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jenny’s ‘Margaret Mitchell Hall’, outside which Gump punches the lights out of her male friend, is Marks Hall, 612 West 35th Place, on the campus of the University of Southern California, in the Exposition Park district south of downtown Los Angeles. It’s in front of the same university’s Bovard Administration Building that Gump graduates before being recruited into the army."
+    },
+    {
+      "type": "paragraph",
+      "text": "And don’t be fooled by those CGI mountains, either – the ‘Vietnam’ scenes, where Gump first meets both Bubba (Mykelti Williamson) and Lieutenant Dan (Gary Sinise), were filmed on Fripp Island and Hunting Island State Park, off the Beaufort coast of South Carolina."
+    },
+    {
+      "type": "image",
+      "caption": "Forrest Gump location: Gump recuperates in hospital: The Ebell of Los Angeles, West Eighth Street, midtown",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/004.jpg",
+      "alt": "Forrest Gump location: Ebell of Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s back to Los Angeles for the ‘Saigon’ hospital in which Gump recuperates alongside the embittered Lt Dan, which was the Ebell of Los Angeles, 4400 West Eighth Street at Lucerne Boulevard, midtown. This complex, comprised of a women’s club and the Wilshire Ebell Theatre, can be seen in scads of films, including The Addams Family, Air Force One, Catch Me If You Can, Old School, Cruel Intentions, Darkman, Death Becomes Her, The General’s Daughter, Ghost, Very Bad Things and The Wedding Planner. Coincidentally, it even turns up again as a hospital in another offbeat SFX fantasy adapted by Eric Roth, The Curious Case of Benjamin Button."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gump addresses the crowd at the Lincoln Memorial in Washington DC, with the Washington Monument in the distance, before wading into the Reflecting Pool to be reunited with Jenny. After the demo, Gump hands over his Congressional Medal of Honor to Jenny on Maine Avenue SW, in front of the Jefferson Memorial in East Potomac Park."
+    },
+    {
+      "type": "image",
+      "caption": "Forrest Gump location: the ‘New York’ TV studio: South Main Street, downtown Los Angeles",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/006.jpg",
+      "alt": "Forrest Gump location: Chippewa Square, Savannah, Georgia"
+    },
+    {
+      "type": "paragraph",
+      "text": "After the Dick Cavett chat show appearance, which seems to inspire John Lennon to write Imagine, Gump meets up again with wheelchair-bound Lt Dan. The TV studio exterior is the ramp outside Cole’s Restaurant at 610 South Main Street – the stretch of road used for the attack on the police convoy in S.W.A.T."
+    },
+    {
+      "type": "image",
+      "caption": "Forrest Gump location: the New Year’s party: Cole’s Restaurant, South Main Street, downtown Los Angeles",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/007.jpg",
+      "alt": "Forrest Gump location: Chippewa Square, Savannah, Georgia"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s inside Cole’s Restaurant, in the Pacific Electric Building, 610 South Main Street, that Gump and Lt Dan raucously celebrate New Year 1972. A much-used location, the building has also hosted filming for L.A. Confidential, Se7en and Face/Off )."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s briefly back to Washington DC to meet Richard Nixon, where Gump stays at the Watergate Hotel, 2650 Virginia Avenue NW, and reports mysterious men with torches in the building opposite (see All the President’s Men for more details of this odd event)."
+    },
+    {
+      "type": "paragraph",
+      "text": "After his discharge from the army, Gump visits Bubba’s ‘Louisiana’ home, not in ‘Bayou La Batre’, but on Alston Road, Lucy Point Creek, on Ladies Island just southeast of Beaufort. Nearby Port Royal (which claims to be the first settlement in the New World, predating Jamestown by some 45 years) was the site of the disastrous hurricane, which brings Gump such good fortune."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Four Square Baptist Church’, where Gump prays with the choir for shrimp, is Stoney Creek Chapel, McPhersonville, Hampton County. In Beaufort itself, the University of South Carolina’s Beaufort Performing Arts Center, 801 Carteret Street, became the ‘Bayou La Batre Hospital’, which gets transformed into the ‘Gump Medical Center’ with the shrimping profits."
+    },
+    {
+      "type": "image",
+      "caption": "Forrest Gump location: Gump's run takes him to the coast: Marshall Point Lighthouse, Point Clyde, Maine | Photograph: flickr/Justin Russell",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/009.jpg",
+      "alt": "Forrest Gump location: Marshall Point Lighthouse, Point Clyde, Maine"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gump takes a little run, first through downtown Varnville. The tiny bridge with the ‘Mississippi Welcomes You’ sign is Chowan Creek (or Cowan Creek) Bridge linking Ladies Island and St. Helena Island, east of downtown Beaufort."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gump runs “clear to the ocean”, to Santa Monica Yacht Harbor on the west coast, then to “another ocean” – at the Marshall Point Lighthouse, near Point Clyde, Maine, on the east coast."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the blink of an eye he's jogging through golden wheatfields at Cut Bank, Montana. The picturesque stone bridge set against a background of snowy peaks is at the St. Mary Entrance to Glacier National Park, north of Kalispell, also in Montana. Going-to-the-Sun Road, the 52-mile scenic road which crosses the park from St. Mary on the east side to Apgar Village on the west (built in the Thirties and named after Going-To-The-Sun Mountain) can be seen in the opening shots of Stanley Kubrick’s The Shining."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the girdered swing bridge, the Woods Memorial Bridge where US21, Sea Island Parkway, crosses the Beaufort River east of downtown Beaufort, TV crews question Gump on his motivation for running."
+    },
+    {
+      "type": "image",
+      "caption": "Forrest Gump location: Forrest has company...: Grandfather Mountain, Linville, North Carolina | Photograph: flickr/lalagalore",
+      "src": "_assets/tt0109830%20-%20Forrest-Gump/010.jpg",
+      "alt": "Forrest Gump location: Grandfather Mountain, Linville, North Carolina"
+    },
+    {
+      "type": "paragraph",
+      "text": "As he rounds the hairpin bend on Grandfather Mountain near Linville, up near Asheville in North Carolina, he begins to realise he’s got company. The bend is now signposted as Forrest Gump Curve. The entrance to Grandfather Mountain (there’s an admission fee) is on US 221, about two miles north of Linville, and a mile south of the Blue Ridge Parkway, at milepost 305. And don’t miss the mountain’s Mile High Swinging Bridge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tramping through dog poo as he runs north from East Aspen Street along North San Francisco Street in downtown Flagstaff, Arizona, Gump inadvertently invents the ‘Shit Happens’ bumper sticker."
+    },
+    {
+      "type": "paragraph",
+      "text": "He gives rise to another cultural icon – the ‘Smiley Face’ t-shirt – as he jogs past the old Twin Arrows Trading Post, about 20 miles east of Flagstaff (you can see the two giant arrows which gave this old Route 66 stop its name to the left of the frame). When I-40 replaced Route 66, the trading post closed and the two arrows are now in a sad state of disrepair. Catch them while you can."
+    },
+    {
+      "type": "paragraph",
+      "text": "Three years, two months, fourteen days and sixteen hours after the start of his run, Gump decides, at Monument Valley in Arizona, to go home."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>South Carolina</h3>\n<p>Visit: South Carolina</p>\n<p>Visit: Beaufort</p>\n</section>\n<section><h3>North Carolina</h3>\n<p>Visit: North Carolina</p>\n<p>Visit: Grandfather Mountain, Linville</p>\n</section>\n<section><h3>Georgia</h3>\n<p>Visit: Georgia</p>\n<p>Visit: Savannah</p>\n<p>Flights: Savannah/Hilton Head International Airport, 400 Airways Avenue, Savannah, GA 31408 (tel: 912.964.0514)</p>\n<p>Visit: the Savannah History Museum, 303 Martin Luther King, Jr. Boulevard, Savannah, GA 31401 (tel: 912.651.6825)</p>\n</section>\n<section><h3>Washington DC</h3>\n<p>International flights: Dulles International Airport, 1 Saarinen Circle, Dulles, VA 20166 (tel: 703.572.2700)</p>\n<p>Domestic flights: Reagan National Airport, smaller but much closer to downtown DC</p>\n<p>Visit: Destination DC, 901 7th Street NW, 4th Floor, Washington, DC 20001-3719 (tel: 202.789.7000)</p>\n<p>Stay at: the Watergate Hotel, 2650 Virginia Avenue NW, Washington, DC 20037 (tel: 202.827.1600)</p>\n</section>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>VISIT: the Ebell Of Los Angeles, 743 South Lucerne Boulevard, Los Angeles, CA 90005 (tel: 323.931.1277)</p>\n<p>Visit: Weingart Stadium, East Los Angeles College, 1301 Avenida Cesar Chavez, Monterey Park, CA 91754 (tel: 323.265.8650)</p>\n</section>\n<section><h3>Arizona</h3>\n<p>Visit: Arizona</p>\n<p>Visit: Monument Valley</p>\n</section>\n<section><h3>Maine</h3>\n<p>Visit: Maine</p>\n<p>Visit: Marshall Point Lighthouse, Marshall Point Road, Port Clyde, ME 04855 (tel: 207.372.6450)</p>\n</section>\n<section><h3>Montana</h3>\n<p>Visit: Montana</p>\n<p>Visit: Glacier National Park, West Glacier, MT</p>\n</section>",
+  "visit_info_text": "South Carolina\nVisit: South Carolina\nVisit: Beaufort\nNorth Carolina\nVisit: North Carolina\nVisit: Grandfather Mountain, Linville\nGeorgia\nVisit: Georgia\nVisit: Savannah\nFlights: Savannah/Hilton Head International Airport, 400 Airways Avenue, Savannah, GA 31408 (tel: 912.964.0514)\nVisit: the Savannah History Museum, 303 Martin Luther King, Jr. Boulevard, Savannah, GA 31401 (tel: 912.651.6825)\nWashington DC\nInternational flights: Dulles International Airport, 1 Saarinen Circle, Dulles, VA 20166 (tel: 703.572.2700)\nDomestic flights: Reagan National Airport, smaller but much closer to downtown DC\nVisit: Destination DC, 901 7th Street NW, 4th Floor, Washington, DC 20001-3719 (tel: 202.789.7000)\nStay at: the Watergate Hotel, 2650 Virginia Avenue NW, Washington, DC 20037 (tel: 202.827.1600)\nCalifornia | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nVISIT: the Ebell Of Los Angeles, 743 South Lucerne Boulevard, Los Angeles, CA 90005 (tel: 323.931.1277)\nVisit: Weingart Stadium, East Los Angeles College, 1301 Avenida Cesar Chavez, Monterey Park, CA 91754 (tel: 323.265.8650)\nArizona\nVisit: Arizona\nVisit: Monument Valley\nMaine\nVisit: Maine\nVisit: Marshall Point Lighthouse, Marshall Point Road, Port Clyde, ME 04855 (tel: 207.372.6450)\nMontana\nVisit: Montana\nVisit: Glacier National Park, West Glacier, MT",
+  "visit_sections": [
+    {
+      "title": "South Carolina",
+      "items": [
+        "Visit: South Carolina",
+        "Visit: Beaufort"
+      ]
+    },
+    {
+      "title": "North Carolina",
+      "items": [
+        "Visit: North Carolina",
+        "Visit: Grandfather Mountain, Linville"
+      ]
+    },
+    {
+      "title": "Georgia",
+      "items": [
+        "Visit: Georgia",
+        "Visit: Savannah",
+        "Flights: Savannah/Hilton Head International Airport, 400 Airways Avenue, Savannah, GA 31408 (tel: 912.964.0514)",
+        "Visit: the Savannah History Museum, 303 Martin Luther King, Jr. Boulevard, Savannah, GA 31401 (tel: 912.651.6825)"
+      ]
+    },
+    {
+      "title": "Washington DC",
+      "items": [
+        "International flights: Dulles International Airport, 1 Saarinen Circle, Dulles, VA 20166 (tel: 703.572.2700)",
+        "Domestic flights: Reagan National Airport, smaller but much closer to downtown DC",
+        "Visit: Destination DC, 901 7th Street NW, 4th Floor, Washington, DC 20001-3719 (tel: 202.789.7000)",
+        "Stay at: the Watergate Hotel, 2650 Virginia Avenue NW, Washington, DC 20037 (tel: 202.827.1600)"
+      ]
+    },
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "VISIT: the Ebell Of Los Angeles, 743 South Lucerne Boulevard, Los Angeles, CA 90005 (tel: 323.931.1277)",
+        "Visit: Weingart Stadium, East Los Angeles College, 1301 Avenida Cesar Chavez, Monterey Park, CA 91754 (tel: 323.265.8650)"
+      ]
+    },
+    {
+      "title": "Arizona",
+      "items": [
+        "Visit: Arizona",
+        "Visit: Monument Valley"
+      ]
+    },
+    {
+      "title": "Maine",
+      "items": [
+        "Visit: Maine",
+        "Visit: Marshall Point Lighthouse, Marshall Point Road, Port Clyde, ME 04855 (tel: 207.372.6450)"
+      ]
+    },
+    {
+      "title": "Montana",
+      "items": [
+        "Visit: Montana",
+        "Visit: Glacier National Park, West Glacier, MT"
+      ]
+    }
+  ]
+}

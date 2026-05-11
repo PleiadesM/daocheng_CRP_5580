@@ -1,0 +1,96 @@
+{
+  "imdb_id": "tt0090605",
+  "shorthand": "Aliens",
+  "title": "Aliens",
+  "year": 1986,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0090605 - Aliens.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0090605 - Aliens.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0090605.json",
+  "source_url": "http://www.movie-locations.com/movies/a/Aliens.php",
+  "page_title": "Film locations for Aliens (1986)",
+  "meta_description": "Filming locations for Aliens (1986).",
+  "meta_keywords": "Aliens (1986) film locations, filming locations, travel, tourism, visit, set-jetting, acton lane, london",
+  "og_title": "Filming Locations for Aliens (1986)",
+  "og_description": "Travel guide to filming locations for Aliens (1986).",
+  "og_image": "http://www.movie-locations.com/artwork/wgml_site_logo.jpg",
+  "top250_rank": "86",
+  "movie_locations_title": "ALIENS",
+  "movie_locations_regions": "Buckinghamshire | London",
+  "director": "James Cameron",
+  "cast": [
+    "Sigourney Weaver",
+    "Michael Biehn",
+    "Carrie Henn",
+    "Bill Paxton",
+    "Lance Henriksen",
+    "Paul Reiser"
+  ],
+  "locations": [
+    "Buckinghamshire;",
+    "London"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0090605%20-%20Aliens/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0090605 - Aliens/001.jpg",
+    "exists": true,
+    "alt": "Aliens poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0090605/poster.jpg",
+    "corpus_asset_src": "../assets/tt0090605/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0090605%20-%20Aliens/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0090605 - Aliens/001.jpg",
+    "exists": true,
+    "alt": "Aliens poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0090605/001.jpg",
+    "corpus_asset_src": "../assets/tt0090605/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0090605%20-%20Aliens/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0090605 - Aliens/001.jpg",
+      "exists": true,
+      "alt": "Aliens poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0090605/001.jpg",
+      "corpus_asset_src": "../assets/tt0090605/001.jpg"
+    }
+  ],
+  "main_content_html": "<p>For the sequel to <a href=\"https://www.movie-locations.com/people/s/scottr.php\">Ridley Scott</a>’s <a href=\"https://www.movie-locations.com/movies/a/Alien.php\">Alien</a>, director <a href=\"https://www.movie-locations.com/people/c/cameronj.php\">James Cameron</a>’s penchant for industrial locations (see <a href=\"https://www.movie-locations.com/movies/a/Abyss.php\">The Abyss</a> and the <a href=\"https://www.movie-locations.com/movies/t/Terminator.php\">Terminator</a> movies) takes him from <a href=\"http://www.pinewoodgroup.com/our-studios/uk/pinewood-studios\" target=\"_blank\">Pinewood Studios</a>, <a href=\"https://www.movie-locations.com/places/uk/bucks.php\">Buckinghamshire</a>, to the cavernous disused <span class=\"name\">Acton Lane Power Station</span> on <span class=\"name\">Acton Lane</span>, <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> W3, where much of the film was shot. The building has since been demolished.</p>",
+  "main_content_text": "For the sequel to Ridley Scott’s Alien, director James Cameron’s penchant for industrial locations (see The Abyss and the Terminator movies) takes him from Pinewood Studios, Buckinghamshire, to the cavernous disused Acton Lane Power Station on Acton Lane, London W3, where much of the film was shot. The building has since been demolished.",
+  "main_sections": [
+    {
+      "type": "paragraph",
+      "text": "For the sequel to Ridley Scott’s Alien, director James Cameron’s penchant for industrial locations (see The Abyss and the Terminator movies) takes him from Pinewood Studios, Buckinghamshire, to the cavernous disused Acton Lane Power Station on Acton Lane, London W3, where much of the film was shot. The building has since been demolished."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>UK | Buckinghamshire</h3>\n<p>Visit: Buckinghamshire</p>\n</section>\n<section><h3>UK | London</h3>\n<p>Flights: Heathrow Airport; Gatwick Airport</p>\n<p>Visit: London</p>\n<p>Travelling: Transport For London</p>\n</section>",
+  "visit_info_text": "UK | Buckinghamshire\nVisit: Buckinghamshire\nUK | London\nFlights: Heathrow Airport; Gatwick Airport\nVisit: London\nTravelling: Transport For London",
+  "visit_sections": [
+    {
+      "title": "UK | Buckinghamshire",
+      "items": [
+        "Visit: Buckinghamshire"
+      ]
+    },
+    {
+      "title": "UK | London",
+      "items": [
+        "Flights: Heathrow Airport; Gatwick Airport",
+        "Visit: London",
+        "Travelling: Transport For London"
+      ]
+    }
+  ]
+}

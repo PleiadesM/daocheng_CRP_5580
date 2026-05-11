@@ -1,0 +1,106 @@
+{
+  "imdb_id": "tt0036775",
+  "shorthand": "Double-Indemnity",
+  "title": "Double Indemnity",
+  "year": 1944,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0036775 - Double-Indemnity.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0036775 - Double-Indemnity.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0036775.json",
+  "source_url": "http://www.movie-locations.com/movies/d/Double-Indemnity.php",
+  "page_title": "Double Indemnity | Film Locations",
+  "meta_description": "Film locations for Billy Wilder's classic film noir Double Indemnity (1944), in Los Angeles",
+  "meta_keywords": "Double Indemnity (1944) film locations, filming locations, tourism, travel, set-jetting, los angeles, hollywood hills, california, billy wilder, film noir",
+  "og_title": "Film Locations for Double Indemnity (1944), in Los Angeles",
+  "og_description": "Travel guide to film locations for Double Indemnity (1944), in Los Angeles.",
+  "og_image": "http://www.movie-locations.com/movies/d/Double-Indemnity-Quebec-Drive.jpg",
+  "top250_rank": "148",
+  "movie_locations_title": "DOUBLE INDEMNITY",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Billy Wilder",
+  "cast": [
+    "Fred MacMurray",
+    "Barbara Stanwyck",
+    "Edward G Robinson",
+    "Douglas Spencer"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": null,
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0036775%20-%20Double-Indemnity/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0036775 - Double-Indemnity/001.jpg",
+    "exists": true,
+    "alt": "Double Indemnity film location: the Dietrichson house: Hollywood Hills, Los Angeles",
+    "caption": "Double Indemnity film location: the Dietrichson house: Hollywood Hills, Los Angeles",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0036775/001.jpg",
+    "corpus_asset_src": "../assets/tt0036775/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0036775%20-%20Double-Indemnity/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0036775 - Double-Indemnity/001.jpg",
+      "exists": true,
+      "alt": "Double Indemnity film location: the Dietrichson house: Hollywood Hills, Los Angeles",
+      "caption": "Double Indemnity film location: the Dietrichson house: Hollywood Hills, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0036775/001.jpg",
+      "corpus_asset_src": "../assets/tt0036775/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0036775%20-%20Double-Indemnity/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0036775 - Double-Indemnity/002.jpg",
+      "exists": true,
+      "alt": "Double Indemnity poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0036775/002.jpg",
+      "corpus_asset_src": "../assets/tt0036775/002.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0036775/001.jpg\" alt=\"Double Indemnity film location: the Dietrichson house: Hollywood Hills, Los Angeles\"><figcaption>Double Indemnity film location: the Dietrichson house: Hollywood Hills, Los Angeles</figcaption></figure>\n<p><a href=\"https://www.movie-locations.com/people/w/wilderb.php\">Billy Wilder</a>’s classic <span class=\"ital\">film noir, </span>filmed around <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, sees insurance salesman Walter Neff (<a href=\"https://www.movie-locations.com/people/m/macmurrayf.php\">Fred MacMurray</a>) ensnared by <span class=\"ital\">femme fatale</span> Phyllis Dietrichson (<a href=\"https://www.movie-locations.com/people/s/stanwyckb.php\">Barbara Stanwyck</a>) to bump off her – well-insured – hubby.</p>\n<p>Dietrichson’s house, supposedly in ‘Los Feliz’, can be found in the maze of tiny winding lanes in the <span class=\"name\">Hollywood Hills</span>, north from <span class=\"name\">Franklin Avenue</span>. In the movie it stood alone, overlooking Hollywood, but now, although unchanged, it is packed into a densely built up area of pricy properties.</p>\n<p>Please note that this is a private property, and do NOT disturb the residents – who obviously have no connection whatsoever with the film. As any self-respecting film fan will know, interiors were almost invariably filmed back in the controlled environment of the studio.</p>\n<p>‘Pasadena Station’ was filmed at the <span class=\"name\">Glendale Amtrak Station</span> on Cerritos Avenue off Vassar Avenue by Forest Lawn Memorial Park.</p>",
+  "main_content_text": "Billy Wilder’s classic film noir, filmed around Los Angeles, sees insurance salesman Walter Neff (Fred MacMurray) ensnared by femme fatale Phyllis Dietrichson (Barbara Stanwyck) to bump off her – well-insured – hubby.\n\nDietrichson’s house, supposedly in ‘Los Feliz’, can be found in the maze of tiny winding lanes in the Hollywood Hills, north from Franklin Avenue. In the movie it stood alone, overlooking Hollywood, but now, although unchanged, it is packed into a densely built up area of pricy properties.\n\nPlease note that this is a private property, and do NOT disturb the residents – who obviously have no connection whatsoever with the film. As any self-respecting film fan will know, interiors were almost invariably filmed back in the controlled environment of the studio.\n\n‘Pasadena Station’ was filmed at the Glendale Amtrak Station on Cerritos Avenue off Vassar Avenue by Forest Lawn Memorial Park.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Double Indemnity film location: the Dietrichson house: Hollywood Hills, Los Angeles",
+      "src": "_assets/tt0036775%20-%20Double-Indemnity/001.jpg",
+      "alt": "Double Indemnity film location: the Dietrichson house: Hollywood Hills, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Billy Wilder’s classic film noir, filmed around Los Angeles, sees insurance salesman Walter Neff (Fred MacMurray) ensnared by femme fatale Phyllis Dietrichson (Barbara Stanwyck) to bump off her – well-insured – hubby."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dietrichson’s house, supposedly in ‘Los Feliz’, can be found in the maze of tiny winding lanes in the Hollywood Hills, north from Franklin Avenue. In the movie it stood alone, overlooking Hollywood, but now, although unchanged, it is packed into a densely built up area of pricy properties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Please note that this is a private property, and do NOT disturb the residents – who obviously have no connection whatsoever with the film. As any self-respecting film fan will know, interiors were almost invariably filmed back in the controlled environment of the studio."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Pasadena Station’ was filmed at the Glendale Amtrak Station on Cerritos Avenue off Vassar Avenue by Forest Lawn Memorial Park."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro"
+      ]
+    }
+  ]
+}

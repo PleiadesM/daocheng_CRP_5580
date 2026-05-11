@@ -1,0 +1,128 @@
+{
+  "imdb_id": "tt0080684",
+  "shorthand": "Star-Wars-5-The-Empire-Strikes-Back",
+  "title": "Star Wars Episode V: The Empire Strikes Back",
+  "year": 1980,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0080684 - Star-Wars-5-The-Empire-Strikes-Back.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0080684 - Star-Wars-5-The-Empire-Strikes-Back.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0080684.json",
+  "source_url": "http://www.movie-locations.com/movies/s/Star-Wars-5-The-Empire-Strikes-Back.php",
+  "page_title": "Star Wars Episode V: The Empire Strikes Back | Film Locations",
+  "meta_description": "Film locations for Star Wars Episode V: The Empire Strikes Back (1980), in Norway.",
+  "meta_keywords": "Star Wars Episode V: The Empire Strikes Back (1980), film locations, filming locations, tourism, travel, set-jetting, hardanger jokulen glacier, finse, norway",
+  "og_title": "Filming Locations for Star Wars Episode V: The Empire Strikes Back (1980), in Norway.",
+  "og_description": "Travel guide to filming locations for Star Wars Episode V: The Empire Strikes Back (1980), in Norway.",
+  "og_image": "http://www.movie-locations.com/movies/s/Star-Wars-5-The-Empire-Strikes-Back.jpg",
+  "top250_rank": "23",
+  "movie_locations_title": "STAR WARS EPISODE V: THE EMPIRE STRIKES BACK",
+  "movie_locations_regions": "Norway | Hertfordshire",
+  "director": "Irvin Kershner",
+  "cast": [
+    "Mark Hamill",
+    "Carrie Fisher",
+    "Harrison Ford",
+    "Alec Guinness",
+    "David Prowse",
+    "Peter Mayhew",
+    "Anthony Daniels",
+    "Kenny Baker",
+    "James Earl Jones",
+    "Billy Dee Williams",
+    "Frank Oz",
+    "Kenneth Colley",
+    "John Ratzenberger"
+  ],
+  "locations": [
+    "Norway;",
+    "Hertfordshire"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0080684%20-%20Star-Wars-5-The-Empire-Strikes-Back/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0080684 - Star-Wars-5-The-Empire-Strikes-Back/002.jpg",
+    "exists": true,
+    "alt": "Star Wars Episode V: The Empire Strikes Back poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0080684/poster.jpg",
+    "corpus_asset_src": "../assets/tt0080684/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0080684%20-%20Star-Wars-5-The-Empire-Strikes-Back/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0080684 - Star-Wars-5-The-Empire-Strikes-Back/001.jpg",
+    "exists": true,
+    "alt": "Star Wars Episode V: The Empire Strikes Back film location: Hardangerjøkulen Glacier, Finse, Norway",
+    "caption": "Star Wars Episode V: The Empire Strikes Back film location: the ice planet, “Hoth’: Hardangerjøkulen Glacier, Finse, Norway | Photograph: wikimedia / Graham Lewis",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0080684/001.jpg",
+    "corpus_asset_src": "../assets/tt0080684/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0080684%20-%20Star-Wars-5-The-Empire-Strikes-Back/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0080684 - Star-Wars-5-The-Empire-Strikes-Back/001.jpg",
+      "exists": true,
+      "alt": "Star Wars Episode V: The Empire Strikes Back film location: Hardangerjøkulen Glacier, Finse, Norway",
+      "caption": "Star Wars Episode V: The Empire Strikes Back film location: the ice planet, “Hoth’: Hardangerjøkulen Glacier, Finse, Norway | Photograph: wikimedia / Graham Lewis",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0080684/001.jpg",
+      "corpus_asset_src": "../assets/tt0080684/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0080684%20-%20Star-Wars-5-The-Empire-Strikes-Back/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0080684 - Star-Wars-5-The-Empire-Strikes-Back/002.jpg",
+      "exists": true,
+      "alt": "Star Wars Episode V: The Empire Strikes Back poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0080684/002.jpg",
+      "corpus_asset_src": "../assets/tt0080684/002.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0080684/001.jpg\" alt=\"Star Wars Episode V: The Empire Strikes Back film location: Hardangerjøkulen Glacier, Finse, Norway\"><figcaption>Star Wars Episode V: The Empire Strikes Back film location: the ice planet, “Hoth’: Hardangerjøkulen Glacier, Finse, Norway | Photograph: wikimedia / Graham Lewis</figcaption></figure>\n<p>The Millennium Falcon was built on a huge soundstage at <span class=\"name\">Elstree Studios</span>, in <a href=\"https://www.movie-locations.com/places/uk/herts.php\">Hertfordshire</a>, where most of the filming took place – 64 sets and 250 scenes over a four month shoot.</p>\n<p>The ice planet ‘Hoth’ was filmed on the <span class=\"name\">Hardangerjøkulen Glacier</span>, at <a href=\"http://www.visitrallarvegen.no/en/rallarvegen/visit-rallarvegen/rallarvegen/steder/finse.html\" target=\"blank\">Finse</a>. In the heart of the <span class=\"name\">Hardangervidden</span> mountain plateau, <a href=\"http://www.visitrallarvegen.no/en/rallarvegen/visit-rallarvegen/rallarvegen/steder/finse.html\" target=\"blank\">Finse</a> is at the foot of the glacier. It’s easily accessible by rail, two and a half hours from Bergen, and four and a half from Oslo. The railway station at <a href=\"http://www.visitrallarvegen.no/en/rallarvegen/visit-rallarvegen/rallarvegen/steder/finse.html\" target=\"blank\">Finse</a> is the highest in Europe, situated between Hallingskarvet National Park and Hardangervidda National Park.</p>\n<p>The script was the last work of <span class=\"name\">Leigh Brackett</span>, veteran screenwriter of <span class=\"name\">The Big Sleep</span> and <span class=\"name\">Rio Bravo</span>.</p>",
+  "main_content_text": "The Millennium Falcon was built on a huge soundstage at Elstree Studios, in Hertfordshire, where most of the filming took place – 64 sets and 250 scenes over a four month shoot.\n\nThe ice planet ‘Hoth’ was filmed on the Hardangerjøkulen Glacier, at Finse. In the heart of the Hardangervidden mountain plateau, Finse is at the foot of the glacier. It’s easily accessible by rail, two and a half hours from Bergen, and four and a half from Oslo. The railway station at Finse is the highest in Europe, situated between Hallingskarvet National Park and Hardangervidda National Park.\n\nThe script was the last work of Leigh Brackett, veteran screenwriter of The Big Sleep and Rio Bravo.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Star Wars Episode V: The Empire Strikes Back film location: the ice planet, “Hoth’: Hardangerjøkulen Glacier, Finse, Norway | Photograph: wikimedia / Graham Lewis",
+      "src": "_assets/tt0080684%20-%20Star-Wars-5-The-Empire-Strikes-Back/001.jpg",
+      "alt": "Star Wars Episode V: The Empire Strikes Back film location: Hardangerjøkulen Glacier, Finse, Norway"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Millennium Falcon was built on a huge soundstage at Elstree Studios, in Hertfordshire, where most of the filming took place – 64 sets and 250 scenes over a four month shoot."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ice planet ‘Hoth’ was filmed on the Hardangerjøkulen Glacier, at Finse. In the heart of the Hardangervidden mountain plateau, Finse is at the foot of the glacier. It’s easily accessible by rail, two and a half hours from Bergen, and four and a half from Oslo. The railway station at Finse is the highest in Europe, situated between Hallingskarvet National Park and Hardangervidda National Park."
+    },
+    {
+      "type": "paragraph",
+      "text": "The script was the last work of Leigh Brackett, veteran screenwriter of The Big Sleep and Rio Bravo."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Norway</h3>\n<p>Visit: Norway</p>\n<p>Visit: Finse</p>\n</section>\n<section><h3>UK | Hertfordshire</h3>\n<p>Visit: Hertfordshire</p>\n</section>",
+  "visit_info_text": "Norway\nVisit: Norway\nVisit: Finse\nUK | Hertfordshire\nVisit: Hertfordshire",
+  "visit_sections": [
+    {
+      "title": "Norway",
+      "items": [
+        "Visit: Norway",
+        "Visit: Finse"
+      ]
+    },
+    {
+      "title": "UK | Hertfordshire",
+      "items": [
+        "Visit: Hertfordshire"
+      ]
+    }
+  ]
+}

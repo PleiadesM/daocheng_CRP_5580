@@ -1,0 +1,193 @@
+{
+  "imdb_id": "tt0110413",
+  "shorthand": "Leon",
+  "title": "LÉon – The Professional",
+  "year": 1994,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0110413 - Leon.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0110413 - Leon.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0110413.json",
+  "source_url": "http://www.movie-locations.com/movies/l/Leon.php",
+  "page_title": "Léon – The Professional | Film Locations",
+  "meta_description": "Filming locations for Luc Besson's Leon - The Professional (1994), with Jean Reno, in New York; including the Chelsea Hotel; Little Italy; and the Upper East Side.",
+  "meta_keywords": "Leon - The Professional filming locations, New York, manhattan, tourism, travel, set-jetting, luc besson, chelsea hotel, little italy, east side",
+  "og_title": "Filming Locations for Luc Besson's Leon - The Professional (1994), with Jean Reno, in New York and New Jersey.",
+  "og_description": "Travel guide to filming locations for Luc Besson's Leon - The Professional (1994), with Jean Reno, in New York and New Jersey.",
+  "og_image": "http://www.movie-locations.com/movies/l/Leon.jpg",
+  "top250_rank": "51",
+  "movie_locations_title": "LEON  THE PROFESSIONAL",
+  "movie_locations_regions": "New York | New Jersey | Paris, France",
+  "director": "Luc Besson",
+  "cast": [
+    "Jean Reno",
+    "Natalie Portman",
+    "Gary Oldman",
+    "Danny Aiello",
+    "Michael Badalucco"
+  ],
+  "locations": [
+    "New York;",
+    "New Jersey;",
+    "Paris, France"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0110413%20-%20Leon/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0110413 - Leon/001.jpg",
+    "exists": true,
+    "alt": "Léon – The Professional poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0110413/poster.jpg",
+    "corpus_asset_src": "../assets/tt0110413/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0110413%20-%20Leon/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0110413 - Leon/001.jpg",
+    "exists": true,
+    "alt": "Léon – The Professional poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0110413/001.jpg",
+    "corpus_asset_src": "../assets/tt0110413/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0110413%20-%20Leon/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0110413 - Leon/001.jpg",
+      "exists": true,
+      "alt": "Léon – The Professional poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0110413/001.jpg",
+      "corpus_asset_src": "../assets/tt0110413/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0110413%20-%20Leon/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0110413 - Leon/002.jpg",
+      "exists": true,
+      "alt": "Leon – The Professional filming location: Hotel Chelsea, 222 West 23rd Street, New York",
+      "caption": "Leon – The Professional filming location: the interior of Mathilda’s hotel: Hotel Chelsea, 222 West 23rd Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0110413/002.jpg",
+      "corpus_asset_src": "../assets/tt0110413/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0110413%20-%20Leon/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0110413 - Leon/003.jpg",
+      "exists": true,
+      "alt": "Leon – The Professional filming location: Ninth Avenue, New York",
+      "caption": "Leon – The Professional filming location: Now gone – Danny Aiello’s restaurant: Guido’s, Ninth Avenue, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0110413/003.jpg",
+      "corpus_asset_src": "../assets/tt0110413/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0110413%20-%20Leon/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0110413 - Leon/004.jpg",
+      "exists": true,
+      "alt": "Leon – The Professional filming location: Ninth Avenue, New York",
+      "caption": "Leon – The Professional filming location: Guido's - no more. | Photograph: Dan James",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0110413/004.jpg",
+      "corpus_asset_src": "../assets/tt0110413/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0110413%20-%20Leon/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0110413 - Leon/005.jpg",
+      "exists": true,
+      "alt": "Leon – The Professional filming location: 71 97th Street on the Upper East Side, New York",
+      "caption": "Leon – The Professional filming location: Mathilda’s hotel: 71 97th Street on the Upper East Side, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0110413/005.jpg",
+      "corpus_asset_src": "../assets/tt0110413/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0110413%20-%20Leon/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0110413 - Leon/006.jpg",
+      "exists": true,
+      "alt": "Leon – The Professional filming location: Hotel Chelsea, 222 West 23rd Street, New York",
+      "caption": "Leon – The Professional filming location: the interior of Mathilda’s hotel: Hotel Chelsea, 222 West 23rd Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0110413/006.jpg",
+      "corpus_asset_src": "../assets/tt0110413/006.jpg"
+    }
+  ],
+  "main_content_html": "<p><a href=\"https://www.movie-locations.com/people/b/bessonl.php\">Luc Besson</a>’s stylish thriller  is set in <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>, though most interiors were filmed in the studio in <span class=\"name\">Paris</span>, as hitman Léon (<a href=\"https://www.movie-locations.com/people/r/renoj.php\">Jean Reno</a>) versus rampantly OTT crooked cop Stansfield (<a href=\"https://www.movie-locations.com/people/o/oldmang.php\">Gary Oldman</a>).</p>\n<p>Real <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> locations include <span class=\"name\">Spanish Harlem</span>, <span class=\"name\">Chinatown</span> and <span class=\"name\">Wall Street</span>; along with <span class=\"name\">Hoboken</span> and <span class=\"name\">West New York</span>, <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a>.</p>\n<p>‘Tony’s’, <a href=\"https://www.movie-locations.com/people/a/aiellod.php\">Danny Aiello</a>’s restaurant, supposedly in ‘Little Italy’, was Guido’s, which stood at <span class=\"name\">511 9th Avenue</span> at West 38th Street, south of the Port Authority Bus Terminal. It was a wonderfully down-to-earth Italian restaurant in a room behind the Supreme Macaroni Co store but, as you can see, it's no more. Some time around 2007 it was demolished. </p>\n<p>The hotel of precocious Mathilda (<a href=\"https://www.movie-locations.com/people/p/portmann.php\">Natalie Portman</a>), where she loses her family in a savage attack, <span class=\"name\">71 97th Street</span> at Park Avenue on the <span class=\"name\">Upper East Side</span>, or so it seems.</p>\n<p>The stairwells look just a little too expansive for the modest 97th Street building. That’s because the stairwell and corridors are those of the famous, and unbelievably closed, <span class=\"name\">Hotel Chelsea, 222 West 23rd Street</span>, between Seventh and Eighth Avenues. The <span class=\"name\">Chelsea</span> has far too much history to list here: <span class=\"name\">Arthur C Clarke</span> wrote <span class=\"ital\">2001</span> while staying here, <span class=\"name\">Andy Warhol</span> filmed <span class=\"name\">The Chelsea Girls</span>, <span class=\"name\">Bob Dylan</span> wrote <span class=\"ital\">Sad Eyed lady of the Lowlands</span>... and on.</p>\n<p>More recently, the <span class=\"name\">Chelsea</span> supplied the hotel room in which Alfred Kinsey (<a href=\"https://www.movie-locations.com/people/n/neesonl.php\">Liam Neeson</a>) discovers that he's not as totally heterosexual as he’d believed during an encounter with Clyde Martin (<a href=\"https://www.movie-locations.com/people/s/sarsgaardp.php\">Peter Sarsgaard</a>) in <a href=\"https://www.movie-locations.com/people/c/condonb.php\">Bill Condon</a>'s <span class=\"name\">Kinsey</span>.</p>\n<p>The hotel is  now probably best remembered in pop culture as the hotel in which <span class=\"name\">Nancy Spungen</span> died and <span class=\"name\">Sid Vicious</span> was arrested – <a href=\"https://www.movie-locations.com/people/c/coxa.php\">Alex Cox</a>'s <span class=\"name\">Sid And Nancy</span>,  filmed within the hotel. It also anonymously supplied a hotel interior for <a href=\"https://www.movie-locations.com/people/a/allenw.php\">Woody Allen</a>’s <a href=\"https://www.movie-locations.com/movies/m/Manhattan-Murder-Mystery.php\">Manhattan Murder Mystery</a>.</p>\n<p>It wasn’t  a five-star haven of luxury, in fact, it could be a little ramshackle, but that was the charm of the <span class=\"name\">Chelsea</span> – and there really is nowhere quite like it. The hotel was closed in 2011, after being sold, so that renovations could be carried out. We’re waiting... </p>",
+  "main_content_text": "Luc Besson’s stylish thriller is set in New York, though most interiors were filmed in the studio in Paris, as hitman Léon (Jean Reno) versus rampantly OTT crooked cop Stansfield (Gary Oldman).\n\nReal New York locations include Spanish Harlem, Chinatown and Wall Street; along with Hoboken and West New York, New Jersey.\n\n‘Tony’s’, Danny Aiello’s restaurant, supposedly in ‘Little Italy’, was Guido’s, which stood at 511 9th Avenue at West 38th Street, south of the Port Authority Bus Terminal. It was a wonderfully down-to-earth Italian restaurant in a room behind the Supreme Macaroni Co store but, as you can see, it's no more. Some time around 2007 it was demolished.\n\nThe hotel of precocious Mathilda (Natalie Portman), where she loses her family in a savage attack, 71 97th Street at Park Avenue on the Upper East Side, or so it seems.\n\nThe stairwells look just a little too expansive for the modest 97th Street building. That’s because the stairwell and corridors are those of the famous, and unbelievably closed, Hotel Chelsea, 222 West 23rd Street, between Seventh and Eighth Avenues. The Chelsea has far too much history to list here: Arthur C Clarke wrote 2001 while staying here, Andy Warhol filmed The Chelsea Girls, Bob Dylan wrote Sad Eyed lady of the Lowlands... and on.\n\nMore recently, the Chelsea supplied the hotel room in which Alfred Kinsey (Liam Neeson) discovers that he's not as totally heterosexual as he’d believed during an encounter with Clyde Martin (Peter Sarsgaard) in Bill Condon's Kinsey.\n\nThe hotel is now probably best remembered in pop culture as the hotel in which Nancy Spungen died and Sid Vicious was arrested – Alex Cox's Sid And Nancy, filmed within the hotel. It also anonymously supplied a hotel interior for Woody Allen’s Manhattan Murder Mystery.\n\nIt wasn’t a five-star haven of luxury, in fact, it could be a little ramshackle, but that was the charm of the Chelsea – and there really is nowhere quite like it. The hotel was closed in 2011, after being sold, so that renovations could be carried out. We’re waiting...",
+  "main_sections": [
+    {
+      "type": "paragraph",
+      "text": "Luc Besson’s stylish thriller is set in New York, though most interiors were filmed in the studio in Paris, as hitman Léon (Jean Reno) versus rampantly OTT crooked cop Stansfield (Gary Oldman)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Real New York locations include Spanish Harlem, Chinatown and Wall Street; along with Hoboken and West New York, New Jersey."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Tony’s’, Danny Aiello’s restaurant, supposedly in ‘Little Italy’, was Guido’s, which stood at 511 9th Avenue at West 38th Street, south of the Port Authority Bus Terminal. It was a wonderfully down-to-earth Italian restaurant in a room behind the Supreme Macaroni Co store but, as you can see, it's no more. Some time around 2007 it was demolished."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hotel of precocious Mathilda (Natalie Portman), where she loses her family in a savage attack, 71 97th Street at Park Avenue on the Upper East Side, or so it seems."
+    },
+    {
+      "type": "paragraph",
+      "text": "The stairwells look just a little too expansive for the modest 97th Street building. That’s because the stairwell and corridors are those of the famous, and unbelievably closed, Hotel Chelsea, 222 West 23rd Street, between Seventh and Eighth Avenues. The Chelsea has far too much history to list here: Arthur C Clarke wrote 2001 while staying here, Andy Warhol filmed The Chelsea Girls, Bob Dylan wrote Sad Eyed lady of the Lowlands... and on."
+    },
+    {
+      "type": "paragraph",
+      "text": "More recently, the Chelsea supplied the hotel room in which Alfred Kinsey (Liam Neeson) discovers that he's not as totally heterosexual as he’d believed during an encounter with Clyde Martin (Peter Sarsgaard) in Bill Condon's Kinsey."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hotel is now probably best remembered in pop culture as the hotel in which Nancy Spungen died and Sid Vicious was arrested – Alex Cox's Sid And Nancy, filmed within the hotel. It also anonymously supplied a hotel interior for Woody Allen’s Manhattan Murder Mystery."
+    },
+    {
+      "type": "paragraph",
+      "text": "It wasn’t a five-star haven of luxury, in fact, it could be a little ramshackle, but that was the charm of the Chelsea – and there really is nowhere quite like it. The hotel was closed in 2011, after being sold, so that renovations could be carried out. We’re waiting..."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n</section>\n<section><h3>New Jersey</h3>\n<p>Visit: New Jersey</p>\n</section>\n<section><h3>France</h3>\n<p>Visit: France</p>\n<p>Visit: Paris</p>\n<p>Flights: Charles De Gaulle International Airport, 95700 Roissy-en-France, France (tel: 33.1.70.36.39.50)</p>\n<p>Travel around: Paris Metro</p>\n</section>",
+  "visit_info_text": "New York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nNew Jersey\nVisit: New Jersey\nFrance\nVisit: France\nVisit: Paris\nFlights: Charles De Gaulle International Airport, 95700 Roissy-en-France, France (tel: 33.1.70.36.39.50)\nTravel around: Paris Metro",
+  "visit_sections": [
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA"
+      ]
+    },
+    {
+      "title": "New Jersey",
+      "items": [
+        "Visit: New Jersey"
+      ]
+    },
+    {
+      "title": "France",
+      "items": [
+        "Visit: France",
+        "Visit: Paris",
+        "Flights: Charles De Gaulle International Airport, 95700 Roissy-en-France, France (tel: 33.1.70.36.39.50)",
+        "Travel around: Paris Metro"
+      ]
+    }
+  ]
+}

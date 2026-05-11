@@ -1,0 +1,253 @@
+{
+  "imdb_id": "tt0482571",
+  "shorthand": "Prestige",
+  "title": "The Prestige",
+  "year": 2006,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0482571 - Prestige.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0482571 - Prestige.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0482571.json",
+  "source_url": "http://www.movie-locations.com/movies/p/Prestige.php",
+  "page_title": "The Prestige | Film Locations",
+  "meta_description": "Film locations for Christopher Nolan's The Prestige (2006), around Los Angeles.",
+  "meta_keywords": "The Prestige (2006), film locations, filming locations, tourism, travel, set-jetting, los angeles, downtowm beverly hills, greystone estate, park plaza hotel, christopher nolan, los angeles theatre, belasco, palace, christian bale, hugh jackman, michael caine",
+  "og_title": "Filming Locations for Christopher Nolan's The Prestige (2006), around Los Angeles.",
+  "og_description": "Travel guide to film locations for Christopher Nolan's The Prestige (2006), around Los Angeles.",
+  "og_image": "http://www.movie-locations.com/movies/p/Prestige.jpg",
+  "top250_rank": "48",
+  "movie_locations_title": "THE PRESTIGE",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Christopher Nolan",
+  "cast": [
+    "Christian Bale",
+    "Hugh Jackman",
+    "Michael Caine",
+    "Scarlett Johanssen",
+    "Piper Perabo",
+    "David Bowie",
+    "Andy Serkis",
+    "Christopher Neame",
+    "Roger Rees",
+    "Ricky Jay",
+    "Edward Hibbert"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0482571%20-%20Prestige/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/002.jpg",
+    "exists": true,
+    "alt": "The Prestige poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/poster.jpg",
+    "corpus_asset_src": "../assets/tt0482571/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0482571%20-%20Prestige/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/001.jpg",
+    "exists": true,
+    "alt": "The Prestige location: Los Angeles Theater, South Broadway, downtown Los Angeles",
+    "caption": "The Prestige location: the grand London theatre: Los Angeles Theater, South Broadway, downtown Los Angeles | Photograph: flickr / J Eric Lynxwiler",
+    "width": 200,
+    "height": 300,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/001.jpg",
+    "corpus_asset_src": "../assets/tt0482571/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0482571%20-%20Prestige/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/001.jpg",
+      "exists": true,
+      "alt": "The Prestige location: Los Angeles Theater, South Broadway, downtown Los Angeles",
+      "caption": "The Prestige location: the grand London theatre: Los Angeles Theater, South Broadway, downtown Los Angeles | Photograph: flickr / J Eric Lynxwiler",
+      "width": 200,
+      "height": 300,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/001.jpg",
+      "corpus_asset_src": "../assets/tt0482571/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0482571%20-%20Prestige/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/002.jpg",
+      "exists": true,
+      "alt": "The Prestige poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/002.jpg",
+      "corpus_asset_src": "../assets/tt0482571/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0482571%20-%20Prestige/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/003.jpg",
+      "exists": true,
+      "alt": "The Prestige location: the Palace Theater, 630 South Broadway, downtown Los Angeles",
+      "caption": "The Prestige location: more Victorian grandeur: the Palace Theater, 630 South Broadway, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/003.jpg",
+      "corpus_asset_src": "../assets/tt0482571/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0482571%20-%20Prestige/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/004.jpg",
+      "exists": true,
+      "alt": "The Prestige location: Tower Theatre, 802 South Broadway, downtown Los Angeles",
+      "caption": "The Prestige location: the 'Pantages' theatre: Tower Theatre, 802 South Broadway, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/004.jpg",
+      "corpus_asset_src": "../assets/tt0482571/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0482571%20-%20Prestige/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/005.jpg",
+      "exists": true,
+      "alt": "The Prestige location: Belasco Theatre, 1050 South Hill Street, downtown Los Angeles",
+      "caption": "The Prestige location : demonstrating the trick for Ackerman: Belasco Theatre, 1050 South Hill Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/005.jpg",
+      "corpus_asset_src": "../assets/tt0482571/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0482571%20-%20Prestige/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/006.jpg",
+      "exists": true,
+      "alt": "The Prestige location: Herald Examiner Building, 1111 South Broadway, downtown Los Angeles",
+      "caption": "The Prestige location: the London restaurant: Herald Examiner Building, 1111 South Broadway, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/006.jpg",
+      "corpus_asset_src": "../assets/tt0482571/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0482571%20-%20Prestige/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/007.jpg",
+      "exists": true,
+      "alt": "The Prestige location: Ballroom, Park Plaza Hotel, South Park View Street, downtown Los Angeles",
+      "caption": "The Prestige location: Tesla's machine in the 'Colorado' hotel: Ballroom, Park Plaza Hotel, 607 South Park View Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/007.jpg",
+      "corpus_asset_src": "../assets/tt0482571/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0482571%20-%20Prestige/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/008.jpg",
+      "exists": true,
+      "alt": "The Prestige location: Bank Building, 650 South Spring Street, downtown Los Angeles",
+      "caption": "The Prestige location: the courtroom and the 'London' pub: Bank Building, 650 South Spring Street, downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/008.jpg",
+      "corpus_asset_src": "../assets/tt0482571/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0482571%20-%20Prestige/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0482571 - Prestige/009.jpg",
+      "exists": true,
+      "alt": "The Prestige location: Greystone Mansion, 905 Loma Vista Drive, Beverly Hills, Los Angeles",
+      "caption": "The Prestige location: Angier's mansion: Greystone Mansion, 905 Loma Vista Drive, Beverly Hills, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0482571/009.jpg",
+      "corpus_asset_src": "../assets/tt0482571/009.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0482571/001.jpg\" alt=\"The Prestige location: Los Angeles Theater, South Broadway, downtown Los Angeles\"><figcaption>The Prestige location: the grand London theatre: Los Angeles Theater, South Broadway, downtown Los Angeles | Photograph: flickr / J Eric Lynxwiler</figcaption></figure>\n<p>If <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>’s film of <span class=\"name\">Christopher Priest</span>’s novel just misses the inexorable logic of <a href=\"https://www.movie-locations.com/people/s/singerb.php\">Bryan Singer</a>’s <a href=\"https://www.movie-locations.com/movies/u/Usual-Suspects.php\">The Usual Suspects</a> and his own <a href=\"https://www.movie-locations.com/movies/m/Memento.php\">Memento</a>, it still repays multiple viewings and the internet is bound to be full of theories and counter-theories.</p>\n<p>Set in Victorian England (according to production notes – yet there’s a reference to ‘the King’ in the prison scene, which makes it Edwardian), the film makes brilliantly inventive use of real locations in, of all places, <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>Beneath the elaborate dressing (<span class=\"name\">Nathan Crowley</span>'s Production Design was deservedly Oscar-nominated), exterior street scenes are the familiar <a href=\"http://www.universalstudioshollywood.com/\" target=\"_blank\">Universal Studios</a> backlot.</p>\n<p>Four downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> theatres stood in for <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>’s West End: the <a href=\"http://www.losangelestheatre.com/\" target=\"_blank\">Los Angeles Theatre</a>, the <a href=\"http://towertheatrela.com/\" target=\"_blank\">Tower Theatre</a>, the <span class=\"name\">Palace</span> and the <a href=\"http://thebelasco.com/\" target=\"_blank\">Belasco</a>.</p>\n<p>The most dazzling is the <a href=\"http://www.losangelestheatre.com/\" target=\"_blank\">Los Angeles Theatre</a>, <span class=\"name\">615 South Broadway</span>, used for the opening ‘Transported Man’ trick. Beautifully restored, its opulence has made it a cinema veteran.</p>\n<p>It became ‘Carnegie Hall’ for <a href=\"https://www.movie-locations.com/people/f/formanm.php\">Milos Forman</a>’s shockingly underrated <span class=\"name\">Man on the Moon</span>, with <a href=\"https://www.movie-locations.com/people/c/carreyj.php\">Jim Carrey</a> as subversive comic <span class=\"name\">Andy Kaufman</span>, and hosts the sad premiere of George Valentin’s silent film in <a href=\"https://www.movie-locations.com/movies/a/Artist.php\">The Artist</a>. It’s the theatre’s lavish red and gilt lobby which is most often seen on screen. This was the site of the premiere of <span class=\"name\">Limelight</span> in <a href=\"https://www.movie-locations.com/people/a/attenboroughr.php\">Richard Attenborough</a>’s biopic <a href=\"https://www.movie-locations.com/movies/c/Chaplin.php\">Chaplin</a>, <a href=\"https://www.movie-locations.com/people/d/diazc.php\">Cameron Diaz</a>’s dance fantasy in <a href=\"https://www.movie-locations.com/movies/c/Charlies-Angels.php\">Charlie’s Angels</a>, Gotham’s casino in <a href=\"https://www.movie-locations.com/people/s/schumacherj.php\">Joel Schumacher</a>’s <a href=\"https://www.movie-locations.com/movies/b/Batman-Forever.php\">Batman Forever</a>, a somewhat raunchier casino in <a href=\"https://www.movie-locations.com/people/b/baym.php\">Michael Bay</a>’s <a href=\"https://www.movie-locations.com/movies/a/Armageddon.php\">Armageddon</a> and even as the Vatican in <span class=\"name\">End of Days</span>.</p>\n<p>Another lavish venue is the <a href=\"http://www.palacedowntown.com/\" target=\"_blank\">Downtown Palace</a><span class=\"name\">, 630 South Broadway</span>, the loft of which became the workshop of Alfred Borden (<a href=\"https://www.movie-locations.com/people/b/balec.php\">Christian Bale</a>). Formerly the Palace Theatre, the same loft was previously seen as the studio of performance artist Maude Lebowski (<a href=\"https://www.movie-locations.com/people/m/moorej.php\">Julianne Moore</a>) in <a href=\"https://www.movie-locations.com/people/c/coenj.php\">Joel Coen</a>’s <a href=\"https://www.movie-locations.com/movies/b/Big-Lebowski.php\">The Big Lebowski</a>.</p>\n<p>The <a href=\"http://towertheatrela.com/\" target=\"_blank\">Tower Theatre</a>, <span class=\"name\">802 South Broadway</span>, which is actually a cinema, is a more modest venue. Its exterior is seen as the ‘Pantages’ (although set in <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>, the film mysteriously uses the names of famous <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> theatres – Pantages, Orpheum – though those two real theatres weren’t used for filming. The <a href=\"http://towertheatrela.com/\" target=\"_blank\">Tower</a> was also featured in <span class=\"name\">The Replacement Killers</span>, while Megatron perches on its tower in <a href=\"https://www.movie-locations.com/people/b/baym.php\">Michael Bay</a>’s <a href=\"https://www.movie-locations.com/movies/t/Transformers.php\">Transformers</a>.</p>\n<p>The deserted theatre in which Angier (<a href=\"https://www.movie-locations.com/people/j/jackmanh.php\">Hugh Jackman</a>) demonstrates the ‘Real Transported Man’ trick to an amazed Ackerman is the <a href=\"http://thebelasco.com/\" target=\"_blank\">Belasco Theatre</a>, <span class=\"name\">1050 South Hill Street</span>. You might have seen the <a href=\"http://thebelasco.com/\" target=\"_blank\">Belasco</a> as the ‘Kyoto’ dance hall in <span class=\"name\">Rob Marshall</span>’s <span class=\"name\">Memoirs of a Geisha</span> and the hideout of <a href=\"https://www.movie-locations.com/people/t/travoltaj.php\">John Travolta</a> in <a href=\"https://www.movie-locations.com/people/s/senad.php\">Dominic Sena</a>’s <span class=\"name\">Swordfish</span> (with <a href=\"https://www.movie-locations.com/people/j/jackmanh.php\">Jackman</a> again)</p>\n<p>You won’t be able to enjoy a meal at the restaurant, which is the interior of the old <span class=\"name\">Herald Examiner Building, 1111 South Broadway</span>, downtown. Looks similar to the ‘New York’ restaurant in which <a href=\"https://www.movie-locations.com/people/b/byrneg.php\">Gabriel Byrne</a> is picked up at the opening of <a href=\"https://www.movie-locations.com/movies/u/Usual-Suspects.php\">The Usual Suspects</a>. It is. Much of <a href=\"https://www.movie-locations.com/people/s/singerb.php\">Bryan Singer</a>’s film was shot in this abandoned newspaper office.</p>\n<p>The entrance to <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>’s ‘Royal Albert Hall’ is the imposing lobby of the <span class=\"name\">Park Plaza Hotel, 670 South Park View Street</span>, overlooking MacArthur Park. Remember <a href=\"https://www.movie-locations.com/people/n/nielsenl.php\">Leslie Nielsen</a> deluged by terrorists and runaway prams in <span class=\"name\">Naked Gun 33 1/3</span> on these steps? Or <a href=\"https://www.movie-locations.com/people/c/cagen.php\">Nicolas Cage</a> bashing out someone’s brains in the opening scene of <a href=\"https://www.movie-locations.com/people/l/lynchd.php\">David Lynch</a>’s <span class=\"name\">Wild At Heart</span>? The abortive demonstration of Nikola Tesla’s scary machine is in the hotel’s grand <span class=\"name\">Terrace Room</span> (which was the ‘Coco Bongo Club’ in <a href=\"https://www.movie-locations.com/people/c/carreyj.php\">Jim Carrey</a> comedy <a href=\"https://www.movie-locations.com/movies/m/Mask-1994.php\">The Mask</a>).</p>\n<p>The <span class=\"name\">Park Plaza</span> pops up again. Its wood-panelled <span class=\"name\">Ballroom</span> is the ‘Colorado’ hotel in which Angier finds Tesla’s machine. For more on the <span class=\"name\">Park Plaza</span>’s <span class=\"name\">Ballroom</span>, see <a href=\"https://www.movie-locations.com/people/s/spielbergs.php\">Steven Spielberg</a>'s <a href=\"https://www.movie-locations.com/movies/h/Hook.php\">Hook</a>.</p>\n<p>The old bank building at <span class=\"name\">650 South Spring Street</span>, downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>,  also crops up twice. It’s not only the courtroom in which Borden is tried for murder, but the pub in which Cutter (<a href=\"https://www.movie-locations.com/people/c/cainem.php\">Michael Caine</a>) and Alley (<a href=\"https://www.movie-locations.com/people/s/serkisa.php\">Andy Serkis</a>) meet up. The same interior can be seen in <a href=\"https://www.movie-locations.com/people/f/fincherd.php\">David Fincher</a>'s <a href=\"https://www.movie-locations.com/movies/s/Seven-1995.php\">Se7en</a>, <a href=\"https://www.movie-locations.com/movies/g/Ghost.php\">Ghost</a>, <a href=\"https://www.movie-locations.com/movies/m/Mask-1994.php\">The Mask</a>, <a href=\"https://www.movie-locations.com/people/s/schlesingerj.php\">John Schlesinger</a>'s <a href=\"https://www.movie-locations.com/movies/m/Marathon-Man.php\">Marathon Man</a> and <a href=\"https://www.movie-locations.com/movies/s/Spider-Man-2.php\">Spider-man 2</a> among other appearances.</p>\n<p>The mansion of Robert Angier is the <a href=\"http://www.greystonemansion.org/\" target=\"_blank\">Greystone Mansion</a><span class=\"name\">, 905 Loma Vista Drive, Beverly Hills</span>. Another veteran location with a long cinematic history, the house and grounds have been seen in plenty of other films including <a href=\"https://www.movie-locations.com/movies/s/Spider-Man.php\">Spider-Man</a>, <a href=\"https://www.movie-locations.com/movies/g/Ghostbusters.php\">Ghostbusters</a>, <a href=\"https://www.movie-locations.com/movies/s/Star-Trek-Into-Darkness.php\">Star Trek Into Darkness</a>, <a href=\"https://www.movie-locations.com/movies/a/April-Fools.php\">The April Fools</a>, <span class=\"name\">The Loved One</span>,<a href=\"https://www.movie-locations.com/movies/b/Big-Lebowski.php\"> The Big Lebowski</a> and <span class=\"name\">There Will Be Blood</span> among many others. The mansion is not open to the public, but you can visit the extensive grounds – free of charge .And another <a href=\"https://www.movie-locations.com/people/l/lynchd.php\">David Lynch</a> connection. <a href=\"http://www.greystonemansion.org/\" target=\"_blank\">Greystone</a> used to house the American Film Institute, where interiors for <span class=\"name\">Eraserhead</span> were filmed.</p>",
+  "main_content_text": "If Christopher Nolan’s film of Christopher Priest’s novel just misses the inexorable logic of Bryan Singer’s The Usual Suspects and his own Memento, it still repays multiple viewings and the internet is bound to be full of theories and counter-theories.\n\nSet in Victorian England (according to production notes – yet there’s a reference to ‘the King’ in the prison scene, which makes it Edwardian), the film makes brilliantly inventive use of real locations in, of all places, Los Angeles.\n\nBeneath the elaborate dressing (Nathan Crowley's Production Design was deservedly Oscar-nominated), exterior street scenes are the familiar Universal Studios backlot.\n\nFour downtown Los Angeles theatres stood in for London’s West End: the Los Angeles Theatre, the Tower Theatre, the Palace and the Belasco.\n\nThe most dazzling is the Los Angeles Theatre, 615 South Broadway, used for the opening ‘Transported Man’ trick. Beautifully restored, its opulence has made it a cinema veteran.\n\nIt became ‘Carnegie Hall’ for Milos Forman’s shockingly underrated Man on the Moon, with Jim Carrey as subversive comic Andy Kaufman, and hosts the sad premiere of George Valentin’s silent film in The Artist. It’s the theatre’s lavish red and gilt lobby which is most often seen on screen. This was the site of the premiere of Limelight in Richard Attenborough’s biopic Chaplin, Cameron Diaz’s dance fantasy in Charlie’s Angels, Gotham’s casino in Joel Schumacher’s Batman Forever, a somewhat raunchier casino in Michael Bay’s Armageddon and even as the Vatican in End of Days.\n\nAnother lavish venue is the Downtown Palace, 630 South Broadway, the loft of which became the workshop of Alfred Borden (Christian Bale). Formerly the Palace Theatre, the same loft was previously seen as the studio of performance artist Maude Lebowski (Julianne Moore) in Joel Coen’s The Big Lebowski.\n\nThe Tower Theatre, 802 South Broadway, which is actually a cinema, is a more modest venue. Its exterior is seen as the ‘Pantages’ (although set in London, the film mysteriously uses the names of famous Los Angeles theatres – Pantages, Orpheum – though those two real theatres weren’t used for filming. The Tower was also featured in The Replacement Killers, while Megatron perches on its tower in Michael Bay’s Transformers.\n\nThe deserted theatre in which Angier (Hugh Jackman) demonstrates the ‘Real Transported Man’ trick to an amazed Ackerman is the Belasco Theatre, 1050 South Hill Street. You might have seen the Belasco as the ‘Kyoto’ dance hall in Rob Marshall’s Memoirs of a Geisha and the hideout of John Travolta in Dominic Sena’s Swordfish (with Jackman again)\n\nYou won’t be able to enjoy a meal at the restaurant, which is the interior of the old Herald Examiner Building, 1111 South Broadway, downtown. Looks similar to the ‘New York’ restaurant in which Gabriel Byrne is picked up at the opening of The Usual Suspects. It is. Much of Bryan Singer’s film was shot in this abandoned newspaper office.\n\nThe entrance to London’s ‘Royal Albert Hall’ is the imposing lobby of the Park Plaza Hotel, 670 South Park View Street, overlooking MacArthur Park. Remember Leslie Nielsen deluged by terrorists and runaway prams in Naked Gun 33 1/3 on these steps? Or Nicolas Cage bashing out someone’s brains in the opening scene of David Lynch’s Wild At Heart? The abortive demonstration of Nikola Tesla’s scary machine is in the hotel’s grand Terrace Room (which was the ‘Coco Bongo Club’ in Jim Carrey comedy The Mask).\n\nThe Park Plaza pops up again. Its wood-panelled Ballroom is the ‘Colorado’ hotel in which Angier finds Tesla’s machine. For more on the Park Plaza’s Ballroom, see Steven Spielberg's Hook.\n\nThe old bank building at 650 South Spring Street, downtown Los Angeles, also crops up twice. It’s not only the courtroom in which Borden is tried for murder, but the pub in which Cutter (Michael Caine) and Alley (Andy Serkis) meet up. The same interior can be seen in David Fincher's Se7en, Ghost, The Mask, John Schlesinger's Marathon Man and Spider-man 2 among other appearances.\n\nThe mansion of Robert Angier is the Greystone Mansion, 905 Loma Vista Drive, Beverly Hills. Another veteran location with a long cinematic history, the house and grounds have been seen in plenty of other films including Spider-Man, Ghostbusters, Star Trek Into Darkness, The April Fools, The Loved One, The Big Lebowski and There Will Be Blood among many others. The mansion is not open to the public, but you can visit the extensive grounds – free of charge .And another David Lynch connection. Greystone used to house the American Film Institute, where interiors for Eraserhead were filmed.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "The Prestige location: the grand London theatre: Los Angeles Theater, South Broadway, downtown Los Angeles | Photograph: flickr / J Eric Lynxwiler",
+      "src": "_assets/tt0482571%20-%20Prestige/001.jpg",
+      "alt": "The Prestige location: Los Angeles Theater, South Broadway, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "If Christopher Nolan’s film of Christopher Priest’s novel just misses the inexorable logic of Bryan Singer’s The Usual Suspects and his own Memento, it still repays multiple viewings and the internet is bound to be full of theories and counter-theories."
+    },
+    {
+      "type": "paragraph",
+      "text": "Set in Victorian England (according to production notes – yet there’s a reference to ‘the King’ in the prison scene, which makes it Edwardian), the film makes brilliantly inventive use of real locations in, of all places, Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beneath the elaborate dressing (Nathan Crowley's Production Design was deservedly Oscar-nominated), exterior street scenes are the familiar Universal Studios backlot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Four downtown Los Angeles theatres stood in for London’s West End: the Los Angeles Theatre, the Tower Theatre, the Palace and the Belasco."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most dazzling is the Los Angeles Theatre, 615 South Broadway, used for the opening ‘Transported Man’ trick. Beautifully restored, its opulence has made it a cinema veteran."
+    },
+    {
+      "type": "paragraph",
+      "text": "It became ‘Carnegie Hall’ for Milos Forman’s shockingly underrated Man on the Moon, with Jim Carrey as subversive comic Andy Kaufman, and hosts the sad premiere of George Valentin’s silent film in The Artist. It’s the theatre’s lavish red and gilt lobby which is most often seen on screen. This was the site of the premiere of Limelight in Richard Attenborough’s biopic Chaplin, Cameron Diaz’s dance fantasy in Charlie’s Angels, Gotham’s casino in Joel Schumacher’s Batman Forever, a somewhat raunchier casino in Michael Bay’s Armageddon and even as the Vatican in End of Days."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another lavish venue is the Downtown Palace, 630 South Broadway, the loft of which became the workshop of Alfred Borden (Christian Bale). Formerly the Palace Theatre, the same loft was previously seen as the studio of performance artist Maude Lebowski (Julianne Moore) in Joel Coen’s The Big Lebowski."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Tower Theatre, 802 South Broadway, which is actually a cinema, is a more modest venue. Its exterior is seen as the ‘Pantages’ (although set in London, the film mysteriously uses the names of famous Los Angeles theatres – Pantages, Orpheum – though those two real theatres weren’t used for filming. The Tower was also featured in The Replacement Killers, while Megatron perches on its tower in Michael Bay’s Transformers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deserted theatre in which Angier (Hugh Jackman) demonstrates the ‘Real Transported Man’ trick to an amazed Ackerman is the Belasco Theatre, 1050 South Hill Street. You might have seen the Belasco as the ‘Kyoto’ dance hall in Rob Marshall’s Memoirs of a Geisha and the hideout of John Travolta in Dominic Sena’s Swordfish (with Jackman again)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You won’t be able to enjoy a meal at the restaurant, which is the interior of the old Herald Examiner Building, 1111 South Broadway, downtown. Looks similar to the ‘New York’ restaurant in which Gabriel Byrne is picked up at the opening of The Usual Suspects. It is. Much of Bryan Singer’s film was shot in this abandoned newspaper office."
+    },
+    {
+      "type": "paragraph",
+      "text": "The entrance to London’s ‘Royal Albert Hall’ is the imposing lobby of the Park Plaza Hotel, 670 South Park View Street, overlooking MacArthur Park. Remember Leslie Nielsen deluged by terrorists and runaway prams in Naked Gun 33 1/3 on these steps? Or Nicolas Cage bashing out someone’s brains in the opening scene of David Lynch’s Wild At Heart? The abortive demonstration of Nikola Tesla’s scary machine is in the hotel’s grand Terrace Room (which was the ‘Coco Bongo Club’ in Jim Carrey comedy The Mask)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Park Plaza pops up again. Its wood-panelled Ballroom is the ‘Colorado’ hotel in which Angier finds Tesla’s machine. For more on the Park Plaza’s Ballroom, see Steven Spielberg's Hook."
+    },
+    {
+      "type": "paragraph",
+      "text": "The old bank building at 650 South Spring Street, downtown Los Angeles, also crops up twice. It’s not only the courtroom in which Borden is tried for murder, but the pub in which Cutter (Michael Caine) and Alley (Andy Serkis) meet up. The same interior can be seen in David Fincher's Se7en, Ghost, The Mask, John Schlesinger's Marathon Man and Spider-man 2 among other appearances."
+    },
+    {
+      "type": "paragraph",
+      "text": "The mansion of Robert Angier is the Greystone Mansion, 905 Loma Vista Drive, Beverly Hills. Another veteran location with a long cinematic history, the house and grounds have been seen in plenty of other films including Spider-Man, Ghostbusters, Star Trek Into Darkness, The April Fools, The Loved One, The Big Lebowski and There Will Be Blood among many others. The mansion is not open to the public, but you can visit the extensive grounds – free of charge .And another David Lynch connection. Greystone used to house the American Film Institute, where interiors for Eraserhead were filmed."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Visit: the Los Angeles Theatre, 615 South Broadway, Los Angeles, CA 90014 (tel: 213.629.2939)</p>\n<p>Visit: the Downtown Palace, 630 South Broadway, Los Angeles, CA 90014 (tel: 213.553.4567)</p>\n<p>Visit: the Tower Theatre, 802 South Broadway, Los Angeles, CA 90014 (tel: 213.629.2939)</p>\n<p>Visit: the Belasco Theatre, 1050 South Hill Street, Los Angeles, CA 90015 (tel: 213.746.5670)</p>\n<p>Visit: Greystone Park &amp; Mansion, 905 Loma Vista Drive, Beverly Hills, CA 90210 (tel: 310.285.6830)</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nVisit: the Los Angeles Theatre, 615 South Broadway, Los Angeles, CA 90014 (tel: 213.629.2939)\nVisit: the Downtown Palace, 630 South Broadway, Los Angeles, CA 90014 (tel: 213.553.4567)\nVisit: the Tower Theatre, 802 South Broadway, Los Angeles, CA 90014 (tel: 213.629.2939)\nVisit: the Belasco Theatre, 1050 South Hill Street, Los Angeles, CA 90015 (tel: 213.746.5670)\nVisit: Greystone Park & Mansion, 905 Loma Vista Drive, Beverly Hills, CA 90210 (tel: 310.285.6830)",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Visit: the Los Angeles Theatre, 615 South Broadway, Los Angeles, CA 90014 (tel: 213.629.2939)",
+        "Visit: the Downtown Palace, 630 South Broadway, Los Angeles, CA 90014 (tel: 213.553.4567)",
+        "Visit: the Tower Theatre, 802 South Broadway, Los Angeles, CA 90014 (tel: 213.629.2939)",
+        "Visit: the Belasco Theatre, 1050 South Hill Street, Los Angeles, CA 90015 (tel: 213.746.5670)",
+        "Visit: Greystone Park & Mansion, 905 Loma Vista Drive, Beverly Hills, CA 90210 (tel: 310.285.6830)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "imdb_id": "tt0102926",
+  "shorthand": "Silence-Of-The-Lambs",
+  "title": "The Silence Of The Lambs",
+  "year": 1991,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0102926 - Silence-Of-The-Lambs.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0102926 - Silence-Of-The-Lambs.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0102926.json",
+  "source_url": "http://www.movie-locations.com/movies/s/Silence-Of-The-Lambs.php",
+  "page_title": "The Silence Of The Lambs | Film Locations",
+  "meta_description": "Film locations for Jonathan Demme's Oscar-winning The Silence Of The Lambs (1991), in Pittsburgh, Virginia and Bimini in the Bahamas.",
+  "meta_keywords": "The Silence Of The Lambs (1991), film locations, filming locations, tourism, travel, set-jetting, pittsburgh, pennsylvania, virginia, carnegie museum, institute, allegheny county soldiers and sailors memorial, hannibal lector, anthony hopkins, jodie foster",
+  "og_title": "Filming Locations for Jonathan Demme's Oscar-winning The Silence Of The Lambs (1991), in Pittsburgh, Virginia and Bimini in the Bahamas.",
+  "og_description": "Travel guide to filming locations for Jonathan Demme's Oscar-winning The Silence Of The Lambs (1991), in Pittsburgh, Virginia and Bimini in the Bahamas.",
+  "og_image": "http://www.movie-locations.com/movies/s/Silence-Of-The-Lambs.jpg",
+  "top250_rank": "28",
+  "movie_locations_title": "THE SILENCE OF THE LAMBS",
+  "movie_locations_regions": "Pittsburgh, Pennsylvania | Virginia | Bahamas",
+  "director": "Jonathan Demme",
+  "cast": [
+    "Jodie Foster",
+    "Anthony Hopkins",
+    "Scott Glenn",
+    "Ted Levine",
+    "Diane Baker",
+    "Frankie Faison",
+    "Chris Isaak",
+    "Kasi Lemmons"
+  ],
+  "locations": [
+    "Pittsburgh, Pennsylvania;",
+    "Virginia;",
+    "Bahamas"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0102926%20-%20Silence-Of-The-Lambs/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0102926 - Silence-Of-The-Lambs/002.jpg",
+    "exists": true,
+    "alt": "The Silence Of The Lambs poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0102926/poster.jpg",
+    "corpus_asset_src": "../assets/tt0102926/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0102926%20-%20Silence-Of-The-Lambs/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0102926 - Silence-Of-The-Lambs/001.jpg",
+    "exists": true,
+    "alt": "Silence of the Lambs location, Allegheny County Soldiers and Sailors Memorial Hall, Fifth Avenue, Pittsburgh",
+    "caption": "The Silence Of The Lambs film location: Lecter escapes from the holding cell: Allegheny County Soldiers and Sailors Memorial Hall, Fifth Avenue, Pittsburgh",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0102926/001.jpg",
+    "corpus_asset_src": "../assets/tt0102926/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0102926%20-%20Silence-Of-The-Lambs/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0102926 - Silence-Of-The-Lambs/001.jpg",
+      "exists": true,
+      "alt": "Silence of the Lambs location, Allegheny County Soldiers and Sailors Memorial Hall, Fifth Avenue, Pittsburgh",
+      "caption": "The Silence Of The Lambs film location: Lecter escapes from the holding cell: Allegheny County Soldiers and Sailors Memorial Hall, Fifth Avenue, Pittsburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0102926/001.jpg",
+      "corpus_asset_src": "../assets/tt0102926/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0102926%20-%20Silence-Of-The-Lambs/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0102926 - Silence-Of-The-Lambs/002.jpg",
+      "exists": true,
+      "alt": "The Silence Of The Lambs poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0102926/002.jpg",
+      "corpus_asset_src": "../assets/tt0102926/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0102926%20-%20Silence-Of-The-Lambs/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0102926 - Silence-Of-The-Lambs/003.jpg",
+      "exists": true,
+      "alt": "Silence of the Lambs location, Carnegie Museum of Natural History, Forbes Avenue, Pittsburgh",
+      "caption": "The Silence Of The Lambs film location: Clarice Starling meets the entomologist: Carnegie Museum of Natural History, Forbes Avenue, Pittsburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0102926/003.jpg",
+      "corpus_asset_src": "../assets/tt0102926/003.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0102926/001.jpg\" alt=\"Silence of the Lambs location, Allegheny County Soldiers and Sailors Memorial Hall, Fifth Avenue, Pittsburgh\"><figcaption>The Silence Of The Lambs film location: Lecter escapes from the holding cell: Allegheny County Soldiers and Sailors Memorial Hall, Fifth Avenue, Pittsburgh</figcaption></figure>\n<p>Although set in such wide-ranging locales as ‘Ohio’, ‘West Virginia’ and ‘Tennessee’, <a href=\"https://www.movie-locations.com/people/d/demmej.php\">Jonathan Demme</a>’s superior thriller was made largely around <span class=\"name\">Pittsburgh</span>, western <a href=\"https://www.movie-locations.com/places/usa/penn.php\">Pennsylvania</a>.</p>\n<p> Clarice Starling (<a href=\"https://www.movie-locations.com/people/f/fosterj.php\">Jodie Foster</a>) meets the entomologist at the <a href=\"http://www.carnegiemnh.org/\" target=\"blank\">Carnegie Museum of Natural History</a> in the<span class=\"name\"> Carnegie Institute, 4400 Forbes Avenue, Oakland</span> (it’s where <a href=\"https://www.movie-locations.com/people/b/bealsj.php\">Jennifer Beals</a> applies for a dance audition in <a href=\"https://www.movie-locations.com/movies/f/Flashdance.php\">Flashdance</a>).</p>\n<p>The exterior of Hannibal Lecter’s (<a href=\"https://www.movie-locations.com/people/h/hopkinsa.php\">Anthony Hopkins</a>) place of internment, the ‘Baltimore Hospital’, was the Administration Building of the Western Center, an old mental hospital in <span class=\"name\">Canonsburg</span>, on I-79 about 15 miles south of <span class=\"name\">Pittsburgh</span>. It’s abandoned, but despite being designated a historic landmark, was finally demolished in 2011.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0102926/003.jpg\" alt=\"Silence of the Lambs location, Carnegie Museum of Natural History, Forbes Avenue, Pittsburgh\"><figcaption>The Silence Of The Lambs film location: Clarice Starling meets the entomologist: Carnegie Museum of Natural History, Forbes Avenue, Pittsburgh</figcaption></figure>\n<p>‘Memphis Town Hall’, where Lecter escapes from the holding cell and borrows the face of his guard, is the <a href=\"http://soldiersandsailorshall.org/\" target=\"_blank\">Allegheny County Soldiers and Sailors Memorial Hall &amp; Museum</a>, <span class=\"name\">4141 Fifth Avenue</span>, a military museum, part of the <span class=\"name\">University of Pittsburgh</span>.</p>\n<p>Many of the film’s interiors were shot in the abandoned Westinghouse turbine factory (now known as Keystone Commons).</p>\n<p>The ‘Grieg Funeral Home’, where Clarice views the body of the murder victim and has a flashback to her own father’s funeral, was an empty house, formerly a real funeral parlor, on <span class=\"name\">Main Street, Rural Valley</span>, about 40 miles east of <span class=\"name\">Pittsburgh</span>. Filming also took place at <span class=\"name\">Allegheny County Jail, 950 Second Avenue, Pittsburgh</span>, and at the <span class=\"name\">Greater Pittsburgh National Airport</span>, to the west of the city.</p>\n<p>Clarice Starling works out of the real FBI training HQ, <span class=\"name\">Quantico</span>, <a href=\"https://www.movie-locations.com/places/usa/virginia.php\">Virginia</a>, on the US Marine Corps Base about 40 miles southwest of <a href=\"https://www.movie-locations.com/places/usa/dc.php\">Washington DC</a>.</p>\n<p>Dr Lecter’s tropical retirement home at the end of the movie is <span class=\"name\">Alice Town</span>, on the island of <span class=\"name\">North Bimini</span> in the <a href=\"https://www.movie-locations.com/places/caribbean/bahamas.php\">Bahamas</a>. The <span class=\"name\">Bimini Islands</span>, 50 miles off the coast of <a href=\"https://www.movie-locations.com/places/usa/florida.php\">Florida</a>, are the closest of the <a href=\"https://www.movie-locations.com/places/caribbean/bahamas.php\">Bahamas</a> to the USA. Famed for big game fishing and celebrated by <span class=\"name\">Ernest Hemingway</span>, who also took up residence here and wrote of the islands in <span class=\"name\">Islands in the Stream</span> (filmed by <a href=\"https://www.movie-locations.com/people/s/schaffnerf.php\">Franklin Schaffner</a> with <a href=\"https://www.movie-locations.com/people/s/scottgc.php\">George C Scott</a>, in 1976). The <span class=\"name\">Biminis</span>, along with most islands in the Atlantic, were believed to have been the site of Atlantis, and are claimed to be home to the ‘Fountain of Youth’, the Healing Hole, which you can find on <span class=\"name\">South Bimini</span>.</p>",
+  "main_content_text": "Although set in such wide-ranging locales as ‘Ohio’, ‘West Virginia’ and ‘Tennessee’, Jonathan Demme’s superior thriller was made largely around Pittsburgh, western Pennsylvania.\n\nClarice Starling (Jodie Foster) meets the entomologist at the Carnegie Museum of Natural History in the Carnegie Institute, 4400 Forbes Avenue, Oakland (it’s where Jennifer Beals applies for a dance audition in Flashdance).\n\nThe exterior of Hannibal Lecter’s (Anthony Hopkins) place of internment, the ‘Baltimore Hospital’, was the Administration Building of the Western Center, an old mental hospital in Canonsburg, on I-79 about 15 miles south of Pittsburgh. It’s abandoned, but despite being designated a historic landmark, was finally demolished in 2011.\n\n‘Memphis Town Hall’, where Lecter escapes from the holding cell and borrows the face of his guard, is the Allegheny County Soldiers and Sailors Memorial Hall & Museum, 4141 Fifth Avenue, a military museum, part of the University of Pittsburgh.\n\nMany of the film’s interiors were shot in the abandoned Westinghouse turbine factory (now known as Keystone Commons).\n\nThe ‘Grieg Funeral Home’, where Clarice views the body of the murder victim and has a flashback to her own father’s funeral, was an empty house, formerly a real funeral parlor, on Main Street, Rural Valley, about 40 miles east of Pittsburgh. Filming also took place at Allegheny County Jail, 950 Second Avenue, Pittsburgh, and at the Greater Pittsburgh National Airport, to the west of the city.\n\nClarice Starling works out of the real FBI training HQ, Quantico, Virginia, on the US Marine Corps Base about 40 miles southwest of Washington DC.\n\nDr Lecter’s tropical retirement home at the end of the movie is Alice Town, on the island of North Bimini in the Bahamas. The Bimini Islands, 50 miles off the coast of Florida, are the closest of the Bahamas to the USA. Famed for big game fishing and celebrated by Ernest Hemingway, who also took up residence here and wrote of the islands in Islands in the Stream (filmed by Franklin Schaffner with George C Scott, in 1976). The Biminis, along with most islands in the Atlantic, were believed to have been the site of Atlantis, and are claimed to be home to the ‘Fountain of Youth’, the Healing Hole, which you can find on South Bimini.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "The Silence Of The Lambs film location: Lecter escapes from the holding cell: Allegheny County Soldiers and Sailors Memorial Hall, Fifth Avenue, Pittsburgh",
+      "src": "_assets/tt0102926%20-%20Silence-Of-The-Lambs/001.jpg",
+      "alt": "Silence of the Lambs location, Allegheny County Soldiers and Sailors Memorial Hall, Fifth Avenue, Pittsburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although set in such wide-ranging locales as ‘Ohio’, ‘West Virginia’ and ‘Tennessee’, Jonathan Demme’s superior thriller was made largely around Pittsburgh, western Pennsylvania."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clarice Starling (Jodie Foster) meets the entomologist at the Carnegie Museum of Natural History in the Carnegie Institute, 4400 Forbes Avenue, Oakland (it’s where Jennifer Beals applies for a dance audition in Flashdance)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exterior of Hannibal Lecter’s (Anthony Hopkins) place of internment, the ‘Baltimore Hospital’, was the Administration Building of the Western Center, an old mental hospital in Canonsburg, on I-79 about 15 miles south of Pittsburgh. It’s abandoned, but despite being designated a historic landmark, was finally demolished in 2011."
+    },
+    {
+      "type": "image",
+      "caption": "The Silence Of The Lambs film location: Clarice Starling meets the entomologist: Carnegie Museum of Natural History, Forbes Avenue, Pittsburgh",
+      "src": "_assets/tt0102926%20-%20Silence-Of-The-Lambs/003.jpg",
+      "alt": "Silence of the Lambs location, Carnegie Museum of Natural History, Forbes Avenue, Pittsburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Memphis Town Hall’, where Lecter escapes from the holding cell and borrows the face of his guard, is the Allegheny County Soldiers and Sailors Memorial Hall & Museum, 4141 Fifth Avenue, a military museum, part of the University of Pittsburgh."
+    },
+    {
+      "type": "paragraph",
+      "text": "Many of the film’s interiors were shot in the abandoned Westinghouse turbine factory (now known as Keystone Commons)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Grieg Funeral Home’, where Clarice views the body of the murder victim and has a flashback to her own father’s funeral, was an empty house, formerly a real funeral parlor, on Main Street, Rural Valley, about 40 miles east of Pittsburgh. Filming also took place at Allegheny County Jail, 950 Second Avenue, Pittsburgh, and at the Greater Pittsburgh National Airport, to the west of the city."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clarice Starling works out of the real FBI training HQ, Quantico, Virginia, on the US Marine Corps Base about 40 miles southwest of Washington DC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr Lecter’s tropical retirement home at the end of the movie is Alice Town, on the island of North Bimini in the Bahamas. The Bimini Islands, 50 miles off the coast of Florida, are the closest of the Bahamas to the USA. Famed for big game fishing and celebrated by Ernest Hemingway, who also took up residence here and wrote of the islands in Islands in the Stream (filmed by Franklin Schaffner with George C Scott, in 1976). The Biminis, along with most islands in the Atlantic, were believed to have been the site of Atlantis, and are claimed to be home to the ‘Fountain of Youth’, the Healing Hole, which you can find on South Bimini."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Pennsylvania</h3>\n<p>Visit: Pennsylvania</p>\n<p>Visit: Pittsburgh</p>\n<p>Flights: Pittsburgh International Airport, 1000 Airport Boulevard, Pittsburgh, PA 15231 (tel: 412.472.3525)</p>\n<p>Visit: the Carnegie Museum of Natural History, 4400 Forbes Avenue, Pittsburgh, PA 15213 (tel: 412.622.3131)</p>\n<p>Visit: the Allegheny County Soldiers and Sailors Memorial Hall &amp; Museum, 4141 Fifth Avenue</p>\n</section>\n<section><h3>Virginia</h3>\n<p>Visit: Virginia</p>\n</section>\n<section><h3>Bahamas</h3>\n<p>Visit: the Bahamas</p>\n<p>Visit: Bimini</p>\n</section>",
+  "visit_info_text": "Pennsylvania\nVisit: Pennsylvania\nVisit: Pittsburgh\nFlights: Pittsburgh International Airport, 1000 Airport Boulevard, Pittsburgh, PA 15231 (tel: 412.472.3525)\nVisit: the Carnegie Museum of Natural History, 4400 Forbes Avenue, Pittsburgh, PA 15213 (tel: 412.622.3131)\nVisit: the Allegheny County Soldiers and Sailors Memorial Hall & Museum, 4141 Fifth Avenue\nVirginia\nVisit: Virginia\nBahamas\nVisit: the Bahamas\nVisit: Bimini",
+  "visit_sections": [
+    {
+      "title": "Pennsylvania",
+      "items": [
+        "Visit: Pennsylvania",
+        "Visit: Pittsburgh",
+        "Flights: Pittsburgh International Airport, 1000 Airport Boulevard, Pittsburgh, PA 15231 (tel: 412.472.3525)",
+        "Visit: the Carnegie Museum of Natural History, 4400 Forbes Avenue, Pittsburgh, PA 15213 (tel: 412.622.3131)",
+        "Visit: the Allegheny County Soldiers and Sailors Memorial Hall & Museum, 4141 Fifth Avenue"
+      ]
+    },
+    {
+      "title": "Virginia",
+      "items": [
+        "Visit: Virginia"
+      ]
+    },
+    {
+      "title": "Bahamas",
+      "items": [
+        "Visit: the Bahamas",
+        "Visit: Bimini"
+      ]
+    }
+  ]
+}

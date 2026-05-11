@@ -1,0 +1,195 @@
+{
+  "imdb_id": "tt0095765",
+  "shorthand": "Cinema-Paradiso",
+  "title": "Cinema Paradiso",
+  "year": 1988,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0095765 - Cinema-Paradiso.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0095765 - Cinema-Paradiso.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0095765.json",
+  "source_url": "http://www.movie-locations.com/movies/c/Cinema-Paradiso.php",
+  "page_title": "Cinema Paradiso | Film Locations",
+  "meta_description": "Discover the film locations for Cinema Paradiso (1988) around Sicily, including Palazzo Adriano, Castelbuono, Cefalu and Poggioreale.",
+  "meta_keywords": "Cinema Paradiso, film locations, tourism, travel, set-jetting, palermo, sicily, palazzo adriano, castelbuono, cefalu, poggioreale",
+  "og_title": "Film Locations for Cinema Paradiso (1988) in Sicily.",
+  "og_description": "Discover the film locations for Cinema Paradiso (1988) around Sicily, including Palazzo Adriano, Castelbuono, Cefalu and Poggioreale.",
+  "og_image": "http://www.movie-locations.com/movies/c/cinema-paradiso-meta.jpg",
+  "top250_rank": "66",
+  "movie_locations_title": "CINEMA PARADISO",
+  "movie_locations_regions": "Italy",
+  "director": "Giuseppe Tornatore",
+  "cast": [
+    "Philippe Noiret",
+    "Jacques Perrin",
+    "Salvatore Cascio",
+    "Marco Leonardi",
+    "Pupella Maggio"
+  ],
+  "locations": [
+    "Italy"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0095765%20-%20Cinema-Paradiso/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0095765 - Cinema-Paradiso/002.jpg",
+    "exists": true,
+    "alt": "Cinema Paradiso poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0095765/poster.jpg",
+    "corpus_asset_src": "../assets/tt0095765/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0095765%20-%20Cinema-Paradiso/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0095765 - Cinema-Paradiso/001.jpg",
+    "exists": true,
+    "alt": "Cinema Paradiso film location: Piazza Umberto I, Palazzo Adriano, Sicily",
+    "caption": "Cinema Paradiso film location: the town square of ‘Giancaldo’: Piazza Umberto I, Palazzo Adriano, Sicily",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0095765/001.jpg",
+    "corpus_asset_src": "../assets/tt0095765/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0095765%20-%20Cinema-Paradiso/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0095765 - Cinema-Paradiso/001.jpg",
+      "exists": true,
+      "alt": "Cinema Paradiso film location: Piazza Umberto I, Palazzo Adriano, Sicily",
+      "caption": "Cinema Paradiso film location: the town square of ‘Giancaldo’: Piazza Umberto I, Palazzo Adriano, Sicily",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0095765/001.jpg",
+      "corpus_asset_src": "../assets/tt0095765/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0095765%20-%20Cinema-Paradiso/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0095765 - Cinema-Paradiso/002.jpg",
+      "exists": true,
+      "alt": "Cinema Paradiso poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0095765/002.jpg",
+      "corpus_asset_src": "../assets/tt0095765/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0095765%20-%20Cinema-Paradiso/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0095765 - Cinema-Paradiso/003.jpg",
+      "exists": true,
+      "alt": "Cinema Paradiso film location: Porta Marina, Cefalu, Sicily",
+      "caption": "Cinema Paradiso film location: the outdoor showing of Ulysses is disrupted by a storm: Porta Marina, Cefalu, Sicily | Photograph: wikimedia / Bernhard J. Scheuvens",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0095765/003.jpg",
+      "corpus_asset_src": "../assets/tt0095765/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0095765%20-%20Cinema-Paradiso/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0095765 - Cinema-Paradiso/004.jpg",
+      "exists": true,
+      "alt": "Cinema Paradiso film location: Castello dei Ventimiglia, Castelbuono, Sicily",
+      "caption": "Cinema Paradiso film location: Toto goes to school: Castello dei Ventimiglia, Castelbuono, Sicily | Photograph: wikimedia / John Mazzola",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0095765/004.jpg",
+      "corpus_asset_src": "../assets/tt0095765/004.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0095765/001.jpg\" alt=\"Cinema Paradiso film location: Piazza Umberto I, Palazzo Adriano, Sicily\"><figcaption>Cinema Paradiso film location: the town square of ‘Giancaldo’: Piazza Umberto I, Palazzo Adriano, Sicily</figcaption></figure>\n<p>There’s a brief glimpse of <span class=\"name\">Rome</span> near the beginning of <a href=\"https://www.movie-locations.com/people/t/tornatoreg.php\">Giuseppe Tornatore</a>’s unashamedly nostalgic love letter to the old fashioned dream palace. Salvatore Di Vita (<a href=\"https://www.movie-locations.com/people/p/perrinj.php\">Jacques Perrin</a>) drives along <span class=\"name\">Via del Corso</span>, with the huge <span class=\"name\">Vittorio Emmanuele Monument</span> in the background, but the rest of the film is set in northwestern <span class=\"name\">Sicily</span>, around the fictitious village of ‘Giancaldo’.</p>\n<p>In the Sicilian village, projectionist Alfredo (<a href=\"https://www.movie-locations.com/people/n/noiretp.php\">Philippe Noiret</a>) bequeaths a love of movies to the young Salvatore, known as Toto (<a href=\"https://www.movie-locations.com/people/c/cascios.php\">Salvatore Cascio</a>) – though Alfredo’s role is much darker in the 50-minute longer Director’s Cut.</p>\n<p>‘Giancaldo’ is based on the director’s birthplace of <span class=\"name\">Bagheria</span>, a short train or bus ride to the east of Palermo in northern <span class=\"name\">Sicily</span> (and home to the amazing Villa Palagonia, featured in <a href=\"https://www.movie-locations.com/people/a/antonionim.php\">Michelangelo Antonioni</a>’s <a href=\"https://www.movie-locations.com/movies/a/Avventura.php\">L’Avventura</a>).</p>\n<p>Although scenes were filmed in <span class=\"name\">Bagheria</span>, the famous town square is <span class=\"name\">Piazza Umberto I</span> in the village of <span class=\"name\">Palazzo Adriano</span>, about 30 miles to the south of Palermo on <span class=\"name\">SS188</span>. It’s  close to the towns of Prizzi and Corleone, both of which have passed their names on to Hollywood.</p>\n<p>The ‘Paradiso’ cinema was built here, at <span class=\"name\">Via Nino Bixio</span>, overlooking the octagonal Baroque fountain, which dates from 1608. The set obviously didn’t survive the filming, but you can still recognise the nearby house onto which Alfredo projects <span class=\"name\">I Pompieri Di Viggiu</span> (<span class=\"name\">The Firemen Of Viggiu</span>), starring another <span class=\"name\">Toto</span> – the hugely popular Italian comic actor of the Fifties and Sixties.</p>\n<p>Just to the west, the two churches seen in the film face each other across the piazza.</p>\n<p>It’s outside the solid, square-towered <span class=\"name\">Chiesa Maria SS Assunta</span> that local women are spreading tomato paste on wooden boards to dry in the sun, until they’re disturbed by the eccentric who constantly pops up claiming ownership of  the piazza.</p>\n<p>The teenage Toto (<a href=\"https://www.movie-locations.com/people/l/leonardim.php\">Marco Leonardi</a>) later sits on the church’s steps as he contemplates whether to follow Alfredo’s advice and leave ‘Giancaldo’ to pursue a film career in <span class=\"name\">Rome</span>.</p>\n<p><span class=\"name\">Palazzo Adriano</span> was originally an Albanian settlement (one of its streets is Via Skanderbeg, named after Albania’s 15th Century nationalist hero) and this church, built in 1532 but enlarged in 1770, is the Albanian Greek Orthodox Cathedral.</p>\n<p>Opposite stands the more typically Italianate <span class=\"name\">Chiesa Santa Maria del Lume</span>, with its clocktower, where the adult Toto attends Alfredo’s funeral towards the end of the film.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0095765/003.jpg\" alt=\"Cinema Paradiso film location: Porta Marina, Cefalu, Sicily\"><figcaption>Cinema Paradiso film location: the outdoor showing of Ulysses is disrupted by a storm: Porta Marina, Cefalu, Sicily | Photograph: wikimedia / Bernhard J. Scheuvens</figcaption></figure>\n<p>The war-damaged streets, through which Toto walks with his distraught mother after they receive confirmation of his father’s death, are <span class=\"name\">Ruderi Di Poggioreale</span>, the ruins of <span class=\"name\">Poggioreale</span>, about 20 miles to the west. Now a ghost town, <span class=\"name\">Poggioreale</span> was in fact destroyed not by the bombs of WWII but by a massive earthquake in 1968. The abandoned town is on <span class=\"name\">SP27</span>, a couple of miles north of the rebuilt newtown, Nuovo Poggioreale.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0095765/004.jpg\" alt=\"Cinema Paradiso film location: Castello dei Ventimiglia, Castelbuono, Sicily\"><figcaption>Cinema Paradiso film location: Toto goes to school: Castello dei Ventimiglia, Castelbuono, Sicily | Photograph: wikimedia / John Mazzola</figcaption></figure>\n<p>Almost 50 miles northeast, towards the coastal resort of <a href=\"http://www.cefalu.net/index.php?lingua=en\" target=\"_blank\">Cefalù</a>, is <a href=\"http://80.23.219.147/castelbuono/hh/index.php\" target=\"_blank\">Castelbuono</a>, where  the 14th Century <span class=\"name\">Castello dei Ventimiglia</span> became Toto’s school. The fortress was built for <span class=\"name\">Francesco I Ventimiglia</span> on a hill called San Pietro of Ypsigro, and was dubbed Castello del Buon Aere, ‘Castle of good air’, the origin of <a href=\"http://80.23.219.147/castelbuono/hh/index.php\" target=\"_blank\">Castelbuono</a>’s name. For six centuries it was home to the Ventimiglia family, but was bought by the municipality in the 1920s and is now open for tours.</p>\n<p>In <a href=\"http://www.cefalu.net/index.php?lingua=en\" target=\"_blank\">Cefalù</a> itself, the ‘Arena Imperia’, where a seafront showing of the 1954 epic <span class=\"name\">Ulysses</span>, with <a href=\"https://www.movie-locations.com/people/d/douglask.php\">Kirk Douglas</a>, is interrupted by a summer rainstorm, is the town’s <span class=\"name\">Porta Marina</span>, with its Gothic arch – the only remaining city gate of four that once afforded access to the town. The audience is seated on the port’s <span class=\"name\">Molo Vecchio</span> (Old Pier) while locals enjoy the show from boats in the bay.</p>\n<p><a href=\"http://www.cefalu.net/index.php?lingua=en\" target=\"_blank\">Cefalù</a>, once a fishing village, is overlooked by an imposing limestone headland, which gives the town its name. Originally a Greek settlement, the name derives from ‘Kefaloidion’, meaning ‘head’.</p>",
+  "main_content_text": "There’s a brief glimpse of Rome near the beginning of Giuseppe Tornatore’s unashamedly nostalgic love letter to the old fashioned dream palace. Salvatore Di Vita (Jacques Perrin) drives along Via del Corso, with the huge Vittorio Emmanuele Monument in the background, but the rest of the film is set in northwestern Sicily, around the fictitious village of ‘Giancaldo’.\n\nIn the Sicilian village, projectionist Alfredo (Philippe Noiret) bequeaths a love of movies to the young Salvatore, known as Toto (Salvatore Cascio) – though Alfredo’s role is much darker in the 50-minute longer Director’s Cut.\n\n‘Giancaldo’ is based on the director’s birthplace of Bagheria, a short train or bus ride to the east of Palermo in northern Sicily (and home to the amazing Villa Palagonia, featured in Michelangelo Antonioni’s L’Avventura).\n\nAlthough scenes were filmed in Bagheria, the famous town square is Piazza Umberto I in the village of Palazzo Adriano, about 30 miles to the south of Palermo on SS188. It’s close to the towns of Prizzi and Corleone, both of which have passed their names on to Hollywood.\n\nThe ‘Paradiso’ cinema was built here, at Via Nino Bixio, overlooking the octagonal Baroque fountain, which dates from 1608. The set obviously didn’t survive the filming, but you can still recognise the nearby house onto which Alfredo projects I Pompieri Di Viggiu (The Firemen Of Viggiu), starring another Toto – the hugely popular Italian comic actor of the Fifties and Sixties.\n\nJust to the west, the two churches seen in the film face each other across the piazza.\n\nIt’s outside the solid, square-towered Chiesa Maria SS Assunta that local women are spreading tomato paste on wooden boards to dry in the sun, until they’re disturbed by the eccentric who constantly pops up claiming ownership of the piazza.\n\nThe teenage Toto (Marco Leonardi) later sits on the church’s steps as he contemplates whether to follow Alfredo’s advice and leave ‘Giancaldo’ to pursue a film career in Rome.\n\nPalazzo Adriano was originally an Albanian settlement (one of its streets is Via Skanderbeg, named after Albania’s 15th Century nationalist hero) and this church, built in 1532 but enlarged in 1770, is the Albanian Greek Orthodox Cathedral.\n\nOpposite stands the more typically Italianate Chiesa Santa Maria del Lume, with its clocktower, where the adult Toto attends Alfredo’s funeral towards the end of the film.\n\nThe war-damaged streets, through which Toto walks with his distraught mother after they receive confirmation of his father’s death, are Ruderi Di Poggioreale, the ruins of Poggioreale, about 20 miles to the west. Now a ghost town, Poggioreale was in fact destroyed not by the bombs of WWII but by a massive earthquake in 1968. The abandoned town is on SP27, a couple of miles north of the rebuilt newtown, Nuovo Poggioreale.\n\nAlmost 50 miles northeast, towards the coastal resort of Cefalù, is Castelbuono, where the 14th Century Castello dei Ventimiglia became Toto’s school. The fortress was built for Francesco I Ventimiglia on a hill called San Pietro of Ypsigro, and was dubbed Castello del Buon Aere, ‘Castle of good air’, the origin of Castelbuono’s name. For six centuries it was home to the Ventimiglia family, but was bought by the municipality in the 1920s and is now open for tours.\n\nIn Cefalù itself, the ‘Arena Imperia’, where a seafront showing of the 1954 epic Ulysses, with Kirk Douglas, is interrupted by a summer rainstorm, is the town’s Porta Marina, with its Gothic arch – the only remaining city gate of four that once afforded access to the town. The audience is seated on the port’s Molo Vecchio (Old Pier) while locals enjoy the show from boats in the bay.\n\nCefalù, once a fishing village, is overlooked by an imposing limestone headland, which gives the town its name. Originally a Greek settlement, the name derives from ‘Kefaloidion’, meaning ‘head’.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Cinema Paradiso film location: the town square of ‘Giancaldo’: Piazza Umberto I, Palazzo Adriano, Sicily",
+      "src": "_assets/tt0095765%20-%20Cinema-Paradiso/001.jpg",
+      "alt": "Cinema Paradiso film location: Piazza Umberto I, Palazzo Adriano, Sicily"
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s a brief glimpse of Rome near the beginning of Giuseppe Tornatore’s unashamedly nostalgic love letter to the old fashioned dream palace. Salvatore Di Vita (Jacques Perrin) drives along Via del Corso, with the huge Vittorio Emmanuele Monument in the background, but the rest of the film is set in northwestern Sicily, around the fictitious village of ‘Giancaldo’."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Sicilian village, projectionist Alfredo (Philippe Noiret) bequeaths a love of movies to the young Salvatore, known as Toto (Salvatore Cascio) – though Alfredo’s role is much darker in the 50-minute longer Director’s Cut."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Giancaldo’ is based on the director’s birthplace of Bagheria, a short train or bus ride to the east of Palermo in northern Sicily (and home to the amazing Villa Palagonia, featured in Michelangelo Antonioni’s L’Avventura)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although scenes were filmed in Bagheria, the famous town square is Piazza Umberto I in the village of Palazzo Adriano, about 30 miles to the south of Palermo on SS188. It’s close to the towns of Prizzi and Corleone, both of which have passed their names on to Hollywood."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Paradiso’ cinema was built here, at Via Nino Bixio, overlooking the octagonal Baroque fountain, which dates from 1608. The set obviously didn’t survive the filming, but you can still recognise the nearby house onto which Alfredo projects I Pompieri Di Viggiu (The Firemen Of Viggiu), starring another Toto – the hugely popular Italian comic actor of the Fifties and Sixties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just to the west, the two churches seen in the film face each other across the piazza."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s outside the solid, square-towered Chiesa Maria SS Assunta that local women are spreading tomato paste on wooden boards to dry in the sun, until they’re disturbed by the eccentric who constantly pops up claiming ownership of the piazza."
+    },
+    {
+      "type": "paragraph",
+      "text": "The teenage Toto (Marco Leonardi) later sits on the church’s steps as he contemplates whether to follow Alfredo’s advice and leave ‘Giancaldo’ to pursue a film career in Rome."
+    },
+    {
+      "type": "paragraph",
+      "text": "Palazzo Adriano was originally an Albanian settlement (one of its streets is Via Skanderbeg, named after Albania’s 15th Century nationalist hero) and this church, built in 1532 but enlarged in 1770, is the Albanian Greek Orthodox Cathedral."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opposite stands the more typically Italianate Chiesa Santa Maria del Lume, with its clocktower, where the adult Toto attends Alfredo’s funeral towards the end of the film."
+    },
+    {
+      "type": "image",
+      "caption": "Cinema Paradiso film location: the outdoor showing of Ulysses is disrupted by a storm: Porta Marina, Cefalu, Sicily | Photograph: wikimedia / Bernhard J. Scheuvens",
+      "src": "_assets/tt0095765%20-%20Cinema-Paradiso/003.jpg",
+      "alt": "Cinema Paradiso film location: Porta Marina, Cefalu, Sicily"
+    },
+    {
+      "type": "paragraph",
+      "text": "The war-damaged streets, through which Toto walks with his distraught mother after they receive confirmation of his father’s death, are Ruderi Di Poggioreale, the ruins of Poggioreale, about 20 miles to the west. Now a ghost town, Poggioreale was in fact destroyed not by the bombs of WWII but by a massive earthquake in 1968. The abandoned town is on SP27, a couple of miles north of the rebuilt newtown, Nuovo Poggioreale."
+    },
+    {
+      "type": "image",
+      "caption": "Cinema Paradiso film location: Toto goes to school: Castello dei Ventimiglia, Castelbuono, Sicily | Photograph: wikimedia / John Mazzola",
+      "src": "_assets/tt0095765%20-%20Cinema-Paradiso/004.jpg",
+      "alt": "Cinema Paradiso film location: Castello dei Ventimiglia, Castelbuono, Sicily"
+    },
+    {
+      "type": "paragraph",
+      "text": "Almost 50 miles northeast, towards the coastal resort of Cefalù, is Castelbuono, where the 14th Century Castello dei Ventimiglia became Toto’s school. The fortress was built for Francesco I Ventimiglia on a hill called San Pietro of Ypsigro, and was dubbed Castello del Buon Aere, ‘Castle of good air’, the origin of Castelbuono’s name. For six centuries it was home to the Ventimiglia family, but was bought by the municipality in the 1920s and is now open for tours."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Cefalù itself, the ‘Arena Imperia’, where a seafront showing of the 1954 epic Ulysses, with Kirk Douglas, is interrupted by a summer rainstorm, is the town’s Porta Marina, with its Gothic arch – the only remaining city gate of four that once afforded access to the town. The audience is seated on the port’s Molo Vecchio (Old Pier) while locals enjoy the show from boats in the bay."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cefalù, once a fishing village, is overlooked by an imposing limestone headland, which gives the town its name. Originally a Greek settlement, the name derives from ‘Kefaloidion’, meaning ‘head’."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Italy</h3>\n<p>Visit: Italy</p>\n<p>Visit: Sicily</p>\n<p>Visit: Cefalù</p>\n<p>Visit: Castelbuono</p>\n</section>",
+  "visit_info_text": "Italy\nVisit: Italy\nVisit: Sicily\nVisit: Cefalù\nVisit: Castelbuono",
+  "visit_sections": [
+    {
+      "title": "Italy",
+      "items": [
+        "Visit: Italy",
+        "Visit: Sicily",
+        "Visit: Cefalù",
+        "Visit: Castelbuono"
+      ]
+    }
+  ]
+}

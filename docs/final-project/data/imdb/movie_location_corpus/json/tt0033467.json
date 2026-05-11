@@ -1,0 +1,276 @@
+{
+  "imdb_id": "tt0033467",
+  "shorthand": "Citizen-Kane",
+  "title": "Citizen Kane",
+  "year": 1941,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0033467 - Citizen-Kane.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0033467 - Citizen-Kane.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0033467.json",
+  "source_url": "http://www.movie-locations.com/movies/c/Citizen-Kane.php",
+  "page_title": "Citizen Kane | Film Locations",
+  "meta_description": "Discover where Orson Welles's Citizen Kane (1941) was filmed in Hollywood and San Diego, California.",
+  "meta_keywords": "Citizen Kane (1941), film locations, filming locations, tourism, travel, set-jetting, california, los angeles, hollywood, hearst castle, orson welles",
+  "og_title": "Filming Locations for Citizen Kane (1941), in California.",
+  "og_description": "Discover where Orson Welles's Citizen Kane (1941) was filmed in Hollywood and San Diego, California.",
+  "og_image": "http://www.movie-locations.com/movies/c/citizen-kane-meta.jpg",
+  "top250_rank": "198",
+  "movie_locations_title": "CITIZEN KANE",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Orson Welles",
+  "cast": [
+    "Orson Welles",
+    "Joseph Cotten",
+    "Everett Sloane",
+    "Agnes Moorehead",
+    "Dorothy Comingore",
+    "Ruth Warrick",
+    "Ray Collins",
+    "Erskine Sanford",
+    "Paul Stewart",
+    "George Coulouris",
+    "Alan Ladd"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0033467%20-%20Citizen-Kane/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0033467 - Citizen-Kane/002.jpg",
+    "exists": true,
+    "alt": "Citizen Kane poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0033467/poster.jpg",
+    "corpus_asset_src": "../assets/tt0033467/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0033467%20-%20Citizen-Kane/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0033467 - Citizen-Kane/001.jpg",
+    "exists": true,
+    "alt": "Citizen Kane filming location: Balboa Park San Diego, California",
+    "caption": "Citizen Kane film location: Kane's 'Xanadu': Balboa Park San Diego, California | Photograph: Mal Davis",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0033467/001.jpg",
+    "corpus_asset_src": "../assets/tt0033467/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0033467 - Citizen-Kane/001.jpg",
+      "exists": true,
+      "alt": "Citizen Kane filming location: Balboa Park San Diego, California",
+      "caption": "Citizen Kane film location: Kane's 'Xanadu': Balboa Park San Diego, California | Photograph: Mal Davis",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0033467/001.jpg",
+      "corpus_asset_src": "../assets/tt0033467/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0033467 - Citizen-Kane/002.jpg",
+      "exists": true,
+      "alt": "Citizen Kane poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0033467/002.jpg",
+      "corpus_asset_src": "../assets/tt0033467/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0033467 - Citizen-Kane/003.jpg",
+      "exists": true,
+      "alt": "Citizen Kane film location: Stage 19, Paramount Studios, Melrose Avenue, Hollywood",
+      "caption": "Citizen Kane film location: Stage 19 at the old RKO Studio, now part of the Paramount lot: Stage 19, Paramount Studios, Melrose Avenue, Hollywood",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0033467/003.jpg",
+      "corpus_asset_src": "../assets/tt0033467/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0033467 - Citizen-Kane/004.jpg",
+      "exists": true,
+      "alt": "Citizen Kane film location: Hearst Castle, San Simeon, California",
+      "caption": "Citizen Kane film location: the real-life inspiration for Kane's 'Xanadu': Hearst Castle, San Simeon, California | Photograph: Wikimedia / MB298",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0033467/004.jpg",
+      "corpus_asset_src": "../assets/tt0033467/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0033467 - Citizen-Kane/005.jpg",
+      "exists": true,
+      "alt": "Citizen Kane filming location: Balboa Park San Diego, California",
+      "caption": "Citizen Kane film location: Kane's 'Xanadu': Balboa Park San Diego, California | Photograph: Mal Davis",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0033467/005.jpg",
+      "corpus_asset_src": "../assets/tt0033467/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0033467 - Citizen-Kane/006.jpg",
+      "exists": true,
+      "alt": "Citizen Kane filming location: Balboa Park San Diego, California",
+      "caption": "Citizen Kane film location: Kane's 'Xanadu': mounted statue of El Cid in Balboa Park San Diego, California | Photograph: Mal Davis",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0033467/006.jpg",
+      "corpus_asset_src": "../assets/tt0033467/006.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0033467/001.jpg\" alt=\"Citizen Kane filming location: Balboa Park San Diego, California\"><figcaption>Citizen Kane film location: Kane's 'Xanadu': Balboa Park San Diego, California | Photograph: Mal Davis</figcaption></figure>\n<p>Discover where <span class=\"name\">Orson Welles</span>'s classic film was made in <span class=\"name\">Hollywood</span> and <span class=\"name\">San Diego</span>.</p>\n<p>Still a regular favourite in ‘Best Movie of All Time’ lists, even if the top spot is no longer guaranteed, <span class=\"name\">Citizen Kane </span>remains a dazzling debut feature from the 26-year-old stage/radio prodigy <a href=\"https://www.movie-locations.com/people/w/welleso.php\">Orson Welles</a>.</p>\n<p>The film is very much studio-based, mostly made on what is now <span class=\"name\">Stage 19</span> at <span class=\"name\">Paramount Pictures</span> (the same stage on which much of <a href=\"https://www.movie-locations.com/movies/g/Ghost.php\">Ghost</a> was filmed), in <span class=\"name\">Hollywood</span>.</p>\n<p>Scenes were also filmed on <span class=\"name\">Stage 32</span>, which had been used for those wonderful <a href=\"https://www.movie-locations.com/people/a/astairef.php\">Fred Astaire</a>-<span class=\"name\">Ginger Rogers</span> dance movies from the 30s, when this was the old RKO Studio, <span class=\"name\">780 Gower Street</span> at Melrose Avenue, <span class=\"name\">Hollywood</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0033467/003.jpg\" alt=\"Citizen Kane film location: Stage 19, Paramount Studios, Melrose Avenue, Hollywood\"><figcaption>Citizen Kane film location: Stage 19 at the old RKO Studio, now part of the Paramount lot: Stage 19, Paramount Studios, Melrose Avenue, Hollywood</figcaption></figure>\n<p>The studio, built in 1920 as the Robertson-Cole Studios, bought by <span class=\"name\">Howard Hughes</span> in 1948, and subsequently by <span class=\"name\">Lucille Ball</span> in 1957, has since been incorporated into the Paramount lot alongside on Melrose, but you can’t miss the giant RKO globe built onto the corner of the soundstage on the northwest corner of Gower and Melrose.</p>\n<p>You can now tour the lot with the <a href=\"http://www.paramountstudiotour.com/\" target=\"_blank\">Paramount Pictures Studio Tour</a>, <span class=\"name\">5515 Melrose Avenue</span>.</p>\n<p>Ingeniously making the most of his limited resources, <a href=\"https://www.movie-locations.com/people/w/welleso.php\">Welles</a> incorporated what had supposedly been ‘film tests’ into the finished movie. Thus, the projection room, where the opening newsreel is shown, was the real RKO projection room (with <a href=\"https://www.movie-locations.com/people/c/cottenj.php\">Joseph Cotten</a> and a then-unknown <span class=\"name\">Alan Ladd</span> among the reporters); Susan Alexander’s nightclub was an old Western movie set; and her attempted suicide had no set at all, just a couple of flats.</p>\n<p>For real interest, though, check out <a href=\"http://hearstcastle.org/\" target=\"_blank\">Hearst Castle</a>, the original architectural hotchpotch on which Kane’s ‘Xanadu’ was based, in idea if not visually.</p>\n<p>Charles Foster Kane was supposedly based on several real-life characters but far and away the closest resemblance is to newspaper tycoon <span class=\"name\">William Randolph Hearst</span>.</p>\n<p>In fact, <span class=\"name\">Hearst</span> was so furious about the similarities he pulled all the strings he could (which was a lot) in an attempt to scupper the film and derail <a href=\"https://www.movie-locations.com/people/w/welleso.php\">Welles</a>’ career.</p>\n<p>Hearst’s mistress was not an opera singer but actress <span class=\"name\">Marion Davies</span>, whose Hollywood career he bankrolled. <a href=\"https://www.movie-locations.com/people/w/welleso.php\">Welles</a> later expressed regret that the film had somewhat maligned <span class=\"name\">Davies</span>.</p>\n<p><a href=\"http://hearstcastle.org/\" target=\"_blank\">Hearst Castle</a> was the magnate’s magnificent folly – like the fictional ‘Xanadu’ it’s a hodgepodge of European artefacts and architecture which was overseen by architect <span class=\"name\">Julia Morgan</span>. <span class=\"name\">Morgan</span> was also the designer of the Herald Examiner Building in Downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> which you’ve probably seen in lots of films.</p>\n<p>The building was never completed and now never will be. Away from the impressive façade, at the rear of the building, the elaborate decoration and the thin coating of stone runs out to reveal the concrete structure beneath. Just like a movie set, in fact.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0033467/004.jpg\" alt=\"Citizen Kane film location: Hearst Castle, San Simeon, California\"><figcaption>Citizen Kane film location: the real-life inspiration for Kane's 'Xanadu': Hearst Castle, San Simeon, California | Photograph: Wikimedia / MB298</figcaption></figure>\n<p><a href=\"http://hearstcastle.org/\" target=\"_blank\">Hearst Castle</a> is on <span class=\"name\">Coastal Highway 1</span>, on the central <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> coast near to <a href=\"https://visitsansimeonca.com/\" target=\"_blank\">San Simeon</a>, just about halfway between <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> and <a href=\"https://www.movie-locations.com/places/usa/sanfran.php\">San Francisco</a>. It’s now owned by the state and more properly known as the <a href=\"http://hearstcastle.org/\" target=\"_blank\">Hearst State Historical Monument</a>. It’s open to the public for tours every day except Thanksgiving, Christmas Day and New Year’s Day.</p>\n<p>Don’t miss it. It’s every bit as fascinating as Kane’s 'Xanadu'. Bizarrely, <a href=\"http://hearstcastle.org/\" target=\"_blank\">Hearst Castle</a>’s outdoor swimming pool, with its bits of Greek and Roman temples, is briefly seen as the mansion  of Crassus (<a href=\"https://www.movie-locations.com/people/o/olivierl.php\">Laurence Olivier</a>) in 1960's <a href=\"https://www.movie-locations.com/movies/s/Spartacus-1960.php\">Spartacus</a>, with <a href=\"https://www.movie-locations.com/people/d/douglask.php\">Kirk Douglas</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0033467/005.jpg\" alt=\"Citizen Kane filming location: Balboa Park San Diego, California\"><figcaption>Citizen Kane film location: Kane's 'Xanadu': Balboa Park San Diego, California | Photograph: Mal Davis</figcaption></figure>\n<p>The views of ‘Xanadu’ in <span class=\"ital\">News on the March</span>, the fake news documentary which introduces the film, are shots of the <a href=\"https://www.sandiego.gov/park-and-recreation/parks/regional/balboa/casadelprado\" target=\"_blank\">Casa del Prado</a> complex of buildings in <a href=\"https://www.balboapark.org/\" target=\"_blank\">Balboa Park</a>, <span class=\"name\">San Diego</span>.</p>\n<p>The 1,200-acre park was opened in 1868 and, in addition to its open green spaces, houses museums, theatres and the famous <a href=\"https://zoo.sandiegozoo.org/\" target=\"_blank\">San Diego Zoo</a>.</p>\n<p><a href=\"https://www.movie-locations.com/people/w/welleso.php\">Welles</a> chose the most florid encrustations of the <a href=\"https://www.sandiego.gov/park-and-recreation/parks/regional/balboa/casadelprado\" target=\"_blank\">Casa del Prado</a>’s Spanish Baroque decoration, a style known as Churrigueresque, to illustrate Kane’s rampant megalomania.</p>\n<p>In fact, this complex was initially built for the Panama-California Exposition of 1915 to celebrate the opening of the Panama Canal.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0033467/006.jpg\" alt=\"Citizen Kane filming location: Balboa Park San Diego, California\"><figcaption>Citizen Kane film location: Kane's 'Xanadu': mounted statue of El Cid in Balboa Park San Diego, California | Photograph: Mal Davis</figcaption></figure>\n<p>The grounds of 'Xanadu' were filmed in Busch Gardens, <span class=\"name\">Pasadena</span>, an estate built by the Busch brewing family. These vast, landscaped gardens have long since vanished, but portions of the old layout can be glimpsed in back gardens of some of the grand houses in the area.</p>\n<p>You can see the remnants of the landscaping in the gardens of properties around <span class=\"name\">Arroyo Boulevard</span> between Bellefontaine Street and Madeline Drive.</p>",
+  "main_content_text": "Discover where Orson Welles's classic film was made in Hollywood and San Diego.\n\nStill a regular favourite in ‘Best Movie of All Time’ lists, even if the top spot is no longer guaranteed, Citizen Kane remains a dazzling debut feature from the 26-year-old stage/radio prodigy Orson Welles.\n\nThe film is very much studio-based, mostly made on what is now Stage 19 at Paramount Pictures (the same stage on which much of Ghost was filmed), in Hollywood.\n\nScenes were also filmed on Stage 32, which had been used for those wonderful Fred Astaire-Ginger Rogers dance movies from the 30s, when this was the old RKO Studio, 780 Gower Street at Melrose Avenue, Hollywood.\n\nThe studio, built in 1920 as the Robertson-Cole Studios, bought by Howard Hughes in 1948, and subsequently by Lucille Ball in 1957, has since been incorporated into the Paramount lot alongside on Melrose, but you can’t miss the giant RKO globe built onto the corner of the soundstage on the northwest corner of Gower and Melrose.\n\nYou can now tour the lot with the Paramount Pictures Studio Tour, 5515 Melrose Avenue.\n\nIngeniously making the most of his limited resources, Welles incorporated what had supposedly been ‘film tests’ into the finished movie. Thus, the projection room, where the opening newsreel is shown, was the real RKO projection room (with Joseph Cotten and a then-unknown Alan Ladd among the reporters); Susan Alexander’s nightclub was an old Western movie set; and her attempted suicide had no set at all, just a couple of flats.\n\nFor real interest, though, check out Hearst Castle, the original architectural hotchpotch on which Kane’s ‘Xanadu’ was based, in idea if not visually.\n\nCharles Foster Kane was supposedly based on several real-life characters but far and away the closest resemblance is to newspaper tycoon William Randolph Hearst.\n\nIn fact, Hearst was so furious about the similarities he pulled all the strings he could (which was a lot) in an attempt to scupper the film and derail Welles’ career.\n\nHearst’s mistress was not an opera singer but actress Marion Davies, whose Hollywood career he bankrolled. Welles later expressed regret that the film had somewhat maligned Davies.\n\nHearst Castle was the magnate’s magnificent folly – like the fictional ‘Xanadu’ it’s a hodgepodge of European artefacts and architecture which was overseen by architect Julia Morgan. Morgan was also the designer of the Herald Examiner Building in Downtown Los Angeles which you’ve probably seen in lots of films.\n\nThe building was never completed and now never will be. Away from the impressive façade, at the rear of the building, the elaborate decoration and the thin coating of stone runs out to reveal the concrete structure beneath. Just like a movie set, in fact.\n\nHearst Castle is on Coastal Highway 1, on the central California coast near to San Simeon, just about halfway between Los Angeles and San Francisco. It’s now owned by the state and more properly known as the Hearst State Historical Monument. It’s open to the public for tours every day except Thanksgiving, Christmas Day and New Year’s Day.\n\nDon’t miss it. It’s every bit as fascinating as Kane’s 'Xanadu'. Bizarrely, Hearst Castle’s outdoor swimming pool, with its bits of Greek and Roman temples, is briefly seen as the mansion of Crassus (Laurence Olivier) in 1960's Spartacus, with Kirk Douglas.\n\nThe views of ‘Xanadu’ in News on the March, the fake news documentary which introduces the film, are shots of the Casa del Prado complex of buildings in Balboa Park, San Diego.\n\nThe 1,200-acre park was opened in 1868 and, in addition to its open green spaces, houses museums, theatres and the famous San Diego Zoo.\n\nWelles chose the most florid encrustations of the Casa del Prado’s Spanish Baroque decoration, a style known as Churrigueresque, to illustrate Kane’s rampant megalomania.\n\nIn fact, this complex was initially built for the Panama-California Exposition of 1915 to celebrate the opening of the Panama Canal.\n\nThe grounds of 'Xanadu' were filmed in Busch Gardens, Pasadena, an estate built by the Busch brewing family. These vast, landscaped gardens have long since vanished, but portions of the old layout can be glimpsed in back gardens of some of the grand houses in the area.\n\nYou can see the remnants of the landscaping in the gardens of properties around Arroyo Boulevard between Bellefontaine Street and Madeline Drive.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Citizen Kane film location: Kane's 'Xanadu': Balboa Park San Diego, California | Photograph: Mal Davis",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/001.jpg",
+      "alt": "Citizen Kane filming location: Balboa Park San Diego, California"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover where Orson Welles's classic film was made in Hollywood and San Diego."
+    },
+    {
+      "type": "paragraph",
+      "text": "Still a regular favourite in ‘Best Movie of All Time’ lists, even if the top spot is no longer guaranteed, Citizen Kane remains a dazzling debut feature from the 26-year-old stage/radio prodigy Orson Welles."
+    },
+    {
+      "type": "paragraph",
+      "text": "The film is very much studio-based, mostly made on what is now Stage 19 at Paramount Pictures (the same stage on which much of Ghost was filmed), in Hollywood."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scenes were also filmed on Stage 32, which had been used for those wonderful Fred Astaire-Ginger Rogers dance movies from the 30s, when this was the old RKO Studio, 780 Gower Street at Melrose Avenue, Hollywood."
+    },
+    {
+      "type": "image",
+      "caption": "Citizen Kane film location: Stage 19 at the old RKO Studio, now part of the Paramount lot: Stage 19, Paramount Studios, Melrose Avenue, Hollywood",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/003.jpg",
+      "alt": "Citizen Kane film location: Stage 19, Paramount Studios, Melrose Avenue, Hollywood"
+    },
+    {
+      "type": "paragraph",
+      "text": "The studio, built in 1920 as the Robertson-Cole Studios, bought by Howard Hughes in 1948, and subsequently by Lucille Ball in 1957, has since been incorporated into the Paramount lot alongside on Melrose, but you can’t miss the giant RKO globe built onto the corner of the soundstage on the northwest corner of Gower and Melrose."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can now tour the lot with the Paramount Pictures Studio Tour, 5515 Melrose Avenue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ingeniously making the most of his limited resources, Welles incorporated what had supposedly been ‘film tests’ into the finished movie. Thus, the projection room, where the opening newsreel is shown, was the real RKO projection room (with Joseph Cotten and a then-unknown Alan Ladd among the reporters); Susan Alexander’s nightclub was an old Western movie set; and her attempted suicide had no set at all, just a couple of flats."
+    },
+    {
+      "type": "paragraph",
+      "text": "For real interest, though, check out Hearst Castle, the original architectural hotchpotch on which Kane’s ‘Xanadu’ was based, in idea if not visually."
+    },
+    {
+      "type": "paragraph",
+      "text": "Charles Foster Kane was supposedly based on several real-life characters but far and away the closest resemblance is to newspaper tycoon William Randolph Hearst."
+    },
+    {
+      "type": "paragraph",
+      "text": "In fact, Hearst was so furious about the similarities he pulled all the strings he could (which was a lot) in an attempt to scupper the film and derail Welles’ career."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hearst’s mistress was not an opera singer but actress Marion Davies, whose Hollywood career he bankrolled. Welles later expressed regret that the film had somewhat maligned Davies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hearst Castle was the magnate’s magnificent folly – like the fictional ‘Xanadu’ it’s a hodgepodge of European artefacts and architecture which was overseen by architect Julia Morgan. Morgan was also the designer of the Herald Examiner Building in Downtown Los Angeles which you’ve probably seen in lots of films."
+    },
+    {
+      "type": "paragraph",
+      "text": "The building was never completed and now never will be. Away from the impressive façade, at the rear of the building, the elaborate decoration and the thin coating of stone runs out to reveal the concrete structure beneath. Just like a movie set, in fact."
+    },
+    {
+      "type": "image",
+      "caption": "Citizen Kane film location: the real-life inspiration for Kane's 'Xanadu': Hearst Castle, San Simeon, California | Photograph: Wikimedia / MB298",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/004.jpg",
+      "alt": "Citizen Kane film location: Hearst Castle, San Simeon, California"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hearst Castle is on Coastal Highway 1, on the central California coast near to San Simeon, just about halfway between Los Angeles and San Francisco. It’s now owned by the state and more properly known as the Hearst State Historical Monument. It’s open to the public for tours every day except Thanksgiving, Christmas Day and New Year’s Day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t miss it. It’s every bit as fascinating as Kane’s 'Xanadu'. Bizarrely, Hearst Castle’s outdoor swimming pool, with its bits of Greek and Roman temples, is briefly seen as the mansion of Crassus (Laurence Olivier) in 1960's Spartacus, with Kirk Douglas."
+    },
+    {
+      "type": "image",
+      "caption": "Citizen Kane film location: Kane's 'Xanadu': Balboa Park San Diego, California | Photograph: Mal Davis",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/005.jpg",
+      "alt": "Citizen Kane filming location: Balboa Park San Diego, California"
+    },
+    {
+      "type": "paragraph",
+      "text": "The views of ‘Xanadu’ in News on the March, the fake news documentary which introduces the film, are shots of the Casa del Prado complex of buildings in Balboa Park, San Diego."
+    },
+    {
+      "type": "paragraph",
+      "text": "The 1,200-acre park was opened in 1868 and, in addition to its open green spaces, houses museums, theatres and the famous San Diego Zoo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Welles chose the most florid encrustations of the Casa del Prado’s Spanish Baroque decoration, a style known as Churrigueresque, to illustrate Kane’s rampant megalomania."
+    },
+    {
+      "type": "paragraph",
+      "text": "In fact, this complex was initially built for the Panama-California Exposition of 1915 to celebrate the opening of the Panama Canal."
+    },
+    {
+      "type": "image",
+      "caption": "Citizen Kane film location: Kane's 'Xanadu': mounted statue of El Cid in Balboa Park San Diego, California | Photograph: Mal Davis",
+      "src": "_assets/tt0033467%20-%20Citizen-Kane/006.jpg",
+      "alt": "Citizen Kane filming location: Balboa Park San Diego, California"
+    },
+    {
+      "type": "paragraph",
+      "text": "The grounds of 'Xanadu' were filmed in Busch Gardens, Pasadena, an estate built by the Busch brewing family. These vast, landscaped gardens have long since vanished, but portions of the old layout can be glimpsed in back gardens of some of the grand houses in the area."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can see the remnants of the landscaping in the gardens of properties around Arroyo Boulevard between Bellefontaine Street and Madeline Drive."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California</h3>\n<p>Visit: California</p>\n<p>Visit: San Diego</p>\n<p>Flights: San Diego International Airport, 3225 North Harbor Drive, San Diego, CA 92101 (tel: 619.400.2404)</p>\n<p>Visit: Balboa Park, San Diego</p>\n<p>Visit: San Simeon</p>\n<p>Visit: Hearst Castle, 750 Hearst Castle Road, San Simeon, CA 93452</p>\n</section>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Take: the Paramount Pictures Studio Tour, 5515 Melrose Avenue, Los Angeles, CA 90038 (tel: 323.956.1777)</p>\n</section>",
+  "visit_info_text": "California\nVisit: California\nVisit: San Diego\nFlights: San Diego International Airport, 3225 North Harbor Drive, San Diego, CA 92101 (tel: 619.400.2404)\nVisit: Balboa Park, San Diego\nVisit: San Simeon\nVisit: Hearst Castle, 750 Hearst Castle Road, San Simeon, CA 93452\nCalifornia | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nTake: the Paramount Pictures Studio Tour, 5515 Melrose Avenue, Los Angeles, CA 90038 (tel: 323.956.1777)",
+  "visit_sections": [
+    {
+      "title": "California",
+      "items": [
+        "Visit: California",
+        "Visit: San Diego",
+        "Flights: San Diego International Airport, 3225 North Harbor Drive, San Diego, CA 92101 (tel: 619.400.2404)",
+        "Visit: Balboa Park, San Diego",
+        "Visit: San Simeon",
+        "Visit: Hearst Castle, 750 Hearst Castle Road, San Simeon, CA 93452"
+      ]
+    },
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Take: the Paramount Pictures Studio Tour, 5515 Melrose Avenue, Los Angeles, CA 90038 (tel: 323.956.1777)"
+      ]
+    }
+  ]
+}

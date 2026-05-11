@@ -1,0 +1,501 @@
+imdb_id,top250_rank,title,year,imdb_rating,votes,runtime_minutes,genre,director,cast,region_1,region_2,region_3,region_4,region_5,region_6,region_7,region_8,region_9,region_10,region_11,box_office_usd,box_office_raw,box_office_source
+tt0111161,1,The Shawshank Redemption,1994,9.3,3182733,142,Drama,Frank Darabont,,Ohio,Virgin Islands,,,,,,,,,,73300000,$73.3 million,https://en.wikipedia.org/wiki/The_Shawshank_Redemption_(1994_film)
+tt0068646,2,The Godfather,1972,9.2,2222855,175,Crime,Francis Ford Coppola,,New York,"Los Angeles, California",Nevada,Italy,,,,,,,,250000000,$250–291 million,https://en.wikipedia.org/wiki/The_Godfather_(1972_film)
+tt0468569,3,The Dark Knight,2008,9.1,3161984,152,Action,Christopher Nolan,,"Chicago, Illinois",London,Bedfordshire,China,,,,,,,,1009000000,$1.009 billion,https://en.wikipedia.org/wiki/The_Dark_Knight_(2008_film)
+tt0252487,4,The Chaos Class,1975,9.1,46127,85,Comedy,Ertem Egilmez,,,,,,,,,,,,,,,
+tt33175825,5,Attack on Titan: The Last Attack,2024,9.1,27443,145,Action,Yûichirô Hayashi,,,,,,,,,,,,,,,
+tt0167260,6,The Lord of the Rings: The Return of the King,2003,9.0,2161551,201,Adventure,Peter Jackson,,New Zealand,,,,,,,,,,,1148000000,$1.148 billion,https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(film)
+tt0108052,7,Schindler's List,1993,9.0,1583450,195,Biography,Steven Spielberg,,,,,,,,,,,,,322200000,$322.2 million,https://en.wikipedia.org/wiki/Schindler%27s_List_(film)
+tt0071562,8,The Godfather Part II,1974,9.0,1493276,202,Crime,Francis Ford Coppola,,New York,California,Nevada,Florida,Italy,Dominican Republic,,,,,,93000000,$93 million,https://en.wikipedia.org/wiki/The_Godfather_Part_II
+tt0050083,9,12 Angry Men,1957,9.0,982453,96,Crime,Sidney Lumet,,New York,,,,,,,,,,,2000000,$2 million (rentals),https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)
+tt0120737,10,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2203274,178,Adventure,Peter Jackson,,New Zealand,,,,,,,,,,,897000000,$897 million,https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film)
+tt11989890,11,David Attenborough: A Life on Our Planet,2020,8.9,36055,83,Biography,Alastair Fothergill | Jonathan Hughes | Keith Scholey,,,,,,,,,,,,,,,
+tt5354160,12,Mirror Game,2016,8.9,30968,147,Crime,Amitabh Reza Chowdhury,,,,,,,,,,,,,,,
+tt0253828,13,Tosun Pasha,1976,8.9,26346,90,Comedy,Kartal Tibet,,,,,,,,,,,,,,,
+tt1375666,14,Inception,2010,8.8,2811692,148,Action,Christopher Nolan,,"Los Angeles, California","Paris, France",London,Bedfordshire,Hampshire,Surrey,Morocco,Alberta,Japan,,,839000000,$839 million,https://en.wikipedia.org/wiki/Inception_(2010_film)
+tt0137523,15,Fight Club,1999,8.8,2601984,139,Crime,David Fincher,,"Los Angeles, California",,,,,,,,,,,102000000,$102 million,https://en.wikipedia.org/wiki/Fight_Club_(1999_film)
+tt0109830,16,Forrest Gump,1994,8.8,2492584,142,Drama,Robert Zemeckis,,South Carolina,North Carolina,Georgia,Washington DC,"Los Angeles, California",Arizona,Maine,Montana,,,,678000000,$678 million,https://en.wikipedia.org/wiki/Forrest_Gump_(1994_film)
+tt0110912,17,Pulp Fiction,1994,8.8,2431723,154,Crime,Quentin Tarantino,,,,,,,,,,,,,213900000,$213.9 million,https://en.wikipedia.org/wiki/Pulp_Fiction_(film)
+tt0167261,18,The Lord of the Rings: The Two Towers,2002,8.8,1954133,179,Adventure,Peter Jackson,,New Zealand,,,,,,,,,,,944000000,$944 million,https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers_(2002_film)
+tt0060196,19,"The Good, the Bad and the Ugly",1966,8.8,890326,178,Adventure,Sergio Leone,,,,,,,,,,,,,38900000,$38.9 million,"https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly"
+tt6019206,20,Kill Bill: The Whole Bloody Affair,2004,8.8,36764,253,Action,Quentin Tarantino,,,,,,,,,,,,,10600000,$10.6 million,https://en.wikipedia.org/wiki/Kill_Bill:_The_Whole_Bloody_Affair
+tt0816692,21,Interstellar,2014,8.7,2521607,169,Adventure,Christopher Nolan,,Alberta,Iceland,"Los Angeles, California",,,,,,,,,773800000,$773.8 million,https://en.wikipedia.org/wiki/Interstellar_(2014_film)
+tt0133093,22,The Matrix,1999,8.7,2243917,136,Action,Lana Wachowski | Lilly Wachowski,,New South Wales,,,,,,,,,,,467800000,$467.8 million,https://en.wikipedia.org/wiki/The_Matrix_(1999_film)
+tt0080684,23,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1502466,124,Action,Irvin Kershner,,Norway,Hertfordshire,,,,,,,,,,549000000,$549–$550 million,https://en.wikipedia.org/wiki/Star_Wars:_Episode_V_-_The_Empire_Strikes_Back
+tt0099685,24,GoodFellas,1990,8.7,1389231,145,Biography,Martin Scorsese,,New York,New Jersey,,,,,,,,,,47100000,$47.1 million,https://en.wikipedia.org/wiki/GoodFellas
+tt23849204,25,12th Fail,2023,8.7,170858,147,Biography,Vidhu Vinod Chopra,,,,,,,,,,,,,8356800,est. ₹69.64 crore,https://en.wikipedia.org/wiki/12th_Fail_(film)
+tt7466810,26,777 Charlie,2022,8.7,47476,164,Adventure,Kiranraj K,,,,,,,,,,,,,12600000,₹105 —115 crore,https://en.wikipedia.org/wiki/777_Charlie
+tt0114369,27,Seven,1995,8.6,2017173,127,Crime,David Fincher,,,,,,,,,,,,,327300000,$327.3 million,https://en.wikipedia.org/wiki/Seven_(1995_film)
+tt0102926,28,The Silence of the Lambs,1991,8.6,1720408,118,Crime,Jonathan Demme,,"Pittsburgh, Pennsylvania",Virginia,Bahamas,,,,,,,,,272700000,$272.7 million,https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)
+tt0120815,29,Saving Private Ryan,1998,8.6,1636156,169,Drama,Steven Spielberg,,Republic of Ireland,Hertfordshire,Oxfordshire,Wiltshire,France,,,,,,,482300000,$482.3 million,https://en.wikipedia.org/wiki/Saving_Private_Ryan
+tt0076759,30,Star Wars: Episode IV - A New Hope,1977,8.6,1567701,121,Action,George Lucas,,,,,,,,,,,,,775400000,$775.4 million,https://en.wikipedia.org/wiki/Star_Wars:_Episode_IV_-_A_New_Hope
+tt0120689,31,The Green Mile,1999,8.6,1559012,189,Crime,Frank Darabont,,Tennessee,North Carolina,,,,,,,,,,286800000,$286.8 million,https://en.wikipedia.org/wiki/The_Green_Mile_(film)
+tt0103064,32,Terminator 2: Judgment Day,1991,8.6,1282423,137,Action,James Cameron,,"Los Angeles, California",,,,,,,,,,,519000000,$519–520.9 million,https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day_(film)
+tt0073486,33,One Flew Over the Cuckoo's Nest,1975,8.6,1155993,133,Drama,Miloš Forman,,Oregon,,,,,,,,,,,163300000,$163.3 million,https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)
+tt0245429,34,Spirited Away,2001,8.6,965037,124,Adventure,Hayao Miyazaki,,,,,,,,,,,,,396000000,$396 million,https://en.wikipedia.org/wiki/Spirited_Away_(film)
+tt0317248,35,City of God,2002,8.6,869790,130,Crime,Fernando Meirelles | Kátia Lund,,,,,,,,,,,,,30600000,$30.6 million,https://en.wikipedia.org/wiki/City_of_God_(2002_film)
+tt0118799,36,Life Is Beautiful,1997,8.6,811764,116,Comedy,Roberto Benigni,,,,,,,,,,,,,230100000,$230.1 million,https://en.wikipedia.org/wiki/Life_Is_Beautiful_(1997_film)
+tt0038650,37,It's a Wonderful Life,1946,8.6,554249,130,Drama,Frank Capra,,"Los Angeles, California",,,,,,,,,,,3300000,$3.3 million,https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life_(film)
+tt0047478,38,Seven Samurai,1954,8.6,401317,207,Action,Akira Kurosawa,,,,,,,,,,,,,1914000,"¥290 million Japan rentals : ¥268.2 million USA: $145,800",https://en.wikipedia.org/wiki/Seven_Samurai
+tt15097216,39,Jai Bhim,2021,8.6,233972,164,Crime,T.J. Gnanavel,,,,,,,,,,,,,,,
+tt10189514,40,Soorarai Pottru,2020,8.6,131732,153,Drama,Sudha Kongara,,,,,,,,,,,,,,,
+tt0056058,41,Harakiri,1962,8.6,90807,133,Drama,Masaki Kobayashi,,,,,,,,,,,,,,,
+tt9263550,42,Rocketry: The Nambi Effect,2022,8.6,62056,157,Biography,Madhavan,,,,,,,,,,,,,,,
+tt24082438,43,20 Days in Mariupol,2023,8.6,43909,97,Documentary,Mstyslav Chernov,,,,,,,,,,,,,,,
+tt0367495,44,Anbe Sivam,2003,8.6,28245,160,Adventure,Sundar C.,,,,,,,,,,,,,,,
+tt0093603,45,Nayakan,1987,8.6,27817,145,Crime,Mani Ratnam,,,,,,,,,,,,,,,
+tt1853728,46,Django Unchained,2012,8.5,1879878,165,Drama,Quentin Tarantino,,California,Louisiana,Wyoming,,,,,,,,,449800000,$449.8 million,https://en.wikipedia.org/wiki/Django_Unchained_(2012_film)
+tt0172495,47,Gladiator,2000,8.5,1846350,155,Action,Ridley Scott,,Morocco,Malta,Surrey,,,,,,,,,466000000,$466 million,https://en.wikipedia.org/wiki/Gladiator_(2000_film)
+tt0482571,48,The Prestige,2006,8.5,1584861,130,Drama,Christopher Nolan,,"Los Angeles, California",,,,,,,,,,,109000000,$109 million,https://en.wikipedia.org/wiki/The_Prestige_(2006_film)
+tt0407887,49,The Departed,2006,8.5,1551988,151,Crime,Martin Scorsese,,"Boston, Massachusetts",New York,,,,,,,,,,291500000,$291.5 million,https://en.wikipedia.org/wiki/The_Departed_(film)
+tt0088763,50,Back to the Future,1985,8.5,1450845,116,Adventure,Robert Zemeckis,,"Los Angeles, California",,,,,,,,,,,393000000,$393–398.2 million,https://en.wikipedia.org/wiki/Back_to_the_Future_(1985_film)
+tt0110413,51,Léon: The Professional,1994,8.5,1349467,110,Action,Luc Besson,,New York,New Jersey,"Paris, France",,,,,,,,,19500000,"$19.5 million(US) 18,662,979 tickets (Worldwide)",https://en.wikipedia.org/wiki/Léon:_The_Professional
+tt0120586,52,American History X,1998,8.5,1271838,119,Crime,Tony Kaye,,"Los Angeles, California",,,,,,,,,,,23800000,$23.8 million,https://en.wikipedia.org/wiki/American_History_X
+tt0110357,53,The Lion King,1994,8.5,1256751,88,Adventure,Roger Allers | Rob Minkoff,,,,,,,,,,,,,979000000,$979 million,https://en.wikipedia.org/wiki/The_Lion_King_(1994_film)
+tt0114814,54,The Usual Suspects,1995,8.5,1237520,106,Crime,Bryan Singer,,,,,,,,,,,,,67000000,$67 million,https://en.wikipedia.org/wiki/The_Usual_Suspects_(film)
+tt6751668,55,Parasite,2019,8.5,1160356,132,Drama,Bong Joon Ho,,,,,,,,,,,,,279202000,₩377.3 billion ($258.1 million),https://en.wikipedia.org/wiki/Parasite_(2019_film)
+tt2582802,56,Whiplash,2014,8.5,1151867,106,Drama,Damien Chazelle,,,,,,,,,,,,,50400000,$50.4 million,https://en.wikipedia.org/wiki/Whiplash_(2014_film)
+tt0078748,57,Alien,1979,8.5,1062597,117,Horror,Ridley Scott,,Surrey,Berkshire,London,,,,,,,,,109700000,$109.7–188 million,https://en.wikipedia.org/wiki/Alien_(1979_film)
+tt1675434,58,The Intouchables,2011,8.5,1025679,112,Comedy,Olivier Nakache | Éric Toledano,,,,,,,,,,,,,426600000,$426.6 million,https://en.wikipedia.org/wiki/The_Intouchables
+tt0253474,59,The Pianist,2002,8.5,1010890,150,Biography,Roman Polanski,,,,,,,,,,,,,120100000,$120.1 million,https://en.wikipedia.org/wiki/The_Pianist_(2002_film)
+tt0054215,60,Psycho,1960,8.5,784404,109,Drama,Alfred Hitchcock,,"Los Angeles, California",Arizona,,,,,,,,,,50000000,$50 million,https://en.wikipedia.org/wiki/Psycho_(1960_film)
+tt0034583,61,Casablanca,1942,8.5,655025,102,Drama,Michael Curtiz,,"Los Angeles, California",,,,,,,,,,,3700000,$3.7 –6.9 million,https://en.wikipedia.org/wiki/Casablanca_(1942_film)
+tt10811166,62,The Kashmir Files,2022,8.5,578850,170,Drama,Vivek Agnihotri,,,,,,,,,,,,,40910400,est. ₹340.92 crore,https://en.wikipedia.org/wiki/The_Kashmir_Files
+tt9362722,63,Spider-Man: Across the Spider-Verse,2023,8.5,521405,140,Action,Joaquim Dos Santos | Kemp Powers | Justin K. Thompson,,,,,,,,,,,,,690800000,$690.8 million,https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse
+tt0095327,64,Grave of the Fireflies,1988,8.5,384172,88,Animation,Isao Takahata,,,,,,,,,,,,,11220000,"¥1.7 billion (Japan) $516,962 (US)",https://en.wikipedia.org/wiki/Grave_of_the_Fireflies_(film)
+tt0064116,65,Once Upon a Time in the West,1968,8.5,383818,145,Drama,Sergio Leone,,,,,,,,,,,,,5300000,$5.3 million (United States) 40 million tickets (worldwide),https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_the_West
+tt0095765,66,Cinema Paradiso,1988,8.5,317165,174,Drama,Giuseppe Tornatore,,Italy,,,,,,,,,,,36000000,$36 million (US/France/Italy only),https://en.wikipedia.org/wiki/Cinema_Paradiso
+tt0027977,67,Modern Times,1936,8.5,284993,87,Comedy,Charles Chaplin,,,,,,,,,,,,,1800000,$1.8 million (U.S. and Canada rentals),https://en.wikipedia.org/wiki/Modern_Times_(film)
+tt0021749,68,City Lights,1931,8.5,216280,87,Comedy,Charles Chaplin,,,,,,,,,,,,,4250000,$4.25 million (worldwide rentals),https://en.wikipedia.org/wiki/City_Lights
+tt20850406,69,Sita Ramam,2022,8.5,83579,163,Action,Hanu Raghavapudi,,,,,,,,,,,,,1,est. ₹100 crores,https://en.wikipedia.org/wiki/Sita_Ramam
+tt39139925,70,Dhurandhar: The Revenge,2026,8.5,48130,235,Action,Aditya Dhar,,,,,,,,,,,,,221302800,"₹1,844.19 crore",https://en.wikipedia.org/wiki/Dhurandhar:_The_Revenge
+tt34365591,71,Mahavatar Narsimha,2024,8.5,46982,130,Action,Ashwin Kumar,,,,,,,,,,,,,36000000,₹300–325 crore,https://en.wikipedia.org/wiki/Mahavatar_Narsimha
+tt1152758,72,Dear Zachary: A Letter to a Son About His Father,2008,8.5,45521,95,Biography,Kurt Kuenne,,,,,,,,,,,,,18334,"$18,334.00",https://en.wikipedia.org/wiki/Dear_Zachary:_A_Letter_to_a_Son_About_His_Father
+tt7019842,73,96,2018,8.5,45148,158,Drama,C. Prem Kumar,,,,,,,,,,,,,6000000,₹50 crore,https://en.wikipedia.org/wiki/96_(film)
+tt0103767,74,Baraka,1992,8.5,43111,96,Documentary,Ron Fricke,,,,,,,,,,,,,1300000,$1.3 million,https://en.wikipedia.org/wiki/Baraka_(film)
+tt11580854,75,Sarpatta Parambarai,2021,8.5,28556,173,Action,Pa. Ranjith,,,,,,,,,,,,,,,
+tt8948790,76,Jersey,2019,8.5,28215,157,Drama,Gowtam Tinnanuri,,,,,,,,,,,,,6204000,₹51.70 crore,https://en.wikipedia.org/wiki/Jersey_(2019_film)
+tt1345836,77,The Dark Knight Rises,2012,8.4,1990793,164,Action,Christopher Nolan,,"Los Angeles, California","Pittsburgh, Pennsylvania",New York,New Jersey,India,London,Scotland,Wales,Nottinghamshire,Bedfordshire,Essex,1115000000,$1.115 billion,https://en.wikipedia.org/wiki/The_Dark_Knight_Rises_(2012_film)
+tt0361748,78,Inglourious Basterds,2009,8.4,1780137,153,Adventure,Quentin Tarantino,,Germany,"Paris, France",,,,,,,,,,321500000,$321.5 million,https://en.wikipedia.org/wiki/Inglourious_Basterds
+tt4154796,79,Avengers: Endgame,2019,8.4,1442673,181,Action,Anthony Russo | Joe Russo,,"Atlanta, Georgia",New York State,Scotland,Durham,,,,,,,,2799000000,$2.799 billion,https://en.wikipedia.org/wiki/Avengers:_Endgame_(film)
+tt0209144,80,Memento,2000,8.4,1433446,113,Drama,Christopher Nolan,,"Los Angeles, California",,,,,,,,,,,40100000,$40.1 million,https://en.wikipedia.org/wiki/Memento_(2000_film)
+tt4154756,81,Avengers: Infinity War,2018,8.4,1368811,149,Action,Anthony Russo | Joe Russo,,Scotland,Brazil,Philippines,,,,,,,,,2052000000,$2.052 billion,https://en.wikipedia.org/wiki/Avengers:_Infinity_War_(film)
+tt0910970,82,WALL·E,2008,8.4,1318637,98,Adventure,Andrew Stanton,,,,,,,,,,,,,532500000,$532.5 million,https://en.wikipedia.org/wiki/WALL·E
+tt0081505,83,The Shining,1980,8.4,1223724,146,Drama,Stanley Kubrick,,Oregon,Montana,,,,,,,,,,50000000,$50 million,https://en.wikipedia.org/wiki/The_Shining_(film)
+tt0119217,84,Good Will Hunting,1997,8.4,1214497,126,Drama,Gus Van Sant,,"Boston, Massachusetts","Toronto, Ontario",,,,,,,,,,225900000,$225.9 million,https://en.wikipedia.org/wiki/Good_Will_Hunting
+tt0082971,85,Raiders of the Lost Ark,1981,8.4,1109082,115,Action,Steven Spielberg,,Tunisia,Hawaii,California,Hertfordshire,France,,,,,,,389900000,$389.9 million,https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark
+tt0090605,86,Aliens,1986,8.4,839837,137,Action,James Cameron,,Buckinghamshire,London,,,,,,,,,,131100000,$131.1–183.3 million,https://en.wikipedia.org/wiki/Aliens_(1986_film)
+tt4633694,87,Spider-Man: Into the Spider-Verse,2018,8.4,787001,117,Action,Bob Persichetti | Peter Ramsey | Rodney Rothman,,,,,,,,,,,,,394800000,$394.8 million,https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse
+tt0078788,88,Apocalypse Now,1979,8.4,769419,147,Drama,Francis Ford Coppola,,Philippines,,,,,,,,,,,150000000,$150 million,https://en.wikipedia.org/wiki/Apocalypse_Now
+tt15239678,89,Dune: Part Two,2024,8.4,737414,166,Action,Denis Villeneuve,,,,,,,,,,,,,715000000,$715 million,https://en.wikipedia.org/wiki/Dune:_Part_Two
+tt2380307,90,Coco,2017,8.4,705170,105,Adventure,Lee Unkrich | Adrian Molina,,,,,,,,,,,,,814300000,$814.3 million,https://en.wikipedia.org/wiki/Coco_(2017_film)
+tt0047396,91,Rear Window,1954,8.4,568693,112,Drama,Alfred Hitchcock,,"Los Angeles, California",,,,,,,,,,,37900000,$37.9 million,https://en.wikipedia.org/wiki/Rear_Window_(1954_film)
+tt1187043,92,3 Idiots,2009,8.4,481291,170,Comedy,Rajkumar Hirani,,,,,,,,,,,,,48073200,₹400.61 crore,https://en.wikipedia.org/wiki/3_Idiots
+tt0086879,93,Amadeus,1984,8.4,467402,160,Biography,Miloš Forman,,"Prague, Czech Republic",,,,,,,,,,,90000000,$90 million,https://en.wikipedia.org/wiki/Amadeus_(film)
+tt0405094,94,The Lives of Others,2006,8.4,442820,137,Drama,Florian Henckel von Donnersmarck,,Germany,,,,,,,,,,,77300000,$77.3 million,https://en.wikipedia.org/wiki/The_Lives_of_Others
+tt5311514,95,Your Name.,2016,8.4,391130,106,Animation,Makoto Shinkai,,,,,,,,,,,,,405300000,US$405.3 million,https://en.wikipedia.org/wiki/Your_Name.
+tt0043014,96,Sunset Boulevard,1950,8.4,260930,110,Drama,Billy Wilder,,,,,,,,,,,,,5000000,$5 million,https://en.wikipedia.org/wiki/Sunset_Boulevard_(1950_film)
+tt0032553,97,The Great Dictator,1940,8.4,259285,125,Comedy,Charles Chaplin,,"Los Angeles, California",,,,,,,,,,,5000000,$5 million (worldwide rentals),https://en.wikipedia.org/wiki/The_Great_Dictator
+tt0050825,98,Paths of Glory,1957,8.4,238546,88,Drama,Stanley Kubrick,,Germany,,,,,,,,,,,1200000,$1.2 million,https://en.wikipedia.org/wiki/Paths_of_Glory_(film)
+tt0051201,99,Witness for the Prosecution,1957,8.4,161891,116,Crime,Billy Wilder,,,,,,,,,,,,,9000000,$9 million,https://en.wikipedia.org/wiki/Witness_for_the_Prosecution_(1957_film)
+tt8267604,100,Capernaum,2018,8.4,123976,126,Drama,Nadine Labaki,,,,,,,,,,,,,68600000,$68.6 million,https://en.wikipedia.org/wiki/Capernaum_(film)
+tt1424432,101,Senna,2010,8.4,83858,106,Biography,Asif Kapadia,,,,,,,,,,,,,10900000,$10.9 million,https://en.wikipedia.org/wiki/Senna_(2010_film)
+tt0057565,102,High and Low,1963,8.4,71404,143,Crime,Akira Kurosawa,,,,,,,,,,,,,3037320,¥460.2 million,https://en.wikipedia.org/wiki/High_and_Low_(1963_film)
+tt32820897,103,Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025,8.4,69906,155,Action,Haruo Sotozaki | Hikaru Kondô,,,,,,,,,,,,,,,
+tt1313104,104,The Cove,2009,8.4,53145,92,Biography,Louie Psihoyos,,,,,,,,,,,,,1100000,$1.1 million,https://en.wikipedia.org/wiki/The_Cove_(2009_film)
+tt9900782,105,Kaithi,2019,8.4,51565,145,Action,Lokesh Kanagaraj,,,,,,,,,,,,,12600000,est. ₹ 105 crore,https://en.wikipedia.org/wiki/Kaithi_(2019_film)
+tt3417422,106,Drishyam,2013,8.4,48055,160,Crime,Jeethu Joseph,,,,,,,,,,,,,7440000,est. ₹ 62 crore,https://en.wikipedia.org/wiki/Drishyam_(2013_film)
+tt12361178,107,Drishyam 2,2021,8.4,44700,152,Crime,Jeethu Joseph,,,,,,,,,,,,,,,
+tt31514146,108,I Swear,2025,8.4,39955,120,Biography,Kirk Jones,,,,,,,,,,,,,15000000,$15 million,https://en.wikipedia.org/wiki/I_Swear_(film)
+tt0770802,109,Samsara,2011,8.4,39892,102,Documentary,Ron Fricke,,,,,,,,,,,,,6000000,$6 million,https://en.wikipedia.org/wiki/Samsara_(2011_film)
+tt9477520,110,Asuran,2019,8.4,37196,141,Action,Vetrimaaran,,,,,,,,,,,,,7950000,est. ₹ 66.25 crore,https://en.wikipedia.org/wiki/Asuran_(2019_film)
+tt16492678,111,Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,2021,8.4,36061,87,Action,Haruo Sotozaki,,,,,,,,,,,,,,,
+tt0252488,112,The Chaos Class Failed the Class,1975,8.4,30432,95,Comedy,Ertem Egilmez,,,,,,,,,,,,,,,
+tt0346336,113,The Best of Youth,2003,8.4,28029,374,Drama,Marco Tullio Giordana,,,,,,,,,,,,,2700000,$2.7 million,https://en.wikipedia.org/wiki/The_Best_of_Youth
+tt0376127,114,Anniyan,2005,8.4,26317,181,Action,S. Shankar,,,,,,,,,,,,,7200000,₹60-70 crore,https://en.wikipedia.org/wiki/Anniyan
+tt0400234,115,Black Friday,2004,8.4,25755,143,Action,Anurag Kashyap,,,,,,,,,,,,,960000,₹8 crore,https://en.wikipedia.org/wiki/Black_Friday_(2004_film)
+tt0058625,116,Woman in the Dunes,1964,8.4,25435,147,Drama,Hiroshi Teshigahara,,,,,,,,,,,,,,,
+tt3674140,117,The Salt of the Earth,2014,8.4,25282,110,Biography,Juliano Ribeiro Salgado | Wim Wenders,,,,,,,,,,,,,3600000,$3.6 million,https://en.wikipedia.org/wiki/The_Salt_of_the_Earth_(2014_film)
+tt7286456,118,Joker,2019,8.3,1690212,122,Crime,Todd Phillips,,New York,New Jersey,,,,,,,,,,1079000000,$1.079 billion,https://en.wikipedia.org/wiki/Joker_(2019_film)
+tt0169547,119,American Beauty,1999,8.3,1278772,122,Drama,Sam Mendes,,"Los Angeles, California",,,,,,,,,,,356300000,$356.3 million,https://en.wikipedia.org/wiki/American_Beauty_(1999_film)
+tt1049413,120,Up,2009,8.3,1233964,96,Adventure,Pete Docter | Bob Peterson,,,,,,,,,,,,,735100000,$735.1 million,https://en.wikipedia.org/wiki/Up_(2009_film)
+tt0086190,121,Star Wars: Episode VI - Return of the Jedi,1983,8.3,1207824,131,Action,Richard Marquand,,California,Arizona,Hertfordshire,,,,,,,,,482000000,$482 million,https://en.wikipedia.org/wiki/Star_Wars:_Episode_VI_-_Return_of_the_Jedi
+tt0338013,122,Eternal Sunshine of the Spotless Mind,2004,8.3,1181398,108,Drama,Michel Gondry,,New York,New York State,New Jersey,,,,,,,,,73300000,$73.3 million,https://en.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind_(film)
+tt0114709,123,Toy Story,1995,8.3,1172144,81,Adventure,John Lasseter,,,,,,,,,,,,,401200000,$401.2 million,https://en.wikipedia.org/wiki/Toy_Story_(1995_film)
+tt0105236,124,Reservoir Dogs,1992,8.3,1169517,99,Crime,Quentin Tarantino,,"Los Angeles, California",,,,,,,,,,,2900000,$2.9 million,https://en.wikipedia.org/wiki/Reservoir_Dogs_(film)
+tt0112573,125,Braveheart,1995,8.3,1159878,178,Biography,Mel Gibson,,Republic of Ireland,Scotland,,,,,,,,,,209000000,$209 million,https://en.wikipedia.org/wiki/Braveheart_(1995_film)
+tt0086250,126,Scarface,1983,8.3,1014031,170,Crime,Brian De Palma,,"Los Angeles, California",Florida,New York,,,,,,,,,66400000,$66.4 million,https://en.wikipedia.org/wiki/Scarface_(1983_film)
+tt0180093,127,Requiem for a Dream,2000,8.3,972313,102,Drama,Darren Aronofsky,,New York,,,,,,,,,,,7400000,$7.4 million,https://en.wikipedia.org/wiki/Requiem_for_a_Dream_(film)
+tt0435761,128,Toy Story 3,2010,8.3,968382,103,Adventure,Lee Unkrich,,,,,,,,,,,,,1067000000,$1.067 billion,https://en.wikipedia.org/wiki/Toy_Story_3_(film)
+tt0211915,129,Amélie,2001,8.3,839288,122,Comedy,Jean-Pierre Jeunet,,,,,,,,,,,,,174400000,$174.4 million,https://en.wikipedia.org/wiki/Amélie_(film)
+tt0113277,130,Heat,1995,8.3,802177,170,Action,Michael Mann,,"Los Angeles, California",,,,,,,,,,,187400000,$187.4 million,https://en.wikipedia.org/wiki/Heat_(1995_film)
+tt0062622,131,2001: A Space Odyssey,1968,8.3,782622,149,Adventure,Stanley Kubrick,,"Namibia,","Arizona,","Scotland,",Hertfordshire,,,,,,,,148500000,$148.5 million,https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)
+tt0364569,132,Oldboy,2003,8.3,717274,120,Action,Park Chan-wook,,,,,,,,,,,,,17600000,$17.6 million,https://en.wikipedia.org/wiki/Oldboy_(2003_film)
+tt0057012,133,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,551097,95,Comedy,Stanley Kubrick,,,,,,,,,,,,,9700000,$9.7 million,https://en.wikipedia.org/wiki/Dr._Strangelove_or:_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb
+tt0119698,134,Princess Mononoke,1997,8.3,482997,133,Adventure,Hayao Miyazaki,,,,,,,,,,,,,231300000,US$231.3 million,https://en.wikipedia.org/wiki/Princess_Mononoke
+tt2106476,135,The Hunt,2012,8.3,408643,115,Drama,Thomas Vinterberg,,,,,,,,,,,,,18300000,$18.3 million,https://en.wikipedia.org/wiki/The_Hunt_(2012_film)
+tt0087843,136,Once Upon a Time in America,1984,8.3,408462,229,Crime,Sergio Leone,,New York,New Jersey,Florida,Italy,"Paris, France",Quebec,,,,,,5500000,$5.5 million,https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_America
+tt0053125,137,North by Northwest,1959,8.3,369476,136,Adventure,Alfred Hitchcock,,New York City,New York State,Chicago,South Dakota,California,,,,,,,9800000,$9.8 million,https://en.wikipedia.org/wiki/North_by_Northwest_(film)
+tt0056172,138,Lawrence of Arabia,1962,8.3,341802,227,Adventure,David Lean,,Jordan,Spain,Morocco,London,Surrey,California,,,,,,70000000,$70 million,https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)
+tt0082096,139,Das Boot,1981,8.3,287685,149,Drama,Wolfgang Petersen,,,,,,,,,,,,,84900000,$84.9 million (equivalent to $283 million 2025),https://en.wikipedia.org/wiki/Das_Boot_(film)
+tt0045152,140,Singin' in the Rain,1952,8.3,282280,103,Comedy,Stanley Donen | Gene Kelly,,,,,,,,,,,,,,,
+tt1832382,141,A Separation,2011,8.3,277494,123,Drama,Asghar Farhadi,,,,,,,,,,,,,,,
+tt1255953,142,Incendies,2010,8.3,250123,131,Drama,Denis Villeneuve,,,,,,,,,,,,,16000000,$16 million,https://en.wikipedia.org/wiki/Incendies
+tt12042730,143,Project Hail Mary,2026,8.3,245258,156,Adventure,Phil Lord | Christopher Miller,,Cambridgeshire,Dorset,Hertfordshire,Hampshire,,,,,,,,656000000,$656 million,https://en.wikipedia.org/wiki/Project_Hail_Mary_(film)
+tt5074352,144,Dangal,2016,8.3,242497,161,Action,Nitesh Tiwari,,,,,,,,,,,,,,,
+tt0986264,145,Like Stars on Earth,2007,8.3,231799,162,Drama,Aamir Khan,,,,,,,,,,,,,,,
+tt0053604,146,The Apartment,1960,8.3,219059,125,Comedy,Billy Wilder,,New York,"Los Angeles, California",,,,,,,,,,24600000,$24.6 million,https://en.wikipedia.org/wiki/The_Apartment
+tt0022100,147,M,1931,8.3,182691,99,Crime,Fritz Lang,,Germany,,,,,,,,,,,,,
+tt0036775,148,Double Indemnity,1944,8.3,181141,107,Crime,Billy Wilder,,"Los Angeles, California",,,,,,,,,,,,,
+tt8503618,149,Hamilton,2020,8.3,138888,160,Biography,Thomas Kail,,,,,,,,,,,,,21000000,$21 million,https://en.wikipedia.org/wiki/Hamilton_(2020_film)
+tt8110330,150,Dil Bechara,2020,8.3,137632,101,Comedy,Mukesh Chhabra,,,,,,,,,,,,,,,
+tt33014583,151,Dhurandhar,2025,8.3,137192,214,Action,Aditya Dhar,,,,,,,,,,,,,162099600,"₹1,350.83–1,428 crore",https://en.wikipedia.org/wiki/Dhurandhar
+tt10295212,152,Shershaah,2021,8.3,136373,135,Action,Vishnuvardhan,,,,,,,,,,,,,,,
+tt0091251,153,Come and See,1985,8.3,122454,142,Drama,Elem Klimov,,,,,,,,,,,,,21000000,$21 million,https://en.wikipedia.org/wiki/Come_and_See
+tt0044741,154,Ikiru,1952,8.3,102130,143,Drama,Akira Kurosawa,,,,,,,,,,,,,,,
+tt0055031,155,Judgment at Nuremberg,1961,8.3,96900,179,Drama,Stanley Kramer,,,,,,,,,,,,,16000000,$16 million,https://en.wikipedia.org/wiki/Judgment_at_Nuremberg
+tt9179430,156,Vikram,2022,8.3,89293,175,Action,Lokesh Kanagaraj,,,,,,,,,,,,,,,
+tt26548265,157,Maharaja,2024,8.3,81492,141,Action,Nithilan Saminathan | R. Nandhakumar | T. Suresh,,,,,,,,,,,,,22800000,est. ₹ 190 crore,https://en.wikipedia.org/wiki/Maharaja_(2024_film)
+tt9052870,158,Chhichhore,2019,8.3,72525,143,Comedy,Nitesh Tiwari,,,,,,,,,,,,,25849200,est. ₹ 215.41 crore (US$23 million),https://en.wikipedia.org/wiki/Chhichhore
+tt0060345,159,How the Grinch Stole Christmas!,1966,8.3,66191,26,Animation,Chuck Jones | Ben Washam,,,,,,,,,,,,,,,
+tt21626284,160,Lost Ladies,2023,8.3,59763,122,Comedy,Kiran Rao,,,,,,,,,,,,,,,
+tt7060344,161,Ratsasan,2018,8.3,59646,146,Crime,Ram Kumar,,,,,,,,,,,,,2400000,₹ 20 crore,https://en.wikipedia.org/wiki/Ratsasan
+tt30472557,162,Chainsaw Man - The Movie: Reze Arc,2025,8.3,53344,100,Action,Tatsuya Yoshihara,,,,,,,,,,,,,,,
+tt10280296,163,Sardar Udham,2021,8.3,50664,164,Crime,Shoojit Sircar,,,,,,,,,,,,,,,
+tt0059026,164,A Charlie Brown Christmas,1965,8.3,50557,25,Animation,Bill Melendez,,,,,,,,,,,,,,,
+tt0019760,165,Man with a Movie Camera,1929,8.3,30331,68,Documentary,Dziga Vertov,,,,,,,,,,,,,,,
+tt0110057,166,Hoop Dreams,1994,8.3,29555,170,Documentary,Steve James,,,,,,,,,,,,,11800000,$11.8 million,https://en.wikipedia.org/wiki/Hoop_Dreams
+tt4679210,167,Premam,2015,8.3,28207,156,Comedy,Alphonse Puthren,,,,,,,,,,,,,,,
+tt7681902,168,Won't You Be My Neighbor?,2018,8.3,28107,95,Biography,Morgan Neville,,,,,,,,,,,,,,,
+tt3668162,169,Bangalore Days,2014,8.3,28072,171,Comedy,Anjali Menon,,,,,,,,,,,,,5400000,est. ₹45 crore,https://en.wikipedia.org/wiki/Bangalore_Days
+tt25433734,170,Hi Nanna,2023,8.3,26204,155,Drama,Shouryuv,,,,,,,,,,,,,8880000,est. ₹74 crore,https://en.wikipedia.org/wiki/Hi_Nanna
+tt0993846,171,The Wolf of Wall Street,2013,8.2,1783574,180,Biography,Martin Scorsese,,New York,New Jersey,,,,,,,,,,407000000,$407 million,https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)
+tt0372784,172,Batman Begins,2005,8.2,1710954,140,Action,Christopher Nolan,,Chicago,London,Buckinghamshire,Bedfordshire,Essex,Iceland,,,,,,,,
+tt1130884,173,Shutter Island,2010,8.2,1643391,138,Drama,Martin Scorsese,,Massachusetts,Maine,California,,,,,,,,,294800000,$294.8 million,https://en.wikipedia.org/wiki/Shutter_Island_(film)
+tt0120382,174,The Truman Show,1998,8.2,1369686,103,Comedy,Peter Weir,,Florida,,,,,,,,,,,264000000,$264 million,https://en.wikipedia.org/wiki/The_Truman_Show
+tt0266697,175,Kill Bill: Vol. 1,2003,8.2,1305555,111,Action,Quentin Tarantino,,,,,,,,,,,,,,,
+tt0266543,176,Finding Nemo,2003,8.2,1205896,100,Adventure,Andrew Stanton | Lee Unkrich,,,,,,,,,,,,,940300000,$940.3 million,https://en.wikipedia.org/wiki/Finding_Nemo
+tt0477348,177,No Country for Old Men,2007,8.2,1187468,122,Crime,Ethan Coen | Joel Coen,,Texas,New Mexico,Mexico,,,,,,,,,171600000,$171.6 million,https://en.wikipedia.org/wiki/No_Country_for_Old_Men
+tt0107290,178,Jurassic Park,1993,8.2,1175723,127,Action,Steven Spielberg,,Hawaii,California,,,,,,,,,,1058000000,$1.058 billion,https://en.wikipedia.org/wiki/Jurassic_Park
+tt0167404,179,The Sixth Sense,1999,8.2,1142932,107,Drama,M. Night Shyamalan,,"Philadelphia, Pennsylvania",,,,,,,,,,,672800000,$672.8 million,https://en.wikipedia.org/wiki/The_Sixth_Sense
+tt0268978,180,A Beautiful Mind,2001,8.2,1052387,135,Biography,Ron Howard,,New York,New Jersey,,,,,,,,,,316800000,$316.8 million,https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)
+tt0095016,181,Die Hard,1988,8.2,1029056,132,Action,John McTiernan,,"Los Angeles, California",,,,,,,,,,,139800000,$139.8–141.5 million,https://en.wikipedia.org/wiki/Die_Hard
+tt0075314,182,Taxi Driver,1976,8.2,1024726,114,Crime,Martin Scorsese,,New York,,,,,,,,,,,28600000,$28.6 million,https://en.wikipedia.org/wiki/Taxi_Driver
+tt15398776,183,Oppenheimer,2023,8.2,1024108,180,Biography,Christopher Nolan,,New Mexico,"Los Angeles, California",New Jersey,"Cambridgeshire, UK",Switzerland,,,,,,,975800000,$975.8 million,https://en.wikipedia.org/wiki/Oppenheimer_(film)
+tt0208092,184,Snatch,2000,8.2,976103,102,Comedy,Guy Ritchie,,London,,,,,,,,,,,83600000,$83.6 million,https://en.wikipedia.org/wiki/Snatch_(film)
+tt0066921,185,A Clockwork Orange,1971,8.2,935952,136,Crime,Stanley Kubrick,,Greater London,Hertfordshire,Buckinghamshire,Oxfordshire,,,,,,,,114000000,$114 million,https://en.wikipedia.org/wiki/A_Clockwork_Orange_(film)
+tt1392214,186,Prisoners,2013,8.2,932860,153,Crime,Denis Villeneuve,,,,,,,,,,,,,122100000,$122.1 million,https://en.wikipedia.org/wiki/Prisoners_(2013_film)
+tt0097576,187,Indiana Jones and the Last Crusade,1989,8.2,863001,127,Action,Steven Spielberg,,Utah,Colorado,California,Texas,Italy,Jordan,Spain,Buckinghamshire,Hertfordshire,Essex,London,474200000,$474.2 million,https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade
+tt1745960,188,Top Gun: Maverick,2022,8.2,857058,130,Action,Joseph Kosinski,,,,,,,,,,,,,1496000000,$1.496 billion,https://en.wikipedia.org/wiki/Top_Gun:_Maverick
+tt0093058,189,Full Metal Jacket,1987,8.2,850283,116,Drama,Stanley Kubrick,,London,Cambridgeshire,Norfolk,,,,,,,,,,,
+tt8579674,190,1917,2019,8.2,769804,119,Action,Sam Mendes,,Wiltshire,Oxfordshire,Hertfordshire,County Durham,Scotland,,,,,,,446100000,$446.1 million,https://en.wikipedia.org/wiki/1917_(2019_film)
+tt0457430,191,Pan's Labyrinth,2006,8.2,746090,118,Drama,Guillermo del Toro,,,,,,,,,,,,,,,
+tt0469494,192,There Will Be Blood,2007,8.2,707275,158,Drama,Paul Thomas Anderson,,,,,,,,,,,,,76200000,$76.2 million,https://en.wikipedia.org/wiki/There_Will_Be_Blood
+tt6966692,193,Green Book,2018,8.2,683172,130,Biography,Peter Farrelly,,,,,,,,,,,,,,,
+tt0119488,194,L.A. Confidential,1997,8.2,658664,138,Crime,Curtis Hanson,,"Los Angeles, California",,,,,,,,,,,126200000,$126.2 million,https://en.wikipedia.org/wiki/L.A._Confidential_(film)
+tt0112641,195,Casino,1995,8.2,618503,178,Crime,Martin Scorsese,,Nevada,,,,,,,,,,,,,
+tt0084787,196,The Thing,1982,8.2,525607,109,Horror,John Carpenter,,British Columbia,Alaska,"Los Angeles, California",,,,,,,,,20900000,$20.9 million,https://en.wikipedia.org/wiki/The_Thing_(1982_film)
+tt0347149,197,Howl's Moving Castle,2004,8.2,511116,119,Adventure,Hayao Miyazaki,,,,,,,,,,,,,236000000,$236 million,https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)
+tt0033467,198,Citizen Kane,1941,8.2,493396,119,Drama,Orson Welles,,"Los Angeles, California",,,,,,,,,,,1800000,$1.8 million (re-release),https://en.wikipedia.org/wiki/Citizen_Kane
+tt0105695,199,Unforgiven,1992,8.2,468469,130,Drama,Clint Eastwood,,,,,,,,,,,,,159200000,$159.2 million,https://en.wikipedia.org/wiki/Unforgiven
+tt0052357,200,Vertigo,1958,8.2,458981,128,Mystery,Alfred Hitchcock,,,,,,,,,,,,,7300000,$7.3 million,https://en.wikipedia.org/wiki/Vertigo_(film)
+tt0363163,201,Downfall,2004,8.2,400038,156,Biography,Oliver Hirschbiegel,,,,,,,,,,,,,92200000,$92.2 million,https://en.wikipedia.org/wiki/Downfall_(2004_film)
+tt0031381,202,Gone with the Wind,1939,8.2,356342,238,Drama,Victor Fleming,,"Los Angeles, California",Arkansas,,,,,,,,,,390000000,>$390 million,https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)
+tt0056592,203,To Kill a Mockingbird,1962,8.2,351462,129,Crime,Robert Mulligan,,"Los Angeles, California",Alabama,,,,,,,,,,13100000,$13.1 million,https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_(film)
+tt0053291,204,Some Like It Hot,1959,8.2,304598,121,Comedy,Billy Wilder,,California,,,,,,,,,,,25000000,$25 million (North America),https://en.wikipedia.org/wiki/Some_Like_It_Hot
+tt0070735,205,The Sting,1973,8.2,300635,129,Comedy,George Roy Hill,,"Chicago, Illinois","Los Angeles, California",,,,,,,,,,,,
+tt0059578,206,For a Few Dollars More,1965,8.2,299891,132,Drama,Sergio Leone,,,,,,,,,,,,,25500000,"$25,500,000.00",https://en.wikipedia.org/wiki/For_a_Few_Dollars_More
+tt0080678,207,The Elephant Man,1980,8.2,282170,124,Biography,David Lynch,,London,,,,,,,,,,,26000000,$26 million (North America),https://en.wikipedia.org/wiki/The_Elephant_Man_(1980_film)
+tt0057115,208,The Great Escape,1963,8.2,277450,172,Adventure,John Sturges,,Germany,,,,,,,,,,,11700000,$11.7 million,https://en.wikipedia.org/wiki/The_Great_Escape_(film)
+tt10272386,209,The Father,2020,8.2,243914,97,Drama,Florian Zeller,,,,,,,,,,,,,,,
+tt1305806,210,The Secret in Their Eyes,2009,8.2,241953,129,Drama,Juan José Campanella,,,,,,,,,,,,,34000000,$34 million,https://en.wikipedia.org/wiki/The_Secret_in_Their_Eyes
+tt4729430,211,Klaus,2019,8.2,236199,96,Adventure,Sergio Pablos | Carlos Martínez López,,,,,,,,,,,,,,,
+tt29623480,212,The Wild Robot,2024,8.2,222069,102,Adventure,Chris Sanders,,,,,,,,,,,,,334500000,$334.5 million,https://en.wikipedia.org/wiki/The_Wild_Robot
+tt0017136,213,Metropolis,1927,8.2,201038,153,Drama,Fritz Lang,,,,,,,,,,,,,,,
+tt0040522,214,Bicycle Thieves,1948,8.2,192496,89,Drama,Vittorio De Sica,,,,,,,,,,,,,428978,"$428,978.00",https://en.wikipedia.org/wiki/Bicycle_Thieves
+tt10698680,215,K.G.F: Chapter 2,2022,8.2,169382,166,Action,Prashanth Neel,,,,,,,,,,,,,,,
+tt0089881,216,Ran,1985,8.2,151808,160,Action,Akira Kurosawa,,,,,,,,,,,,,19000000,$19 million ( est. ),https://en.wikipedia.org/wiki/Ran_(film)
+tt0042192,217,All About Eve,1950,8.2,149133,138,Drama,Joseph L. Mankiewicz,,"Los Angeles, California","San Francisco, California",New York,Connecticut,,,,,,,,8400000,$8.4 million,https://en.wikipedia.org/wiki/All_About_Eve
+tt0012349,218,The Kid,1921,8.2,145530,68,Comedy,Charles Chaplin,,,,,,,,,,,,,5450000,$5.45 million,https://en.wikipedia.org/wiki/The_Kid_(1921_film)
+tt0055630,219,Yojimbo,1961,8.2,142895,110,Action,Akira Kurosawa,,,,,,,,,,,,,2500000,$2.5 million ( est. ),https://en.wikipedia.org/wiki/Yojimbo
+tt0040897,220,The Treasure of the Sierra Madre,1948,8.2,141356,126,Adventure,John Huston,,,,,,,,,,,,,4100000,$4.1 million,https://en.wikipedia.org/wiki/The_Treasure_of_the_Sierra_Madre_(film)
+tt5323662,221,A Silent Voice: The Movie,2016,8.2,141012,130,Animation,Naoko Yamada,,,,,,,,,,,,,,,
+tt4849438,222,Baahubali 2: The Conclusion,2017,8.2,133811,167,Action,S.S. Rajamouli,,,,,,,,,,,,,217272000,"est. ₹1,810.60 crore",https://en.wikipedia.org/wiki/Baahubali_2:_The_Conclusion
+tt8108198,223,Andhadhun,2018,8.2,115937,139,Comedy,Sriram Raghavan,,,,,,,,,,,,,54826800,est. ₹456.89 crore,https://en.wikipedia.org/wiki/Andhadhun
+tt1954470,224,Gangs of Wasseypur,2012,8.2,114080,321,Action,Anurag Kashyap,,,,,,,,,,,,,,,
+tt7838252,225,K.G.F: Chapter 1,2018,8.2,110970,154,Action,Prashanth Neel,,,,,,,,,,,,,,,
+tt4430212,226,Drishyam,2015,8.2,108661,163,Crime,Nishikant Kamat,,,,,,,,,,,,,,,
+tt0367110,227,Swades,2004,8.2,105999,189,Drama,Ashutosh Gowariker,,,,,,,,,,,,,4156800,est. ₹34.64 crore,https://en.wikipedia.org/wiki/Swades
+tt0476735,228,My Father and My Son,2005,8.2,100707,112,Drama,Çagan Irmak,,,,,,,,,,,,,,,
+tt11032374,229,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,8.2,100289,117,Action,Haruo Sotozaki,,,,,,,,,,,,,,,
+tt0374887,230,Munna Bhai M.B.B.S.,2003,8.2,97964,156,Comedy,Rajkumar Hirani,,,,,,,,,,,,,,,
+tt1562872,231,Zindagi Na Milegi Dobara,2011,8.2,95619,155,Adventure,Zoya Akhtar,,,,,,,,,,,,,18360000,₹ 153 crore,https://en.wikipedia.org/wiki/Zindagi_Na_Milegi_Dobara
+tt0118849,232,Children of Heaven,1997,8.2,89853,89,Drama,Majid Majidi,,,,,,,,,,,,,1600000,US$1.6 million,https://en.wikipedia.org/wiki/Children_of_Heaven
+tt8291224,233,Uri: The Surgical Strike,2019,8.2,83445,138,Action,Aditya Dhar,,,,,,,,,,,,,41047200,₹342.06 crore,https://en.wikipedia.org/wiki/Uri:_The_Surgical_Strike
+tt1645089,234,Inside Job,2010,8.2,82922,109,Crime,Charles Ferguson,,,,,,,,,,,,,7900000,$7.9 million,https://en.wikipedia.org/wiki/Inside_Job_(2010_film)
+tt0242519,235,Hera Pheri,2000,8.2,80543,156,Action,Priyadarshan,,,,,,,,,,,,,2568000,₹ 21.4 crore,https://en.wikipedia.org/wiki/Hera_Pheri_(2000_film)
+tt2356180,236,Bhaag Milkha Bhaag,2013,8.2,78754,186,Biography,Rakeysh Omprakash Mehra,,,,,,,,,,,,,25200000,est. ₹ 2.1 billion,https://en.wikipedia.org/wiki/Bhaag_Milkha_Bhaag
+tt2125608,237,Searching for Sugar Man,2012,8.2,76271,86,Biography,Malik Bendjelloul,,,,,,,,,,,,,9100000,$9.1 million,https://en.wikipedia.org/wiki/Searching_for_Sugar_Man
+tt8239946,238,Tumbbad,2018,8.2,74846,108,Drama,Rahi Anil Barve | Anand Gandhi | Adesh Prasad,,,,,,,,,,,,,1855200,₹15.46 crore (initial run) ₹38 crore (re-release),https://en.wikipedia.org/wiki/Tumbbad
+tt10431500,239,Miracle in Cell No. 7,2019,8.2,62499,132,Drama,Mehmet Ada Öztekin,,,,,,,,,,,,,,,
+tt6148156,240,Vikram Vedha,2017,8.2,55364,147,Action,Gayatri | Pushkar,,,,,,,,,,,,,7200000,₹ 60 crore,https://en.wikipedia.org/wiki/Vikram_Vedha
+tt15501640,241,Drishyam 2,2022,8.2,51858,140,Crime,Abhishek Pathak,,,,,,,,,,,,,41400000,est. ₹345 crore,https://en.wikipedia.org/wiki/Drishyam_2_(2022_film)
+tt6316138,242,Ayla: The Daughter of War,2017,8.2,48192,125,Biography,Can Ulkay,,,,,,,,,,,,,,,
+tt0085809,243,Koyaanisqatsi,1982,8.2,44587,86,Documentary,Godfrey Reggio,,,,,,,,,,,,,,,
+tt2375605,244,The Act of Killing,2012,8.2,44186,117,Biography,Joshua Oppenheimer | Anonymous | Christine Cynn,,,,,,,,,,,,,722714,"$722,714.00",https://en.wikipedia.org/wiki/The_Act_of_Killing
+tt0048473,245,Pather Panchali,1955,8.2,41560,125,Drama,Satyajit Ray,,,,,,,,,,,,,0,est. ₹1 Cr ( $21 million ),https://en.wikipedia.org/wiki/Pather_Panchali
+tt7905466,246,They Shall Not Grow Old,2018,8.2,40723,99,Documentary,Peter Jackson,,,,,,,,,,,,,,,
+tt1620933,247,Paan Singh Tomar,2012,8.2,40047,135,Action,Tigmanshu Dhulia,,,,,,,,,,,,,,,
+tt5895028,248,13th,2016,8.2,39326,100,Crime,Ava DuVernay,,,,,,,,,,,,,566,$566 (UK only),https://en.wikipedia.org/wiki/13th_(film)
+tt1278469,249,Temple Grandin,2010,8.2,36653,107,Biography,Mick Jackson,,,,,,,,,,,,,,,
+tt0071411,250,Dersu Uzala,1975,8.2,36333,142,Adventure,Akira Kurosawa,,,,,,,,,,,,,21000000,21 million tickets (USSR/EU) $1.2 million (USA/Canada),https://en.wikipedia.org/wiki/Dersu_Uzala_(1975_film)
+tt38268282,1,Steel Ball Run: JoJo's Bizarre Adventure,2026,9.6,23920,,Action,Yasuhiro Kimura | Patrick Seitz | Toshiyuki Kato | Hideya Takahashi,,,,,,,,,,,,,,,
+tt0903747,2,Breaking Bad,2008,9.5,2607253,48,Crime,Michelle MacLaren | Adam Bernstein | Vince Gilligan | Colin Bucksey | Michael Slovis | Bryan Cranston | Terry McDonough | Johan Renck | Rian Johnson | Scott Winant | Peter Gould | Tricia Brock | Bronwen Hughes | Tim Hunter | Jim McKay | Phil Abraham | John Dahl | Félix Enríquez Alcalá | Charles Haid | Peter Medak | John Shiban | David Slade | George Mastras | Thomas Schnauz | Sam Catlin,,,,,,,,,,,,,,,
+tt0185906,3,Band of Brothers,2001,9.4,592906,60,Action,David Frankel | Mikael Salomon | Tom Hanks | David Leland | Richard Loncraine | David Nutter | Phil Alden Robinson | Tony To,,,,,,,,,,,,,,,
+tt0795176,4,Planet Earth,2006,9.4,235095,50,Documentary,Alastair Fothergill | Mark Linfield,,,,,,,,,,,,,,,
+tt5491994,5,Planet Earth II,2016,9.4,174896,50,Documentary,Justin Anderson | Ed Charles | Fredi Devas | Chadden Hunter | Emma Napper | Elizabeth White,,,,,,,,,,,,,,,
+tt7366338,6,Chernobyl,2019,9.3,1032975,60,Drama,Johan Renck,,,,,,,,,,,,,,,
+tt0417299,7,Avatar: The Last Airbender,2005,9.3,439719,23,Action,Oh Seung-hyun | Giancarlo Volpe | Ethan Spaulding | Lauren MacMullan | Dave Filoni | Joaquim Dos Santos | Michael Dante DiMartino | Anthony Lioi | Bryan Konietzko,,,,,,,,,,,,,,,
+tt0306414,8,The Wire,2002,9.3,430341,60,Crime,Joe Chappelle | Ernest Dickerson | Clark Johnson | Ed Bianchi | Steve Shill | Daniel Attias | Timothy Van Patten | Agnieszka Holland | Brad Anderson | Clement Virgo | Rob Bailey | Elodie Keene | Christine Moore | Alex Zakrzewski | Anthony Hemingway | Seith Mann | Milcho Manchevski | Peter Medak | Gloria Muzio | Robert F. Colesberry | Thomas J. Wright | Leslie Libman | Jim McKay | David Platt | Joy Kecken | Scott Kecken | Dominic West,,,,,,,,,,,,,,,
+tt6769208,9,Blue Planet II,2017,9.3,57574,50,Documentary,James Honeyborne,,,,,,,,,,,,,,,
+tt0081846,10,Cosmos,1980,9.3,53291,60,Documentary,Adrian Malone | David F. Oyster | Rob McCain | David Kennard | Richard J. Wells | Geoffrey Haines-Stiles | Tom Weidlinger | Richard Wells,,,,,,,,,,,,,,,
+tt7678620,11,Bluey,2018,9.3,47247,7,Animation,Richard Jeffery | Joe Brumm | Beth Harvey | Claire Renton | Tony Walsh,,,,,,,,,,,,,,,
+tt0944947,12,Game of Thrones,2011,9.2,2609128,60,Action,David Nutter | Alan Taylor | Alex Graves | Miguel Sapochnik | Mark Mylod | Jeremy Podeswa | Daniel Minahan | Alik Sakharov | Michelle MacLaren | Brian Kirk | David Benioff | D.B. Weiss | Timothy Van Patten | Neil Marshall | David Petrarca | Michael Slovis | Jack Bender | Daniel Sackheim | Matt Shakman | Tom McCarthy,,,,,,,,,,,,,,,
+tt0141842,13,The Sopranos,1999,9.2,577439,55,Crime,Timothy Van Patten | John Patterson | Allen Coulter | Alan Taylor | Henry Bronchtein | Jack Bender | Steve Buscemi | Daniel Attias | David Chase | Nick Gomez | Matthew Penn | Lorraine Senna | Andy Wolk | Martin Bruestle | Lee Tamahori | James Hayman | Peter Bogdanovich | Mike Figgis | Rodrigo García | Danny Leiner | David Nutter | Steve Shill | Phil Abraham | Terence Winter,,,,,,,,,,,,,,,
+tt12392504,14,Scam 1992: The Harshad Mehta Story,2020,9.2,172779,60,Biography,Hansal Mehta | Jai Mehta,,,,,,,,,,,,,,,
+tt2395695,15,Cosmos: A Spacetime Odyssey,2014,9.2,139996,45,Documentary,Brannon Braga | Ann Druyan | Bill Pope | Kevin Dart,,,,,,,,,,,,,,,
+tt30263074,16,Sapne Vs Everyone,2023,9.2,75384,,Drama,Ambrish Verma,,,,,,,,,,,,,,,
+tt9253866,17,Our Planet,2019,9.2,62759,50,Documentary,Adam Chapman | Hugh Pearson | Ed Charles | Toby Nowlan | Huw Cordey | Sophie Lanfear | Mandi Stark | Jeff Wilson,,,,,,,,,,,,,,,
+tt0071075,18,The World at War,1973,9.2,37866,52,Documentary,Peter Batty | David Elstein | Hugh Raggett | John Pett | Ted Childs | Michael Darlow | Martin Smith | Jeremy Isaacs | Phillip Whitehead,,,,,,,,,,,,,,,
+tt9002164,19,BB Ki Vines,2015,9.2,11913,,Comedy,Bhuvan Bam,,,,,,,,,,,,,,,
+tt2560140,20,Attack on Titan,2013,9.1,711135,24,Action,Tetsurô Araki | Masashi Koizuka | Yûichirô Hayashi | Jun Shishido | Hiroyuki Tanaka | Shintarô Itoga | Yasuhiro Akamatsu | Teruyuki Ômine | Shinpei Ezaki | Kiyoshi Fukumoto | Yoshihide Ibata | Mitsue Yamazaki | Daisuke Tokudo | Akitoshi Yokoyama | Satonobu Kikuchi | Hitomi Ezoe | Tetsuya Wakano | Makoto Bessho | Tomomi Ikeda | Yasushi Muroya | Keisuke Onishi | Hirokazu Yamada | Takayuki Hirao | Kenji Imura | Tomoko Hiramuki | Shingo Uchida | Takashi Andô | Matsuo Asami | Aiko Sakuraba | Kaori Makita | Hidekazu Hara | Yoshiyuki Fujiwara | Tatsuma Minamikawa | Yuzuru Tachikawa | Shin Wakabayashi | Masayuki Miyaji | Yuumi Kawai | Ken Andô | Ryôsuke Azuma | Ryûta Kawahara | Miki Komuro | Kôki Aoshima | Naoki Matsuura | Kazuo Miyake | Tokio Igarashi,,,,,,,,,,,,,46000000,$46 million,https://en.wikipedia.org/wiki/Attack_on_Titan_(film)
+tt14392248,21,Aspirants,2021,9.1,318712,45,Drama,Apoorv Singh Karki | Deepesh Sumitra Jagdish,,,,,,,,,,,,,,,
+tt1355642,22,Fullmetal Alchemist: Brotherhood,2009,9.1,247655,24,Action,Yasuhiro Irie | Takuya Igarashi | Tsutomu Yabuki | Ikurô Satô | Kiyomitsu Satô | Hiroshi Iketomi | Keiko Namba | Takahiro Ikezoe | Masahiro Sonoda | Masao Ôkubo | Rokô Ogiwara | Takayuki Tanaka | Kazuhide Tomonaga | Daisuke Tsukushi,,,,,,,,,,,,,,,
+tt4742876,23,TVF Pitchers,2015,9.1,79608,40,Comedy,Amit Golani | Vaibhav Bundhoo | Arunabh Kumar,,,,,,,,,,,,,,,
+tt5622316,24,The Chosen,2017,9.1,69748,60,Drama,Dallas Jenkins,,,,,,,,,,,,,,,
+tt1533395,25,Life,2009,9.1,50376,50,Documentary,Martha Holmes | Mick Connaire,,,,,,,,,,,,,,,
+tt1877514,26,The Vietnam War,2017,9.1,36755,100,Documentary,Ken Burns | Lynn Novick,,,,,,,,,,,,,,,
+tt4202274,27,The Filthy Frank Show,2011,9.1,33844,,Comedy,George Miller | Saint M.,,,,,,,,,,,,,,,
+tt10530900,28,Gullak,2019,9.1,30401,24,Comedy,Palash Vaswani | Amrit Raj Gupta | Shreyansh Pandey,,,,,,,,,,,,,,,
+tt13854248,29,The Legend of Hanuman,2021,9.1,13820,25,Action,Navin John | Jeevan J. Kang | Sharad Devarajan | Charuvi Agrawal | Arun Paul,,,,,,,,,,,,,,,
+tt0111893,30,The Beatles Anthology,1995,9.1,10810,67,Documentary,Bob Smeaton | Geoff Wonfor | Kevin Godley | Oliver Murray,,,,,,,,,,,,,,,
+tt2063241,31,Farouk Omar,2012,9.1,10578,45,Biography,Hatem Ali,,,,,,,,,,,,,,,
+tt1475582,32,Sherlock,2010,9.0,1087110,90,Crime,Paul McGuigan | Jeremy Lovering | Nick Hurran | Coky Giedroyc | Euros Lyn | Toby Haynes | Colm McCarthy | Douglas Mackinnon | Benjamin Caron | Rachel Talalay,,,,,,,,,,,,,,,
+tt3032476,33,Better Call Saul,2015,9.0,831450,45,Crime,Vince Gilligan | Thomas Schnauz | Peter Gould | Michael Morris | Adam Bernstein | Michelle MacLaren | Colin Bucksey | John Shiban | Larysa Kondracki | Terry McDonough | Daniel Sackheim | Minkie Spiro | Jim McKay | Melissa Bernstein | Gordon Smith | Nicole Kassell | Michael Slovis | Scott Winant | Keith Gordon | Deborah Chow | Andrew Stanton | Norberto Barba | Bronwen Hughes | Giancarlo Esposito | Rhea Seehorn,,,,,,,,,,,,,,,
+tt0386676,34,The Office,2005,9.0,830127,22,Comedy,Paul Feig | Randall Einhorn | Ken Kwapis | Greg Daniels | Jeffrey Blitz | Ken Whittingham | David Rogers | Charles McDougall | Matt Sohn | Paul Lieberstein | B.J. Novak | Tucker Gates | Harold Ramis | Brent Forrester | Jennifer Celotta | Steve Carell | John Krasinski | Rainn Wilson | Troy Miller | Bryan Gordon | Dennie Gordon | Victor Nelli Jr. | Jason Reitman | Julian Farino | Joss Whedon | Seth Gordon | Dean Holland | Lee Eisenberg | Gene Stupnitsky | Mindy Kaling | Ed Helms | Rodman Flender | Claire Scanlon | Amy Heckerling | Miguel Arteta | Roger Nygard | J.J. Abrams | Craig Zisk | Stephen Merchant | Reginald Hudlin | Asaad Kelada | Alex Hardcastle | Danny Leiner | John Scott | Marc Webb | Charlie Grandy | Michael Spiller | Eric Appel | Brian Baumgartner | Daniel Chun | Bryan Cranston | Kelly Cantley-Kashima | Jon Favreau | Lee Kirk | Jesse Peretz,,,,,,,,,,,,,,,
+tt2861424,35,Rick and Morty,2013,9.0,693147,23,Adventure,Wes Archer | Jacob Hair | Pete Michels | Nathan Litz | Kyoung Hee Lim | Bryan Newton | Juan Jose Meza-Leon | Dominic Polcino | Erica Hayes | Douglas Einar Olsen | Lucas Gray | Anthony Chun | Fill Marc Sagadraca | John Rice | Stephen Sandoval | Eugene Huang | Jeff Myers | Brian Kaufman | Justin Roiland,,,,,,,,,,,,,,,
+tt11126994,36,Arcane,2021,9.0,442252,40,Action,Pascal Charrue | Arnaud Delord | Bart Maunoury | Marietta Ren | Christelle Abgrall | Etienne Mattera,,,,,,,,,,,,,,,
+tt0388629,37,One Piece,1999,9.0,351719,24,Action,Munehisa Sakai | Kônosuke Uda | Katsumi Tokoro | Tasuku Shimaya | Yûsuke Suzuki | Yasunori Koyama | Tatsuya Nagamine | Nanami Michibata | Masahiro Hosoda | Shô Inuzuka | Kôhei Kureta | Ryosuke Tanaka | Ken'ichi Takeshita | Yutaka Nakashima | Toshinori Fukuzawa | Megumi Ishitani | Satoshi Itô | Toshihiro Maeya | Sho Matsui | Hazuki Omoya | Hiroaki Miyamoto | Ryôta Nakamura | Shigeyasu Yamauchi | Yoshihiro Ueda | Aya Komaki | Yûji Tokuno | Wataru Matsumi | Nozomu Shishido | Tetsuji Nakamura | Junji Shimizu | Mamoru Hosoda | Makoto Sonoda | Tetsuya Endô | Takashi Ôtsuka | Takaaki Ishiyama | Hikaru Takeuchi | Akihiko Sano | Henry Thurlow | Hyun Eri | Yasuhiro Tanabe,,,,,,,,,,,,,,,
+tt2098220,38,Hunter X Hunter,2011,9.0,193581,24,Action,Hiroshi Kôjina | Tony Oliver | Masaki Matsumura | Seung-wook Woo | Daisuke Yoshida | Migmi | Jun'ichi Fujise | Ken'ichi Kawamura | Tomoya Takahashi,,,,,,,,,,,,,,,
+tt8420184,39,The Last Dance,2020,9.0,180163,50,Biography,Jason Hehir,,,,,,,,,,,,,,,
+tt33043892,40,Dexter: Resurrection,2025,9.0,140869,50,Crime,Marcos Siega | Monica Raymund | Erica Dunton,,,,,,,,,,,,,,,
+tt0103359,41,Batman: The Animated Series,1992,9.0,136956,23,Action,Kevin Altieri | Boyd Kirkland | Frank Paur | Dan Riba | Dick Sebast | Bruce Timm | Eric Radomski | Kent Butterworth,,,,,,,,,,,,,,,
+tt12004706,42,Panchayat,2020,9.0,116948,,Comedy,Deepak Kumar Mishra | Akshat Vijaywargiya,,,,,,,,,,,,,,,
+tt0052520,43,The Twilight Zone,1959,9.0,108500,50,Drama,John Brahm | Douglas Heyes | Buzz Kulik | Lamont Johnson | Richard L. Bare | James Sheldon | Richard Donner | Don Medford | Montgomery Pittman | Jack Smight | Alvin Ganzer | Ted Post | William F. Claxton | Elliot Silverstein | Abner Biberman | Joseph M. Newman | Alan Crosland Jr. | Robert Florey | Mitchell Leisen | Robert Parrish | Ron Winston | Stuart Rosenberg | David Orrick McDearmon | Justus Addiss | Perry Lafferty | Robert Stevens | John Rich | Anton Leader | Boris Sagal | Christian Nyby | Don Siegel | Robert Butler | Allen Reisner | William Asher | Ralph Nelson | Norman Z. McLeod | David Greene | Robert Ellis Miller | Allen H. Miner | Harold D. Schuster | Paul Stewart | David Butler | Bernard Girard | Robert Gist | Walter Grauman | Roger Kay | David Lowell Rich | Richard C. Sarafian | Ralph Senensky | Don Weis | Robert Enrico | Ida Lupino | Jacques Tourneur,,,,,,,,,,,,,,,
+tt1831164,44,Leyla and Mecnun,2011,9.0,103672,90,Adventure,Onur Ünlü | Eyüp Boz | Murat Onbul | Funda Alp | Celil Murat Sari | Orkun Ünlü | Yüksel Aksu,,,,,,,,,,,,,,,
+tt9432978,45,Kota Factory,2019,9.0,92041,40,Comedy,Raghav Subbu | Pratish Mehta,,,,,,,,,,,,,,,
+tt10541088,46,Clarkson's Farm,2021,9.0,85170,45,Comedy,Kit Lynch Robinson | Gavin Whitehead | Will Yapp,,,,,,,,,,,,,,,
+tt28227737,47,Sandeep Bhaiya,2023,9.0,77157,,Drama,Parijat Joshi,,,,,,,,,,,,,,,
+tt14986406,48,Bleach: Thousand-Year Blood War,2022,9.0,75410,24,Action,Tomohisa Taguchi | Hikaru Murata | Mitsutoshi Satô | Young-Hoon Chung | Yusaku Kikuchi | Shin'ichirô Ueda | Yoshinori Odaka | Takahiro Ôtsuka | Da Li Chen | Takahiro Enokida | Itoko Nagai | Tôru Hasegawa | Kaito Asakura | Hodaka Kuramoto | Ema Saito | Ouri Yasukawa | Takumi Ichikawa | Young Hoon Jeong,,,,,,,,,,,,,,,
+tt0081912,49,Only Fools and Horses,1981,9.0,66059,95,Comedy,Tony Dow | Ray Butt | Susan Belbin | Martin Shardlow | Mandie Fletcher | Gareth Gwenlan | Bernard Thompson,,,,,,,,,,,,,,,
+tt0296310,50,The Blue Planet,2001,9.0,50854,50,Documentary,Alastair Fothergill,,,,,,,,,,,,,,,
+tt2092588,51,Frozen Planet,2011,9.0,40374,60,Documentary,Paul Spillenger | Mark Linfield,,,,,,,,,,,,,,,
+tt26471411,52,When Life Gives You Tangerines,2025,9.0,38452,60,Drama,Kim Won-seok,,,,,,,,,,,,,,,
+tt13675832,53,As If,2021,9.0,36514,30,Comedy,Ömer Sinir | Baris Yös | Reyhan Yildirim | Onur Uzun,,,,,,,,,,,,,,,
+tt1806234,54,Human Planet,2011,9.0,34250,50,Documentary,Mark Flowers | Nicolas Brown | Tom Hugh-Jones | Tuppence Stone,,,,,,,,,,,,,,,
+tt4934214,55,Taskmaster,2015,9.0,31224,45,Comedy,Andy Devonshire | Peter Orton,,,,,,,,,,,,,,,
+tt0268093,56,Ramayan,1987,9.0,27605,30,Adventure,Moti Sagar | Ramanand Sagar,,,,,,,,,,,,,,,
+tt0098769,57,The Civil War,1990,9.0,26259,90,Documentary,Ken Burns,,,,,,,,,,,,,,,
+tt1508238,58,Apocalypse: The Second World War,2009,9.0,21114,60,Documentary,Isabelle Clarke | Daniel Costelle,,,,,,,,,,,,,,,
+tt5182866,59,Reply 1988,2015,9.0,18965,90,Comedy,Shin Won-ho,,,,,,,,,,,,,,,
+tt7450814,60,Koombiyo,2017,9.0,18671,20,Crime,Lakmal Darmarathna,,,,,,,,,,,,,,,
+tt7923710,61,My Mister,2018,9.0,15336,70,Drama,Kim Won-seok,,,,,,,,,,,,,,,
+tt4834232,62,Critical Role,2015,9.0,14963,120,Adventure,Matthew Mercer | Steve Failows | Zachary K. Eubank,,,,,,,,,,,,,,,
+tt5851616,63,Tash Ma Tash,1993,9.0,13004,25,Comedy,Abdul Khaliq Al-Ghanim | Amer Al-Hamoud | Sameer Arif | Ayman Nasser El Din | Hisham Sharbatji,,,,,,,,,,,,,,,
+tt0877057,64,Death Note,2006,8.9,478588,24,Animation,Tetsurô Araki | Kei Tsunematsu | Mitsuyuki Masuhara | Tomohiko Itô | Hiroyuki Tsuchiya | Mitsuhiro Yoneda | Eiko Nishi | Makoto Bessho | Shinji Nagamura | Oyunamu | Naoyasu Habu | Hisato Shimoda | Yukio Okazaki | Hironori Aoyagi | Naoto Hashimoto | Takayuki Hirao | Hideki Itô | Ryôsuke Nakamura | Tetsuhito Saitô | Tomio Yamauchi,,,,,,,,,,,,,,,
+tt0098904,65,Seinfeld,1989,8.9,383971,22,Comedy,Andy Ackerman | Tom Cherones | David Steinberg | D. Owen Trainor | Joshua White | Jason Alexander | Art Wolff,,,,,,,,,,,,,,,
+tt0303461,66,Firefly,2002,8.9,301581,45,Adventure,Joss Whedon | Vern Gillum | Tim Minear | James A. Contner | Vondie Curtis-Hall | Marita Grabiak | Michael Grossman | Allan Kroeker | David Solomon | Thomas J. Wright,,,,,,,,,,,,,,,
+tt1865718,67,Gravity Falls,2012,8.9,177605,23,Adventure,Joe Pitt | John Aoshima | Matt Braly | Aaron Springer | Stephen Sandoval | Sunil Hall | Rob Renzetti,,,,,,,,,,,,,,,
+tt0213338,68,Cowboy Bebop,1998,8.9,168889,24,Action,Shin'ichirô Watanabe | Yoshiyuki Takei | Ikurô Satô | Kunihiro Mori | Hirokazu Yamada | Tetsuya Watanabe,,,,,,,,,,,,,,,
+tt31938062,69,The Pitt,2025,8.9,143302,50,Drama,Damian Marcano | Amanda Marsalis | John Cameron | John Wells | Uta Briesewitz | Quyen Tran | Silver Tree | Shawn Hatosy | Noah Wyle,,,,,,,,,,,,,,,
+tt0200276,70,The West Wing,1999,8.9,99163,42,Drama,Christopher Misiano | Alex Graves | Thomas Schlamme | Lesli Linka Glatter | Laura Innes | Vincent Misiano | Bill D'Elia | Paris Barclay | Ken Olin | Jessica Yu | Julie Hébert | Andrew Bernstein | Alan Taylor | Jeremy Kagan | Robert Berlinger | John David Coles | Richard Schiff | Nelson McCormick | Marc Buckland | Anthony Drazan | Michael Lehmann | Clark Johnson | Arlene Sanford | Don Scardino | Kevin Rodney Sullivan | Lou Antonio | Michael Engler | Bryan Gordon | Jon Hutman | Bill Johnson | Scott Winant | David Nutter | Llewellyn Wells | Jason Ensler | Rod Holcomb | Max Mayer | Matia Karrell | Mimi Leder | Tim Matheson | Paul McCrane | Steve Shill,,,,,,,,,,,,,,,
+tt22248376,71,Frieren: Beyond Journey's End,2023,8.9,74874,25,Adventure,Keiichirô Saitô | Tomoya Kitagawa | Kazumasa Isogawa | Kôta Mori | Kôki Fujimoto | Yoshiki Kawasaki | Takahiro Natori | Kento Matsui | Kentarô Hori | Nobuhiro Mutô | Yohei Tsuchiya | Morio Asaka | Daiki Harashina | Shin'ya Iino | Tôru Iwasawa | Nobuhide Kariya | Keisuke Kojima | Fujii Kunio | Izumi Seguchi | Ayaka Tsuji | Ken Andô | Kakita Hayato | Ga-Hee Im | Taku Kimura | Hirotaka Mori | Fumie Muroi | Haruka Yutoku | Hiroyuki Kobashi | Aimi Yamauchi,,,,,,,,,,,,,,,
+tt7920978,72,Persona,2018,8.9,56570,60,Crime,Onur Saylak,,,,,,,,,,,,,,,
+tt2297757,73,Nathan for You,2013,8.9,49801,30,Comedy,Nathan Fielder | Jason Woliner,,,,,,,,,,,,,,,
+tt21279678,74,NCR Days,2022,8.9,45267,40,Drama,Ambrish Verma,,,,,,,,,,,,,,,
+tt9735318,75,The Beatles: Get Back,2021,8.9,37097,150,Biography,Peter Jackson | Michael Lindsay-Hogg,,,,,,,,,,,,,,,
+tt0092337,76,Dekalog,1989,8.9,34860,60,Drama,Krzysztof Kieslowski,,,,,,,,,,,,,,,
+tt1909015,77,Undercover,2011,8.9,28414,60,Action,Victor Bojinov | Martin Makariev | Zoran Petrovski | Dimitar Gochev | Dimitar Mitovski,,,,,,,,,,,,,,,
+tt8595766,78,Yeh Meri Family,2018,8.9,27670,30,Comedy,Sameer Saxena | Raahib Siddiqui | Mandar Kurundkar,,,,,,,,,,,,,,,
+tt0158417,79,Mahabharat,1988,8.9,27308,45,Action,B.R. Chopra | Ravi Chopra,,,,,,,,,,,,,,,
+tt2571774,80,Africa,2013,8.9,23469,50,Documentary,Katrina Bartlam | Ben Aviss | Nick Easton | Felicity Egerton | Javotte Flatman | Felicity Lanchester,,,,,,,,,,,,,,,
+tt0281491,81,Still Game,2002,8.9,11265,29,Comedy,Michael Hines,,,,,,,,,,,,,,,
+tt0108778,82,Friends,1994,8.8,1190351,22,Comedy,Gary Halvorson | Kevin Bright | Michael Lembeck | James Burrows | Gail Mancuso | Peter Bonerz | David Schwimmer | Ben Weiss | Robby Benson | Shelley Jensen | Terry Hughes | Dana De Vally Piazza | Sheldon Epps | Pamela Fryman | Alan Myerson | Thomas Schlamme | Steve Zuckerman | Roger Christiansen | Arlene Sanford | Ellen Gittelsohn | Paul Lazarus | Mary Kay Place | Sam Simon | David Steinberg | Todd Holland | Joe Regalbuto | Andrew Tsao | Stephen Prime,,,,,,,,,,,,,,,
+tt2356777,83,True Detective,2014,8.8,753520,60,Crime,Cary Joji Fukunaga | Issa López | Daniel Sackheim | John Crowley | Justin Lin | Nic Pizzolatto | Jeremy Saulnier | Daniel Attias | Janus Metz | Jeremy Podeswa | Miguel Sapochnik,,,,,,,,,,,,,,,
+tt2802850,84,Fargo,2014,8.8,468264,60,Crime,Noah Hawley | Michael Uppendahl | Dana Gonzales | Keith Gordon | Dearbhla Walsh | Sylvain White | Randall Einhorn | Adam Bernstein | Colin Bucksey | Matt Shakman | Scott Winant | Adam Arkin | Jeffrey Reiner | Mike Barker | Donald Murphy | Thomas Bezucha | John Cameron,,,,,,,,,,,,,,,
+tt7660850,85,Succession,2018,8.8,354772,60,Comedy,Mark Mylod | Andrij Parekh | Shari Springer Berman | Robert Pulcini | Lorene Scafaria | Adam Arkin | Becky Martin | Kevin Bray | Miguel Arteta | S.J. Clarkson | Adam McKay | Matt Shakman | Cathy Yan,,,,,,,,,,,,,,,
+tt0472954,86,It's Always Sunny in Philadelphia,2005,8.8,281201,22,Comedy,Matt Shakman | Fred Savage | Todd Biermann | Daniel Attias | Richie Keen | Heath Cullens | Randall Einhorn | Pete Chatmon | Jerry Levine | Kat Coiro | Megan Ganz | John Fortenberry | Jamie Babbit | Rob Mac | Maurice Marable | Glenn Howerton | Josh Drisko | LP | Kimberly McCullough | Tim Roche | Nina Pedrad | Ashly Burch | Dave Chernin | John Chernin | Imani Hakim | Zachary Knighton,,,,,,,,,,,,,,,
+tt3398228,87,BoJack Horseman,2014,8.8,232204,25,Animation,Amy Winfrey | JC Gonzalez | Aaron Long | Adam Parton | Anne Walker Farrell | Martin Cendreda | Joel Moser | Peter Merryman | Mike Hollingsworth | Matt Mariska | Mike Roberts | Mollie Helms | James Bowman | Matt Garofalo | Otto Murga | Tim Rauch,,,,,,,,,,,,,,,
+tt0214341,88,Dragon Ball Z,1996,8.8,176930,24,Action,Daisuke Nishio,,,,,,,,,,,,,,,
+tt0264235,89,Curb Your Enthusiasm,2000,8.8,166306,30,Comedy,Jeff Schaffer | Robert B. Weide | Larry Charles | Bryan Gordon | David Steinberg | Alec Berg | David Mandel | Andy Ackerman | Jeff Garlin | Dean Parisot | Keith Truesdell | Tom Kramer | Jessie Nelson | Cheryl Hines | Erin O'Malley,,,,,,,,,,,,,,,
+tt0193676,90,Freaks and Geeks,1999,8.8,164453,45,Comedy,Jake Kasdan | Judd Apatow | Bryan Gordon | Ken Kwapis | Lesli Linka Glatter | Miguel Arteta | Paul Feig | Danny Leiner | Ken Olin,,,,,,,,,,,,,,,
+tt7137906,91,When They See Us,2019,8.8,158458,75,Biography,Ava DuVernay,,,,,,,,,,,,,,,
+tt10233448,92,Vinland Saga,2019,8.8,136776,24,Action,Shûhei Yabuta | Kazuya Murata | Yoji Sato | Michiru Itabisashi | Yôsuke Yamamoto | Tadahito Matsubayashi | Iho Ishikawa | Kento Matsui | Tomoko Hiramuki | Shingo Uchida | Yûsuke Sunouchi | Kôki Aoshima | Shûjirô Ami | Takashi Andô | Yasuo Ejima | Atsushi Kobayashi | Tomoaki Koshida | Daisuke Kurose | Aiko Sakuraba | Shigatsu Yoshikawa | Nobuyoshi Arai | Shige Fukase | Tokio Igarashi | Takafumi Ishida | Takahiro Kaneko | Tarô Kubo | Hiromi Nishiyama,,,,,,,,,,,,,,,
+tt14650074,93,Dhindora,2021,8.8,126382,25,Comedy,Himank Gaur,,,,,,,,,,,,,,,
+tt0072500,94,Fawlty Towers,1975,8.8,111269,30,Comedy,Bob Spiers | John Howard Davies,,,,,,,,,,,,,,,
+tt3530232,95,Last Week Tonight with John Oliver,2014,8.8,105174,30,Comedy,Paul Pennolino | Christopher Werner | Jim Hoskinson | Joe Perota | Bruce Leddy | Frank Prinzi | Danny Jelinek | Elliot Mendelson | Whit Conway | Eric Appel | Laura Murphy | David Wain | Maurice Marable | Amber Schaefer | John Oliver,,,,,,,,,,,,,,,
+tt0121220,96,Dragon Ball Z,1989,8.8,103699,24,Action,Daisuke Nishio | Shigeyasu Yamauchi | Yoshihiro Ueda | Mitsuo Hashimoto | Minoru Okazaki | Kazuhisa Takenouchi | Tatsuya Orime | Osamu Kasai | Jôhei Matsuura | Takahiro Imamura,,,,,,,,,,,,,,,
+tt35495073,97,Heated Rivalry,2025,8.8,103441,50,Drama,Jacob Tierney,,,,,,,,,,,,,,,
+tt0112130,98,Pride and Prejudice,1995,8.8,103301,50,Drama,Simon Langton,,,,,,,,,,,,,,,
+tt1910272,99,Steins; Gate,2011,8.8,92120,24,Animation,Hiroshi Hamasaki | Takuya Satô | Kazuhiro Ozawa | Kanji Wakabayashi | Tomoki Kobayashi | Kôji Kobayashi | Tomoko Hiramuki | Shigetaka Ikeda | Hisato Shimoda | Yoshihito Mikamo | Yuzuru Tachikawa | Hiroyuki Tsuchiya,,,,,,,,,,,,,,,
+tt0063929,100,Monty Python's Flying Circus,1969,8.8,87263,30,Comedy,Ian MacNaughton | John Howard Davies,,,,,,,,,,,,,,,
+tt0353049,101,Chappelle's Show,2003,8.8,78738,22,Comedy,Rusty Cundieff | Andre Allen | Neal Brennan | Scott Vincent | Bobcat Goldthwait | Peter Lauer | Bill Berner | Todd Broder,,,,,,,,,,,,,,,
+tt0096548,102,Blackadder Goes Forth,1989,8.8,65083,30,Comedy,Richard Boden,,,,,,,,,,,,,,,
+tt0081834,103,Das Boot,1985,8.8,40147,98,Drama,Wolfgang Petersen,,,,,,,,,,,,,84900000,$84.9 million (equivalent to $283 million 2025),https://en.wikipedia.org/wiki/Das_Boot_(film)
+tt1795096,104,Behzat Ç: An Ankara Detective Story,2010,8.8,36113,90,Crime,Serdar Akar | Dogan Ümit Karaca | Sadullah Sentürk | Zekeriya Kurtulus | Mustafa Altioklar,,,,,,,,,,,,,,,
+tt7927936,105,Flames,2018,8.8,34059,30,Comedy,Apoorv Singh Karki | Divyanshu Malhotra,,,,,,,,,,,,,,,
+tt0074006,106,"I, Claudius",1976,8.8,22174,50,Biography,Herbert Wise,,,,,,,,,,,,,,,
+tt13868972,107,Rocket Boys,2022,8.8,20349,45,Drama,Abhay Pannu,,,,,,,,,,,,,,,
+tt1518542,108,Sarabhai V/S Sarabhai,2004,8.8,19866,30,Comedy,Deven Bhojani | Nishant Maniar,,,,,,,,,,,,,,,
+tt0481256,109,Fighting Spirit,2000,8.8,17937,30,Action,Satoshi Nishimura | Saburo Hashimoto | Ken'ichi Kawamura | Hitoshi Nanba | Masayuki Kojima,,,,,,,,,,,,,,,
+tt27446493,110,Twinkling Watermelon,2023,8.8,14111,70,Comedy,Son Jung-hyun,,,,,,,,,,,,,,,
+tt6108262,111,Black Sun,2017,8.8,13879,60,Crime,Dragan Bjelogrlic | Srdjan Spasic | Masa Neskovic | Danilo Beckovic | Miroslav Lekic | Ivan Zivkovic | Kosta Djordjevic | Igor Ivanov Izi,,,,,,,,,,,,,,,
+tt0062588,112,Mister Rogers' Neighborhood,1968,8.8,10492,30,Family,Bob Walsh | David F. Chen | Bill Moates | Paul Lally | Sam Silberman | Hugh Martin | Bob Muens,,,,,,,,,,,,,,,
+tt11992526,113,Harga,2021,8.8,10094,40,Drama,Lassaad Oueslati,,,,,,,,,,,,,,,
+tt2442560,114,Peaky Blinders,2013,8.7,773264,60,Crime,Anthony Byrne | Colm McCarthy | Tim Mielants | David Caffrey | Otto Bathurst | Tom Harper,,,,,,,,,,,,,,,
+tt2085059,115,Black Mirror,2011,8.7,736190,60,Crime,Toby Haynes | Owen Harris | Carl Tibbetts | James Hawes | David Slade | Ally Pankiw | Otto Bathurst | Euros Lyn | Brian Welsh | Bryn Higgins | Dan Trachtenberg | Jakob Verbruggen | James Watkins | Joe Wright | Jodie Foster | John Hillcoat | Colm McCarthy | Timothy Van Patten | Anne Sewitsky | Uta Briesewitz | John Crowley | Sam Miller | Christopher Barrett | Luke Taylor | Haolu Wang,,,,,,,,,,,,,,,
+tt0412142,116,House,2004,8.7,591609,45,Drama,Greg Yaitanes | Deran Sarafian | David Straiton | Daniel Attias | Daniel Sackheim | Miguel Sapochnik | David Platt | Matt Shakman | Juan José Campanella | Katie Jacobs | Andrew Bernstein | Sanford Bookstaver | Peter O'Fallon | Fred Gerber | David Semel | Lesli Linka Glatter | Newton Thomas Sigel | Bryan Spicer | Bryan Singer | Frederick King Keller | David Shore | James Hayman | Martha Mitchell | Hugh Laurie | Tucker Gates | Tim Southam | Peter Medak | Paris Barclay | Guy Ferland | Keith Gordon | Tim Hunter | Bill Johnson | Nelson McCormick | Gloria Muzio | Randy Zisk | Jace Alexander | Félix Enríquez Alcalá | Laura Innes | John F. Showalter | Tony To | Elodie Keene | Paul McCrane | Matthew Penn | Nick Gomez | S.J. Clarkson | Kate Woods | Colin Bucksey | Julian Higgins | Stefan Schwartz | Peter Weller,,,,,,,,,,,,,,,
+tt5753856,117,Dark,2017,8.7,543091,60,Crime,Baran bo Odar,,,,,,,,,,,,,,,
+tt2707408,118,Narcos,2015,8.7,526784,50,Biography,Andrés Baiz | Josef Kubota Wladyka | Fernando Coimbra | Gerardo Naranjo | Guillermo Navarro | José Padilha | Gabriel Ripstein,,,,,,,,,,,,,,,
+tt0121955,119,South Park,1997,8.7,443518,22,Animation,Trey Parker | Eric Stough | Matt Stone | Adrien Beard | Toni Wurts,,,,,,,,,,,,,,,
+tt10986410,120,Ted Lasso,2020,8.7,441032,30,Comedy,Declan Lowney | MJ Delaney | Erica Dunton | Matt Lipsey | Tom Marshall | Elliot Hegarty | Destiny Ekaragha | Zach Braff | Ezra Edelman | Sam Jones,,,,,,,,,,,,,,,
+tt6741278,121,Invincible,2021,8.7,331111,50,Action,Dan Duncan | Shaun O'Neil | Jeff Allen | Sol Choi | Ian Abando | Jason Zurek | Tanner Johnson | Haylee Herrick | Paul Furminger | Stephanie Gonzaga | Jay Baker | Cory Evans | Jae Harm | Vinton Heuck | William Ruzicka | Robert Valley,,,,,,,,,,,,,,,
+tt0804503,122,Mad Men,2007,8.7,289356,45,Drama,Phil Abraham | Michael Uppendahl | Jennifer Getzinger | Matthew Weiner | Scott Hornbacher | Lesli Linka Glatter | Tim Hunter | John Slattery | Andrew Bernstein | Alan Taylor | Chris Manley | Jon Hamm | Ed Bianchi | Paul Feig | Barbet Schroeder | Daisy von Scherler Mayer | Lynn Shelton | Matt Shakman | Jared Harris,,,,,,,,,,,,,,,
+tt1606375,123,Downton Abbey,2010,8.7,245907,60,Drama,Brian Percival | David Evans | Philip John | Andy Goddard | Catherine Morshead | Minkie Spiro | Brian Kelly | Michael Engler | Ben Bolt | Ashley Pearce | James Strong | Jeremy Webb | Edward Hall | Jon East,,,,,,,,,,,,,,,
+tt0098936,124,Twin Peaks,1990,8.7,245876,50,Crime,David Lynch | Lesli Linka Glatter | Caleb Deschanel | Duwayne Dunham | Tim Hunter | Todd Holland | Tina Rathborne | Graeme Clifford | Mark Frost | Uli Edel | James Foley | Stephen Gyllenhaal | Diane Keaton | Jonathan Sanger,,,,,,,,,,,,,,,
+tt5687612,125,Fleabag,2016,8.7,245565,30,Comedy,Harry Bradbeer | Tim Kirkby,,,,,,,,,,,,,,,
+tt27497448,126,A Knight of the Seven Kingdoms,2026,8.7,235368,60,Action,Owen Harris | Sarah Adina Smith | Andrea Harkin,,,,,,,,,,,,,,,
+tt0988824,127,Naruto: Shippuden,2007,8.7,221455,24,Action,Hayato Date | Masaaki Kumagai | Kiyomu Fukuda | Hiroshi Kimura | Atsushi Nigorikawa | Shigeharu Takahashi | Yûki Kinoshita | Masahiko Murata | Naoki Horiuchi | Toshiyuki Tsuru | Eitarô Ano | Shuu Watanabe | Kunitoshi Okajima | Yûsuke Onoda | Hiroyoshi Kishikawa | Seiki Takuno | Yoshihiro Sugai | Kazunori Mizuno | Chiaki Kon | Toshinori Watanabe | Shinji Satô | Maki Odaira | Masaharu Watanabe | Osamu Kobayashi | Mitsutaka Noshitani | Ken'ichi Nishida | Hiroyuki Yamashita | Masayuki Matsumoto | Masato Kitagawa | Osamu Sekita | Hayato Gôda | Yuki Sugihara | Takahiro Ono | Yûki Arie | Fujiaki Asari | Toshiaki Kanbara | Yasumi Mikamoto | Masahiro Takada | Minoru Yamaoka | Akitoshi Yokoyama | Yasuhiro Minami | Eiko Nishi | Takahiro Okao | Atsushi Wakabayashi | Hideyuki Yoshida | Mitsutoshi Satô | Chiyuki Tanaka | Hiroyuki Tsuchiya | Daisuke Tsukushi | Hideaki Uehara | Chikara Sakurai | Tomokazu Iwasaki | Yoshinori Odaka | Akira Shimizu | Masayuki Yamada | Toshiro Fujii | Kazuya Iwata | Kiyoshi Murayama | Ayumu Ono | Mitsuto Yamaji,,,,,,,,,,,,,,,
+tt0384766,128,Rome,2005,8.7,203823,60,Action,Michael Apted | Mikael Salomon | Allen Coulter | Alan Poul | Steve Shill | Timothy Van Patten | Alan Taylor | John Maybury | Julian Farino | Jeremy Podeswa | Adam Davidson | Carl Franklin | Alik Sakharov | Roger Young,,,,,,,,,,,,,,,
+tt0407362,129,Battlestar Galactica,2004,8.7,186637,45,Action,Michael Rymer | Michael Nankin | Rod Hardy | Sergio Mimica-Gezzan | Robert M. Young | Edward James Olmos | Jeff Woolnough | Wayne Rose | Allan Kroeker | Félix Enríquez Alcalá | Marita Grabiak | Brad Turner | Jonas Pate | Jean de Segonzac | Bill Eagles | James Head | Reynaldo Villalobos | Paul A. Edwards | Anthony Hemingway | John Dahl | Gwyneth Horder-Payton | Ronald D. Moore,,,,,,,,,,,,,,,
+tt5555260,130,This Is Us,2016,8.7,174111,45,Comedy,Ken Olin | Chris Koch | Glenn Ficarra | John Requa | Kevin Hooks | Anne Fletcher | George Tillman Jr. | Rebecca Asher | Milo Ventimiglia | Jessica Yu | Yasu Tanida | Kay Oyegun | Uta Briesewitz | John Fortenberry | Zetna Fuentes | Catherine Hardwicke | Sarah Boyd | Roxann Dawson | Justin Hartley | Jon Huertas | Sarah Pia Anderson | Silas Howard | Helen Hunt | Craig Zisk | Timothy Busfield | Regina King | Wendey Stanzler | Joanna Kerns | Kevin Rodney Sullivan | Mandy Moore | Glenn Steelman | Chris Sullivan | James Takata,,,,,,,,,,,,,,,
+tt0248654,131,Six Feet Under,2001,8.7,167747,60,Comedy,Alan Ball | Daniel Attias | Rodrigo García | Jeremy Podeswa | Kathy Bates | Michael Cuesta | Michael Engler | Alan Poul | Daniel Minahan | Miguel Arteta | Nicole Holofcener | Lisa Cholodenko | Allen Coulter | Jim McBride | John Patterson | Alan Taylor | Rose Troche | Karen Moncrieff | Peter Care | Alan Caso | Peter Webber | Adam Davidson | Mary Harron | Joshua Marston | Matt Shakman,,,,,,,,,,,,,,,
+tt0092455,132,Star Trek: The Next Generation,1987,8.7,149588,45,Action,Cliff Bole | Les Landau | Winrich Kolbe | Rob Bowman | Robert Scheerer | Robert Wiemer | Jonathan Frakes | Gabrielle Beaumont | Alexander Singer | Corey Allen | Paul Lynch | Patrick Stewart | Joseph L. Scanlan | David Carson | Chip Chalmers | James L. Conway | Robert Becker | Timothy Bond | Tom Benko | Robert Legato | David Livingston | Peter Lauritson | Robert Lederman | Adam Nimoy | LeVar Burton | Richard A. Colla | Richard Compton | Russ Mayberry | Kim Manners | Win Phelps | Michael Ray Rhodes | Michael Vejar | Robert Iscove | Larry Shaw | Marvin V. Rush | Dan Curry | Gates McFadden | Jonathan West,,,,,,,,,,,,,,,
+tt1628033,133,Top Gear,2002,8.7,136596,60,Adventure,Brian Klein | Phil Churchward | Nigel Simpkiss | Jon Richards | Richard Heeley | James Bryce | Andrew Fettis | Owen Trevor | Mark McQueen | Konrad Begg | Scott Weintrob | Kit Lynch Robinson | Ben Duncan | Chris Richards | Southan Morris | Ben Hume-Paton | Edward Bazalgette | Chris Hooke | Ollie Bartlett | Simon Ludgate | Michael Tuft | Lee Ford | Ed Venner | Iain May | Graham Sherrington | Ben Southwell | Nikki Parsons | Dennis Jarvis | Richard Thomson | James Wiseman | Rob Kaplan | Gary Broadhurst | Babak Zand Goodarzi | Michael Massey | Michael Armit | Gerry Pomeroy | Lionel Mill | Hannah Springham | Benji Edwards | Nick Dalton,,,,,,,,,,,,,,,
+tt1305826,134,Adventure Time,2010,8.7,132739,23,Action,Bong Hee Han | Larry Leichliter | Elizabeth Ito | Andres Salaff | Adam Muto | Cole Sanchez | Nate Cash | Diana Lafyatis | David O'Reilly | Eunyoung Choi | Kent Osborne | Masaaki Yuasa | David Ferguson | Kirsten Lepore | Alex Small-Butera | Lindsay Small-Butera,,,,,,,,,,,,,,,
+tt0118421,135,Oz,1997,8.7,116769,60,Crime,Adam Bernstein | Alex Zakrzewski | Nick Gomez | Jean de Segonzac | Darnell Martin | Keith Samples | J. Miller Tobin | Leslie Libman | Alan Taylor | Terry Kinney | Steve Buscemi | Goran Gajic | Larry Williams | Bob Balaban | Kathy Bates | Uli Edel | Mary Harron | Matt Dillon | Barbara Kopple | Chazz Palminteri | Brian Cox | Kenneth Fink | Gloria Muzio | Rob Morrow | Roger Rees | Ted Bogosian | John Henry Davis | Judy Dennis | Marc Klasfeld | Daniel Loflin | David Von Ancken,,,,,,,,,,,,,,,
+tt9544034,136,The Family Man,2019,8.7,112424,45,Action,Krishna D.K. | Raj Nidimoru | Suparn Varma | Suman Kumar | Tusshar Seyth,,,,,,,,,,,,,124700000,$124.7 million,https://en.wikipedia.org/wiki/The_Family_Man
+tt0994314,137,Code Geass: Lelouch of the Rebellion,2006,8.7,103594,24,Action,Gorô Taniguchi | Yoshimitsu Ôhashi | Kazuya Murata | Kazuo Miyake | Noriaki Akitaya | Masato Miyoshi | Makoto Baba,,,,,,,,,,,,,,,
+tt13309742,138,Blue Eye Samurai,2023,8.7,103361,45,Action,Jane Wu | Earl A. Hibbert | Ryan O'Loughlin | Michael Green | Sunny Sun | Alan Taylor | Alan Wan,,,,,,,,,,,,,,,
+tt0286486,139,The Shield,2002,8.7,97484,45,Crime,Guy Ferland | Scott Brazil | Clark Johnson | Dean White | Stephen Kay | Gwyneth Horder-Payton | D.J. Caruso | Michael Chiklis | Nick Gomez | Paris Barclay | Peter Horton | Terrence O'Hara | Félix Enríquez Alcalá | Philip G. Atwell | Rohn Schmidt | Gary Fleder | Stephen Gyllenhaal | Leslie Libman | Brad Anderson | John Badham | Davis Guggenheim | Scott Winant | David Mamet | Vondie Curtis-Hall | David Von Ancken | Kurt Sutter | Frank Darabont | Michael Fields | Craig Brewer | Billy Gierhart,,,,,,,,,,,,,,,
+tt5712554,140,The Grand Tour,2016,8.7,94633,60,Adventure,Phil Churchward | Kit Lynch Robinson | Brian Klein | Gavin Whitehead,,,,,,,,,,,,,,,
+tt3718778,141,Over the Garden Wall,2014,8.7,89046,11,Adventure,Nate Cash,,,,,,,,,,,,,,,
+tt2303687,142,Line of Duty,2012,8.7,80582,60,Crime,John Strickland | Jennie Darnell | Douglas Mackinnon | Daniel Nettheim | Jed Mercurio | David Caffrey | Michael Keillor | Susan Tully | Gareth Bryn,,,,,,,,,,,,,,,
+tt0758745,143,Friday Night Lights,2006,8.7,79093,45,Drama,Jeffrey Reiner | Michael Waxman | Allison Liddi-Brown | Patrick R. Norris | David Boyd | Jonas Pate | Stephen Kay | Peter Berg | Seith Mann | Chris Eyre | Jason Katims | Dean White | Christopher Misiano | Adam Davidson | Dan Lerner | Josh Pate | Mark Piznarski | Charles Stone III | Daniel Attias | Ami Canaan Mann | Todd McMullen | Kyle Chandler,,,,,,,,,,,,,62000000,$62 million,https://en.wikipedia.org/wiki/Friday_Night_Lights_(film)
+tt0318871,144,Berserk,1997,8.7,78107,23,Action,Naohito Takahashi | Masakazu Amiya | Yukina Hiiro | Yasuhiro Matsumura | Yukio Okazaki | Mihiro Yamaguchi | Kôji Yoshikawa | Yasuhiro Geshi | Kazuya Tsurumaki | Kazuhisa Ôno | Kôji Fukazawa,,,,,,,,,,,,,,,
+tt0387764,145,Peep Show,2003,8.7,73642,25,Comedy,Becky Martin | Tristram Shapeero | Jeremy Wooding,,,,,,,,,,,,,,,
+tt0434706,146,Monster,2004,8.7,69856,24,Animation,Masayuki Kojima | Yukihiro Miyamoto | Shigetaka Ikeda | Kentaro Nakamura | Kenji Nagasaki | Ryôsuke Nakamura | Tôru Takahashi | Tomoki Kobayashi | Kôjirô Tsuruoka | Atsushi Takahashi | Kanji Wakabayashi | Nanako Shimazaki | Hiroshi Aoyama | Akane Inoue | Yukiyo Teramoto | Tomohiko Itô | Minami Akitsu | Yûzô Satô | Tetsuya Watanabe | Kazuhisa Ôno,,,,,,,,,,,,,,,
+tt10850932,147,Crash Landing on You,2019,8.7,58182,70,Adventure,Kim Hee-won | Lee Jung-hyo,,,,,,,,,,,,,,,
+tt3398540,148,Haikyuu!!,2014,8.7,53146,24,Animation,Susumu Mitsunaka | Masako Satô | Shintarô Itoga | Tetsuaki Watanabe | Shintarô Nakazawa | Yumi Kamakura | Tomoko Hiramuki | Hitomi Ezoe | Rokô Ogiwara | Yûsuke Kamada | Hideya Itô | Mariko Ishikawa | Yasuo Ejima | Hirotaka Endô | Kôichi Kikuta | Hirotaka Mori | Pyeon-Gang Ho | Yuya Horiuchi | Tomoe Makino | Jôji Furuta | Tomohiro Hirata | Yoshihide Ibata | Toshiaki Kanbara | Kiyoshi Murayama | Takatoshi Suzuki | Takashi Ôtsuka | Itsurô Kawasaki | Yoshitaka Koyama | Yûsuke Sunouchi | Takashi Andô | Kôji Komurakata | Haruo Okuno | Hiromichi Matano | Yasushi Muroya | Mayo Nozaki | Toshiyuki Sone | Takahiro Ôtsuka,,,,,,,,,,,,,,,
+tt16026746,149,X-Men '97,2024,8.7,52546,22,Action,Chase Conley | Emi Yonemura | Jake Castorena,,,,,,,,,,,,,,,
+tt7472896,150,Mr Inbetween,2018,8.7,49498,30,Comedy,Nash Edgerton,,,,,,,,,,,,,,,
+tt0459159,151,The Thick of It,2005,8.7,29365,30,Comedy,Armando Iannucci | Natalie Bailey | Chris Addison | Becky Martin | Tony Roche | Billy Sneddon,,,,,,,,,,,,,,,
+tt20859920,152,Alchemy of Souls,2022,8.7,28685,80,Action,Park Joon-hwa,,,,,,,,,,,,,,,
+tt9471962,153,Halka,2019,8.7,27791,120,Action,Volkan Kocatürk | Mestan Sakalli | Süleyman Mert Özdemir | Basak Soysal,,,,,,,,,,,,,,,
+tt0086661,154,The Adventures of Sherlock Holmes,1984,8.7,27329,60,Crime,Alan Grint | Paul Annett | John Bruce | David Carson | Ken Grieve,,,,,,,,,,,,,,,
+tt36988358,155,Takopi's Original Sin,2025,8.7,26087,30,Animation,Shin'ya Iino | Moaang | Hirotaka Mori | Rikka | Masayuki Sakoi | Tôya Ôshima,,,,,,,,,,,,,,,
+tt6025022,156,Justice League Unlimited,2004,8.7,25605,23,Action,Joaquim Dos Santos | Dan Riba,,,,,,,,,,,,,,,
+tt0988818,157,Gintama,2005,8.7,21025,25,Action,Chizuru Miyawaki | Yôichi Fujita | Shinji Takamatsu | Migmi | Kei Umabiki,,,,,,,,,,,,,,,
+tt4063800,158,The Bureau,2015,8.7,18992,50,Drama,Eric Rochant | Samuel Collardey | Antoine Chevrollier | Anna Novion | Hélier Cisterne | Pascale Ferran | Mathieu Demy | Mathieu Kassovitz | Laïla Marrakchi | Jean-Marc Moutout | Elie Wajeman | Jacques Audiard,,,,,,,,,,,,,,,
+tt15295490,159,Campus Diaries,2022,8.7,18516,40,Comedy,Prem Mistry,,,,,,,,,,,,,,,
+tt0106028,160,Homicide: Life on the Street,1993,8.7,17101,60,Crime,Kenneth Fink | Alan Taylor | Nick Gomez | Peter Medak | Jean de Segonzac | John McNaughton | Clark Johnson | Leslie Libman | Larry Williams | Uli Edel | Lee Bonner | Tim Hunter | Edwin Sherin | Barbara Kopple | Kyle Secor | Kathryn Bigelow | Jay Tobias | Barry Levinson | Martin Campbell | Ted Demme | Whitney Ransick | Christopher Menaul | Timothy Van Patten | Michael Fields | Peter Weller | Ed Bianchi | Robert Harmon | Wayne Ewing | Michael Lehmann | Peter Markle | Bruce Paltrow | Keith Gordon | Stephen Gyllenhaal | Richard Pearce | Myles Connell | Bruno Kirby | Don Scardino | Jace Alexander | Gwen Arner | Kathy Bates | Kevin Hooks | Darnell Martin | Michael Radford | Whit Stillman | Gary Fleder | Alison Maclean | Tim McCann | Mark Pellington | Matt Reeves | Steve Buscemi | Mary Harron | Brad Anderson | Miguel Arteta | Joe Berlinger | Adam Bernstein | Lisa Cholodenko | Keith Samples,,,,,,,,,,,,,,,
+tt0229889,161,El Chavo,1972,8.7,16984,30,Comedy,Enrique Segoviano | Roberto Gómez Bolaños,,,,,,,,,,,,,,,
+tt10801534,162,How to with John Wilson,2020,8.7,16982,30,Comedy,John Wilson,,,,,,,,,,,,,,,
+tt10554898,163,The Untamed,2019,8.7,16102,50,Action,Jialin Chen | Wai-Man Cheng,,,,,,,,,,,,,,,
+tt0090509,164,The Return of Sherlock Holmes,1986,8.7,15166,60,Crime,Peter Hammond | David Carson | Howard Baker | John Bruce | Patrick Lau | John Madden | John Gorrie | Ken Hannam | Brian Mills,,,,,,,,,,,,,,,
+tt3212600,165,Mahabharat,2013,8.7,14963,20,Drama,Amar Preet Chhabra | Mukesh Kumar Singh | Amarpreet G.S. Chhabra | Siddharth Anand Kumar | Kamal Monga | Loknath Pandey,,,,,,,,,,,,,180000,"est. ₹ 1.5 crore (US$160,000)",https://en.wikipedia.org/wiki/Mahabharat_(2013_film)
+tt9566030,166,Pew News,2018,8.7,14715,15,Comedy,Felix Kjellberg,,,,,,,,,,,,,,,
+tt7094780,167,Mr. Sunshine,2018,8.7,13881,80,Action,Lee Eung-bok | Jeong Ji-hyeon | Jang Young-woo,,,,,,,,,,,,,,,
+tt6111552,168,Content Cop,2015,8.7,12571,20,Comedy,Ian Washburn,,,,,,,,,,,,,,,
+tt4269716,169,Umbre,2014,8.7,12568,45,Crime,Bogdan Mirica | Igor Cobileanski,,,,,,,,,,,,,,,
+tt15248880,170,Adventure Time: Fionna & Cake,2023,8.7,11848,30,Action,Ryann Shannon | Steve Wolfhard | Cole Sanchez,,,,,,,,,,,,,,,
+tt0075537,171,Mind Your Language,1977,8.7,10893,30,Comedy,Stuart Allen,,,,,,,,,,,,,,,
+tt11769304,172,Hospital Playlist,2020,8.7,10772,84,Comedy,Shin Won-ho,,,,,,,,,,,,,,,
+tt4574334,173,Stranger Things,2016,8.6,1694460,60,Drama,Matt Duffer | Ross Duffer | Shawn Levy | Andrew Stanton | Uta Briesewitz | Nimród Antal | Frank Darabont | Rebecca Thomas,,,,,,,,,,,,,,,
+tt0773262,174,Dexter,2006,8.6,932255,60,Crime,John Dahl | Steve Shill | Keith Gordon | Marcos Siega | Ernest Dickerson | Romeo Tirone | Michael Cuesta | Tony Goldwyn | S.J. Clarkson | Stefan Schwartz | Robert Lieberman | Nick Gomez | Tim Hunter | Michael Lehmann | Holly Dale | Alik Sakharov | Adam Davidson | Jeremy Podeswa | Brian Kirk | Milan Cheylov | Seith Mann | Michael C. Hall,,,,,,,,,,,,,,,
+tt1190634,175,The Boys,2019,8.6,859847,60,Action,Philip Sgriccia | Karen Gaviola | Frederick E.O. Toye | Sarah Boyd | Eric Kripke | Stefan Schwartz | Nelson Cragg | Julian Holmes | Shana Stein | Daniel Attias | Jennifer Phang | Matt Shakman | Dan Trachtenberg | Steve Boyum | Liz Friedlander | Alex Graves | Batan Silva | Catriona McKenzie,,,,,,,,,,,,,,,
+tt8111088,176,The Mandalorian,2019,8.6,652360,40,Action,Rick Famuyiwa | Bryce Dallas Howard | Dave Filoni | Deborah Chow | Carl Weathers | Peyton Reed | Taika Waititi | Jon Favreau | Robert Rodriguez | Lee Isaac Chung | Rachel Morrison | Peter Ramsey,,,,,,,,,,,,,,,
+tt1856010,177,House of Cards,2013,8.6,558916,50,Drama,James Foley | Robin Wright | John David Coles | Alik Sakharov | Carl Franklin | Agnieszka Holland | Tucker Gates | Tom Shankland | Allen Coulter | David Fincher | Charles McDougall | Joel Schumacher | John Dahl | Jakob Verbruggen | Roxann Dawson | Daniel Minahan | Michael Morris | Jodie Foster | Alex Graves | Kari Skogland | Ernest Dickerson | Louise Friedberg | Ami Canaan Mann | Stacie Passon | Thomas Schlamme,,,,,,,,,,,,,,,
+tt3322312,178,Daredevil,2015,8.6,529464,60,Action,Phil Abraham | Stephen Surjik | Peter Hoar | Ken Girotti | Euros Lyn | Farren Blackburn | Marc Jobst | Alex Garcia Lopez | Steven S. DeKnight | Guy Ferland | Nick Gomez | Adam Kane | Nelson McCormick | Brad Turner | Andy Goddard | Floria Sigismondi | Michael Uppendahl | Lukas Ettlin | Toa Fraser | Jennifer Getzinger | Julian Holmes | Jennifer Lynch | Sam Miller | Jet Wilkinson | Alex Zakrzewski,,,,,,,,,,,,,179200000,$179.2 million,https://en.wikipedia.org/wiki/Daredevil_(film)
+tt0096697,179,The Simpsons,1989,8.6,468097,22,Animation,Mike B. Anderson | Jim Reardon | Mark Kirkland | Steven Dean Moore | David Silverman | Bob Anderson | Matthew Nastuk | Mike Frank Polcino | Rob Oliver | Chris Clements | Timothy Bailey | Matthew Faughnan | Wes Archer | Nancy Kruse | Lance Kramer | Chuck Sheetz | Rich Moore | Jeffrey Lynch | Susie Dietter | Pete Michels | Raymond S. Persi | Carlos Baeza | Debbie Bruce Mahan | Swinton O. Scott III | Dominic Polcino | Neil Affleck | Michael Marcantel | Lauren MacMullan | Jennifer Moeller | Matthew Schofield | Gabriel DeFrancesco | Ralph Sosa | Mark Ervin | Jen Kamerman | Milton Gray | Brad Bird | Kent Butterworth | Eric Koenig | Gregg Vanzo | Alan Smart | David Mirkin | Klay Hall | Shaun Cashman | Guillermo del Toro | Jorge R. Gutiérrez | John Harvatine IV,,,,,,,,,,,,,,,
+tt5290382,180,Mindhunter,2017,8.6,395584,60,Crime,David Fincher | Carl Franklin | Andrew Douglas | Asif Kapadia | Tobias Lindholm | Andrew Dominik,,,,,,,,,,,,,,,
+tt11280740,181,Severance,2022,8.6,386673,50,Drama,Ben Stiller | Aoife McArdle | Uta Briesewitz | Samuel Donovan | Jessica Lee Gagné | Kogonada,,,,,,,,,,,,,,,
+tt0367279,182,Arrested Development,2003,8.6,343337,22,Comedy,Troy Miller | Mitchell Hurwitz | Joe Russo | Paul Feig | Anthony Russo | Lee Shallat Chemel | Jay Chandrasekhar | Greg Mottola | John Fortenberry | Peter Lauer | Robert Berlinger | Lev L. Spiro | Jason Bateman | Patty Jenkins | Jeff Melman | John Amodeo | Andrew Fleming | Danny Leiner | Chuck Martin | Arlene Sanford | Rebecca Asher,,,,,,,,,,,,,,,
+tt1266020,183,Parks and Recreation,2009,8.6,314338,22,Comedy,Dean Holland | Michael Schur | Ken Whittingham | Troy Miller | Randall Einhorn | Morgan Sackett | Craig Zisk | Tristram Shapeero | Michael Trim | Nicole Holofcener | Wendey Stanzler | Greg Daniels | Beth McCarthy-Miller | Jason Woliner | Amy Poehler | Charles McDougall | Alex Hardcastle | Seth Gordon | Jorma Taccone | Tucker Gates | Dan Goor | Nick Offerman | Alan Yang | Jeffrey Blitz | Paul Feig | Michael McCullers | Millicent Shelton | Ken Kwapis | David Rogers | Rob Schrab | Matt Sohn | Kyle Newacheck | Robert B. Weide | Norm Hiscock | Jaime Eliezer Karas | Julie Anne Robinson | Adam Scott | Tom Magill,,,,,,,,,,,,,,,
+tt4236770,184,Yellowstone,2018,8.6,309246,60,Drama,Stephen Kay | Taylor Sheridan | Christina Alexandra Voros | Guy Ferland | John Dahl | Ed Bianchi | Ben Richardson | Michael Friedman,,,,,,,,,,,,,,,
+tt4786824,185,The Crown,2016,8.6,280712,60,Biography,Benjamin Caron | Philip Martin | Christian Schwochow | Jessica Hobbs | Stephen Daldry | Julian Jarrold | May el-Toukhy | Alex Gabassi | Erik Richter Strand | Paul Whittington | Philippa Lowthorpe | Samuel Donovan,,,,,,,,,,,,,,,
+tt9253284,186,Andor,2022,8.6,274525,60,Action,Toby Haynes | Ariel Kleiman | Benjamin Caron | Susanna White | Janus Metz | Alonso Ruizpalacios,,,,,,,,,,,,,,,
+tt0106179,187,The X-Files,1993,8.6,272629,45,Adventure,Kim Manners | Rob Bowman | David Nutter | Chris Carter | R.W. Goodwin | Tony Wharmby | Michael W. Watkins | Daniel Sackheim | Michael Lange | James Wong | Jim Charleston | Cliff Bole | William A. Graham | Peter Markle | David Duchovny | Thomas J. Wright | Rod Hardy | Glen Morgan | Jerrold Freedman | Joe Napolitano | Larry Shaw | Tucker Gates | Vince Gilligan | Richard Compton | Frank Spotnitz | Darin Morgan | Fred Gerber | Michael Katleman | Harry Longstreet | Robert Mandel | Win Phelps | Stephen Surjik | James A. Contner | Nick Marck | Michael Vejar | James Whitmore Jr. | Brett Dowler | Allen Coulter | Ralph Hemecker | Robert Lieberman | Bryan Spicer | Gillian Anderson | Paul Shapiro | Terrence O'Hara | Barry K. Thomas | Dwight H. Little | Michelle MacLaren | John Shiban | Carol Banker | Holly Dale | Kevin Hooks,,,,,,,,,,,,,189200000,$189.2 million,https://en.wikipedia.org/wiki/The_X-Files_(film)
+tt2788316,188,Shōgun,2024,8.6,244335,60,Action,Frederick E.O. Toye | Jonathan van Tulleken | Charlotte Brändström | Takeshi Fukunaga | Hiromi Kamata | Emmanuel Osei-Kuffour | Kate Herron,,,,,,,,,,,,,,,
+tt15435876,189,The Penguin,2024,8.6,236370,60,Crime,Craig Zobel | Kevin Bray | Helen Shaver | Jennifer Getzinger,,,,,,,,,,,,,,,
+tt9335498,190,Demon Slayer: Kimetsu no Yaiba,2019,8.6,224560,24,Action,Haruo Sotozaki | Shin'ya Shimomura | Takashi Suhara | Akihiko Uda | Hideki Hosokawa | Shûji Miyahara | Seiji Harada | Jun'ichi Minamino | Takuya Nonaka | Yûki Itô | Ken Nakazawa | Toshiyuki Shirai | Ken Takahashi | Masashi Takeuchi | Yuji Shimizu | Shinsuke Gomi | Takahiro Majima | Yûsuke Shibata | Yûichi Terao | Takashi Mamezuka,,,,,,,,,,,,,,,
+tt4508902,191,One Punch Man,2015,8.6,224367,24,Action,Shingo Natsume | Chikara Sakurai | Shin'ichirô Ushijima | Yôsuke Hatta | Nobuhiro Mutô | Shun'ichi Yoshizawa | Kouji Hisagi | Ryô Andô | Shûji Miyazaki | Makoto Sokuza | Shinpei Nagai | Minoru Yamaoka | Shigeki Awai | Toshinori Fukushima | Miyuki Ishida | Kôzô Kaihô | Tomohiro Kamitani | Hideki Okamoto | Hiroyuki Okuno | Katsushi Sakurabi | Yoshio Suzuki | Yôhei Suzuki,,,,,,,,,,,,,,,
+tt0979432,192,Boardwalk Empire,2010,8.6,217730,60,Crime,Timothy Van Patten | Allen Coulter | Jeremy Podeswa | Ed Bianchi | Brad Anderson | Alik Sakharov | Jake Paltrow | Simon Cellan Jones | Brian Kirk | Martin Scorsese | Alan Taylor | David Petrarca | Susanna White | Kari Skogland,,,,,,,,,,,,,,,
+tt1486217,193,Archer,2009,8.6,175495,22,Action,Bryan Fordney | Mack Williams | Casey Willis | Pierre Cerrato | Matt Thompson | Justin Wagner | Megan Johnson | Chi Duong | Kim Feigenbaum | Omaka Schultz | Stephen Slesinski | Chad Hurd | Marcus Rosentrater | Yusuke Sato | Adam Reed,,,,,,,,,,,,,,,
+tt13991232,194,1883,2021,8.6,164516,60,Drama,Ben Richardson | Christina Alexandra Voros | Taylor Sheridan,,,,,,,,,,,,,,,
+tt5788792,195,The Marvelous Mrs. Maisel,2017,8.6,157869,60,Comedy,Amy Sherman-Palladino | Daniel Palladino | Scott Ellis | Jamie Babbit | Daniel Attias | Daisy von Scherler Mayer,,,,,,,,,,,,,,,
+tt0096657,196,Mr. Bean,1990,8.6,151022,25,Comedy,John Birkin | Paul Weiland | John Howard Davies,,,,,,,,,,,,,,,
+tt1870479,197,The Newsroom,2012,8.6,134862,60,Drama,Alan Poul | Greg Mottola | Anthony Hemingway | Lesli Linka Glatter | Jeremy Podeswa | Alex Graves | Joshua Marston | Daniel Minahan | Jason Ensler | Julian Farino | Carl Franklin | Paul Lieberstein,,,,,,,,,,,,,,,
+tt1489428,198,Justified,2010,8.6,130510,45,Action,Adam Arkin | Jon Avnet | Peter Werner | Michael Dinner | John Dahl | Bill Johnson | Michael W. Watkins | Gwyneth Horder-Payton | Don Kurt | Dean Parisot | Tony Goldwyn | Michael Pressman | Rod Holcomb | Michael Katleman | Frederick King Keller | John David Coles | Billy Gierhart | Lesli Linka Glatter | Peter Weller,,,,,,,,,,,,,,,
+tt0348914,199,Deadwood,2004,8.6,128403,60,Crime,Ed Bianchi | Daniel Minahan | Davis Guggenheim | Gregg Fienberg | Mark Tinker | Steve Shill | Alan Taylor | Michael Engler | Walter Hill | Michael Almereyda | Timothy Van Patten | Daniel Attias | Adam Davidson | Tim Hunter,,,,,,,,,,,,,,,
+tt4288182,200,Atlanta,2016,8.6,98397,30,Comedy,Hiro Murai | Donald Glover | Amy Seimetz | Janicza Bravo | Ibra Ake | Angela Barnes | Adamma Ebo,,,,,,,,,,,,,,,
+tt9174558,201,Dopesick,2021,8.6,92432,60,Drama,Michael Cuesta | Barry Levinson | Patricia Riggen | Danny Strong,,,,,,,,,,,,,,,
+tt1733785,202,The Bridge,2011,8.6,84394,60,Crime,Henrik Georgsson | Rumle Hammerich | Charlotte Sieling | Morten Arnfred | Kathrine Windfeld | Lisa Siwe,,,,,,,,,,,,,,,
+tt5421602,203,Anne with an E,2017,8.6,80551,60,Drama,Paul Fox | Amanda Tapping | Anne Wheeler | Norma Bailey | Helen Shaver | Ken Girotti | Niki Caro | David Evans | Sandra Goldbacher | Patricia Rozema | Kim Nguyen,,,,,,,,,,,,,,,
+tt1710308,204,Regular Show,2010,8.6,73832,23,Action,John Davis Infantino | Sean Szeles | Calvin Wong | J.G. Quintel | Mike Roth,,,,,,,,,,,,,,,
+tt0094525,205,Poirot,1989,8.6,58843,100,Crime,Edward Bennett | Renny Rye | Andrew Grieve | Brian Farnham | Richard Spence | Andy Wilson | Ashley Pearce | Ross Devenish | Andrew Piddington | Peter Barber-Fleming | John Bruce | Ken Grieve | Hettie Macdonald | Charlie Palmer | Stephen Whittaker | Tom Clegg | David Moore | Paul Unwin | Simon Langton | Sarah Harding | Maurice Phillips | James Kent | Dan Reed | Philip Martin | Peter Lydon | John Strickland | Tom Vaughan,,,,,,,,,,,,,,,
+tt4299972,206,The Jinx: The Life and Deaths of Robert Durst,2015,8.6,58481,45,Biography,Andrew Jarecki,,,,,,,,,,,,,,,
+tt2359704,207,JoJo's Bizarre Adventure,2012,8.6,55957,24,Action,Naokatsu Tsuda | Kenichi Suzuki | Toshiyuki Kato | Yasufumi Soejima | Jirô Fujimoto | Hitomi Ezoe | Yûta Takamura | Shunsuke Machitani | Eri Nagata | Shigatsu Yoshikawa | Yukihiko Asaki | Hikaru Murata | Mitsuhiro Yoneda | Taisuke Mamori | Katsuichi Nakayama | Satoshi Ôsedo | Kim Min-Sun | Masashi Abe | Hitomi Efuku | Shingo Uchida | Jin Tamamura | Hirofumi Ogura | Sang-yong Eum | Keisuke Nishijima | Futoshi Higashide | Takahiro Majima | Yukio Nishimoto | Kôta Okuno | Yasuhiro Minami | Naomi Nakayama | Masaya Sasaki | Kôtarô Togoshi | Hirokazu Yamada | Kentarô Fujita | Yasuo Ejima | Jun Fujiwara | Masami Hata | Yoriyasu Kogawa | Fumiaki Kôta | Tadahito Matsubayashi | Tokihiro Sasaki | Soichi Shimada | Takahiko Yoshida | Hideya Takahashi,,,,,,,,,,,,,,,
+tt0088484,208,Blackadder II,1986,8.6,53798,30,Comedy,Mandie Fletcher,,,,,,,,,,,,,,,
+tt1641384,209,Young Justice,2010,8.6,50901,23,Action,Christopher Berkeley | Vinton Heuck | Melchior Zwyer | Jay Oliva | Michael Chang | Christina Sotta | Tim Divar | Doug Murphy | Sam Liu | Matt Youngberg | Victor Cook | Lauren Montgomery,,,,,,,,,,,,,,,
+tt0092324,210,Blackadder the Third,1987,8.6,50562,30,Comedy,Mandie Fletcher,,,,,,,,,,,,,,,
+tt3895150,211,Your Lie in April,2014,8.6,50529,23,Animation,Kyôhei Ishiguro | Kazuya Iwata | Miyuki Kuroki | Ayako Kouno | Takahiro Harada | Ayako Kurata | Tomotaka Shibayama | Takeshi Yajima | Yoshihide Ibata | Masashi Ishihama | Takahiro Kawakoshi | Takashi Kojima | Takahiro Majima | Hidetoshi Takahashi | Toshinori Fukushima | Toshimasa Ishii | Kosaya | Ryôsuke Nakamura,,,,,,,,,,,,,,,
+tt13111040,212,The Offer,2022,8.6,50421,60,Biography,Adam Arkin | Colin Bucksey | Dexter Fletcher | Gwyneth Horder-Payton,,,,,,,,,,,,,,,
+tt2049116,213,Gomorrah,2014,8.6,49694,45,Crime,Claudio Cupellini | Francesca Comencini | Stefano Sollima | Marco D'Amore | Claudio Giovannesi | Enrico Rosati | Ciro Visco,,,,,,,,,,,,,,,
+tt0111958,214,Father Ted,1995,8.6,47830,25,Comedy,Declan Lowney | Andy De Emmony,,,,,,,,,,,,,,,
+tt12451520,215,It's Okay to Not Be Okay,2020,8.6,45382,80,Comedy,Park Shin-woo,,,,,,,,,,,,,,,
+tt11854694,216,Special OPS,2020,8.6,43734,49,Action,Shivam Nair | Neeraj Pandey,,,,,,,,,,,,,,,
+tt1534360,217,Ezel,2009,8.6,43472,90,Crime,Uluç Bayraktar | Mert Akbas,,,,,,,,,,,,,,,
+tt9140342,218,It's a Sin,2021,8.6,40694,45,Drama,Peter Hoar,,,,,,,,,,,,,,,
+tt0053488,219,The Bugs Bunny Show,1960,8.6,37898,30,Animation,Friz Freleng | Chuck Jones | Robert McKimson | Maurice Noble | Hawley Pratt | Abe Levitow | Tom Ray | Richard Thompson | Rudy Larriva | Gerry Chiniquy | Ken Harris,,,,,,,,,,,,,,,
+tt2701582,220,Endeavour,2012,8.6,37844,90,Crime,Shaun Evans | Kate Saxon | Colm McCarthy | Geoffrey Sax | Andy Wilson | Edward Bazalgette | Tom Vaughan | Craig Viveiros | Giuseppe Capotondi | Kristoffer Nyholm | Olly Blackburn | Sandra Goldbacher | Lawrence Gough | Bryn Higgins | Michael Lennox | Jim Loach | Ashley Pearce | Börkur Sigþórsson | Gordon Anderson | Jim Field Smith | Brady Hood | Robert Quinn | Johnny Allan | Jamie Donoughue | Leanne Welham | Zam Salim | Ian Aryeh | Nirpal Bhogal,,,,,,,,,,,,,,,
+tt7562112,221,Pose,2018,8.6,36519,60,Drama,Janet Mock | Gwyneth Horder-Payton | Steven Canals | Tina Mabry | Ryan Murphy | Nelson Cragg | Silas Howard | Jennie Livingston,,,,,,,,,,,,,,,
+tt0380136,222,QI,2003,8.6,35581,30,Comedy,Ian Lorimer | Diccon Ramsay | Ben Hardy,,,,,,,,,,,,,,,
+tt21056886,223,Scavengers Reign,2023,8.6,35433,24,Adventure,Benjy Brooke | Vincent Tsui | Jonathan Djob Nkondo | Diego Porral | Rachel Reid | Christine Jie-Eun Shin | Joseph Bennett | Charles Huettner,,,,,,,,,,,,,,,
+tt1983079,224,Call the Midwife,2012,8.6,35426,60,Drama,Syd Macartney | David O'Neill | David Tucker | Lisa Clarke | Sarah Esdaile | Juliet May | Philippa Lowthorpe | Noreen Kershaw | Ann Tricklebank | China Moo-Young | Minkie Spiro | Darcia Martin | Sheree Folkson | James Larkin | Jamie Payne | Roger Goldby | Kate Cheeseman | Thea Sharrock | Thaddeus O'Sullivan | Dominic Leclerc | Rebecca Johnson | Claire Winyard | Christiana Ebohon-Green | Kate Saxon | Thomas Hescott | John Maidens | Delyth Thomas | Amy Neil | Emma Sullivan | Afia Nkrumah | Corin Campbell Hill | Ruth Platt | Avril Evans | Jo Southwell | Ruth Carney,,,,,,,,,,,,,,,
+tt0096639,225,Lonesome Dove,1989,8.6,30215,90,Adventure,Simon Wincer,,,,,,,,,,,,,,,
+tt0417373,226,The Venture Bros.,2003,8.6,30213,22,Action,Christopher McCulloch | Jon Schnepp | Ki-Yong Bai | Juno John Lee | Barry J. Kelly | Ethan Marak,,,,,,,,,,,,,,,
+tt10332508,227,Primal,2019,8.6,29611,22,Action,Genndy Tartakovsky,,,,,,,,,,,,,228679,"$228,679.00",https://en.wikipedia.org/wiki/Primal_(2019_film)
+tt0094517,228,Mystery Science Theater 3000,1988,8.6,27650,90,Comedy,Jim Mallon | Kevin Murphy | Trace Beaulieu | Vince Rodriguez | Michael J. Nelson | Joel Hodgson | Todd Ziegler,,,,,,,,,,,,,,,
+tt4156586,229,Permanent Roommates,2014,8.6,27422,30,Comedy,Sameer Saxena | Shreyansh Pandey | Deepak Kumar Mishra | Biswapati Sarkar,,,,,,,,,,,,,,,
+tt2433738,230,Wentworth,2013,8.6,26904,45,Crime,Kevin Carlin | Fiona Banks | Catherine Millar | Steve Jodrell | Mat King | Beck Cole | Jet Wilkinson | Roger Hodgman | Tori Garrett | Pino Amenta | Dee McLachlan | Adrian Russell Wills | Geoff Bennett | Sian Davies | Jonathan Brough | Corrie Chen | Kate Atkinson,,,,,,,,,,,,,,,
+tt4082744,231,Detectorists,2014,8.6,26222,30,Comedy,Mackenzie Crook,,,,,,,,,,,,,,,
+tt8050756,232,The Owl House,2020,8.6,25442,22,Action,Bosook Coburn | Amelia Lorenz | Bridget Underwood | Aminder Dhaliwal | Stu Livingston | Sage Cotugno | Stephen Sandoval | Richard Bhan,,,,,,,,,,,,,,,
+tt0088727,233,Anne of Green Gables,1985,8.6,24473,100,Drama,Kevin Sullivan,,,,,,,,,,,,,,,
+tt26743760,234,The Apothecary Diaries,2023,8.6,23886,23,Animation,Norihiro Naganuma | Akinori Fudesaka | Jun Ôwada | Wataru Nakagawa | Akira Koremoto | Mayu Tanimoto | Erukin Kawabata | Kentarô Fujita | Shintarô Itoga | Yukihiko Asaki | Kaho Asai | Masahiro Matsunaga | Tsuyoshi Nakano | China | Gaku Shiga | Kyôhei Yamamoto | Mitsuyo Yokono | Tadao Ôkubo | Yûshi Ibe | Akira Shimizu | Sô Toyama | Oh Jin-Koo | Yu Kinome | Wazuka Komamiya | Misu Yamaneko | Takanori Yano,,,,,,,,,,,,,,,
+tt0421291,235,The European Side,2004,8.6,23875,90,Comedy,Jale Atabey Özberk | Hakan Algül,,,,,,,,,,,,,,,
+tt0129690,236,I'm Alan Partridge,1997,8.6,23799,30,Comedy,Dominic Brigstocke | Armando Iannucci | Tristram Shapeero,,,,,,,,,,,,,,,
+tt7278862,237,My Brilliant Friend,2018,8.6,23043,60,Drama,Saverio Costanzo | Laura Bispuri | Daniele Luchetti | Alice Rohrwacher,,,,,,,,,,,,,,,
+tt10590066,238,All Creatures Great & Small,2020,8.6,22799,,Comedy,Andy Hay | Brian Percival | Stewart Svaasand | Metin Hüseyin | Sasha Ransome | Jordan Hogg,,,,,,,,,,,,,,,
+tt2311418,239,Isler Güçler,2012,8.6,22000,90,Comedy,Selçuk Aydemir,,,,,,,,,,,,,,,
+tt17513352,240,Twenty Five Twenty One,2022,8.6,21996,70,Drama,Jeong Ji-hyeon | Kim Seung-ho,,,,,,,,,,,,,,,
+tt0310455,241,Foyle's War,2002,8.6,21060,90,Crime,Jeremy Silberston | Stuart Orme | Gavin Millar | Tristram Powell | Giles Foster | Andy Hay | David Thacker | Simon Langton | David Richards,,,,,,,,,,,,,,,
+tt9814458,242,Bandish Bandits,2020,8.6,20526,30,Drama,Anand Tiwari,,,,,,,,,,,,,,,
+tt1513168,243,Through the Wormhole,2010,8.6,19421,60,Documentary,Kurt Sayenga | Geoffrey Sharp | Anthony Lund | James Younger | David LaMattina | Robin Acutt | Lori McCreary | Laura Verklan | David Isser | Robert Beemer,,,,,,,,,,,,,,,
+tt0080306,244,Yes Minister,1980,8.6,18858,30,Comedy,Peter Whitmore | Sydney Lotterby | Stuart Allen,,,,,,,,,,,,,,,
+tt3671754,245,Kardes Payi,2014,8.6,18576,70,Comedy,Selçuk Aydemir,,,,,,,,,,,,,,,
+tt13634792,246,Mouse,2021,8.6,18393,80,Action,Kang Cheol-woo | Choi Joon-bae,,,,,,,,,,,,,,,
+tt0203082,247,Rurouni Kenshin: Trust & Betrayal,1999,8.6,18069,30,Action,Kazuhiro Furuhashi,,,,,,,,,,,,,,,
+tt31862849,248,Very Parivarik,2024,8.6,17761,,Comedy,Vaibhav Bundhoo | Dishant Verma,,,,,,,,,,,,,,,
+tt0403778,249,Long Way Round,2004,8.6,17196,45,Adventure,David Alexanian | Russ Malkin,,,,,,,,,,,,,,,
+tt6385540,250,Hilda,2018,8.6,16164,24,Adventure,Andy Coyle | Megan Ferguson,,,,,,,,,,,,,,,
