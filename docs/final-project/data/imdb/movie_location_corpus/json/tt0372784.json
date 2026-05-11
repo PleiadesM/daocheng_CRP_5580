@@ -1,0 +1,585 @@
+{
+  "imdb_id": "tt0372784",
+  "shorthand": "Batman-Begins",
+  "title": "Batman Begins",
+  "year": 2005,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0372784 - Batman-Begins.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0372784 - Batman-Begins.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0372784.json",
+  "source_url": "http://www.movie-locations.com/movies/b/Batman-Begins.php",
+  "page_title": "Film locations for Christopher Nolan's Batman Begins (2005), in Chicago, London, Buckinghamshire, Bedfordshire, Essex and Iceland",
+  "meta_description": "Discover the film locations for Christopher Nolan's Batman Begins (2005): including Mentmore Towers, Mentmore, Buckinghamshire ('Wayne Manor'); Coalhouse Fort, East Tilbury, Essex (‘Bhutanese’ prison); Öræfasveit, Vatnajökuls and Svínafellsjökuls, Iceland (‘Tibetan Himalayas’); Board of Trade Building, 141 West Jackson Boulevard, Chicago (‘Wayne Enterprises’ HQ); Garrick Theatre, Charing Cross Road, London WC2 (‘Gotham’ opera house); Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1 (‘Gotham City Police Station’); West Lake Street at Franklin Street, Chicago (Bruce Wayne disappears into the night); Jewelers Building, 35 East Wacker Drive, Chicago (‘City of Gotham State Courts’, exterior); Senate House, University of London, Malet Street, London WC1 (‘City of Gotham State Courts’, interior); Tilbury Docks, Essex ('Gotham’ docks); Event Hall, ExCel Centre, London E16 (Lucius Fox demonstrates the Tumbler); Plateau, Canada Place, Canada Square, London E16 (posh restaurant, interior); CityPoint, Ropemaker Street, London EC2 (posh restaurant, exterior); Franklin Street Bridge, Franklin Street, Chicago (to 'the narrows'); National Institute for Medical Research, Ridgeway, Mill Hill, London NW7 ('Arkham Asylum' exterior); Stairwell, St Pancras International, Euston Road, London ('Arkham Asylum' interior); Abbey Mills Pumping Station, Abbey Lane, London E15 ('Arkham Asylum' laboratory); Randolph and Wells Parking Garage, North Wells Street, Chicago (spiral ramp)",
+  "meta_keywords": "Batman Begins, film locations, tourism, travel, set-jetting, Chicago, london, lasalle street, wacker drive, franklin street bridge",
+  "og_title": "Filming Locations for Christopher Nolan's Batman Begins (2005), in Chicago, London, the UK and Iceland",
+  "og_description": "Discover the film locations for Christopher Nolan's Batman Begins (2005): including the London, Buckinghamshire, Bedfordshire and Essex in the UK; Chicago; and Iceland",
+  "og_image": "http://www.movie-locations.com/movies/b/batman-begins-meta.jpg",
+  "top250_rank": "172",
+  "movie_locations_title": "BATMAN BEGINS",
+  "movie_locations_regions": "Chicago | London | Buckinghamshire | Bedfordshire | Essex | Iceland",
+  "director": "Christopher Nolan",
+  "cast": [
+    "Christian Bale",
+    "Katie Holmes",
+    "Liam Neeson",
+    "Michael Caine",
+    "Cillian Murphy",
+    "Morgan Freeman",
+    "Gary Oldman",
+    "Ken Watanabe",
+    "Tom Wilkinson",
+    "Rutger Hauer",
+    "Rade Serbedzija",
+    "Sara Stewart",
+    "Spencer Wilding",
+    "CHICAGO locations",
+    "▶ Board of Trade Building, 141 West Jackson Boulevard (Wayne Enterprises HQ)",
+    "▶ West Lake Street at Franklin Street (Bruce Wayne disappears into the night)",
+    "▶ Jewelers Building, 35 East Wacker Drive (City of Gotham State Courts, exterior)",
+    "▶ Franklin Street Bridge, Franklin Street (leading to The Narrows)",
+    "▶ Jackson Boulevard and LaSalle Street (Batman racing to get antidote)",
+    "▶ Randolph and Wells Parking Garage, North Wells Street (spiral ramp to rooftop)",
+    "▶ Lower Wacker Drive (underground chase continues)",
+    "▶ Amstutz Expressway, Waukegan (underground chase continues)",
+    "LONDON locations",
+    "▶ Garrick Theatre, Charing Cross Road, London WC2 (young Bruce Wayne taken to Gotham opera house, interior)",
+    "▶ Farmiloe Building, 28-36 St John Street, Clerkenwell, EC1 (Gotham City Police Station, interior)",
+    "▶ Senate House, University of London, Malet Street, London WC1 (Gotham courthouse lobby, where Joe Chill is shot)",
+    "▶ Event Hall, ExCel Centre, London E16 (Lucius Fox demonstrates the Tumbler)",
+    "▶ Plateau Restaurant, Canada Place, Canada Square, London E14 (restaurant where Bruce Wayne bumps into Rachel Dawes, interior)",
+    "▶ CityPoint, Ropemaker Street, London EC2 (Wayne arrives at restaurant entrance)",
+    "▶ National Institute for Medical Research, the Ridgeway, Mill Hill, NW7 (Arkham Asylum, exterior)",
+    "▶ St Pancras International, Euston Road, London NW1 (Arkham Asylum, lobby)",
+    "▶ Abbey Mills Pumping Station, Abbey Lane, West Ham, London E15 (Arkham Asylum laboratory)",
+    "BUCKINGHAMSHIRE locations",
+    "▶ Mentmore Towers, Mentmore, Leighton Buzzard, Buckinghamshire (Wayne Manor)",
+    "ESSEX locations",
+    "▶ Coalhouse Fort, East Tilbury, Essex (the Bhutanese prison)",
+    "▶ Tilbury Docks, Essex (Gotham docks where the Batman makes his first appearance)"
+  ],
+  "locations": [
+    "Chicago;",
+    "London;",
+    "Buckinghamshire;",
+    "Bedfordshire;",
+    "Essex;",
+    "Iceland"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0372784%20-%20Batman-Begins/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/002.jpg",
+    "exists": true,
+    "alt": "Batman Begins poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/poster.jpg",
+    "corpus_asset_src": "../assets/tt0372784/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0372784%20-%20Batman-Begins/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/001.jpg",
+    "exists": true,
+    "alt": "Batman Begins film location: National Institute for Medical Research, the Ridgeway, Mill Hill, London NW7",
+    "caption": "Batman Begins film location: ‘Arkham Asylum’ exterior: National Institute for Medical Research, the Ridgeway, Mill Hill, London NW7 (since demolished)",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/001.jpg",
+    "corpus_asset_src": "../assets/tt0372784/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/001.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: National Institute for Medical Research, the Ridgeway, Mill Hill, London NW7",
+      "caption": "Batman Begins film location: ‘Arkham Asylum’ exterior: National Institute for Medical Research, the Ridgeway, Mill Hill, London NW7 (since demolished)",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/001.jpg",
+      "corpus_asset_src": "../assets/tt0372784/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/002.jpg",
+      "exists": true,
+      "alt": "Batman Begins poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/002.jpg",
+      "corpus_asset_src": "../assets/tt0372784/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/003.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: Mentmore Towers, Mentmore, Buckinghamshire",
+      "caption": "Batman Begins film location: 'Wayne Manor': Mentmore Towers, Mentmore, Buckinghamshire | Photograph: Alamy / Robert Stainforth",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/003.jpg",
+      "corpus_asset_src": "../assets/tt0372784/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/004.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: Coalhouse Fort, East Tilbury, Essex",
+      "caption": "Batman Begins film location: Wayne discovered by Ducard in the ‘Bhutanese’ prison: Coalhouse Fort, East Tilbury, Essex",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/004.jpg",
+      "corpus_asset_src": "../assets/tt0372784/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/005.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: Chicago Board of Trade Building, 141 West Jackson Boulevard, Chicago",
+      "caption": "Batman Begins film location: the HQ of Wayne Enterprises: Chicago Board of Trade Building, 141 West Jackson Boulevard, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/005.jpg",
+      "corpus_asset_src": "../assets/tt0372784/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/006.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: Garrick Theatrel Charing Cross Road, London WC2",
+      "caption": "Batman Begins film location: young Bruce Wayne is spooked by the batty opera: Garrick Theatre, Charing Cross Road, London WC2 | Photograph: Alamy Stock Photo / Kirsty McLaren",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/006.jpg",
+      "corpus_asset_src": "../assets/tt0372784/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/007.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1",
+      "caption": "Batman Begins film location: ‘Gotham City Police Station’ – and the ‘Shanghai’ warehouse: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/007.jpg",
+      "corpus_asset_src": "../assets/tt0372784/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/008.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: West Lake Street at Franklin Street, Chicago",
+      "caption": "Batman Begins film location: Bruce Wayne disappears over the rooftops: West Lake Street at Franklin Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/008.jpg",
+      "corpus_asset_src": "../assets/tt0372784/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/009.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: Jewelers Building, 35 East Wacker Drive, Chicago",
+      "caption": "Batman Begins film location: Joe Chill’s trial in the ‘City of Gotham State Courts’: Jewelers Building, 35 East Wacker Drive, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/009.jpg",
+      "corpus_asset_src": "../assets/tt0372784/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/010.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: Senate House, University of London, Malet Street",
+      "caption": "Batman Begins film location: Joe Chill is gunned down in the ‘City of Gotham State Courts’: Senate House, University of London, Malet Street",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/010.jpg",
+      "corpus_asset_src": "../assets/tt0372784/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/011.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: CityPoint, Ropemaker Street, London EC2",
+      "caption": "Batman Begins film location: Bruce Wayne arrives at the ‘Gotham City’ restaurant: CityPoint, Ropemaker Street, London EC2",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/011.jpg",
+      "corpus_asset_src": "../assets/tt0372784/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/012.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: The Franklin Street Bridge, Chicago",
+      "caption": "Batman Begins film location: ‘Gotham City’s link to ‘The Narrows’: The Franklin Street Bridge, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/012.jpg",
+      "corpus_asset_src": "../assets/tt0372784/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/013.jpg",
+      "exists": true,
+      "alt": "Batman filming location: St Pancras Renaissance Hotel, Euston Road, London NW1",
+      "caption": "Batman Begins film location: ‘Arkham Asylum’ interior: St Pancras Renaissance Hotel, Euston Road, London NW1 | Photograph: Paul Street / Alamy Stock Photo",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/013.jpg",
+      "corpus_asset_src": "../assets/tt0372784/013.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/014.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/014.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: Abbey Mills Pumping Station, Abbey Lane, West Ham, London E15",
+      "caption": "Batman Begins film location: the interior of 'Arkham Asylum': Abbey Mills Pumping Station, Abbey Lane, West Ham, London E15 | Photograph: wikimedia / Gordon Joly",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/014.jpg",
+      "corpus_asset_src": "../assets/tt0372784/014.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/015.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/015.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: LaSalle Street at West Quincy, Chicago",
+      "caption": "Batman Begins film location: the race to get the antidote: LaSalle Street at West Quincy, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/015.jpg",
+      "corpus_asset_src": "../assets/tt0372784/015.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/016.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0372784 - Batman-Begins/016.jpg",
+      "exists": true,
+      "alt": "Batman Begins film location: Randolph and Wells Parking Garage, North Wells Street, Chicago",
+      "caption": "Batman Begins film location: the start of the rooftop chase: Randolph and Wells Parking Garage, North Wells Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0372784/016.jpg",
+      "corpus_asset_src": "../assets/tt0372784/016.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0372784/001.jpg\" alt=\"Batman Begins film location: National Institute for Medical Research, the Ridgeway, Mill Hill, London NW7\"><figcaption>Batman Begins film location: ‘Arkham Asylum’ exterior: National Institute for Medical Research, the Ridgeway, Mill Hill, London NW7 (since demolished)</figcaption></figure>\n<p>‘Gotham City’ (recreated on sets for the <a href=\"https://www.movie-locations.com/people/b/burtont.php\">Tim Burton</a> films) is a mix of sinisterly deco locations around <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a> and <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>, knitted seamlessly together, as well as some pretty impressive sets at <span class=\"name\">Shepperton Studios</span> and in one of the two gigantic airship hangars at <span class=\"name\">Cardington</span>, a couple of miles southeast of Bedford in <a href=\"https://www.movie-locations.com/places/uk/beds.php\">Bedfordshire</a> (<span class=\"ital\">rail: Bedford, from London Euston or King’s Cross</span>). Both subsequent films,  <a href=\"https://www.movie-locations.com/movies/d/Dark-Knight.php\">The Dark Knight</a> and <a href=\"https://www.movie-locations.com/movies/d/Dark-Knight-Rises.php\">The Dark Knight Rises</a>, returned to <span class=\"name\">Cardington</span>. The hangars have since been used to house the vast 'New York Docks' set for <a href=\"https://www.movie-locations.com/movies/f/Fantastic-Beasts-And-Where-To-Find-Them.php\">Fantastic Beasts And Where To Find Them</a>.</p>\n<p>Forget <span class=\"ital\">Wham!</span>, <span class=\"ital\">Pow!</span> and 60s camp. And even <a href=\"https://www.movie-locations.com/people/b/burtont.php\">Burton</a>’s darkly Gothic <a href=\"https://www.movie-locations.com/movies/b/Batman-1989.php\">Batman</a> starts to look lightweight.  <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a> (<a href=\"https://www.movie-locations.com/movies/m/Memento.php\">Memento</a>) – famously working without a second unit – delivers a grittily realistic reboot of the Caped Crusader myth.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/003.jpg\" alt=\"Batman Begins film location: Mentmore Towers, Mentmore, Buckinghamshire\"><figcaption>Batman Begins film location: 'Wayne Manor': Mentmore Towers, Mentmore, Buckinghamshire | Photograph: Alamy / Robert Stainforth</figcaption></figure>\n<p>▶ ‘Wayne Manor’, after its previous sojourns in the US, returns to the UK. It’s <span class=\"name\">Mentmore Towers</span> in <span class=\"name\">Mentmore</span>, <a href=\"https://www.movie-locations.com/places/uk/bucks.php\">Buckinghamshire</a>, also seen as the exterior of the ‘Long Island’ orgy mansion in <a href=\"https://www.movie-locations.com/people/k/kubricks.php\">Stanley Kubrick</a>'s <a href=\"https://www.movie-locations.com/movies/e/Eyes-Wide-Shut.php\">Eyes Wide Shut</a>, as a restaurant in <a href=\"https://www.movie-locations.com/people/g/gilliamt.php\">Terry Gilliam</a>'s <a href=\"https://www.movie-locations.com/movies/b/Brazil-1985.php\">Brazil</a> and in both <a href=\"https://www.movie-locations.com/movies/m/Mummy-1999.php\">The Mummy</a> and <a href=\"https://www.movie-locations.com/movies/m/Mummy-Returns.php\">The Mummy Returns</a>.  The house,  just to the north of <span class=\"name\">Cheddington</span> station, on the West Coast Main Line between London Euston and Milton Keynes, is is currently closed after plans to convert it into a hotel fell through.</p>\n<p><span class=\"name\">Mentmore Towers</span> is a Victorian extravagance built in 1854 for the Rothschild banking family, and based on the genuine Tudor mansion of <a href=\"http://goss.nottinghamcity.gov.uk/index.aspx?articleid=24550&amp;locationId=7\" target=\"_blank\">Wollaton Hall</a>, <a href=\"https://www.movie-locations.com/places/uk/notts.php\">Nottinghamshire</a>, in the English Midlands. Guess where you can see <a href=\"http://goss.nottinghamcity.gov.uk/index.aspx?articleid=24550&amp;locationId=7\" target=\"_blank\">Wollaton</a> itself? As ‘Wayne Manor’ in <a href=\"https://www.movie-locations.com/movies/d/Dark-Knight-Rises.php\">The Dark Knight Rises</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/004.jpg\" alt=\"Batman Begins film location: Coalhouse Fort, East Tilbury, Essex\"><figcaption>Batman Begins film location: Wayne discovered by Ducard in the ‘Bhutanese’ prison: Coalhouse Fort, East Tilbury, Essex</figcaption></figure>\n<p>▶ The ‘Bhutanese’ prison, in which Bruce Wayne (<a href=\"https://www.movie-locations.com/people/b/balec.php\">Christian Bale</a>) hits rock-bottom before being found by Henri Ducard (<a href=\"https://www.movie-locations.com/people/n/neesonl.php\">Liam Neeson</a>), is  <a href=\"http://www.coalhousefort.co.uk\" target=\"_blank\">Coalhouse Fort</a>, <span class=\"name\">East Tilbury</span>, in <a href=\"https://www.movie-locations.com/places/uk/essex.php\">Essex</a>. The Victorian fort, built around 1870, was intended to protect <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> from French invaders. It stands now in a pleasant green park on the north bank of the Thames, protected by its moat. There are occasional open days and events when you can take a look inside. The fort is a couple of miles south of East Tilbury railway station, past the village of East Tilbury itself (<span class=\"ital\">rail: East Tilbury, from London Fenchurch Street</span>). <a href=\"#1st\">⏏</a></p>\n<p>It’s off to <a href=\"https://www.movie-locations.com/places/europe/iceland.php\">Iceland</a> for the ‘Tibetan Himalayas’ scenes – chosen for the landscape’s volcanic bleakness – where Wayne flees to seek counsel with the mysterious ninja leader Ra’s Al Ghul (<a href=\"https://www.movie-locations.com/people/w/watanabek.php\">Ken Watanabe</a>), which were filmed at <span class=\"name\">Öræfasveit</span>, <span class=\"name\">Vatnajökuls</span> and <span class=\"name\">Svínafellsjökuls</span>. Although  an exterior set was built at <span class=\"name\">Cardington</span>, the swordfight between Wayne and Ducard really was filmed on the location’s glacial ice.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/005.jpg\" alt=\"Batman Begins film location: Chicago Board of Trade Building, 141 West Jackson Boulevard, Chicago\"><figcaption>Batman Begins film location: the HQ of Wayne Enterprises: Chicago Board of Trade Building, 141 West Jackson Boulevard, Chicago</figcaption></figure>\n<p>▶ The ‘Wayne Enterprises’ HQ towering over the city is <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>. It’s the landmark <span class=\"name\">Board of Trade Building, 141 West Jackson Boulevard</span>, at the foot of LaSalle Street. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/006.jpg\" alt=\"Batman Begins film location: Garrick Theatrel Charing Cross Road, London WC2\"><figcaption>Batman Begins film location: young Bruce Wayne is spooked by the batty opera: Garrick Theatre, Charing Cross Road, London WC2 | Photograph: Alamy Stock Photo / Kirsty McLaren</figcaption></figure>\n<p>▶ The ‘Gotham’ opera house, in which a young Bruce Wayne is spooked by an unfortunately bat-infested production, is more usually home to light comedy. It’s the <a href=\"http://www.garrick-theatre.co.uk/\" target=\"_blank\">Garrick Theatre</a>, <span class=\"name\">Charing Cross Road, WC2</span>, in the heart of <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>’s West End (<span class=\"ital\">Tube: Leicester Square, Northern and Piccadilly Lines</span>). <a href=\"#1st\">⏏</a></p>\n<p>The murder of Bruce’s parents by Joe Chill was filmed on the ‘Gotham’ street set at <span class=\"name\">Cardington</span>. </p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/007.jpg\" alt=\"Batman Begins film location: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1\"><figcaption>Batman Begins film location: ‘Gotham City Police Station’ – and the ‘Shanghai’ warehouse: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1</figcaption></figure>\n<p>▶ The first floor offices of the <span class=\"name\">The Farmiloe Building, 28-36 St John Street, Clerkenwell</span>, <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> <span class=\"name\">EC1</span>, were transformed into ‘Gotham City Police Station’, in which Sergeant Gordon (<a href=\"https://www.movie-locations.com/people/o/oldmang.php\">Gary Oldman</a>) works and, with an eye to economy, the film’s ‘Shanghai’ warehouse was filmed in the same building, and both sequels, <a href=\"https://www.movie-locations.com/movies/d/Dark-Knight.php\">The Dark Knight</a> and <a href=\"https://www.movie-locations.com/movies/d/Dark-Knight-Rises.php\">The Dark Knight Rises</a>, return to the location. <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a> also used the <span class=\"name\">Farmiloe</span> as the pharmacy in <a href=\"https://www.movie-locations.com/movies/i/Inception.php\">Inception</a>. Its all-purpose interior can also be seen in <a href=\"https://www.movie-locations.com/movies/t/Tinker-Tailor-Soldier-Spy.php\">Tinker Tailor Soldier Spy</a>, <a href=\"https://www.movie-locations.com/movies/m/Mission-Impossible-Rogue-Nation.php\">Mission: Impossible – Rogue Nation</a> and <a href=\"https://www.movie-locations.com/movies/l/Legend-2015.php\">Legend</a>.</p>\n<p>You might have seen the Italianate Victorian frontage of the building  as the ‘Trans Siberian’ restaurant of ruthless patriarch Semyon (<a href=\"https://www.movie-locations.com/people/m/muellerstahla.php\">Armin Mueller-Stahl</a>) in <a href=\"https://www.movie-locations.com/people/c/cronenbergd.php\">David Cronenberg</a>’s <a href=\"https://www.movie-locations.com/movies/e/Eastern-Promises.php\">Eastern Promises</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/008.jpg\" alt=\"Batman Begins film location: West Lake Street at Franklin Street, Chicago\"><figcaption>Batman Begins film location: Bruce Wayne disappears over the rooftops: West Lake Street at Franklin Street, Chicago</figcaption></figure>\n<p>▶ But after visiting Sergeant Gordon, Bruce Wayne’s disappearance into the night was filmed on the rooftops of the buildings on the south side of <span class=\"name\">West Lake Street</span> at the junction with <span class=\"name\">Franklin Street</span> in <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/009.jpg\" alt=\"Batman Begins film location: Jewelers Building, 35 East Wacker Drive, Chicago\"><figcaption>Batman Begins film location: Joe Chill’s trial in the ‘City of Gotham State Courts’: Jewelers Building, 35 East Wacker Drive, Chicago</figcaption></figure>\n<p>▶ The ‘City of Gotham State Courts’, in which Joe Chill stands trial, is a mixture of locations. The elaborate exterior is <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>: the <span class=\"name\">Jewelers Building, 35 East Wacker Drive</span>, on the Chicago River. Much later, after delivering up crime boss Falcone (<a href=\"https://www.movie-locations.com/people/w/wilkinsont.php\">Tom Wilkinson</a>) to the law, Batman surveys the city from atop the skyscraper’s elaborate ornamentation.</p>\n<p>Built in 1926 as a centre for the diamond business, one of the tower’s security features was a huge lift which could carry cars up to the 22nd floor before the precious cargo needed to be unloaded (though this was dismantled in the early 40s). It’s dome once housed the Stratosphere Lounge, a speakeasy owned – according to legend – by <span class=\"name\">Al Capone</span>.</p>\n<p>It’s atop the <span class=\"name\">Jewelers Building</span> that Sentinel Prime sets up the Pillars to open up a space bridge in <a href=\"https://www.movie-locations.com/movies/t/Transformers-Dark-Of-The-Moon.php\">Transformers: Dark Of The Moon</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/010.jpg\" alt=\"Batman Begins film location: Senate House, University of London, Malet Street\"><figcaption>Batman Begins film location: Joe Chill is gunned down in the ‘City of Gotham State Courts’: Senate House, University of London, Malet Street</figcaption></figure>\n<p>▶ The ‘Gotham courts’ lobby, in which Chill is gunned down by one of Falcone’s lackeys  before a vengeful Bruce Wayne can do the job himself, is <span class=\"name\">Senate House, University of London, Malet Street</span>, <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> <span class=\"name\">WC1</span>, seen as ‘New York’ in <a href=\"https://www.movie-locations.com/people/s/scottt.php\">Tony Scott</a>'s vampire flick <span class=\"name\">The Hunger</span> and as the CIA HQ in the same director’s <a href=\"https://www.movie-locations.com/movies/s/Spy-Game.php\">Spy Game</a>,  as as well as the king’s bunker in <span class=\"name\">Richard Loncraine</span>'s <a href=\"https://www.movie-locations.com/movies/r/Richard-III-1995.php\">Richard III</a>, with <a href=\"https://www.movie-locations.com/people/m/mckelleni.php\">Ian McKellen</a>, and more recently as ‘the best restaurant in Moscow’ in <a href=\"https://www.movie-locations.com/people/b/branaghk.php\">Kenneth Branagh</a>’s <a href=\"https://www.movie-locations.com/movies/j/Jack-Ryan-Shadow-Recruit.php\">Jack Ryan: Shadow Recruit</a>.</p>\n<p>The location is revisited for sequel <a href=\"https://www.movie-locations.com/movies/d/Dark-Knight.php\">The Dark Knight</a>. Its brutalist exterior is said to have inspired the look of the ‘Ministry of Truth’ in <span class=\"name\">George Orwell</span>’s <span class=\"name\">Nineteen Eighty-Four</span>, and indeed it is used in <a href=\"https://www.movie-locations.com/people/r/radfordm.php\">Michael Radford</a>’s 1984 film version. It’s not normally open to the public. <a href=\"#1st\">⏏</a></p>\n<p>▶ The 'Gotham’ docks, where Bruce Wayne makes his first fully-fledged appearance as Batman, is <a href=\"https://www.cruiseandmaritime.com/london-tilbury-port-information\" target=\"_blank\">Tilbury Docks</a> in <a href=\"https://www.movie-locations.com/places/uk/essex.php\">Essex</a> (which you’ve probably seen in <a href=\"https://www.movie-locations.com/movies/i/Indiana-Jones-And-The-Last-Crusade.php\">Indiana Jones and the Last Crusade</a>, as the ‘Venice’ waterfront). <a href=\"#1st\">⏏</a></p>\n<p>▶ Lucius Fox (<a href=\"https://www.movie-locations.com/people/f/freemanm.php\">Morgan Freeman</a>) demonstrates the Tumbler, later to become the Batmobile (though it’s never referred to as such in the film), in the vast and empty space of the <span class=\"name\">Event Hall</span> at the <span class=\"name\">ExCel Centre</span>, <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> <span class=\"name\">E16, </span>the Exhibition and Conference Centre in the glossy new <span class=\"name\">Docklands</span> highrise complex. <a href=\"#1st\">⏏</a></p>\n<p>▶ Conveniently for the filmmakers, Bruce Wayne, in debauched playboy mode, bumps into Rachel Dawes (<a href=\"https://www.movie-locations.com/people/h/holmesk.php\">Katie Holmes</a>) in <span class=\"name\">Terence Conran</span>'s restaurant <a href=\"http://www.plateau-restaurant.co.uk\" target=\"_blank\">Plateau</a>, on the fourth floor of <span class=\"name\">Canada Place, Canada Square</span>, in the same complex. As you can see from the film, it’s a designer restaurant with great views over Canary Wharf. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/011.jpg\" alt=\"Batman Begins film location: CityPoint, Ropemaker Street, London EC2\"><figcaption>Batman Begins film location: Bruce Wayne arrives at the ‘Gotham City’ restaurant: CityPoint, Ropemaker Street, London EC2</figcaption></figure>\n<p>▶ The exterior of the restaurant, by the way, isn’t <span class=\"name\">Docklands</span> at all, but <span class=\"name\">CityPoint, Ropemaker Street</span>, <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> <span class=\"name\">EC2</span>, near Moorgate. The same striking ‘eyelid’ entrance also stands in for the entrance to 'Innovative Online Industries' in <a href=\"https://www.movie-locations.com/people/s/spielbergs.php\">Steven Spielberg</a>'s <a href=\"https://www.movie-locations.com/movies/r/Ready-Player-One.php\">Ready Player One</a>, appears as the quarantined Docklands area in <span class=\"name\">28 Weeks Later...</span> and is also where <a href=\"https://www.movie-locations.com/people/a/allenw.php\">Woody Allen</a> and <a href=\"https://www.movie-locations.com/people/j/johanssons.php\">Scarlett Johansson</a> spy on <a href=\"https://www.movie-locations.com/people/j/jackmanh.php\">Hugh Jackman</a> in <span class=\"name\">Scoop</span>.</p>\n<p>By the way, it's alongside CityPoint, just around the corner on Ropemaker Street, that the Ancient One plummets to earth (supposedly in 'New York') in <a href=\"https://www.movie-locations.com/movies/d/Doctor-Strange.php\">Doctor Strange</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/012.jpg\" alt=\"Batman Begins film location: The Franklin Street Bridge, Chicago\"><figcaption>Batman Begins film location: ‘Gotham City’s link to ‘The Narrows’: The Franklin Street Bridge, Chicago</figcaption></figure>\n<p>▶ There’s quite a bit of location trickery with Dr Crane’s asylum. ‘The Narrows' is reached by <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>'s <span class=\"name\">Franklin Street Bridge</span>, at the northern end of Franklin Street, linking the Loop to the Near North Side area (<span class=\"ital\">CTA: Clark/Lake Station; Blue, Orange, Pink, Green, Brown and Purple Lines</span>). Like <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>’s Tower Bridge, it’s a bascule bridge in two sections, which can be raised to allow river traffic – or to seal off the Narrows, of course...  <a href=\"#1st\">⏏</a></p>\n<p>▶ ‘Arkham Asylum’ itself, though, is in <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>. The exterior was the severe 40s-style <span class=\"name\">National Institute for Medical Research, the Ridgeway</span> at Burtonhole Lane, <span class=\"name\">Mill Hill, NW7</span>, north <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>. The impressively brooding building was demolished in 2018.<a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/013.jpg\" alt=\"Batman filming location: St Pancras Renaissance Hotel, Euston Road, London NW1\"><figcaption>Batman Begins film location: ‘Arkham Asylum’ interior: St Pancras Renaissance Hotel, Euston Road, London NW1 | Photograph: Paul Street / Alamy Stock Photo</figcaption></figure>\n<p>▶ The interior stairwell,  where the SWAT team encounters a flock of bats, though, is the elaborate Gothic stairwell of St Pancras Chambers, attached to what is now <a href=\"https://www.marriott.com/en-us/hotels/lonpk-st-pancras-london-autograph-collection/overview/\" target=\"_blank\">St Pancras London Hotel</a>, <span class=\"name\">Euston Road, London NW1</span>, originally <span class=\"name\">Sir George Gilbert Scott</span>’s Midland Grand Hotel, a lavish palace of luxury for Victorian travellers.</p>\n<p>The last word in comfort when it opened in 1873, the hotel was soon overtaken by changing demands. Ironically, the building’s solid construction proved its downfall. Unable to accommodate such modern improvements as en-suite bathrooms and central heating, the hotel inevitably closed down.\t  </p>\n<p>Its ceilings were boarded over, its lavish rooms divided up into offices, and in the Sixties the wildly unfashionable extravaganza came close to being demolished. Grade I listing finally ensured its survival and radical restoration means that it is functioning as a luxury hotel once again, the <a href=\"http://www.marriott.co.uk/hotels/travel/lonpr-st-pancras-renaissance-hotel-london/\" target=\"_blank\">St Pancras Renaissance Hotel</a>.</p>\n<p>In 1989, while it was closed, its <span class=\"name\">Ladies Smoking Room</span> became the office of the ‘Gotham Globe’ in <a href=\"https://www.movie-locations.com/people/b/burtont.php\">Tim Burton</a>’s <a href=\"https://www.movie-locations.com/movies/b/Batman-1989.php\">Batman</a>.</p>\n<p>The old St Pancras Chambers was an asylum, too, in <a href=\"https://www.movie-locations.com/people/a/attenboroughr.php\">Richard Attenborough</a>'s 1992 biopic <a href=\"https://www.movie-locations.com/movies/c/Chaplin.php\">Chaplin</a>, in which Charlie’s mother (<a href=\"https://www.movie-locations.com/people/c/chapling.php\">Geraldine Chaplin</a>) is confined after her mental breakdown, and was also seen in the 1976 WWII melodrama <span class=\"name\">Voyage of the Damned</span>, and in <span class=\"name\">Robert Bierman</span>’s 1997 film of <span class=\"name\">George Orwell</span>’s <span class=\"name\">Keep the Aspidistra Flying</span>, with <a href=\"https://www.movie-locations.com/people/g/grantre.php\">Richard E Grant</a>.</p>\n<p>Oh, and you might also recognise the elaborate stairwell from the first <span class=\"name\">Spice Girls</span> video<span class=\"ital\">Wannabe</span>, or did you spot it in <a href=\"https://www.movie-locations.com/people/r/russellk.php\">Ken Russell</a>'s 1974 <a href=\"https://www.movie-locations.com/movies/m/Mahler.php\">Mahler</a>, with <a href=\"https://www.movie-locations.com/people/p/powellr.php\">Robert Powell</a> as the composer.. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/014.jpg\" alt=\"Batman Begins film location: Abbey Mills Pumping Station, Abbey Lane, West Ham, London E15\"><figcaption>Batman Begins film location: the interior of 'Arkham Asylum': Abbey Mills Pumping Station, Abbey Lane, West Ham, London E15 | Photograph: wikimedia / Gordon Joly</figcaption></figure>\n<p>▶ The industrial Gothic interior of the ‘Arkham Asylum’ laboratory, in which Dr Crane, aka The Scarecrow, (<a href=\"https://www.movie-locations.com/people/m/murphyc.php\">Cillian Murphy</a>) manufactures vast quantities of ‘psychotropic hallucinogen’, was filmed in the<span class=\"name\"> Abbey Mills Pumping Station, Abbey Lane, E15</span>, in <span class=\"name\">West Ham</span>. It’s a sewage pumping station, but the Victorians were not ones to stint on the decoration. Built in the 1860s as part of engineer <span class=\"name\">Joseph Bazalgette</span>’s new sewerage system,  it’s rightly regarded as one of the great – if not most glamorous – wonders of the industrial age.</p>\n<p>The <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> sewers slope gently from west to east, so that the contents flow naturally under gravity, but this means that on reaching the East End, they are deep underground. The function of this strikingly Byzantine facility was simply to pump vast amounts of poo high enough for it to flow downhill away from the city and into the Thames.\t  </p>\n<p>The station has since been used for the filming of   <span class=\"name\">Gerald McMorrow</span>’s dystopian sci-fi <span class=\"name\">Franklyn</span>, with <a href=\"https://www.movie-locations.com/people/g/greene.php\">Eva Green</a>, <span class=\"name\">Sam Riley</span> and <a href=\"https://www.movie-locations.com/people/p/phillipper.php\">Ryan Phillippe</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/015.jpg\" alt=\"Batman Begins film location: LaSalle Street at West Quincy, Chicago\"><figcaption>Batman Begins film location: the race to get the antidote: LaSalle Street at West Quincy, Chicago</figcaption></figure>\n<p>▶ After Rachel receives a nasty sample of The Scarecrow’s panic-inducing toxin, Batman races to get her to the antidote – but by a strangely circuitous route through the <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a> <span class=\"name\">Loop</span>.</p>\n<p>From the <span class=\"name\">Franklin Street Bridge</span>, he’s suddenly careering west, about seven blocks to the south, on<span class=\"name\"> Jackson Boulevard</span> at <span class=\"name\">LaSalle Street</span> (which is right in front of the building used as ‘Wayne Enterprises’), then heading north on <span class=\"name\">LaSalle Street</span> itself (towards the same spot) before swerving east into <span class=\"name\">West Quincy Street</span> (a dead end).</p>\n<p> The grand pillared building in the background here, by the way, is the ‘US Post Office’ raided by Eliot Ness and crew in <a href=\"https://www.movie-locations.com/people/d/depalmab.php\">Brian de Palma</a>’s <a href=\"https://www.movie-locations.com/movies/u/Untouchables.php\">The Untouchables</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0372784/016.jpg\" alt=\"Batman Begins film location: Randolph and Wells Parking Garage, North Wells Street, Chicago\"><figcaption>Batman Begins film location: the start of the rooftop chase: Randolph and Wells Parking Garage, North Wells Street, Chicago</figcaption></figure>\n<p>▶ He takes a short cut, into  the <span class=\"name\">Randolph and Wells Parking Garage</span>, <span class=\"name\">North Wells Street</span> between Randolph and Lake Streets in the northwest section of the Loop, swirling up the circular ramp for the spectacular rooftop chase (largely filmed in the studio using miniatures).    <a href=\"#1st\">⏏</a></p>\n<p>▶ The chase continues along <span class=\"name\"> Lower Wacker Drive</span>, the lower level of the double-decker highway bordering the Chicago River, running along the northwest border of the Loop <a href=\"#1st\">⏏</a></p>\n<p>▶ It leads onto the ‘Gotham freeway’ – which is the <span class=\"name\">Amstutz Expressway</span>, a two-mile stretch of highway in downtown <span class=\"name\">Waukegan</span>, north of the city. The highway’s intended  link to <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a> was never built, which makes the near-forgotten stretch of road ideal for filming. <a href=\"#1st\">⏏</a></p>",
+  "main_content_text": "‘Gotham City’ (recreated on sets for the Tim Burton films) is a mix of sinisterly deco locations around Chicago and London, knitted seamlessly together, as well as some pretty impressive sets at Shepperton Studios and in one of the two gigantic airship hangars at Cardington, a couple of miles southeast of Bedford in Bedfordshire (rail: Bedford, from London Euston or King’s Cross). Both subsequent films, The Dark Knight and The Dark Knight Rises, returned to Cardington. The hangars have since been used to house the vast 'New York Docks' set for Fantastic Beasts And Where To Find Them.\n\nForget Wham!, Pow! and 60s camp. And even Burton’s darkly Gothic Batman starts to look lightweight. Christopher Nolan (Memento) – famously working without a second unit – delivers a grittily realistic reboot of the Caped Crusader myth.\n\n▶ ‘Wayne Manor’, after its previous sojourns in the US, returns to the UK. It’s Mentmore Towers in Mentmore, Buckinghamshire, also seen as the exterior of the ‘Long Island’ orgy mansion in Stanley Kubrick's Eyes Wide Shut, as a restaurant in Terry Gilliam's Brazil and in both The Mummy and The Mummy Returns. The house, just to the north of Cheddington station, on the West Coast Main Line between London Euston and Milton Keynes, is is currently closed after plans to convert it into a hotel fell through.\n\nMentmore Towers is a Victorian extravagance built in 1854 for the Rothschild banking family, and based on the genuine Tudor mansion of Wollaton Hall, Nottinghamshire, in the English Midlands. Guess where you can see Wollaton itself? As ‘Wayne Manor’ in The Dark Knight Rises. ⏏\n\n▶ The ‘Bhutanese’ prison, in which Bruce Wayne (Christian Bale) hits rock-bottom before being found by Henri Ducard (Liam Neeson), is Coalhouse Fort, East Tilbury, in Essex. The Victorian fort, built around 1870, was intended to protect London from French invaders. It stands now in a pleasant green park on the north bank of the Thames, protected by its moat. There are occasional open days and events when you can take a look inside. The fort is a couple of miles south of East Tilbury railway station, past the village of East Tilbury itself (rail: East Tilbury, from London Fenchurch Street). ⏏\n\nIt’s off to Iceland for the ‘Tibetan Himalayas’ scenes – chosen for the landscape’s volcanic bleakness – where Wayne flees to seek counsel with the mysterious ninja leader Ra’s Al Ghul (Ken Watanabe), which were filmed at Öræfasveit, Vatnajökuls and Svínafellsjökuls. Although an exterior set was built at Cardington, the swordfight between Wayne and Ducard really was filmed on the location’s glacial ice.\n\n▶ The ‘Wayne Enterprises’ HQ towering over the city is Chicago. It’s the landmark Board of Trade Building, 141 West Jackson Boulevard, at the foot of LaSalle Street. ⏏\n\n▶ The ‘Gotham’ opera house, in which a young Bruce Wayne is spooked by an unfortunately bat-infested production, is more usually home to light comedy. It’s the Garrick Theatre, Charing Cross Road, WC2, in the heart of London’s West End (Tube: Leicester Square, Northern and Piccadilly Lines). ⏏\n\nThe murder of Bruce’s parents by Joe Chill was filmed on the ‘Gotham’ street set at Cardington.\n\n▶ The first floor offices of the The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1, were transformed into ‘Gotham City Police Station’, in which Sergeant Gordon (Gary Oldman) works and, with an eye to economy, the film’s ‘Shanghai’ warehouse was filmed in the same building, and both sequels, The Dark Knight and The Dark Knight Rises, return to the location. Christopher Nolan also used the Farmiloe as the pharmacy in Inception. Its all-purpose interior can also be seen in Tinker Tailor Soldier Spy, Mission: Impossible – Rogue Nation and Legend.\n\nYou might have seen the Italianate Victorian frontage of the building as the ‘Trans Siberian’ restaurant of ruthless patriarch Semyon (Armin Mueller-Stahl) in David Cronenberg’s Eastern Promises. ⏏\n\n▶ But after visiting Sergeant Gordon, Bruce Wayne’s disappearance into the night was filmed on the rooftops of the buildings on the south side of West Lake Street at the junction with Franklin Street in Chicago. ⏏\n\n▶ The ‘City of Gotham State Courts’, in which Joe Chill stands trial, is a mixture of locations. The elaborate exterior is Chicago: the Jewelers Building, 35 East Wacker Drive, on the Chicago River. Much later, after delivering up crime boss Falcone (Tom Wilkinson) to the law, Batman surveys the city from atop the skyscraper’s elaborate ornamentation.\n\nBuilt in 1926 as a centre for the diamond business, one of the tower’s security features was a huge lift which could carry cars up to the 22nd floor before the precious cargo needed to be unloaded (though this was dismantled in the early 40s). It’s dome once housed the Stratosphere Lounge, a speakeasy owned – according to legend – by Al Capone.\n\nIt’s atop the Jewelers Building that Sentinel Prime sets up the Pillars to open up a space bridge in Transformers: Dark Of The Moon. ⏏\n\n▶ The ‘Gotham courts’ lobby, in which Chill is gunned down by one of Falcone’s lackeys before a vengeful Bruce Wayne can do the job himself, is Senate House, University of London, Malet Street, London WC1, seen as ‘New York’ in Tony Scott's vampire flick The Hunger and as the CIA HQ in the same director’s Spy Game, as as well as the king’s bunker in Richard Loncraine's Richard III, with Ian McKellen, and more recently as ‘the best restaurant in Moscow’ in Kenneth Branagh’s Jack Ryan: Shadow Recruit.\n\nThe location is revisited for sequel The Dark Knight. Its brutalist exterior is said to have inspired the look of the ‘Ministry of Truth’ in George Orwell’s Nineteen Eighty-Four, and indeed it is used in Michael Radford’s 1984 film version. It’s not normally open to the public. ⏏\n\n▶ The 'Gotham’ docks, where Bruce Wayne makes his first fully-fledged appearance as Batman, is Tilbury Docks in Essex (which you’ve probably seen in Indiana Jones and the Last Crusade, as the ‘Venice’ waterfront). ⏏\n\n▶ Lucius Fox (Morgan Freeman) demonstrates the Tumbler, later to become the Batmobile (though it’s never referred to as such in the film), in the vast and empty space of the Event Hall at the ExCel Centre, London E16, the Exhibition and Conference Centre in the glossy new Docklands highrise complex. ⏏\n\n▶ Conveniently for the filmmakers, Bruce Wayne, in debauched playboy mode, bumps into Rachel Dawes (Katie Holmes) in Terence Conran's restaurant Plateau, on the fourth floor of Canada Place, Canada Square, in the same complex. As you can see from the film, it’s a designer restaurant with great views over Canary Wharf. ⏏\n\n▶ The exterior of the restaurant, by the way, isn’t Docklands at all, but CityPoint, Ropemaker Street, London EC2, near Moorgate. The same striking ‘eyelid’ entrance also stands in for the entrance to 'Innovative Online Industries' in Steven Spielberg's Ready Player One, appears as the quarantined Docklands area in 28 Weeks Later... and is also where Woody Allen and Scarlett Johansson spy on Hugh Jackman in Scoop.\n\nBy the way, it's alongside CityPoint, just around the corner on Ropemaker Street, that the Ancient One plummets to earth (supposedly in 'New York') in Doctor Strange. ⏏\n\n▶ There’s quite a bit of location trickery with Dr Crane’s asylum. ‘The Narrows' is reached by Chicago's Franklin Street Bridge, at the northern end of Franklin Street, linking the Loop to the Near North Side area (CTA: Clark/Lake Station; Blue, Orange, Pink, Green, Brown and Purple Lines). Like London’s Tower Bridge, it’s a bascule bridge in two sections, which can be raised to allow river traffic – or to seal off the Narrows, of course... ⏏\n\n▶ ‘Arkham Asylum’ itself, though, is in London. The exterior was the severe 40s-style National Institute for Medical Research, the Ridgeway at Burtonhole Lane, Mill Hill, NW7, north London. The impressively brooding building was demolished in 2018.⏏\n\n▶ The interior stairwell, where the SWAT team encounters a flock of bats, though, is the elaborate Gothic stairwell of St Pancras Chambers, attached to what is now St Pancras London Hotel, Euston Road, London NW1, originally Sir George Gilbert Scott’s Midland Grand Hotel, a lavish palace of luxury for Victorian travellers.\n\nThe last word in comfort when it opened in 1873, the hotel was soon overtaken by changing demands. Ironically, the building’s solid construction proved its downfall. Unable to accommodate such modern improvements as en-suite bathrooms and central heating, the hotel inevitably closed down.\n\nIts ceilings were boarded over, its lavish rooms divided up into offices, and in the Sixties the wildly unfashionable extravaganza came close to being demolished. Grade I listing finally ensured its survival and radical restoration means that it is functioning as a luxury hotel once again, the St Pancras Renaissance Hotel.\n\nIn 1989, while it was closed, its Ladies Smoking Room became the office of the ‘Gotham Globe’ in Tim Burton’s Batman.\n\nThe old St Pancras Chambers was an asylum, too, in Richard Attenborough's 1992 biopic Chaplin, in which Charlie’s mother (Geraldine Chaplin) is confined after her mental breakdown, and was also seen in the 1976 WWII melodrama Voyage of the Damned, and in Robert Bierman’s 1997 film of George Orwell’s Keep the Aspidistra Flying, with Richard E Grant.\n\nOh, and you might also recognise the elaborate stairwell from the first Spice Girls videoWannabe, or did you spot it in Ken Russell's 1974 Mahler, with Robert Powell as the composer.. ⏏\n\n▶ The industrial Gothic interior of the ‘Arkham Asylum’ laboratory, in which Dr Crane, aka The Scarecrow, (Cillian Murphy) manufactures vast quantities of ‘psychotropic hallucinogen’, was filmed in the Abbey Mills Pumping Station, Abbey Lane, E15, in West Ham. It’s a sewage pumping station, but the Victorians were not ones to stint on the decoration. Built in the 1860s as part of engineer Joseph Bazalgette’s new sewerage system, it’s rightly regarded as one of the great – if not most glamorous – wonders of the industrial age.\n\nThe London sewers slope gently from west to east, so that the contents flow naturally under gravity, but this means that on reaching the East End, they are deep underground. The function of this strikingly Byzantine facility was simply to pump vast amounts of poo high enough for it to flow downhill away from the city and into the Thames.\n\nThe station has since been used for the filming of Gerald McMorrow’s dystopian sci-fi Franklyn, with Eva Green, Sam Riley and Ryan Phillippe. ⏏\n\n▶ After Rachel receives a nasty sample of The Scarecrow’s panic-inducing toxin, Batman races to get her to the antidote – but by a strangely circuitous route through the Chicago Loop.\n\nFrom the Franklin Street Bridge, he’s suddenly careering west, about seven blocks to the south, on Jackson Boulevard at LaSalle Street (which is right in front of the building used as ‘Wayne Enterprises’), then heading north on LaSalle Street itself (towards the same spot) before swerving east into West Quincy Street (a dead end).\n\nThe grand pillared building in the background here, by the way, is the ‘US Post Office’ raided by Eliot Ness and crew in Brian de Palma’s The Untouchables. ⏏\n\n▶ He takes a short cut, into the Randolph and Wells Parking Garage, North Wells Street between Randolph and Lake Streets in the northwest section of the Loop, swirling up the circular ramp for the spectacular rooftop chase (largely filmed in the studio using miniatures). ⏏\n\n▶ The chase continues along Lower Wacker Drive, the lower level of the double-decker highway bordering the Chicago River, running along the northwest border of the Loop ⏏\n\n▶ It leads onto the ‘Gotham freeway’ – which is the Amstutz Expressway, a two-mile stretch of highway in downtown Waukegan, north of the city. The highway’s intended link to Chicago was never built, which makes the near-forgotten stretch of road ideal for filming. ⏏",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: ‘Arkham Asylum’ exterior: National Institute for Medical Research, the Ridgeway, Mill Hill, London NW7 (since demolished)",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/001.jpg",
+      "alt": "Batman Begins film location: National Institute for Medical Research, the Ridgeway, Mill Hill, London NW7"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Gotham City’ (recreated on sets for the Tim Burton films) is a mix of sinisterly deco locations around Chicago and London, knitted seamlessly together, as well as some pretty impressive sets at Shepperton Studios and in one of the two gigantic airship hangars at Cardington, a couple of miles southeast of Bedford in Bedfordshire (rail: Bedford, from London Euston or King’s Cross). Both subsequent films, The Dark Knight and The Dark Knight Rises, returned to Cardington. The hangars have since been used to house the vast 'New York Docks' set for Fantastic Beasts And Where To Find Them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Forget Wham!, Pow! and 60s camp. And even Burton’s darkly Gothic Batman starts to look lightweight. Christopher Nolan (Memento) – famously working without a second unit – delivers a grittily realistic reboot of the Caped Crusader myth."
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: 'Wayne Manor': Mentmore Towers, Mentmore, Buckinghamshire | Photograph: Alamy / Robert Stainforth",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/003.jpg",
+      "alt": "Batman Begins film location: Mentmore Towers, Mentmore, Buckinghamshire"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ ‘Wayne Manor’, after its previous sojourns in the US, returns to the UK. It’s Mentmore Towers in Mentmore, Buckinghamshire, also seen as the exterior of the ‘Long Island’ orgy mansion in Stanley Kubrick's Eyes Wide Shut, as a restaurant in Terry Gilliam's Brazil and in both The Mummy and The Mummy Returns. The house, just to the north of Cheddington station, on the West Coast Main Line between London Euston and Milton Keynes, is is currently closed after plans to convert it into a hotel fell through."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mentmore Towers is a Victorian extravagance built in 1854 for the Rothschild banking family, and based on the genuine Tudor mansion of Wollaton Hall, Nottinghamshire, in the English Midlands. Guess where you can see Wollaton itself? As ‘Wayne Manor’ in The Dark Knight Rises. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: Wayne discovered by Ducard in the ‘Bhutanese’ prison: Coalhouse Fort, East Tilbury, Essex",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/004.jpg",
+      "alt": "Batman Begins film location: Coalhouse Fort, East Tilbury, Essex"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The ‘Bhutanese’ prison, in which Bruce Wayne (Christian Bale) hits rock-bottom before being found by Henri Ducard (Liam Neeson), is Coalhouse Fort, East Tilbury, in Essex. The Victorian fort, built around 1870, was intended to protect London from French invaders. It stands now in a pleasant green park on the north bank of the Thames, protected by its moat. There are occasional open days and events when you can take a look inside. The fort is a couple of miles south of East Tilbury railway station, past the village of East Tilbury itself (rail: East Tilbury, from London Fenchurch Street). ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s off to Iceland for the ‘Tibetan Himalayas’ scenes – chosen for the landscape’s volcanic bleakness – where Wayne flees to seek counsel with the mysterious ninja leader Ra’s Al Ghul (Ken Watanabe), which were filmed at Öræfasveit, Vatnajökuls and Svínafellsjökuls. Although an exterior set was built at Cardington, the swordfight between Wayne and Ducard really was filmed on the location’s glacial ice."
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: the HQ of Wayne Enterprises: Chicago Board of Trade Building, 141 West Jackson Boulevard, Chicago",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/005.jpg",
+      "alt": "Batman Begins film location: Chicago Board of Trade Building, 141 West Jackson Boulevard, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The ‘Wayne Enterprises’ HQ towering over the city is Chicago. It’s the landmark Board of Trade Building, 141 West Jackson Boulevard, at the foot of LaSalle Street. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: young Bruce Wayne is spooked by the batty opera: Garrick Theatre, Charing Cross Road, London WC2 | Photograph: Alamy Stock Photo / Kirsty McLaren",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/006.jpg",
+      "alt": "Batman Begins film location: Garrick Theatrel Charing Cross Road, London WC2"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The ‘Gotham’ opera house, in which a young Bruce Wayne is spooked by an unfortunately bat-infested production, is more usually home to light comedy. It’s the Garrick Theatre, Charing Cross Road, WC2, in the heart of London’s West End (Tube: Leicester Square, Northern and Piccadilly Lines). ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "The murder of Bruce’s parents by Joe Chill was filmed on the ‘Gotham’ street set at Cardington."
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: ‘Gotham City Police Station’ – and the ‘Shanghai’ warehouse: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/007.jpg",
+      "alt": "Batman Begins film location: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The first floor offices of the The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1, were transformed into ‘Gotham City Police Station’, in which Sergeant Gordon (Gary Oldman) works and, with an eye to economy, the film’s ‘Shanghai’ warehouse was filmed in the same building, and both sequels, The Dark Knight and The Dark Knight Rises, return to the location. Christopher Nolan also used the Farmiloe as the pharmacy in Inception. Its all-purpose interior can also be seen in Tinker Tailor Soldier Spy, Mission: Impossible – Rogue Nation and Legend."
+    },
+    {
+      "type": "paragraph",
+      "text": "You might have seen the Italianate Victorian frontage of the building as the ‘Trans Siberian’ restaurant of ruthless patriarch Semyon (Armin Mueller-Stahl) in David Cronenberg’s Eastern Promises. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: Bruce Wayne disappears over the rooftops: West Lake Street at Franklin Street, Chicago",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/008.jpg",
+      "alt": "Batman Begins film location: West Lake Street at Franklin Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ But after visiting Sergeant Gordon, Bruce Wayne’s disappearance into the night was filmed on the rooftops of the buildings on the south side of West Lake Street at the junction with Franklin Street in Chicago. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: Joe Chill’s trial in the ‘City of Gotham State Courts’: Jewelers Building, 35 East Wacker Drive, Chicago",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/009.jpg",
+      "alt": "Batman Begins film location: Jewelers Building, 35 East Wacker Drive, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The ‘City of Gotham State Courts’, in which Joe Chill stands trial, is a mixture of locations. The elaborate exterior is Chicago: the Jewelers Building, 35 East Wacker Drive, on the Chicago River. Much later, after delivering up crime boss Falcone (Tom Wilkinson) to the law, Batman surveys the city from atop the skyscraper’s elaborate ornamentation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Built in 1926 as a centre for the diamond business, one of the tower’s security features was a huge lift which could carry cars up to the 22nd floor before the precious cargo needed to be unloaded (though this was dismantled in the early 40s). It’s dome once housed the Stratosphere Lounge, a speakeasy owned – according to legend – by Al Capone."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s atop the Jewelers Building that Sentinel Prime sets up the Pillars to open up a space bridge in Transformers: Dark Of The Moon. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: Joe Chill is gunned down in the ‘City of Gotham State Courts’: Senate House, University of London, Malet Street",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/010.jpg",
+      "alt": "Batman Begins film location: Senate House, University of London, Malet Street"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The ‘Gotham courts’ lobby, in which Chill is gunned down by one of Falcone’s lackeys before a vengeful Bruce Wayne can do the job himself, is Senate House, University of London, Malet Street, London WC1, seen as ‘New York’ in Tony Scott's vampire flick The Hunger and as the CIA HQ in the same director’s Spy Game, as as well as the king’s bunker in Richard Loncraine's Richard III, with Ian McKellen, and more recently as ‘the best restaurant in Moscow’ in Kenneth Branagh’s Jack Ryan: Shadow Recruit."
+    },
+    {
+      "type": "paragraph",
+      "text": "The location is revisited for sequel The Dark Knight. Its brutalist exterior is said to have inspired the look of the ‘Ministry of Truth’ in George Orwell’s Nineteen Eighty-Four, and indeed it is used in Michael Radford’s 1984 film version. It’s not normally open to the public. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The 'Gotham’ docks, where Bruce Wayne makes his first fully-fledged appearance as Batman, is Tilbury Docks in Essex (which you’ve probably seen in Indiana Jones and the Last Crusade, as the ‘Venice’ waterfront). ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Lucius Fox (Morgan Freeman) demonstrates the Tumbler, later to become the Batmobile (though it’s never referred to as such in the film), in the vast and empty space of the Event Hall at the ExCel Centre, London E16, the Exhibition and Conference Centre in the glossy new Docklands highrise complex. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Conveniently for the filmmakers, Bruce Wayne, in debauched playboy mode, bumps into Rachel Dawes (Katie Holmes) in Terence Conran's restaurant Plateau, on the fourth floor of Canada Place, Canada Square, in the same complex. As you can see from the film, it’s a designer restaurant with great views over Canary Wharf. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: Bruce Wayne arrives at the ‘Gotham City’ restaurant: CityPoint, Ropemaker Street, London EC2",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/011.jpg",
+      "alt": "Batman Begins film location: CityPoint, Ropemaker Street, London EC2"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The exterior of the restaurant, by the way, isn’t Docklands at all, but CityPoint, Ropemaker Street, London EC2, near Moorgate. The same striking ‘eyelid’ entrance also stands in for the entrance to 'Innovative Online Industries' in Steven Spielberg's Ready Player One, appears as the quarantined Docklands area in 28 Weeks Later... and is also where Woody Allen and Scarlett Johansson spy on Hugh Jackman in Scoop."
+    },
+    {
+      "type": "paragraph",
+      "text": "By the way, it's alongside CityPoint, just around the corner on Ropemaker Street, that the Ancient One plummets to earth (supposedly in 'New York') in Doctor Strange. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: ‘Gotham City’s link to ‘The Narrows’: The Franklin Street Bridge, Chicago",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/012.jpg",
+      "alt": "Batman Begins film location: The Franklin Street Bridge, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ There’s quite a bit of location trickery with Dr Crane’s asylum. ‘The Narrows' is reached by Chicago's Franklin Street Bridge, at the northern end of Franklin Street, linking the Loop to the Near North Side area (CTA: Clark/Lake Station; Blue, Orange, Pink, Green, Brown and Purple Lines). Like London’s Tower Bridge, it’s a bascule bridge in two sections, which can be raised to allow river traffic – or to seal off the Narrows, of course... ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ ‘Arkham Asylum’ itself, though, is in London. The exterior was the severe 40s-style National Institute for Medical Research, the Ridgeway at Burtonhole Lane, Mill Hill, NW7, north London. The impressively brooding building was demolished in 2018.⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: ‘Arkham Asylum’ interior: St Pancras Renaissance Hotel, Euston Road, London NW1 | Photograph: Paul Street / Alamy Stock Photo",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/013.jpg",
+      "alt": "Batman filming location: St Pancras Renaissance Hotel, Euston Road, London NW1"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The interior stairwell, where the SWAT team encounters a flock of bats, though, is the elaborate Gothic stairwell of St Pancras Chambers, attached to what is now St Pancras London Hotel, Euston Road, London NW1, originally Sir George Gilbert Scott’s Midland Grand Hotel, a lavish palace of luxury for Victorian travellers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The last word in comfort when it opened in 1873, the hotel was soon overtaken by changing demands. Ironically, the building’s solid construction proved its downfall. Unable to accommodate such modern improvements as en-suite bathrooms and central heating, the hotel inevitably closed down."
+    },
+    {
+      "type": "paragraph",
+      "text": "Its ceilings were boarded over, its lavish rooms divided up into offices, and in the Sixties the wildly unfashionable extravaganza came close to being demolished. Grade I listing finally ensured its survival and radical restoration means that it is functioning as a luxury hotel once again, the St Pancras Renaissance Hotel."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1989, while it was closed, its Ladies Smoking Room became the office of the ‘Gotham Globe’ in Tim Burton’s Batman."
+    },
+    {
+      "type": "paragraph",
+      "text": "The old St Pancras Chambers was an asylum, too, in Richard Attenborough's 1992 biopic Chaplin, in which Charlie’s mother (Geraldine Chaplin) is confined after her mental breakdown, and was also seen in the 1976 WWII melodrama Voyage of the Damned, and in Robert Bierman’s 1997 film of George Orwell’s Keep the Aspidistra Flying, with Richard E Grant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oh, and you might also recognise the elaborate stairwell from the first Spice Girls videoWannabe, or did you spot it in Ken Russell's 1974 Mahler, with Robert Powell as the composer.. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: the interior of 'Arkham Asylum': Abbey Mills Pumping Station, Abbey Lane, West Ham, London E15 | Photograph: wikimedia / Gordon Joly",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/014.jpg",
+      "alt": "Batman Begins film location: Abbey Mills Pumping Station, Abbey Lane, West Ham, London E15"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The industrial Gothic interior of the ‘Arkham Asylum’ laboratory, in which Dr Crane, aka The Scarecrow, (Cillian Murphy) manufactures vast quantities of ‘psychotropic hallucinogen’, was filmed in the Abbey Mills Pumping Station, Abbey Lane, E15, in West Ham. It’s a sewage pumping station, but the Victorians were not ones to stint on the decoration. Built in the 1860s as part of engineer Joseph Bazalgette’s new sewerage system, it’s rightly regarded as one of the great – if not most glamorous – wonders of the industrial age."
+    },
+    {
+      "type": "paragraph",
+      "text": "The London sewers slope gently from west to east, so that the contents flow naturally under gravity, but this means that on reaching the East End, they are deep underground. The function of this strikingly Byzantine facility was simply to pump vast amounts of poo high enough for it to flow downhill away from the city and into the Thames."
+    },
+    {
+      "type": "paragraph",
+      "text": "The station has since been used for the filming of Gerald McMorrow’s dystopian sci-fi Franklyn, with Eva Green, Sam Riley and Ryan Phillippe. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: the race to get the antidote: LaSalle Street at West Quincy, Chicago",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/015.jpg",
+      "alt": "Batman Begins film location: LaSalle Street at West Quincy, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ After Rachel receives a nasty sample of The Scarecrow’s panic-inducing toxin, Batman races to get her to the antidote – but by a strangely circuitous route through the Chicago Loop."
+    },
+    {
+      "type": "paragraph",
+      "text": "From the Franklin Street Bridge, he’s suddenly careering west, about seven blocks to the south, on Jackson Boulevard at LaSalle Street (which is right in front of the building used as ‘Wayne Enterprises’), then heading north on LaSalle Street itself (towards the same spot) before swerving east into West Quincy Street (a dead end)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The grand pillared building in the background here, by the way, is the ‘US Post Office’ raided by Eliot Ness and crew in Brian de Palma’s The Untouchables. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Batman Begins film location: the start of the rooftop chase: Randolph and Wells Parking Garage, North Wells Street, Chicago",
+      "src": "_assets/tt0372784%20-%20Batman-Begins/016.jpg",
+      "alt": "Batman Begins film location: Randolph and Wells Parking Garage, North Wells Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ He takes a short cut, into the Randolph and Wells Parking Garage, North Wells Street between Randolph and Lake Streets in the northwest section of the Loop, swirling up the circular ramp for the spectacular rooftop chase (largely filmed in the studio using miniatures). ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The chase continues along Lower Wacker Drive, the lower level of the double-decker highway bordering the Chicago River, running along the northwest border of the Loop ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ It leads onto the ‘Gotham freeway’ – which is the Amstutz Expressway, a two-mile stretch of highway in downtown Waukegan, north of the city. The highway’s intended link to Chicago was never built, which makes the near-forgotten stretch of road ideal for filming. ⏏"
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Illinois | Chicago</h3>\n<p>Visit: Chicago</p>\n<p>Flights: O’Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666 (tel: 800.832.6352)</p>\n<p>Travel around: Chicago Transit Authority</p>\n</section>\n<section><h3>UK | London</h3>\n<p>Flights: Heathrow Airport; Gatwick Airport</p>\n<p>Visit: London</p>\n<p>Travelling: Transport For London</p>\n<p>Stay at: the St Pancras London Hotel, Euston Road, NW1 2AR (tel: 020.7841.3540)</p>\n<p>See a show at: the Garrick Theatre, 2 Charing Cross Rd, London WC2H 0HH (tel: 0844.482.9673)</p>\n<p>Dine at: Plateau, 4th Floor, Canada Square, London E14 5ER (tel: 020.7715.7100)</p>\n</section>\n<section><h3>UK | Buckinghamshire</h3>\n<p>Visit: Buckinghamshire</p>\n</section>\n<section><h3>UK | Bedfordshire</h3>\n<p>Visit: Bedfordshire</p>\n</section>\n<section><h3>UK | Essex</h3>\n<p>Visit: Essex</p>\n<p>Visit: Coalhouse Fort, Princess Margaret Road, Tilbury, Essex RM18 8PB (tel: 01375.844203)</p>\n</section>\n<section><h3>Iceland</h3>\n<p>Visit: Iceland</p>\n<p>Visit: Reykjavik</p>\n<p>Flights: Keflavík International Airport, Southern Peninsula, 235, Iceland (tel: +354.425.6000)</p>\n</section>",
+  "visit_info_text": "Illinois | Chicago\nVisit: Chicago\nFlights: O’Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666 (tel: 800.832.6352)\nTravel around: Chicago Transit Authority\nUK | London\nFlights: Heathrow Airport; Gatwick Airport\nVisit: London\nTravelling: Transport For London\nStay at: the St Pancras London Hotel, Euston Road, NW1 2AR (tel: 020.7841.3540)\nSee a show at: the Garrick Theatre, 2 Charing Cross Rd, London WC2H 0HH (tel: 0844.482.9673)\nDine at: Plateau, 4th Floor, Canada Square, London E14 5ER (tel: 020.7715.7100)\nUK | Buckinghamshire\nVisit: Buckinghamshire\nUK | Bedfordshire\nVisit: Bedfordshire\nUK | Essex\nVisit: Essex\nVisit: Coalhouse Fort, Princess Margaret Road, Tilbury, Essex RM18 8PB (tel: 01375.844203)\nIceland\nVisit: Iceland\nVisit: Reykjavik\nFlights: Keflavík International Airport, Southern Peninsula, 235, Iceland (tel: +354.425.6000)",
+  "visit_sections": [
+    {
+      "title": "Illinois | Chicago",
+      "items": [
+        "Visit: Chicago",
+        "Flights: O’Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666 (tel: 800.832.6352)",
+        "Travel around: Chicago Transit Authority"
+      ]
+    },
+    {
+      "title": "UK | London",
+      "items": [
+        "Flights: Heathrow Airport; Gatwick Airport",
+        "Visit: London",
+        "Travelling: Transport For London",
+        "Stay at: the St Pancras London Hotel, Euston Road, NW1 2AR (tel: 020.7841.3540)",
+        "See a show at: the Garrick Theatre, 2 Charing Cross Rd, London WC2H 0HH (tel: 0844.482.9673)",
+        "Dine at: Plateau, 4th Floor, Canada Square, London E14 5ER (tel: 020.7715.7100)"
+      ]
+    },
+    {
+      "title": "UK | Buckinghamshire",
+      "items": [
+        "Visit: Buckinghamshire"
+      ]
+    },
+    {
+      "title": "UK | Bedfordshire",
+      "items": [
+        "Visit: Bedfordshire"
+      ]
+    },
+    {
+      "title": "UK | Essex",
+      "items": [
+        "Visit: Essex",
+        "Visit: Coalhouse Fort, Princess Margaret Road, Tilbury, Essex RM18 8PB (tel: 01375.844203)"
+      ]
+    },
+    {
+      "title": "Iceland",
+      "items": [
+        "Visit: Iceland",
+        "Visit: Reykjavik",
+        "Flights: Keflavík International Airport, Southern Peninsula, 235, Iceland (tel: +354.425.6000)"
+      ]
+    }
+  ]
+}

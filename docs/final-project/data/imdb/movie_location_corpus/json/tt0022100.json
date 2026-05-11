@@ -1,0 +1,98 @@
+{
+  "imdb_id": "tt0022100",
+  "shorthand": "M",
+  "title": "M",
+  "year": 1931,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0022100 - M.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0022100 - M.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0022100.json",
+  "source_url": "http://www.movie-locations.com/movies/m/M.php",
+  "page_title": "M | Film Locations",
+  "meta_description": "Film locations for M (1931), in Berlin, Germany.",
+  "meta_keywords": "M (1931), film locations, filming locations, tourism, travel, set-jetting, berlin, staaken, germany, fritz lang, peter lorre",
+  "og_title": "Filming Locations for M (1931), in Berlin, Germany.",
+  "og_description": "Travel guide to film locations for M (1931), in Berlin, Germany.",
+  "og_image": "http://www.movie-locations.com/movies/m/M.jpg",
+  "top250_rank": "147",
+  "movie_locations_title": "M",
+  "movie_locations_regions": "Germany",
+  "director": "Fritz Lang",
+  "cast": [
+    "Peter Lorre",
+    "Otto Wernicke",
+    "Gustav Gründgens"
+  ],
+  "locations": [
+    "Germany"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0022100%20-%20M/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0022100 - M/001.jpg",
+    "exists": true,
+    "alt": "M poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0022100/poster.jpg",
+    "corpus_asset_src": "../assets/tt0022100/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0022100%20-%20M/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0022100 - M/001.jpg",
+    "exists": true,
+    "alt": "M poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0022100/001.jpg",
+    "corpus_asset_src": "../assets/tt0022100/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0022100%20-%20M/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0022100 - M/001.jpg",
+      "exists": true,
+      "alt": "M poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0022100/001.jpg",
+      "corpus_asset_src": "../assets/tt0022100/001.jpg"
+    }
+  ],
+  "main_content_html": "<p><a href=\"https://www.movie-locations.com/people/l/langf.php\">Fritz Lang</a>’s classic, with <a href=\"https://www.movie-locations.com/people/l/lorrep.php\">Peter Lorre</a> as the child-murderer stalking the streets, was made entirely on sets constructed in the old zeppelin hangar at <span class=\"name\">Staaken</span>, an airfield on the western rim of <span class=\"name\">Berlin</span>, where he had earlier filmed part of <span class=\"name\">Metropolis</span>.</p>\n<p>The <span class=\"name\">Staaken</span> airfield began as a new airship plant, to construct craft for the German War Department in 1915. After <a href=\"https://www.movie-locations.com/places/europe/germany.php\">Germany</a>’s defeat in 1918, the Treaty of Versailles forbade <a href=\"https://www.movie-locations.com/places/europe/germany.php\">Germany</a> to build more aircraft, and the facility was taken over for other businesses, including film making.</p>\n<p>In July 1923, its huge hangar became the largest film studio in the world (until it was superseded by <span class=\"name\">Berlin</span>’s purpose-built Babelsberg in 1926), boasting a vast curved backdrop-ceiling that could be lit to provide convincingly shadow-free exteriors.</p>\n<p><span class=\"name\">Staaken</span> reverted to airfield status and, after World War II, was taken over by the Red Army Air Force. Following  German Reunification, it was intended to develop the site as an industrial estate and in 2011, <span class=\"name\">Staaken</span> was finally turned into a solar park. </p>",
+  "main_content_text": "Fritz Lang’s classic, with Peter Lorre as the child-murderer stalking the streets, was made entirely on sets constructed in the old zeppelin hangar at Staaken, an airfield on the western rim of Berlin, where he had earlier filmed part of Metropolis.\n\nThe Staaken airfield began as a new airship plant, to construct craft for the German War Department in 1915. After Germany’s defeat in 1918, the Treaty of Versailles forbade Germany to build more aircraft, and the facility was taken over for other businesses, including film making.\n\nIn July 1923, its huge hangar became the largest film studio in the world (until it was superseded by Berlin’s purpose-built Babelsberg in 1926), boasting a vast curved backdrop-ceiling that could be lit to provide convincingly shadow-free exteriors.\n\nStaaken reverted to airfield status and, after World War II, was taken over by the Red Army Air Force. Following German Reunification, it was intended to develop the site as an industrial estate and in 2011, Staaken was finally turned into a solar park.",
+  "main_sections": [
+    {
+      "type": "paragraph",
+      "text": "Fritz Lang’s classic, with Peter Lorre as the child-murderer stalking the streets, was made entirely on sets constructed in the old zeppelin hangar at Staaken, an airfield on the western rim of Berlin, where he had earlier filmed part of Metropolis."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Staaken airfield began as a new airship plant, to construct craft for the German War Department in 1915. After Germany’s defeat in 1918, the Treaty of Versailles forbade Germany to build more aircraft, and the facility was taken over for other businesses, including film making."
+    },
+    {
+      "type": "paragraph",
+      "text": "In July 1923, its huge hangar became the largest film studio in the world (until it was superseded by Berlin’s purpose-built Babelsberg in 1926), boasting a vast curved backdrop-ceiling that could be lit to provide convincingly shadow-free exteriors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Staaken reverted to airfield status and, after World War II, was taken over by the Red Army Air Force. Following German Reunification, it was intended to develop the site as an industrial estate and in 2011, Staaken was finally turned into a solar park."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Germany</h3>\n<p>Visit: Germany</p>\n<p>Visit: Berlin</p>\n<p>Flights: Berlin Tegel Airport, Zufahrt zum Flughafen Tegel, 13405 Berlin (tel: +49.30.60911150)</p>\n</section>",
+  "visit_info_text": "Germany\nVisit: Germany\nVisit: Berlin\nFlights: Berlin Tegel Airport, Zufahrt zum Flughafen Tegel, 13405 Berlin (tel: +49.30.60911150)",
+  "visit_sections": [
+    {
+      "title": "Germany",
+      "items": [
+        "Visit: Germany",
+        "Visit: Berlin",
+        "Flights: Berlin Tegel Airport, Zufahrt zum Flughafen Tegel, 13405 Berlin (tel: +49.30.60911150)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "imdb_id": "tt0068646",
+  "shorthand": "Godfather",
+  "title": "The Godfather",
+  "year": 1972,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0068646 - Godfather.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0068646 - Godfather.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0068646.json",
+  "source_url": "http://www.movie-locations.com/movies/g/Godfather.php",
+  "page_title": "The Godfather | Film Locations",
+  "meta_description": "Film locations for Francis Ford Coppola's The Godfather in New York, Sicily, Los Angeles and Las Vegas; including Staten Island and Long Island.",
+  "meta_keywords": "The Godfather, film locations, filming locations, travel, tourism, set-jetting, new york, los angeles, hollywood, little italy, staten island, nevada, las vegas, sicily, st patrick's cathedral, bronx",
+  "og_title": "Filming locations for The Godfather (1972), around New York, including Manhattan, Staten Island and Long Island; Sicily; Los Angeles and Las Vegas.",
+  "og_description": "Filming locations for The Godfather (1972), around New York, including Manhattan, Staten Island and Long Island; Sicily; Los Angeles and Las Vegas.",
+  "og_image": "http://www.movie-locations.com/movies/g/godfather-meta.jpg",
+  "top250_rank": "2",
+  "movie_locations_title": "THE GODFATHER",
+  "movie_locations_regions": "New York | Los Angeles, California | Nevada | Italy",
+  "director": "Francis Ford Coppola",
+  "cast": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan",
+    "Diane Keaton",
+    "Robert Duvall",
+    "Talia Shire",
+    "John Cazale",
+    "Richard Conte",
+    "Al Lettieri",
+    "Richard Bright",
+    "Franco Citti",
+    "Alex Rocco"
+  ],
+  "locations": [
+    "New York;",
+    "Los Angeles, California;",
+    "Nevada;",
+    "Italy"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0068646%20-%20Godfather/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/002.jpg",
+    "exists": true,
+    "alt": "The Godfather poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/poster.jpg",
+    "corpus_asset_src": "../assets/tt0068646/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0068646%20-%20Godfather/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/001.jpg",
+    "exists": true,
+    "alt": "The Godfather film location: Corleone compound, Longfellow Avenue, Staten Island",
+    "caption": "The Godfather film location: the Corleone mansion: 110 Longfellow Avenue, Emerson Hill, Staten Island",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/001.jpg",
+    "corpus_asset_src": "../assets/tt0068646/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0068646%20-%20Godfather/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/001.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Corleone compound, Longfellow Avenue, Staten Island",
+      "caption": "The Godfather film location: the Corleone mansion: 110 Longfellow Avenue, Emerson Hill, Staten Island",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/001.jpg",
+      "corpus_asset_src": "../assets/tt0068646/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/002.jpg",
+      "exists": true,
+      "alt": "The Godfather poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/002.jpg",
+      "corpus_asset_src": "../assets/tt0068646/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/003.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Corleone compound, Longfellow Avenue, Staten Island",
+      "caption": "The Godfather film location: site of the 'entrance gate' to the Corleone compound: Longfellow Avenue, Emerson Hill, Staten Island",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/003.jpg",
+      "corpus_asset_src": "../assets/tt0068646/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/004.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Paramount Pictures lot, Gower Street, Hollywood",
+      "caption": "The Godfather film location: Tom Hagen arrives at 'Woltz International Pictures', to make an offer: Paramount Pictures lot, Gower Street, Hollywood",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/004.jpg",
+      "corpus_asset_src": "../assets/tt0068646/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/005.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Academy Museum of Motion Pictures, Wilshire Boulevard, Los Angeles",
+      "caption": "The Godfather film location: the prosthetic 'jowls' worn by Brando: Academy Museum of Motion Pictures, Wilshire Boulevard, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/005.jpg",
+      "corpus_asset_src": "../assets/tt0068646/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/006.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Corleone compound, Longfellow Road, Staten Island",
+      "caption": "The Godfather film location: horse's head in the bedroom of Woltz's ‘West Coast’ villa: Falaise, Sands Point Preserve, Long Island",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/006.jpg",
+      "corpus_asset_src": "../assets/tt0068646/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/007.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Beverly Drive, Beverly Hills, Los Angeles",
+      "caption": "The Godfather film location: Woltz’s West Coast villa: Beverly Drive, Beverly Hills, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/007.jpg",
+      "corpus_asset_src": "../assets/tt0068646/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/008.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: St Regis New York, East 55th Street, New York",
+      "caption": "The Godfather film location: Michael and Kay stay in Manhattan: St Regis New York, East 55th Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/008.jpg",
+      "corpus_asset_src": "../assets/tt0068646/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/009.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Corleone compound, Longfellow Road, Staten Island",
+      "caption": "The Godfather film location: Luca Brasi goes to meet Sollozzo: Edison Hotel, West 47th Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/009.jpg",
+      "corpus_asset_src": "../assets/tt0068646/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/010.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: ’Genco Olive Oil’ offices: Mietz Building, Mott Street, New York",
+      "caption": "The Godfather film location: The ’Genco Olive Oil’ offices: Mietz Building, Mott Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/010.jpg",
+      "corpus_asset_src": "../assets/tt0068646/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/011.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: ’Genco Olive Oil’ offices: Mietz Building, Mott Street, New York",
+      "caption": "The Godfather film location: Don Corleone is gunned down: Mott Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/011.jpg",
+      "corpus_asset_src": "../assets/tt0068646/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/012.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Radio City Music Hall, Sixth Avenue, New York",
+      "caption": "The Godfather film location: Michael and Kay hear that the Don has been shot: Radio City Music Hall, Sixth Avenue, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/012.jpg",
+      "corpus_asset_src": "../assets/tt0068646/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/013.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: White Plains Road, Bronx",
+      "caption": "The Godfather film location: Michael shoots Sollozzo and the police captain: White Plains Road, Bronx",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/013.jpg",
+      "corpus_asset_src": "../assets/tt0068646/013.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/014.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/014.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Tropicana, Las Vegas, Nevada",
+      "caption": "The Godfather film location: Michael's foray into the casino business: Tropicana, Las Vegas Boulevard, Las Vegas, Nevada | Photograph: Tropicana Las Vegas",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/014.jpg",
+      "corpus_asset_src": "../assets/tt0068646/014.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/015.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/015.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Calvary Cemetery, Greenpoint Avenue, Queens",
+      "caption": "The Godfather film location: Don Corleone's funeral: the entrance to First Calvary Cemetery, Greenpoint Avenue, Queens",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/015.jpg",
+      "corpus_asset_src": "../assets/tt0068646/015.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/016.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/016.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Calvary Cemetery, Greenpoint Avenue, Queens",
+      "caption": "The Godfather film location: Don Corleone's funeral, opposite the mausolea: First Calvary Cemetery, Greenpoint Avenue, Queens",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/016.jpg",
+      "corpus_asset_src": "../assets/tt0068646/016.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/017.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/017.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Calvary Cemetery, Greenpoint Avenue, Queens",
+      "caption": "The Godfather film location: site of Don Corleone's funeral: First Calvary Cemetery, Greenpoint Avenue, Queens",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/017.jpg",
+      "corpus_asset_src": "../assets/tt0068646/017.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/018.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/018.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: New York County Courthouse, Center Street, Lower Manhattan, New York",
+      "caption": "The Godfather film location: Barzini is gunned down by the fake cop: New York County Courthouse, Center Street, Lower Manhattan, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/018.jpg",
+      "corpus_asset_src": "../assets/tt0068646/018.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/019.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/019.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Old St Patrick's Cathedral, Mulberry Street, Little Italy, New York",
+      "caption": "The Godfather film location: Michael becomes Godfather: Old St Patrick's Cathedral, Mulberry Street, Little Italy, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/019.jpg",
+      "corpus_asset_src": "../assets/tt0068646/019.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0068646%20-%20Godfather/020.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0068646 - Godfather/020.jpg",
+      "exists": true,
+      "alt": "The Godfather film location: Mission of the Immaculate Virgin, Hylan Boulevard, Mount Loretto, Staten island",
+      "caption": "The Godfather film location: Michael becomes Godfather: Mount Loretto, Staten island",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0068646/020.jpg",
+      "corpus_asset_src": "../assets/tt0068646/020.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0068646/001.jpg\" alt=\"The Godfather film location: Corleone compound, Longfellow Avenue, Staten Island\"><figcaption>The Godfather film location: the Corleone mansion: 110 Longfellow Avenue, Emerson Hill, Staten Island</figcaption></figure>\n<p>Discover where <span class=\"name\">The Godfather</span> (1972) was filmed around <span class=\"name\">New York</span>, including <span class=\"name\">Manhattan, Staten Island</span> and <span class=\"name\">Long Island</span>; <span class=\"name\">Sicily</span>; <span class=\"name\">Los Angeles</span> and <span class=\"name\">Las Vegas</span>.</p>\n<p>With mafia movies out of fashion and relatively unknown director <a href=\"https://www.movie-locations.com/people/c/coppolaff.php\">Francis Ford Coppola</a> at the helm, <span class=\"name\">Paramount</span> was keen to cut costs by updating the film of <span class=\"name\">Mario Puzo</span>'s best-seller to the present day and filming on its Hollywood lot. </p>\n<p>\nBut as paperback sales hit 12 million copies, the studio reluctantly conceded to <a href=\"https://www.movie-locations.com/people/c/coppolaff.php\">Francis Ford Coppola</a>' s demands, and much of the film was shot on real locations in <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>.\n</p>\n<p>\nEven most of the studio filming was done on the east coast, at <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>'s Filmways Studios, <span class=\"name\">246 East 127th Street</span>, <span class=\"name\">East Harlem</span> at Second Avenue. The studio closed down to become a huge supermarket, which has in turn been demolished.</p>\n<p>\nThe wedding scene, at the Corleone compound on 'Long Island', did film on an island over the water from <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> – not on Long Island, but <span class=\"name\">Staten Island</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/003.jpg\" alt=\"The Godfather film location: Corleone compound, Longfellow Avenue, Staten Island\"><figcaption>The Godfather film location: site of the 'entrance gate' to the Corleone compound: Longfellow Avenue, Emerson Hill, Staten Island</figcaption></figure>\n<p>The Corleone Mansion itself is <span class=\"name\">110 Longfellow Avenue</span>, in the affluent neighbourhood of <span class=\"name\">Emerson Hill</span>, standing toward the end of  a long <span class=\"ital\">cul-de-sac</span>. A false wall with entrance gate was built across <span class=\"name\">Longfellow Avenue</span> to give the appearance of the house being in a private compound.</p>\n<p>The <a href=\"http://www.siferry.com\" target=\"_blank\">Staten Island Ferry</a> will take you the five mile, 25 minute trip from the Staten Island Ferry Whitehall Terminal at South Ferry to St. George Ferry Terminal on Staten Island (for free). From St George Station, the <a href=\"http://mta.info/nyct/maps/simap.htm\" target=\"_blank\">Staten Island Rapid Transit Railway</a> will take you four stops to Grasmere, or there's a bus service. Either way, it's about a half hour's walk north to <span class=\"name\">Longfellow Avenue</span>, a leafy cul-de-sac running east from Ocean Terrace. Numbers <span class=\"name\">110 and 120</span> are the last houses at the end of the road. As always, please remember these are private homes and respect the residents' privacy.</p>\n<p>When Don Corleone sends his consigliore, Tom Hagen (<a href=\"https://www.movie-locations.com/people/d/duvallr.php\">Robert Duvall</a>), to <span class=\"name\">Hollywood</span>, to make the studio head the infamous 'offer he can't refuse', there's a great newsreel shot of the old <span class=\"name\">Hollywood</span>, with <span class=\"name\">Hollywood United Methodist Church</span> on <span class=\"name\">Highland Avenue</span> (featured in movies as far back as <a href=\"https://www.movie-locations.com/people/c/cukorg.php\">George Cukor</a>'s 1932 <span class=\"name\">What Price Hollywood?</span>) and <a href=\"http://www.tclchinesetheatres.com\" target=\"_blank\">Grauman’s Chinese Theatre</a>, <span class=\"name\">6925 Hollywood Boulevard</span>, still recognisable from the days before the area became swamped by tacky tourist shops and tattoo parlours.</p>\n<p>As a <span class=\"name\">Paramount</span> film, the entrance to 'Woltz International Picures' is natural an entrance to <span class=\"name\">Paramount</span>'s own lot in <span class=\"name\">Hollywood</span>. However, it's not on of the familiar entrance gates on Melrose Avenue. It's at the more modest western entrance on <span class=\"name\">Gower Street</span> that Hagen arrives.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/004.jpg\" alt=\"The Godfather film location: Paramount Pictures lot, Gower Street, Hollywood\"><figcaption>The Godfather film location: Tom Hagen arrives at 'Woltz International Pictures', to make an offer: Paramount Pictures lot, Gower Street, Hollywood</figcaption></figure>\n<p>The entrance hasn't changed, but there's a bit of a culture clash here. Star Trek (the TV series and the movies) were filmed at <span class=\"name\">Paramount</span> and that street on the lot running alongside <span class=\"name\">Stage 29</span> is named <span class=\"name\">Leonard Nimoy Street</span> in honour of the late actor.</p>\n<p>You can book a fascinating guided tour of the lot (which I recommend highly) on the <a href=\"http://www.paramountstudiotour.com\" target=\"_blank\">Paramount Pictures Studio Tour</a>, <span class=\"name\">5515 Melrose Avenue</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/005.jpg\" alt=\"The Godfather film location: Academy Museum of Motion Pictures, Wilshire Boulevard, Los Angeles\"><figcaption>The Godfather film location: the prosthetic 'jowls' worn by Brando: Academy Museum of Motion Pictures, Wilshire Boulevard, Los Angeles</figcaption></figure>\n<p>By the way, for devoted fans of the movie visiting <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, don't miss behind-the-scenes details and ephemera (including <a href=\"https://www.movie-locations.com/people/b/brandom.php\">Brando</a>'s prosthetic 'jowls' – no, he wasn't padded with tissue paper in movie), currently on exhibition at the <a href=\"https://www.academymuseum.org/en\" target=\"_blank\">Academy Museum of Motion Pictures</a>, <span class=\"name\">6067 Wilshire Boulevard</span> at Fairfax Avenue in <span class=\"name\">Midtown</span>.</p>\n<p>After Woltz eventually agrees to meet up with Hagen, it's a rare case of an East Coast residence standing in for Hollywood.</p>\n<p>The bedroom of Woltz's villa, where the studio boss finds the head of his unfortunate horse, is the living room of <span class=\"name\">Falaise</span>, on <a href=\"http://thesandspointpreserve.com\" target=\"_blank\">Sands Point Preserve</a>, the Guggenheim estate way out at <span class=\"name\">127 Middle Neck Road</span> on <span class=\"name\">Long Island</span>. You can see the room if you visit the Preserve, which also houses mansions seen in <a href=\"https://www.movie-locations.com/movies/s/Scent-Of-A-Woman.php\">Scent Of A Woman</a>, in the summer months. It's about four miles north of <span class=\"name\">Point Washington</span> (there's a cab firm near the station), on the <a href=\"http://www.mta.info/lirr\" target=\"_blank\">Long Island Railroad</a> from <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>'s Pennsylvania Station, Seventh Avenue.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/007.jpg\" alt=\"The Godfather film location: Beverly Drive, Beverly Hills, Los Angeles\"><figcaption>The Godfather film location: Woltz’s West Coast villa: Beverly Drive, Beverly Hills, Los Angeles</figcaption></figure>\n<p>The grounds of Woltz's mansion, seen also as <a href=\"https://www.movie-locations.com/people/h/houstonw.php\">Whitney Houston</a>'s estate in <a href=\"https://www.movie-locations.com/movies/b/Bodyguard.php\">The Bodyguard</a>, really is <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>. It's the enormous <span class=\"name\">Beverly Hills</span> estate at <span class=\"name\">1011 North Beverly Drive</span>. Built in the 1920s, and once owned by <span class=\"name\">William Randolph Hearst</span> (the newspaper magnate on whose career <a href=\"https://www.movie-locations.com/people/w/welleso.php\">Orson Welles</a> based his classic <span class=\"name\">Citizen Kane</span>), it was put on the market in 2007 for $165 million.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/008.jpg\" alt=\"The Godfather film location: St Regis New York, East 55th Street, New York\"><figcaption>The Godfather film location: Michael and Kay stay in Manhattan: St Regis New York, East 55th Street, New York</figcaption></figure>\n<p>Michael Corleone (<a href=\"https://www.movie-locations.com/people/p/pacinoa.php\">Al Pacino</a>) and Kay (<a href=\"https://www.movie-locations.com/people/k/keatond.php\">Diane Keaton</a>) are staying in five-star luxury at the St Regis Hotel, now the <a href=\"http://www.stregisnewyork.com\" target=\"_blank\">St Regis New York</a>, <span class=\"name\">2 East 55th Street</span> on the corner of Fifth Avenue. Built in 1904 as a companion to the Waldorf-Astoria, the hotel's exterior is briefly seen toward the end of <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Martin Scorsese</a>'s <a href=\"https://www.movie-locations.com/movies/t/Taxi-Driver.php\">Taxi Driver</a>.</p>\n<p>If you're popping in for a drink, you might recognise the hotel's King Cole bar, with its famous  <span class=\"name\">Maxfield Parrish</span> mural, from films such as <a href=\"https://www.movie-locations.com/people/a/allenw.php\">Woody Allen</a>’s <a href=\"https://www.movie-locations.com/movies/r/Radio-Days.php\">Radio Days</a>, <a href=\"https://www.movie-locations.com/movies/h/Hannah-And-Her-Sisters.php\">Hannah And Her Sisters</a>, <a href=\"https://www.movie-locations.com/movies/d/Devil-Wears-Prada.php\">The Devil Wears Prada</a> and <a href=\"https://www.movie-locations.com/movies/f/First-Wives-Club.php\">The First Wives Club</a>.</p>\n<p>Nearby on Fifth Avenue between 51st and 52nd Streets in the fashionable stretch of ‘Ladies’ Mile’, stood Best &amp; Co, the New York department store where the pair do their Christmas shopping. Although already closed, the store was briefly brought back to life for filming, before being demolished.</p>\n<p>\nSadly, the model-train heaven, Polk’s Hobby Shop, which stood at <span class=\"name\">314 Fifth Avenue</span> near 31st Street, is also gone. This is where Tom Hagen stocks up on presents when Sollozzo’s men invite him for a car ride. It’s since been replaced by a pizza joint.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/009.jpg\" alt=\"The Godfather film location: Corleone compound, Longfellow Road, Staten Island\"><figcaption>The Godfather film location: Luca Brasi goes to meet Sollozzo: Edison Hotel, West 47th Street, New York</figcaption></figure>\n<p>The bar, where Sollozzo (<a href=\"https://www.movie-locations.com/people/l/lettieria.php\">Al Lettieri</a>) meets up with Luca Brasi, is the <a href=\"http://www.edisonhotelnyc.com/\" target=\"blank\">Edison Hotel</a>, <span class=\"name\">228 West 47th Street</span>. Close to the bustle of Times Square, the <a href=\"http://www.edisonhotelnyc.com/\" target=\"blank\">Edison</a> itself is a standard hotel, but it's entrance and lobby are Manhattan art deco at its finest.</p>\n<p>You'll recognise the slightly redecorated corridor with its circular mirrors, as the lobby of mobster Nick Valenti's penthouse in <a href=\"https://www.movie-locations.com/people/a/allenw.php\">Woody Allen</a>'s <a href=\"https://www.movie-locations.com/movies/b/Bullets-Over-Broadway.php\">Bullets Over Broadway</a>. The only significant change is the replacement of the steps with a gentle ramp to improve access.</p>\n<p>Try the hotel's bar,  the <a href=\"http://edisonrumhouse.com\" target=\"_blank\">Rum House</a>, on <span class=\"name\">47th Street</span>, which is featured in <a href=\"https://www.movie-locations.com/people/i/inarrituag.php\">Alejandro González Iñárritu</a>'s 2014 Oscar-winner, <a href=\"https://www.movie-locations.com/movies/b/Birdman.php\">Birdman</a>.</p>\n<p>It's long been claimed that the garroting of  Brasi was filmed in Sofia’s Restaurant, the <a href=\"http://www.edisonhotelnyc.com/\" target=\"blank\">Edison</a>’s Italian eatery, which closed some years ago. The fish motif etched into the glass door gives a clue that this scene was actually shot in the bar of what was then the Hotel St George, <span class=\"name\">100 Henry Street</span> in <span class=\"name\">Brooklyn Heights</span>. The premises, once the largest hotel in the US and boasting a famed Olympic-sized salt-water swimming pool, is currently used as student housing.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/010.jpg\" alt=\"The Godfather film location: ’Genco Olive Oil’ offices: Mietz Building, Mott Street, New York\"><figcaption>The Godfather film location: The ’Genco Olive Oil’ offices: Mietz Building, Mott Street, New York</figcaption></figure>\n<p>The 'Genco Olive Oil’ premises, supposedly on 'Mulberry Street', outside which the Don is gunned down, was the <span class=\"name\">Mietz Building, 128 Mott Street</span>, a then-unchanged area between Little Italy and Chinatown. The relentless encroachment of Chinatown into Little Italy means that the building has since been gutted and has become a Chinese market, though the 'Mietz’ name is still visible on the frontage. The art deco entrance was created especially for the movie.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/011.jpg\" alt=\"The Godfather film location: ’Genco Olive Oil’ offices: Mietz Building, Mott Street, New York\"><figcaption>The Godfather film location: Don Corleone is gunned down: Mott Street, New York</figcaption></figure>\n<p>Opposite, number <span class=\"name\">137 Mott Street</span> was the greengrocer stall at which the Don buys oranges before being gunned down. It's since been modernised but is still a grocery store.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/012.jpg\" alt=\"The Godfather film location: Radio City Music Hall, Sixth Avenue, New York\"><figcaption>The Godfather film location: Michael and Kay hear that the Don has been shot: Radio City Music Hall, Sixth Avenue, New York</figcaption></figure>\n<p>With astonishing speed, the news hits the papers while Michael and Kay watch <span class=\"name\">The Bells of St Mary’s</span> at <a href=\"http://www.radiocity.com\" target=\"_blank\">Radio City Music Hall</a>, <span class=\"name\">1260 Avenue of the Americas</span> at 50th Street. Part of the magnificently art deco Rockefeller Center complex, you can see <a href=\"http://www.radiocity.com\" target=\"_blank\">Radio City</a>'s glorious interior in <a href=\"https://www.movie-locations.com/people/h/hustonj.php\">John Huston</a>'s 1982 film of <span class=\"name\">Annie</span> and in <a href=\"https://www.movie-locations.com/people/a/allenw.php\">Woody Allen</a>’s <a href=\"https://www.movie-locations.com/movies/r/Radio-Days.php\">Radio Days</a>.</p>\n<p>\n The exterior of hospital where Michael visits his wounded father is the <span class=\"name\">Lincoln Medical Center, 234 East 149th Street</span> in the <span class=\"name\">Bronx</span>, though the deserted interior is the <span class=\"name\">New York Eye and Ear Infirmary, 310 East 14th Street</span> in the East Village. Both institutions have since been completely rebuilt.</p>\n<p>\nMichael is subsequently picked up outside Jack Dempsey’s Broadway Bar, which stood on Broadway between 49th and 50th Streets (it closed its doors in 1974), and taken towards <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a>, which ought to mean taking the George Washington Bridge over the Hudson. The bridge used for the U-turn scene, however, is the <span class=\"name\">Queensboro Bridge</span> over the <span class=\"name\">East River</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/013.jpg\" alt=\"The Godfather film location: White Plains Road, Bronx\"><figcaption>The Godfather film location: Michael shoots Sollozzo and the police captain: White Plains Road, Bronx</figcaption></figure>\n<p>'Louis’ Restaurant', where Sollozzo and McCluskey are gunned down over the veal, was the old Luna restaurant under the elevated White Plains Road IRT in the <span class=\"name\">Bronx</span>. It's no longer a restaurant but a fabric shop, <span class=\"name\">SRM Fabric &amp; Yarn, 3531 White Plains Road</span>, between East 211th and East 212th Streets just north of <span class=\"name\">Gun Hill Road Station</span>.</p>\n<p>Fleeing to <span class=\"name\">Sicily</span>, Michael goes to ground in the village of ‘Corleone’. The real Corleone, south of Palermo, has been modernised, and the village seen in the film is a combination of <span class=\"name\">Forza d’Agro</span> and <span class=\"name\">Savoca</span>, two villages a few miles northwest of Taormina. In <span class=\"name\">Forza</span>, a small medieval community dominated by the ruins of a 16th century castle, you’ll find the church seen when Michael first walks into ‘Corleone’.</p>\n<p>\nA few miles north, in <span class=\"name\">Savoca</span>, you can see the small, wood-panelled <span class=\"name\">Bar Vitelli</span>, at which Michael meets innkeeper’s daughter Apollonia, as well as <span class=\"name\">Chiesa di Santa Lucia</span>, the church at which he marries her.</p>\n<p>The villa at which Michael is staying when his car is blown up, is the 18th century <span class=\"name\">Castello degli Schiavi</span> (Castle of Slaves), near <span class=\"name\">Fiumefreddo</span>, about six miles south of Taormina. (seen again in <a href=\"https://www.movie-locations.com/movies/g/Godfather-3.php\">Godfather III</a>).</p>\n<p>\nBack in <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>, Sonny (<a href=\"https://www.movie-locations.com/people/c/caanj.php\">James Caan</a>) beats up bullying brother-in-law Carlo at <span class=\"name\">118th Street and Pleasant Avenue</span>, east of First Avenue in <span class=\"name\">East Harlem</span>, but soon gets his payback, blown away in a spectacular hail of bullets at tollbooths supposedly on the 'Jones Beach Causeway, Long Island', but actually built on the disused airfield <span class=\"name\">Floyd Bennett Field</span>, southeast of Brooklyn at the end of <span class=\"name\">Flatbush Avenue</span>.</p>\n<p>Bonasera’s funeral parlour is the morgue at <span class=\"name\">Bellevue Hospital, First Avenue</span> at East 29th Street by the East River in the Gramercy district, and the summit meeting of the Five Families takes place in the boardroom of the Penn Central Railroad above <span class=\"name\">Grand Central Station, 42nd Street</span> and Park Avenue.</p>\n<p>Michael’s foray into <span class=\"name\">Las Vegas</span> was filmed at the <a href=\"http://www.tropicanalv.com/\" target=\"_blank\">Tropicana</a>, <span class=\"name\">3801 Las Vegas Boulevard South</span> at Tropicana Avenue, on the Strip. The last, fanciest and most expensive of the Strip hotels built in the 50s, the <a href=\"http://www.tropicanalv.com/\" target=\"_blank\">Tropicana</a> is the location for the ‘Folies Bergere’ number in the <a href=\"https://www.movie-locations.com/people/p/presleye.php\">Elvis Presley</a> film <span class=\"name\">Viva Las Vegas</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/015.jpg\" alt=\"The Godfather film location: Calvary Cemetery, Greenpoint Avenue, Queens\"><figcaption>The Godfather film location: Don Corleone's funeral: the entrance to First Calvary Cemetery, Greenpoint Avenue, Queens</figcaption></figure>\n<p>Don Corleone’s lavish funeral is held at the <span class=\"name\">First Calvary Cemetery, Greenpoint Avenue</span> in <span class=\"name\">Queens</span>, which was then overlooked by the old Kosciuszko Bridge, carrying the Brooklyn-Queens Expressway across Newton Creek. It's since been demolished, replaced by a sleeker cable bridge.</p>\n<p>Despite the size of the cemetery, it's surprisingly easy to find the spot where the Corleone mausoleum was erected, opposite the row of mausolea toward the centre-east. Follow the path from the main entrance on Greenpoint Avenue until it curves to the left, then turn sharp left when you see the little group of tombs.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/016.jpg\" alt=\"The Godfather film location: Calvary Cemetery, Greenpoint Avenue, Queens\"><figcaption>The Godfather film location: Don Corleone's funeral, opposite the mausolea: First Calvary Cemetery, Greenpoint Avenue, Queens</figcaption></figure>\n<p>Oddly, the nearest grave seen in the film, belonging to the Daly family, appears to have turned around in the intervening years.</p>\n<p>This is the same cemetery where 'Ratso' Rizzo (<a href=\"https://www.movie-locations.com/people/h/hoffmand.php\">Dustin Hoffman</a>) visits the grave of his father in <a href=\"https://www.movie-locations.com/people/s/schlesingerj.php\">John Schlesinger</a>'s 1969 <a href=\"https://www.movie-locations.com/movies/m/Midnight-Cowboy.php\">Midnight Cowboy</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/017.jpg\" alt=\"The Godfather film location: Calvary Cemetery, Greenpoint Avenue, Queens\"><figcaption>The Godfather film location: site of Don Corleone's funeral: First Calvary Cemetery, Greenpoint Avenue, Queens</figcaption></figure>\n<p>Michael now becomes Godfather in a ritual brilliantly intercut with the bloody murders of the other family heads.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/018.jpg\" alt=\"The Godfather film location: New York County Courthouse, Center Street, Lower Manhattan, New York\"><figcaption>The Godfather film location: Barzini is gunned down by the fake cop: New York County Courthouse, Center Street, Lower Manhattan, New York</figcaption></figure>\n<p>Clemenza blasts Stracci and Cuneo in the lift of the <a href=\"http://www.stregisnewyork.com\" target=\"_blank\">St Regis New York</a> (where Michael and Kay spent their night in <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>); Moe Greene (<a href=\"https://www.movie-locations.com/people/r/roccoa.php\">Alex Rocco</a>) is shot through the eye in the steamroom of the <span class=\"name\">McBurney YMCA, 215 West 23rd Street</span>, and arch-enemy Barzini (<a href=\"https://www.movie-locations.com/people/c/conter.php\">Richard Conte</a>) is gunned down by fake cop Al Neri on the steps of the <span class=\"name\">New York County Courthouse, 60 Centre Street</span> at Pearl Street, Lower Manhattan (the location for <a href=\"https://www.movie-locations.com/people/l/lumets.php\">Sidney Lumet</a>’s <span class=\"name\">Twelve Angry Men</span>, and Henry Hill’s trial at the end of <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Martin Scorsese</a>‘s <a href=\"https://www.movie-locations.com/movies/g/Goodfellas.php\">Goodfellas</a>) .</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/019.jpg\" alt=\"The Godfather film location: Old St Patrick's Cathedral, Mulberry Street, Little Italy, New York\"><figcaption>The Godfather film location: Michael becomes Godfather: Old St Patrick's Cathedral, Mulberry Street, Little Italy, New York</figcaption></figure>\n<p>The christening itself took place inside <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>’s <span class=\"name\">Old St Patrick’s Cathedral, 264 Mulberry Street</span> between East Prince and Houston Streets in <span class=\"name\">Little Italy</span>. Doesn’t look familiar from the film? That's because an entirely different church was used for exterior shots.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0068646/020.jpg\" alt=\"The Godfather film location: Mission of the Immaculate Virgin, Hylan Boulevard, Mount Loretto, Staten island\"><figcaption>The Godfather film location: Michael becomes Godfather: Mount Loretto, Staten island</figcaption></figure>\n<p>The exterior of the church is the <span class=\"name\">Mission of the Immaculate Virgin, Hylan Boulevard, Mount Loretto</span>, down in the southwest corner of <span class=\"name\">Staten Island</span> (<span class=\"ital\">rail: Pleasant Plains</span>). The church burned down shortly after filming, but the façade was saved and the church behind it rebuilt – albeit on a slightly smaller scale. </p>",
+  "main_content_text": "Discover where The Godfather (1972) was filmed around New York, including Manhattan, Staten Island and Long Island; Sicily; Los Angeles and Las Vegas.\n\nWith mafia movies out of fashion and relatively unknown director Francis Ford Coppola at the helm, Paramount was keen to cut costs by updating the film of Mario Puzo's best-seller to the present day and filming on its Hollywood lot.\n\nBut as paperback sales hit 12 million copies, the studio reluctantly conceded to Francis Ford Coppola' s demands, and much of the film was shot on real locations in New York.\n\nEven most of the studio filming was done on the east coast, at New York's Filmways Studios, 246 East 127th Street, East Harlem at Second Avenue. The studio closed down to become a huge supermarket, which has in turn been demolished.\n\nThe wedding scene, at the Corleone compound on 'Long Island', did film on an island over the water from New York – not on Long Island, but Staten Island.\n\nThe Corleone Mansion itself is 110 Longfellow Avenue, in the affluent neighbourhood of Emerson Hill, standing toward the end of a long cul-de-sac. A false wall with entrance gate was built across Longfellow Avenue to give the appearance of the house being in a private compound.\n\nThe Staten Island Ferry will take you the five mile, 25 minute trip from the Staten Island Ferry Whitehall Terminal at South Ferry to St. George Ferry Terminal on Staten Island (for free). From St George Station, the Staten Island Rapid Transit Railway will take you four stops to Grasmere, or there's a bus service. Either way, it's about a half hour's walk north to Longfellow Avenue, a leafy cul-de-sac running east from Ocean Terrace. Numbers 110 and 120 are the last houses at the end of the road. As always, please remember these are private homes and respect the residents' privacy.\n\nWhen Don Corleone sends his consigliore, Tom Hagen (Robert Duvall), to Hollywood, to make the studio head the infamous 'offer he can't refuse', there's a great newsreel shot of the old Hollywood, with Hollywood United Methodist Church on Highland Avenue (featured in movies as far back as George Cukor's 1932 What Price Hollywood?) and Grauman’s Chinese Theatre, 6925 Hollywood Boulevard, still recognisable from the days before the area became swamped by tacky tourist shops and tattoo parlours.\n\nAs a Paramount film, the entrance to 'Woltz International Picures' is natural an entrance to Paramount's own lot in Hollywood. However, it's not on of the familiar entrance gates on Melrose Avenue. It's at the more modest western entrance on Gower Street that Hagen arrives.\n\nThe entrance hasn't changed, but there's a bit of a culture clash here. Star Trek (the TV series and the movies) were filmed at Paramount and that street on the lot running alongside Stage 29 is named Leonard Nimoy Street in honour of the late actor.\n\nYou can book a fascinating guided tour of the lot (which I recommend highly) on the Paramount Pictures Studio Tour, 5515 Melrose Avenue.\n\nBy the way, for devoted fans of the movie visiting Los Angeles, don't miss behind-the-scenes details and ephemera (including Brando's prosthetic 'jowls' – no, he wasn't padded with tissue paper in movie), currently on exhibition at the Academy Museum of Motion Pictures, 6067 Wilshire Boulevard at Fairfax Avenue in Midtown.\n\nAfter Woltz eventually agrees to meet up with Hagen, it's a rare case of an East Coast residence standing in for Hollywood.\n\nThe bedroom of Woltz's villa, where the studio boss finds the head of his unfortunate horse, is the living room of Falaise, on Sands Point Preserve, the Guggenheim estate way out at 127 Middle Neck Road on Long Island. You can see the room if you visit the Preserve, which also houses mansions seen in Scent Of A Woman, in the summer months. It's about four miles north of Point Washington (there's a cab firm near the station), on the Long Island Railroad from New York's Pennsylvania Station, Seventh Avenue.\n\nThe grounds of Woltz's mansion, seen also as Whitney Houston's estate in The Bodyguard, really is Los Angeles. It's the enormous Beverly Hills estate at 1011 North Beverly Drive. Built in the 1920s, and once owned by William Randolph Hearst (the newspaper magnate on whose career Orson Welles based his classic Citizen Kane), it was put on the market in 2007 for $165 million.\n\nMichael Corleone (Al Pacino) and Kay (Diane Keaton) are staying in five-star luxury at the St Regis Hotel, now the St Regis New York, 2 East 55th Street on the corner of Fifth Avenue. Built in 1904 as a companion to the Waldorf-Astoria, the hotel's exterior is briefly seen toward the end of Martin Scorsese's Taxi Driver.\n\nIf you're popping in for a drink, you might recognise the hotel's King Cole bar, with its famous Maxfield Parrish mural, from films such as Woody Allen’s Radio Days, Hannah And Her Sisters, The Devil Wears Prada and The First Wives Club.\n\nNearby on Fifth Avenue between 51st and 52nd Streets in the fashionable stretch of ‘Ladies’ Mile’, stood Best & Co, the New York department store where the pair do their Christmas shopping. Although already closed, the store was briefly brought back to life for filming, before being demolished.\n\nSadly, the model-train heaven, Polk’s Hobby Shop, which stood at 314 Fifth Avenue near 31st Street, is also gone. This is where Tom Hagen stocks up on presents when Sollozzo’s men invite him for a car ride. It’s since been replaced by a pizza joint.\n\nThe bar, where Sollozzo (Al Lettieri) meets up with Luca Brasi, is the Edison Hotel, 228 West 47th Street. Close to the bustle of Times Square, the Edison itself is a standard hotel, but it's entrance and lobby are Manhattan art deco at its finest.\n\nYou'll recognise the slightly redecorated corridor with its circular mirrors, as the lobby of mobster Nick Valenti's penthouse in Woody Allen's Bullets Over Broadway. The only significant change is the replacement of the steps with a gentle ramp to improve access.\n\nTry the hotel's bar, the Rum House, on 47th Street, which is featured in Alejandro González Iñárritu's 2014 Oscar-winner, Birdman.\n\nIt's long been claimed that the garroting of Brasi was filmed in Sofia’s Restaurant, the Edison’s Italian eatery, which closed some years ago. The fish motif etched into the glass door gives a clue that this scene was actually shot in the bar of what was then the Hotel St George, 100 Henry Street in Brooklyn Heights. The premises, once the largest hotel in the US and boasting a famed Olympic-sized salt-water swimming pool, is currently used as student housing.\n\nThe 'Genco Olive Oil’ premises, supposedly on 'Mulberry Street', outside which the Don is gunned down, was the Mietz Building, 128 Mott Street, a then-unchanged area between Little Italy and Chinatown. The relentless encroachment of Chinatown into Little Italy means that the building has since been gutted and has become a Chinese market, though the 'Mietz’ name is still visible on the frontage. The art deco entrance was created especially for the movie.\n\nOpposite, number 137 Mott Street was the greengrocer stall at which the Don buys oranges before being gunned down. It's since been modernised but is still a grocery store.\n\nWith astonishing speed, the news hits the papers while Michael and Kay watch The Bells of St Mary’s at Radio City Music Hall, 1260 Avenue of the Americas at 50th Street. Part of the magnificently art deco Rockefeller Center complex, you can see Radio City's glorious interior in John Huston's 1982 film of Annie and in Woody Allen’s Radio Days.\n\nThe exterior of hospital where Michael visits his wounded father is the Lincoln Medical Center, 234 East 149th Street in the Bronx, though the deserted interior is the New York Eye and Ear Infirmary, 310 East 14th Street in the East Village. Both institutions have since been completely rebuilt.\n\nMichael is subsequently picked up outside Jack Dempsey’s Broadway Bar, which stood on Broadway between 49th and 50th Streets (it closed its doors in 1974), and taken towards New Jersey, which ought to mean taking the George Washington Bridge over the Hudson. The bridge used for the U-turn scene, however, is the Queensboro Bridge over the East River.\n\n'Louis’ Restaurant', where Sollozzo and McCluskey are gunned down over the veal, was the old Luna restaurant under the elevated White Plains Road IRT in the Bronx. It's no longer a restaurant but a fabric shop, SRM Fabric & Yarn, 3531 White Plains Road, between East 211th and East 212th Streets just north of Gun Hill Road Station.\n\nFleeing to Sicily, Michael goes to ground in the village of ‘Corleone’. The real Corleone, south of Palermo, has been modernised, and the village seen in the film is a combination of Forza d’Agro and Savoca, two villages a few miles northwest of Taormina. In Forza, a small medieval community dominated by the ruins of a 16th century castle, you’ll find the church seen when Michael first walks into ‘Corleone’.\n\nA few miles north, in Savoca, you can see the small, wood-panelled Bar Vitelli, at which Michael meets innkeeper’s daughter Apollonia, as well as Chiesa di Santa Lucia, the church at which he marries her.\n\nThe villa at which Michael is staying when his car is blown up, is the 18th century Castello degli Schiavi (Castle of Slaves), near Fiumefreddo, about six miles south of Taormina. (seen again in Godfather III).\n\nBack in New York, Sonny (James Caan) beats up bullying brother-in-law Carlo at 118th Street and Pleasant Avenue, east of First Avenue in East Harlem, but soon gets his payback, blown away in a spectacular hail of bullets at tollbooths supposedly on the 'Jones Beach Causeway, Long Island', but actually built on the disused airfield Floyd Bennett Field, southeast of Brooklyn at the end of Flatbush Avenue.\n\nBonasera’s funeral parlour is the morgue at Bellevue Hospital, First Avenue at East 29th Street by the East River in the Gramercy district, and the summit meeting of the Five Families takes place in the boardroom of the Penn Central Railroad above Grand Central Station, 42nd Street and Park Avenue.\n\nMichael’s foray into Las Vegas was filmed at the Tropicana, 3801 Las Vegas Boulevard South at Tropicana Avenue, on the Strip. The last, fanciest and most expensive of the Strip hotels built in the 50s, the Tropicana is the location for the ‘Folies Bergere’ number in the Elvis Presley film Viva Las Vegas.\n\nDon Corleone’s lavish funeral is held at the First Calvary Cemetery, Greenpoint Avenue in Queens, which was then overlooked by the old Kosciuszko Bridge, carrying the Brooklyn-Queens Expressway across Newton Creek. It's since been demolished, replaced by a sleeker cable bridge.\n\nDespite the size of the cemetery, it's surprisingly easy to find the spot where the Corleone mausoleum was erected, opposite the row of mausolea toward the centre-east. Follow the path from the main entrance on Greenpoint Avenue until it curves to the left, then turn sharp left when you see the little group of tombs.\n\nOddly, the nearest grave seen in the film, belonging to the Daly family, appears to have turned around in the intervening years.\n\nThis is the same cemetery where 'Ratso' Rizzo (Dustin Hoffman) visits the grave of his father in John Schlesinger's 1969 Midnight Cowboy.\n\nMichael now becomes Godfather in a ritual brilliantly intercut with the bloody murders of the other family heads.\n\nClemenza blasts Stracci and Cuneo in the lift of the St Regis New York (where Michael and Kay spent their night in New York); Moe Greene (Alex Rocco) is shot through the eye in the steamroom of the McBurney YMCA, 215 West 23rd Street, and arch-enemy Barzini (Richard Conte) is gunned down by fake cop Al Neri on the steps of the New York County Courthouse, 60 Centre Street at Pearl Street, Lower Manhattan (the location for Sidney Lumet’s Twelve Angry Men, and Henry Hill’s trial at the end of Martin Scorsese‘s Goodfellas) .\n\nThe christening itself took place inside New York’s Old St Patrick’s Cathedral, 264 Mulberry Street between East Prince and Houston Streets in Little Italy. Doesn’t look familiar from the film? That's because an entirely different church was used for exterior shots.\n\nThe exterior of the church is the Mission of the Immaculate Virgin, Hylan Boulevard, Mount Loretto, down in the southwest corner of Staten Island (rail: Pleasant Plains). The church burned down shortly after filming, but the façade was saved and the church behind it rebuilt – albeit on a slightly smaller scale.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "The Godfather film location: the Corleone mansion: 110 Longfellow Avenue, Emerson Hill, Staten Island",
+      "src": "_assets/tt0068646%20-%20Godfather/001.jpg",
+      "alt": "The Godfather film location: Corleone compound, Longfellow Avenue, Staten Island"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover where The Godfather (1972) was filmed around New York, including Manhattan, Staten Island and Long Island; Sicily; Los Angeles and Las Vegas."
+    },
+    {
+      "type": "paragraph",
+      "text": "With mafia movies out of fashion and relatively unknown director Francis Ford Coppola at the helm, Paramount was keen to cut costs by updating the film of Mario Puzo's best-seller to the present day and filming on its Hollywood lot."
+    },
+    {
+      "type": "paragraph",
+      "text": "But as paperback sales hit 12 million copies, the studio reluctantly conceded to Francis Ford Coppola' s demands, and much of the film was shot on real locations in New York."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even most of the studio filming was done on the east coast, at New York's Filmways Studios, 246 East 127th Street, East Harlem at Second Avenue. The studio closed down to become a huge supermarket, which has in turn been demolished."
+    },
+    {
+      "type": "paragraph",
+      "text": "The wedding scene, at the Corleone compound on 'Long Island', did film on an island over the water from New York – not on Long Island, but Staten Island."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: site of the 'entrance gate' to the Corleone compound: Longfellow Avenue, Emerson Hill, Staten Island",
+      "src": "_assets/tt0068646%20-%20Godfather/003.jpg",
+      "alt": "The Godfather film location: Corleone compound, Longfellow Avenue, Staten Island"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Corleone Mansion itself is 110 Longfellow Avenue, in the affluent neighbourhood of Emerson Hill, standing toward the end of a long cul-de-sac. A false wall with entrance gate was built across Longfellow Avenue to give the appearance of the house being in a private compound."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Staten Island Ferry will take you the five mile, 25 minute trip from the Staten Island Ferry Whitehall Terminal at South Ferry to St. George Ferry Terminal on Staten Island (for free). From St George Station, the Staten Island Rapid Transit Railway will take you four stops to Grasmere, or there's a bus service. Either way, it's about a half hour's walk north to Longfellow Avenue, a leafy cul-de-sac running east from Ocean Terrace. Numbers 110 and 120 are the last houses at the end of the road. As always, please remember these are private homes and respect the residents' privacy."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Don Corleone sends his consigliore, Tom Hagen (Robert Duvall), to Hollywood, to make the studio head the infamous 'offer he can't refuse', there's a great newsreel shot of the old Hollywood, with Hollywood United Methodist Church on Highland Avenue (featured in movies as far back as George Cukor's 1932 What Price Hollywood?) and Grauman’s Chinese Theatre, 6925 Hollywood Boulevard, still recognisable from the days before the area became swamped by tacky tourist shops and tattoo parlours."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a Paramount film, the entrance to 'Woltz International Picures' is natural an entrance to Paramount's own lot in Hollywood. However, it's not on of the familiar entrance gates on Melrose Avenue. It's at the more modest western entrance on Gower Street that Hagen arrives."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Tom Hagen arrives at 'Woltz International Pictures', to make an offer: Paramount Pictures lot, Gower Street, Hollywood",
+      "src": "_assets/tt0068646%20-%20Godfather/004.jpg",
+      "alt": "The Godfather film location: Paramount Pictures lot, Gower Street, Hollywood"
+    },
+    {
+      "type": "paragraph",
+      "text": "The entrance hasn't changed, but there's a bit of a culture clash here. Star Trek (the TV series and the movies) were filmed at Paramount and that street on the lot running alongside Stage 29 is named Leonard Nimoy Street in honour of the late actor."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can book a fascinating guided tour of the lot (which I recommend highly) on the Paramount Pictures Studio Tour, 5515 Melrose Avenue."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: the prosthetic 'jowls' worn by Brando: Academy Museum of Motion Pictures, Wilshire Boulevard, Los Angeles",
+      "src": "_assets/tt0068646%20-%20Godfather/005.jpg",
+      "alt": "The Godfather film location: Academy Museum of Motion Pictures, Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "By the way, for devoted fans of the movie visiting Los Angeles, don't miss behind-the-scenes details and ephemera (including Brando's prosthetic 'jowls' – no, he wasn't padded with tissue paper in movie), currently on exhibition at the Academy Museum of Motion Pictures, 6067 Wilshire Boulevard at Fairfax Avenue in Midtown."
+    },
+    {
+      "type": "paragraph",
+      "text": "After Woltz eventually agrees to meet up with Hagen, it's a rare case of an East Coast residence standing in for Hollywood."
+    },
+    {
+      "type": "paragraph",
+      "text": "The bedroom of Woltz's villa, where the studio boss finds the head of his unfortunate horse, is the living room of Falaise, on Sands Point Preserve, the Guggenheim estate way out at 127 Middle Neck Road on Long Island. You can see the room if you visit the Preserve, which also houses mansions seen in Scent Of A Woman, in the summer months. It's about four miles north of Point Washington (there's a cab firm near the station), on the Long Island Railroad from New York's Pennsylvania Station, Seventh Avenue."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Woltz’s West Coast villa: Beverly Drive, Beverly Hills, Los Angeles",
+      "src": "_assets/tt0068646%20-%20Godfather/007.jpg",
+      "alt": "The Godfather film location: Beverly Drive, Beverly Hills, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The grounds of Woltz's mansion, seen also as Whitney Houston's estate in The Bodyguard, really is Los Angeles. It's the enormous Beverly Hills estate at 1011 North Beverly Drive. Built in the 1920s, and once owned by William Randolph Hearst (the newspaper magnate on whose career Orson Welles based his classic Citizen Kane), it was put on the market in 2007 for $165 million."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Michael and Kay stay in Manhattan: St Regis New York, East 55th Street, New York",
+      "src": "_assets/tt0068646%20-%20Godfather/008.jpg",
+      "alt": "The Godfather film location: St Regis New York, East 55th Street, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael Corleone (Al Pacino) and Kay (Diane Keaton) are staying in five-star luxury at the St Regis Hotel, now the St Regis New York, 2 East 55th Street on the corner of Fifth Avenue. Built in 1904 as a companion to the Waldorf-Astoria, the hotel's exterior is briefly seen toward the end of Martin Scorsese's Taxi Driver."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're popping in for a drink, you might recognise the hotel's King Cole bar, with its famous Maxfield Parrish mural, from films such as Woody Allen’s Radio Days, Hannah And Her Sisters, The Devil Wears Prada and The First Wives Club."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nearby on Fifth Avenue between 51st and 52nd Streets in the fashionable stretch of ‘Ladies’ Mile’, stood Best & Co, the New York department store where the pair do their Christmas shopping. Although already closed, the store was briefly brought back to life for filming, before being demolished."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sadly, the model-train heaven, Polk’s Hobby Shop, which stood at 314 Fifth Avenue near 31st Street, is also gone. This is where Tom Hagen stocks up on presents when Sollozzo’s men invite him for a car ride. It’s since been replaced by a pizza joint."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Luca Brasi goes to meet Sollozzo: Edison Hotel, West 47th Street, New York",
+      "src": "_assets/tt0068646%20-%20Godfather/009.jpg",
+      "alt": "The Godfather film location: Corleone compound, Longfellow Road, Staten Island"
+    },
+    {
+      "type": "paragraph",
+      "text": "The bar, where Sollozzo (Al Lettieri) meets up with Luca Brasi, is the Edison Hotel, 228 West 47th Street. Close to the bustle of Times Square, the Edison itself is a standard hotel, but it's entrance and lobby are Manhattan art deco at its finest."
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll recognise the slightly redecorated corridor with its circular mirrors, as the lobby of mobster Nick Valenti's penthouse in Woody Allen's Bullets Over Broadway. The only significant change is the replacement of the steps with a gentle ramp to improve access."
+    },
+    {
+      "type": "paragraph",
+      "text": "Try the hotel's bar, the Rum House, on 47th Street, which is featured in Alejandro González Iñárritu's 2014 Oscar-winner, Birdman."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's long been claimed that the garroting of Brasi was filmed in Sofia’s Restaurant, the Edison’s Italian eatery, which closed some years ago. The fish motif etched into the glass door gives a clue that this scene was actually shot in the bar of what was then the Hotel St George, 100 Henry Street in Brooklyn Heights. The premises, once the largest hotel in the US and boasting a famed Olympic-sized salt-water swimming pool, is currently used as student housing."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: The ’Genco Olive Oil’ offices: Mietz Building, Mott Street, New York",
+      "src": "_assets/tt0068646%20-%20Godfather/010.jpg",
+      "alt": "The Godfather film location: ’Genco Olive Oil’ offices: Mietz Building, Mott Street, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 'Genco Olive Oil’ premises, supposedly on 'Mulberry Street', outside which the Don is gunned down, was the Mietz Building, 128 Mott Street, a then-unchanged area between Little Italy and Chinatown. The relentless encroachment of Chinatown into Little Italy means that the building has since been gutted and has become a Chinese market, though the 'Mietz’ name is still visible on the frontage. The art deco entrance was created especially for the movie."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Don Corleone is gunned down: Mott Street, New York",
+      "src": "_assets/tt0068646%20-%20Godfather/011.jpg",
+      "alt": "The Godfather film location: ’Genco Olive Oil’ offices: Mietz Building, Mott Street, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opposite, number 137 Mott Street was the greengrocer stall at which the Don buys oranges before being gunned down. It's since been modernised but is still a grocery store."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Michael and Kay hear that the Don has been shot: Radio City Music Hall, Sixth Avenue, New York",
+      "src": "_assets/tt0068646%20-%20Godfather/012.jpg",
+      "alt": "The Godfather film location: Radio City Music Hall, Sixth Avenue, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "With astonishing speed, the news hits the papers while Michael and Kay watch The Bells of St Mary’s at Radio City Music Hall, 1260 Avenue of the Americas at 50th Street. Part of the magnificently art deco Rockefeller Center complex, you can see Radio City's glorious interior in John Huston's 1982 film of Annie and in Woody Allen’s Radio Days."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exterior of hospital where Michael visits his wounded father is the Lincoln Medical Center, 234 East 149th Street in the Bronx, though the deserted interior is the New York Eye and Ear Infirmary, 310 East 14th Street in the East Village. Both institutions have since been completely rebuilt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael is subsequently picked up outside Jack Dempsey’s Broadway Bar, which stood on Broadway between 49th and 50th Streets (it closed its doors in 1974), and taken towards New Jersey, which ought to mean taking the George Washington Bridge over the Hudson. The bridge used for the U-turn scene, however, is the Queensboro Bridge over the East River."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Michael shoots Sollozzo and the police captain: White Plains Road, Bronx",
+      "src": "_assets/tt0068646%20-%20Godfather/013.jpg",
+      "alt": "The Godfather film location: White Plains Road, Bronx"
+    },
+    {
+      "type": "paragraph",
+      "text": "'Louis’ Restaurant', where Sollozzo and McCluskey are gunned down over the veal, was the old Luna restaurant under the elevated White Plains Road IRT in the Bronx. It's no longer a restaurant but a fabric shop, SRM Fabric & Yarn, 3531 White Plains Road, between East 211th and East 212th Streets just north of Gun Hill Road Station."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fleeing to Sicily, Michael goes to ground in the village of ‘Corleone’. The real Corleone, south of Palermo, has been modernised, and the village seen in the film is a combination of Forza d’Agro and Savoca, two villages a few miles northwest of Taormina. In Forza, a small medieval community dominated by the ruins of a 16th century castle, you’ll find the church seen when Michael first walks into ‘Corleone’."
+    },
+    {
+      "type": "paragraph",
+      "text": "A few miles north, in Savoca, you can see the small, wood-panelled Bar Vitelli, at which Michael meets innkeeper’s daughter Apollonia, as well as Chiesa di Santa Lucia, the church at which he marries her."
+    },
+    {
+      "type": "paragraph",
+      "text": "The villa at which Michael is staying when his car is blown up, is the 18th century Castello degli Schiavi (Castle of Slaves), near Fiumefreddo, about six miles south of Taormina. (seen again in Godfather III)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Back in New York, Sonny (James Caan) beats up bullying brother-in-law Carlo at 118th Street and Pleasant Avenue, east of First Avenue in East Harlem, but soon gets his payback, blown away in a spectacular hail of bullets at tollbooths supposedly on the 'Jones Beach Causeway, Long Island', but actually built on the disused airfield Floyd Bennett Field, southeast of Brooklyn at the end of Flatbush Avenue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bonasera’s funeral parlour is the morgue at Bellevue Hospital, First Avenue at East 29th Street by the East River in the Gramercy district, and the summit meeting of the Five Families takes place in the boardroom of the Penn Central Railroad above Grand Central Station, 42nd Street and Park Avenue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael’s foray into Las Vegas was filmed at the Tropicana, 3801 Las Vegas Boulevard South at Tropicana Avenue, on the Strip. The last, fanciest and most expensive of the Strip hotels built in the 50s, the Tropicana is the location for the ‘Folies Bergere’ number in the Elvis Presley film Viva Las Vegas."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Don Corleone's funeral: the entrance to First Calvary Cemetery, Greenpoint Avenue, Queens",
+      "src": "_assets/tt0068646%20-%20Godfather/015.jpg",
+      "alt": "The Godfather film location: Calvary Cemetery, Greenpoint Avenue, Queens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don Corleone’s lavish funeral is held at the First Calvary Cemetery, Greenpoint Avenue in Queens, which was then overlooked by the old Kosciuszko Bridge, carrying the Brooklyn-Queens Expressway across Newton Creek. It's since been demolished, replaced by a sleeker cable bridge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the size of the cemetery, it's surprisingly easy to find the spot where the Corleone mausoleum was erected, opposite the row of mausolea toward the centre-east. Follow the path from the main entrance on Greenpoint Avenue until it curves to the left, then turn sharp left when you see the little group of tombs."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Don Corleone's funeral, opposite the mausolea: First Calvary Cemetery, Greenpoint Avenue, Queens",
+      "src": "_assets/tt0068646%20-%20Godfather/016.jpg",
+      "alt": "The Godfather film location: Calvary Cemetery, Greenpoint Avenue, Queens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oddly, the nearest grave seen in the film, belonging to the Daly family, appears to have turned around in the intervening years."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the same cemetery where 'Ratso' Rizzo (Dustin Hoffman) visits the grave of his father in John Schlesinger's 1969 Midnight Cowboy."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: site of Don Corleone's funeral: First Calvary Cemetery, Greenpoint Avenue, Queens",
+      "src": "_assets/tt0068646%20-%20Godfather/017.jpg",
+      "alt": "The Godfather film location: Calvary Cemetery, Greenpoint Avenue, Queens"
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael now becomes Godfather in a ritual brilliantly intercut with the bloody murders of the other family heads."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Barzini is gunned down by the fake cop: New York County Courthouse, Center Street, Lower Manhattan, New York",
+      "src": "_assets/tt0068646%20-%20Godfather/018.jpg",
+      "alt": "The Godfather film location: New York County Courthouse, Center Street, Lower Manhattan, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clemenza blasts Stracci and Cuneo in the lift of the St Regis New York (where Michael and Kay spent their night in New York); Moe Greene (Alex Rocco) is shot through the eye in the steamroom of the McBurney YMCA, 215 West 23rd Street, and arch-enemy Barzini (Richard Conte) is gunned down by fake cop Al Neri on the steps of the New York County Courthouse, 60 Centre Street at Pearl Street, Lower Manhattan (the location for Sidney Lumet’s Twelve Angry Men, and Henry Hill’s trial at the end of Martin Scorsese‘s Goodfellas) ."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Michael becomes Godfather: Old St Patrick's Cathedral, Mulberry Street, Little Italy, New York",
+      "src": "_assets/tt0068646%20-%20Godfather/019.jpg",
+      "alt": "The Godfather film location: Old St Patrick's Cathedral, Mulberry Street, Little Italy, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "The christening itself took place inside New York’s Old St Patrick’s Cathedral, 264 Mulberry Street between East Prince and Houston Streets in Little Italy. Doesn’t look familiar from the film? That's because an entirely different church was used for exterior shots."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather film location: Michael becomes Godfather: Mount Loretto, Staten island",
+      "src": "_assets/tt0068646%20-%20Godfather/020.jpg",
+      "alt": "The Godfather film location: Mission of the Immaculate Virgin, Hylan Boulevard, Mount Loretto, Staten island"
+    },
+    {
+      "type": "paragraph",
+      "text": "The exterior of the church is the Mission of the Immaculate Virgin, Hylan Boulevard, Mount Loretto, down in the southwest corner of Staten Island (rail: Pleasant Plains). The church burned down shortly after filming, but the façade was saved and the church behind it rebuilt – albeit on a slightly smaller scale."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n<p>Stay at: the St Regis New York, 2 East 55th Street, New York, NY 10022 (tel: 212.753.4500)</p>\n<p>Stay at: the Edison Hotel, 228 West 47th Street, New York, NY 10036 (tel: 212.840.5000)</p>\n<p>Visit: Radio City Music Hall, 1260 Avenue of the Americas, New York, NY 10020 (tel: 212.465.6741)</p>\n<p>Visit: Staten Island</p>\n<p>Take: the Staten Island Ferry</p>\n<p>Travel around: Staten Island Rapid Transit Railway</p>\n<p>Visit: Long Island</p>\n<p>Getting around: Long Island Railroad</p>\n<p>Visit: Sands Point Preserve, 127 Middle Neck Road, Sands Point, NY 11050 (tel: 516.571.7901)</p>\n</section>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Take: the Paramount Pictures Studio Tour, Paramount Pictures Studio Tour Entrance, 5515 Melrose Avenue, Hollywood, CA 90038 (tel: 323.956.1777)</p>\n<p>Visit: the Academy Museum of Motion Pictures, 6067 Wilshire Boulevard, Los Angeles 90036 (tel: 323.930.3000)</p>\n</section>\n<section><h3>Nevada</h3>\n<p>Visit: Nevada</p>\n<p>Visit: Las Vegas</p>\n<p>Flights: Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, Las Vegas, NV 89119 (tel: 702.261.5211)</p>\n<p>Visit: the Tropicana, 3801 Las Vegas Boulevard South, Las Vegas, NV 89109 (tel: 702.739.2222)</p>\n</section>\n<section><h3>Italy</h3>\n<p>Visit: Italy</p>\n<p>Visit: Sicily</p>\n</section>",
+  "visit_info_text": "New York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nStay at: the St Regis New York, 2 East 55th Street, New York, NY 10022 (tel: 212.753.4500)\nStay at: the Edison Hotel, 228 West 47th Street, New York, NY 10036 (tel: 212.840.5000)\nVisit: Radio City Music Hall, 1260 Avenue of the Americas, New York, NY 10020 (tel: 212.465.6741)\nVisit: Staten Island\nTake: the Staten Island Ferry\nTravel around: Staten Island Rapid Transit Railway\nVisit: Long Island\nGetting around: Long Island Railroad\nVisit: Sands Point Preserve, 127 Middle Neck Road, Sands Point, NY 11050 (tel: 516.571.7901)\nCalifornia | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nTake: the Paramount Pictures Studio Tour, Paramount Pictures Studio Tour Entrance, 5515 Melrose Avenue, Hollywood, CA 90038 (tel: 323.956.1777)\nVisit: the Academy Museum of Motion Pictures, 6067 Wilshire Boulevard, Los Angeles 90036 (tel: 323.930.3000)\nNevada\nVisit: Nevada\nVisit: Las Vegas\nFlights: Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, Las Vegas, NV 89119 (tel: 702.261.5211)\nVisit: the Tropicana, 3801 Las Vegas Boulevard South, Las Vegas, NV 89109 (tel: 702.739.2222)\nItaly\nVisit: Italy\nVisit: Sicily",
+  "visit_sections": [
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA",
+        "Stay at: the St Regis New York, 2 East 55th Street, New York, NY 10022 (tel: 212.753.4500)",
+        "Stay at: the Edison Hotel, 228 West 47th Street, New York, NY 10036 (tel: 212.840.5000)",
+        "Visit: Radio City Music Hall, 1260 Avenue of the Americas, New York, NY 10020 (tel: 212.465.6741)",
+        "Visit: Staten Island",
+        "Take: the Staten Island Ferry",
+        "Travel around: Staten Island Rapid Transit Railway",
+        "Visit: Long Island",
+        "Getting around: Long Island Railroad",
+        "Visit: Sands Point Preserve, 127 Middle Neck Road, Sands Point, NY 11050 (tel: 516.571.7901)"
+      ]
+    },
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Take: the Paramount Pictures Studio Tour, Paramount Pictures Studio Tour Entrance, 5515 Melrose Avenue, Hollywood, CA 90038 (tel: 323.956.1777)",
+        "Visit: the Academy Museum of Motion Pictures, 6067 Wilshire Boulevard, Los Angeles 90036 (tel: 323.930.3000)"
+      ]
+    },
+    {
+      "title": "Nevada",
+      "items": [
+        "Visit: Nevada",
+        "Visit: Las Vegas",
+        "Flights: Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, Las Vegas, NV 89119 (tel: 702.261.5211)",
+        "Visit: the Tropicana, 3801 Las Vegas Boulevard South, Las Vegas, NV 89109 (tel: 702.739.2222)"
+      ]
+    },
+    {
+      "title": "Italy",
+      "items": [
+        "Visit: Italy",
+        "Visit: Sicily"
+      ]
+    }
+  ]
+}

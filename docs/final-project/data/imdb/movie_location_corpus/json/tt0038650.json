@@ -1,0 +1,136 @@
+{
+  "imdb_id": "tt0038650",
+  "shorthand": "Its-A-Wonderful-Life",
+  "title": "It's A Wonderful Life",
+  "year": 1946,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0038650 - Its-A-Wonderful-Life.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0038650 - Its-A-Wonderful-Life.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0038650.json",
+  "source_url": "http://www.movie-locations.com/movies/i/Its-A-Wonderful-Life.php",
+  "page_title": "It's A Wonderful Life | Film Locations",
+  "meta_description": "Travel guide to filming locations for It's A Wonderful Life (1946), in California.",
+  "meta_keywords": "Film locations for It's A Wonderful Life (1946), filming locations, travel, tourism set-jetting, california, los angeles, beverly hills high school, bedford falls, frank capra, james stewart",
+  "og_title": "Filming Locations for It's A Wonderful Life (1946), in California.",
+  "og_description": "Travel guide to filming locations for It's A Wonderful Life (1946), in California.",
+  "og_image": "http://www.movie-locations.com/movies/i/Its-A-Wonderful-Life-Beverly-Hills-High.jpg",
+  "top250_rank": "37",
+  "movie_locations_title": "IT'S A WONDERFUL LIFE",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Frank Capra",
+  "cast": [
+    "James Stewart",
+    "Donna Reed",
+    "Henry Travers",
+    "Lionel Barrymore",
+    "Thomas Mitchell",
+    "Gloria Grahame",
+    "Ward Bond",
+    "Frank Faylen",
+    "HB Warner"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0038650%20-%20Its-A-Wonderful-Life/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0038650 - Its-A-Wonderful-Life/002.jpg",
+    "exists": true,
+    "alt": "It's A Wonderful Life poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0038650/poster.jpg",
+    "corpus_asset_src": "../assets/tt0038650/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0038650%20-%20Its-A-Wonderful-Life/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0038650 - Its-A-Wonderful-Life/001.jpg",
+    "exists": true,
+    "alt": "It's A Wonderful Life location: Disney Concert Hall, downtown Los Angeles",
+    "caption": "It’s A Wonderful Life location: the ‘Swim Gym’: Beverly Hills High School, South Lasky Drive, Beverly Hills",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0038650/001.jpg",
+    "corpus_asset_src": "../assets/tt0038650/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0038650%20-%20Its-A-Wonderful-Life/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0038650 - Its-A-Wonderful-Life/001.jpg",
+      "exists": true,
+      "alt": "It's A Wonderful Life location: Disney Concert Hall, downtown Los Angeles",
+      "caption": "It’s A Wonderful Life location: the ‘Swim Gym’: Beverly Hills High School, South Lasky Drive, Beverly Hills",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0038650/001.jpg",
+      "corpus_asset_src": "../assets/tt0038650/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0038650%20-%20Its-A-Wonderful-Life/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0038650 - Its-A-Wonderful-Life/002.jpg",
+      "exists": true,
+      "alt": "It's A Wonderful Life poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0038650/002.jpg",
+      "corpus_asset_src": "../assets/tt0038650/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0038650%20-%20Its-A-Wonderful-Life/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0038650 - Its-A-Wonderful-Life/003.jpg",
+      "exists": true,
+      "alt": "It's A Wonderful Life location: Disney Concert Hall, downtown Los Angeles",
+      "caption": "It’s A Wonderful Life location: the ‘Swim Gym’: Beverly Hills High School, South Lasky Drive, Beverly Hills",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0038650/003.jpg",
+      "corpus_asset_src": "../assets/tt0038650/003.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0038650/001.jpg\" alt=\"It's A Wonderful Life location: Disney Concert Hall, downtown Los Angeles\"><figcaption>It’s A Wonderful Life location: the ‘Swim Gym’: Beverly Hills High School, South Lasky Drive, Beverly Hills</figcaption></figure>\n<p>It’s hard now to believe that this Christmas classic was a box office failure on its first release.</p>\n<p>And the sad news is that there is no ‘Bedford Falls’ to visit. The town, where elderly angel Clarence (<a href=\"https://www.movie-locations.com/people/t/traversh.php\">Henry Travers</a>) convinces suicidal George Bailey (<a href=\"https://www.movie-locations.com/people/s/stewartj.php\">James Stewart</a>) that life hasn't been in vain, was totally recreated with a huge three-block-long set on RKO's Encino Ranch in the <span class=\"name\">San Fernando Valley</span>. You can’t even visit the studio – it’s long gone. It’s been replaced by housing, west of the <span class=\"name\">Sepulveda Basin Recreation Area</span>, between <span class=\"name\">Oxnard Street</span> and <span class=\"name\">Burbank Boulevard</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0038650/003.jpg\" alt=\"It's A Wonderful Life location: Disney Concert Hall, downtown Los Angeles\"><figcaption>It’s A Wonderful Life location: the ‘Swim Gym’: Beverly Hills High School, South Lasky Drive, Beverly Hills</figcaption></figure>\n<p>One location exists, though you probably won’t get the chance to see it. The gym floor which opens up to reveal a swimming pool is still in action at <span class=\"name\">Beverly Hills High School, 255 South Lasky Drive</span>, at Moreno Drive in <span class=\"name\">Beverly Hills</span>, where the 'Swim-Gym' is still signposted.</p>",
+  "main_content_text": "It’s hard now to believe that this Christmas classic was a box office failure on its first release.\n\nAnd the sad news is that there is no ‘Bedford Falls’ to visit. The town, where elderly angel Clarence (Henry Travers) convinces suicidal George Bailey (James Stewart) that life hasn't been in vain, was totally recreated with a huge three-block-long set on RKO's Encino Ranch in the San Fernando Valley. You can’t even visit the studio – it’s long gone. It’s been replaced by housing, west of the Sepulveda Basin Recreation Area, between Oxnard Street and Burbank Boulevard.\n\nOne location exists, though you probably won’t get the chance to see it. The gym floor which opens up to reveal a swimming pool is still in action at Beverly Hills High School, 255 South Lasky Drive, at Moreno Drive in Beverly Hills, where the 'Swim-Gym' is still signposted.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "It’s A Wonderful Life location: the ‘Swim Gym’: Beverly Hills High School, South Lasky Drive, Beverly Hills",
+      "src": "_assets/tt0038650%20-%20Its-A-Wonderful-Life/001.jpg",
+      "alt": "It's A Wonderful Life location: Disney Concert Hall, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s hard now to believe that this Christmas classic was a box office failure on its first release."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the sad news is that there is no ‘Bedford Falls’ to visit. The town, where elderly angel Clarence (Henry Travers) convinces suicidal George Bailey (James Stewart) that life hasn't been in vain, was totally recreated with a huge three-block-long set on RKO's Encino Ranch in the San Fernando Valley. You can’t even visit the studio – it’s long gone. It’s been replaced by housing, west of the Sepulveda Basin Recreation Area, between Oxnard Street and Burbank Boulevard."
+    },
+    {
+      "type": "image",
+      "caption": "It’s A Wonderful Life location: the ‘Swim Gym’: Beverly Hills High School, South Lasky Drive, Beverly Hills",
+      "src": "_assets/tt0038650%20-%20Its-A-Wonderful-Life/003.jpg",
+      "alt": "It's A Wonderful Life location: Disney Concert Hall, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "One location exists, though you probably won’t get the chance to see it. The gym floor which opens up to reveal a swimming pool is still in action at Beverly Hills High School, 255 South Lasky Drive, at Moreno Drive in Beverly Hills, where the 'Swim-Gym' is still signposted."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro"
+      ]
+    }
+  ]
+}

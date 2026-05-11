@@ -1,0 +1,158 @@
+{
+  "imdb_id": "tt0169547",
+  "shorthand": "American-Beauty",
+  "title": "American Beauty",
+  "year": 1999,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0169547 - American-Beauty.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0169547 - American-Beauty.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0169547.json",
+  "source_url": "http://www.movie-locations.com/movies/a/American-Beauty.php",
+  "page_title": "American Beauty film locations (1999)",
+  "meta_description": "Filming locations for Sam Mendes' American Beauty (1999), in Los Angeles, California.",
+  "meta_keywords": "American Beauty film locations, filming locations, travel, tourism, visit, set-jetting, los angeles, mr smiley, carl's jr, saticoy street, canoga park, hancock park, brentwood, south high school, torrance, sam mendes, kevin spacey, oscar winner",
+  "og_title": "Filming Locations for Sam Mendes' American Beauty (1999), in Los Angeles, California.",
+  "og_description": "Travel guide to filming locations for Sam Mendes' American Beauty (1999), in Los Angeles, California.",
+  "og_image": "http://www.movie-locations.com/movies/a/American-Beauty-Carls-Jr.jpg",
+  "top250_rank": "119",
+  "movie_locations_title": "AMERICAN BEAUTY",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Sam Mendes",
+  "cast": [
+    "Kevin Spacey",
+    "Annette Bening",
+    "Wes Bentley",
+    "Thora Birch",
+    "Mena Suvari",
+    "Chris Cooper",
+    "Peter Gallagher",
+    "John Cho",
+    "Sam Robards"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0169547%20-%20American-Beauty/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0169547 - American-Beauty/002.jpg",
+    "exists": true,
+    "alt": "American Beauty poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0169547/poster.jpg",
+    "corpus_asset_src": "../assets/tt0169547/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0169547%20-%20American-Beauty/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0169547 - American-Beauty/001.jpg",
+    "exists": true,
+    "alt": "American Beauty film location: Carl's Jr, Saticoy Street, Canoga Park",
+    "caption": "American Beauty location: \"I think you'll remember me this time.\": Carl's Jr, Saticoy Street, Canoga Park",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0169547/001.jpg",
+    "corpus_asset_src": "../assets/tt0169547/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0169547%20-%20American-Beauty/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0169547 - American-Beauty/001.jpg",
+      "exists": true,
+      "alt": "American Beauty film location: Carl's Jr, Saticoy Street, Canoga Park",
+      "caption": "American Beauty location: \"I think you'll remember me this time.\": Carl's Jr, Saticoy Street, Canoga Park",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0169547/001.jpg",
+      "corpus_asset_src": "../assets/tt0169547/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0169547%20-%20American-Beauty/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0169547 - American-Beauty/002.jpg",
+      "exists": true,
+      "alt": "American Beauty poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0169547/002.jpg",
+      "corpus_asset_src": "../assets/tt0169547/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0169547%20-%20American-Beauty/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0169547 - American-Beauty/003.jpg",
+      "exists": true,
+      "alt": "American Beauty location: South High School, Torrance, Los Angeles",
+      "caption": "American Beauty location: the high school: South High School, Torrance, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0169547/003.jpg",
+      "corpus_asset_src": "../assets/tt0169547/003.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0169547/001.jpg\" alt=\"American Beauty film location: Carl's Jr, Saticoy Street, Canoga Park\"><figcaption>American Beauty location: \"I think you'll remember me this time.\": Carl's Jr, Saticoy Street, Canoga Park</figcaption></figure>\n<p>Although apparently set in the ‘Chicago’ suburbs, <a href=\"https://www.movie-locations.com/people/m/mendess.php\">Sam Mendes</a>’ Oscar winning drama was shot in <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>. The aerial shots of the neat, bland checquerboard neighbourhood  are the suburbs of <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> state capital, <span class=\"name\">Sacramento</span>, as are the streets along which Lester Burnham (<a href=\"https://www.movie-locations.com/people/s/spaceyk.php\">Kevin Spacey</a>) and his neighbours jog.</p>\n<p>The Burnham home, though, as well as the house of the Fitts next door, completely reverses the usual practice, by filming exteriors at the studio, and interiors on practical locations.</p>\n<p>The very specific sightlines needed for the characters to peer into each others’ lives, determined that the houses  needed to be precisely configured.</p>\n<p>Two adjacent houses on the <span class=\"name\">Warner Ranch</span> (formerly the Columbia Ranch), <span class=\"name\">411 North Hollywood Way</span> in <span class=\"name\">Burbank</span>, were rebuilt to suit the needs of the script.\t  They stand on the ranch’s <span class=\"name\">Blondie Street</span> – built for Columbia’s serialisation of the Blondie Bumstead cartoon strip in the Thirties.  Sharp-eyed movie watchers might recognise the street as <a href=\"https://www.movie-locations.com/people/g/gloverd.php\">Danny Glover</a>’s neighborhood from the <a href=\"https://www.movie-locations.com/movies/l/Lethal-Weapon.php\">Lethal Weapon</a> films and the site of the Griswald family home in <span class=\"name\">National Lampoon’ s Christmas Vacation</span>. Unlike the main Warner’s Burbank studio, the Ranch is not open for tours.</p>\n<p>But, although the respective interiors were filmed in real houses, and in truly swanky neighbourhoods, they were several miles apart.</p>\n<p>The Burnham household was filmed in <span class=\"name\">11388 Homedale Street,</span> at Beloit Avenue, in <span class=\"name\">Brentwood</span> just west of UCLA.</p>\n<p>Colonel Fitts’ ‘next door’ house is is in midtown’s <span class=\"name\">Hancock Park</span> district, at <span class=\"name\">330 South Windsor Boulevard</span>, between West 3rd and West 4th Streets.</p>\n<p>The school where Lester Burnham lusts after his daughter’s friend Angela (<a href=\"https://www.movie-locations.com/people/s/suvarim.php\">Mena Suvari</a>) is a blending of two establishments to the south of the city: <span class=\"name\">South High School, 4801 Pacific Coast Highway, Torrance</span>, in <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>’s South Bay area; and <span class=\"name\">Long Beach Polytechnic High School, 1600 Atlantic Avenue</span> in <span class=\"name\">Long Beach</span>.</p>\n<p>But you’ll need to head to the north of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, in the <span class=\"name\">San Fernando Valley</span>, to grab a bite at ‘Mr Smiley’, where Lester (“I think you'll remember me this time”) gets a job serving up burgers.</p>\n<p>It’s actually a branch of  <span class=\"name\">Carl’ s Jr / Green Burrito, 20105 Saticoy Street</span>, in<span class=\"name\"> Canoga Park</span>.</p>",
+  "main_content_text": "Although apparently set in the ‘Chicago’ suburbs, Sam Mendes’ Oscar winning drama was shot in California. The aerial shots of the neat, bland checquerboard neighbourhood are the suburbs of California state capital, Sacramento, as are the streets along which Lester Burnham (Kevin Spacey) and his neighbours jog.\n\nThe Burnham home, though, as well as the house of the Fitts next door, completely reverses the usual practice, by filming exteriors at the studio, and interiors on practical locations.\n\nThe very specific sightlines needed for the characters to peer into each others’ lives, determined that the houses needed to be precisely configured.\n\nTwo adjacent houses on the Warner Ranch (formerly the Columbia Ranch), 411 North Hollywood Way in Burbank, were rebuilt to suit the needs of the script. They stand on the ranch’s Blondie Street – built for Columbia’s serialisation of the Blondie Bumstead cartoon strip in the Thirties. Sharp-eyed movie watchers might recognise the street as Danny Glover’s neighborhood from the Lethal Weapon films and the site of the Griswald family home in National Lampoon’ s Christmas Vacation. Unlike the main Warner’s Burbank studio, the Ranch is not open for tours.\n\nBut, although the respective interiors were filmed in real houses, and in truly swanky neighbourhoods, they were several miles apart.\n\nThe Burnham household was filmed in 11388 Homedale Street, at Beloit Avenue, in Brentwood just west of UCLA.\n\nColonel Fitts’ ‘next door’ house is is in midtown’s Hancock Park district, at 330 South Windsor Boulevard, between West 3rd and West 4th Streets.\n\nThe school where Lester Burnham lusts after his daughter’s friend Angela (Mena Suvari) is a blending of two establishments to the south of the city: South High School, 4801 Pacific Coast Highway, Torrance, in LA’s South Bay area; and Long Beach Polytechnic High School, 1600 Atlantic Avenue in Long Beach.\n\nBut you’ll need to head to the north of Los Angeles, in the San Fernando Valley, to grab a bite at ‘Mr Smiley’, where Lester (“I think you'll remember me this time”) gets a job serving up burgers.\n\nIt’s actually a branch of Carl’ s Jr / Green Burrito, 20105 Saticoy Street, in Canoga Park.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "American Beauty location: \"I think you'll remember me this time.\": Carl's Jr, Saticoy Street, Canoga Park",
+      "src": "_assets/tt0169547%20-%20American-Beauty/001.jpg",
+      "alt": "American Beauty film location: Carl's Jr, Saticoy Street, Canoga Park"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although apparently set in the ‘Chicago’ suburbs, Sam Mendes’ Oscar winning drama was shot in California. The aerial shots of the neat, bland checquerboard neighbourhood are the suburbs of California state capital, Sacramento, as are the streets along which Lester Burnham (Kevin Spacey) and his neighbours jog."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Burnham home, though, as well as the house of the Fitts next door, completely reverses the usual practice, by filming exteriors at the studio, and interiors on practical locations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The very specific sightlines needed for the characters to peer into each others’ lives, determined that the houses needed to be precisely configured."
+    },
+    {
+      "type": "paragraph",
+      "text": "Two adjacent houses on the Warner Ranch (formerly the Columbia Ranch), 411 North Hollywood Way in Burbank, were rebuilt to suit the needs of the script. They stand on the ranch’s Blondie Street – built for Columbia’s serialisation of the Blondie Bumstead cartoon strip in the Thirties. Sharp-eyed movie watchers might recognise the street as Danny Glover’s neighborhood from the Lethal Weapon films and the site of the Griswald family home in National Lampoon’ s Christmas Vacation. Unlike the main Warner’s Burbank studio, the Ranch is not open for tours."
+    },
+    {
+      "type": "paragraph",
+      "text": "But, although the respective interiors were filmed in real houses, and in truly swanky neighbourhoods, they were several miles apart."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Burnham household was filmed in 11388 Homedale Street, at Beloit Avenue, in Brentwood just west of UCLA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Colonel Fitts’ ‘next door’ house is is in midtown’s Hancock Park district, at 330 South Windsor Boulevard, between West 3rd and West 4th Streets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The school where Lester Burnham lusts after his daughter’s friend Angela (Mena Suvari) is a blending of two establishments to the south of the city: South High School, 4801 Pacific Coast Highway, Torrance, in LA’s South Bay area; and Long Beach Polytechnic High School, 1600 Atlantic Avenue in Long Beach."
+    },
+    {
+      "type": "paragraph",
+      "text": "But you’ll need to head to the north of Los Angeles, in the San Fernando Valley, to grab a bite at ‘Mr Smiley’, where Lester (“I think you'll remember me this time”) gets a job serving up burgers."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s actually a branch of Carl’ s Jr / Green Burrito, 20105 Saticoy Street, in Canoga Park."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro"
+      ]
+    }
+  ]
+}

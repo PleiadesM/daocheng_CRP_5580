@@ -1,0 +1,172 @@
+{
+  "imdb_id": "tt0086190",
+  "shorthand": "Star-Wars-6-Return-Of-The-Jedi",
+  "title": "Star Wars Episode VI: Return Of The Jedi",
+  "year": 1983,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0086190 - Star-Wars-6-Return-Of-The-Jedi.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0086190 - Star-Wars-6-Return-Of-The-Jedi.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0086190.json",
+  "source_url": "http://www.movie-locations.com/movies/s/Star-Wars-6-Return-Of-The-Jedi.php",
+  "page_title": "Star Wars Episode VI: Return Of The Jedi | Film Locations",
+  "meta_description": "Film locations for Star Wars Episode VI: Return Of The Jedi (1983), in California and Arizona.",
+  "meta_keywords": "Star Wars Episode VI: Return Of The Jedi (1983), film locations, filming locations, tourism, travel, set-jetting, california, imperial sand dunes, buttercup valley, jedediah smith redwoods state park, crescent city, yuma, arizona",
+  "og_title": "Filming Locations for Star Wars Episode VI: Return Of The Jedi (1983), in California and Arizona.",
+  "og_description": "Travel guide to filming locations for Star Wars Episode VI: Return Of The Jedi (1983), in California and Arizona.",
+  "og_image": "http://www.movie-locations.com/movies/s/Star-Wars-6-Return-Of-The-Jedi.jpg",
+  "top250_rank": "121",
+  "movie_locations_title": "STAR WARS EPISODE VI: THE RETURN OF THE JEDI",
+  "movie_locations_regions": "California | Arizona | Hertfordshire",
+  "director": "Richard Marquand",
+  "cast": [
+    "Mark Hamill",
+    "Carrie Fisher",
+    "Harrison Ford",
+    "Alec Guinness",
+    "David Prowse",
+    "James Earl Jones",
+    "Peter Mayhew",
+    "Anthony Daniels",
+    "Kenny Baker",
+    "Ian McDiarmid",
+    "Billy Dee Williams",
+    "Warwick Davis",
+    "Frank Oz",
+    "Kenneth Colley"
+  ],
+  "locations": [
+    "California;",
+    "Arizona;",
+    "Hertfordshire"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0086190%20-%20Star-Wars-6-Return-Of-The-Jedi/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086190 - Star-Wars-6-Return-Of-The-Jedi/002.jpg",
+    "exists": true,
+    "alt": "Star Wars Episode VI: Return Of The Jedi poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086190/poster.jpg",
+    "corpus_asset_src": "../assets/tt0086190/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0086190%20-%20Star-Wars-6-Return-Of-The-Jedi/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086190 - Star-Wars-6-Return-Of-The-Jedi/001.jpg",
+    "exists": true,
+    "alt": "Star Wars Episode VI: Return Of The Jedi: Jedediah Smith Redwoods State Park, Crescent City, California",
+    "caption": "Star Wars Episode VI: Return Of The Jedi: the Moon of Endor: Jedediah Smith Redwoods State Park, Crescent City, California | Photograph: wikimedia / Chmee2",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086190/001.jpg",
+    "corpus_asset_src": "../assets/tt0086190/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0086190%20-%20Star-Wars-6-Return-Of-The-Jedi/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086190 - Star-Wars-6-Return-Of-The-Jedi/001.jpg",
+      "exists": true,
+      "alt": "Star Wars Episode VI: Return Of The Jedi: Jedediah Smith Redwoods State Park, Crescent City, California",
+      "caption": "Star Wars Episode VI: Return Of The Jedi: the Moon of Endor: Jedediah Smith Redwoods State Park, Crescent City, California | Photograph: wikimedia / Chmee2",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086190/001.jpg",
+      "corpus_asset_src": "../assets/tt0086190/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086190%20-%20Star-Wars-6-Return-Of-The-Jedi/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086190 - Star-Wars-6-Return-Of-The-Jedi/002.jpg",
+      "exists": true,
+      "alt": "Star Wars Episode VI: Return Of The Jedi poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086190/002.jpg",
+      "corpus_asset_src": "../assets/tt0086190/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086190%20-%20Star-Wars-6-Return-Of-The-Jedi/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086190 - Star-Wars-6-Return-Of-The-Jedi/003.jpg",
+      "exists": true,
+      "alt": "Star Wars Episode VI: Return Of The Jedi film location: Imperial Sand Dunes, Buttercup Valley, Arizona",
+      "caption": "Star Wars Episode VI: Return Of The Jedi film location: Imperial Sand Dunes, Buttercup Valley, Arizona | Photograph: iStockphoto / jziegler",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086190/003.jpg",
+      "corpus_asset_src": "../assets/tt0086190/003.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0086190/001.jpg\" alt=\"Star Wars Episode VI: Return Of The Jedi: Jedediah Smith Redwoods State Park, Crescent City, California\"><figcaption>Star Wars Episode VI: Return Of The Jedi: the Moon of Endor: Jedediah Smith Redwoods State Park, Crescent City, California | Photograph: wikimedia / Chmee2</figcaption></figure>\n<p>Studio filming for this, the third in the original trilogy, was again at <span class=\"name\">Elstree Studio</span> in <a href=\"https://www.movie-locations.com/places/uk/herts.php\">Hertfordshire</a>, southeast <a href=\"https://www.movie-locations.com/places/england.php\">England</a>, but exteriors were further afield.</p>\n<p>‘Tatooine’, was found in <a href=\"https://www.movie-locations.com/places/africa/tunisia.php\">Tunisia</a> for <a href=\"https://www.movie-locations.com/movies/s/Star-Wars-4-A-New-Hope.php\">Star Wars Episode IV: A New Hope</a>, but <a href=\"https://www.movie-locations.com/movies/r/Raiders-Of-The-Lost-Ark.php\">Raiders of the Lost Ark</a> had run into problems filming in the country – though <a href=\"https://www.movie-locations.com/people/l/lucasg.php\">George Lucas</a> returned to <a href=\"https://www.movie-locations.com/places/africa/tunisia.php\">Tunisia</a> for <a href=\"https://www.movie-locations.com/movies/s/Star-Wars-1-The-Phantom-Menace.php\">Star Wars Episode 1: The Phantom Menace</a> and for <a href=\"https://www.movie-locations.com/movies/s/Star-Wars-2-Attack-Of-The-Clones.php\">Attack Of The Clones</a>. </p>\n<p>The location for <span class=\"name\">Episode VI </span>is  the desert near <span class=\"name\">Yuma</span> on the <a href=\"https://www.movie-locations.com/places/usa/arizona.php\">Arizona</a> / <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> border.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086190/003.jpg\" alt=\"Star Wars Episode VI: Return Of The Jedi film location: Imperial Sand Dunes, Buttercup Valley, Arizona\"><figcaption>Star Wars Episode VI: Return Of The Jedi film location: Imperial Sand Dunes, Buttercup Valley, Arizona | Photograph: iStockphoto / jziegler</figcaption></figure>\n<p>Jabba the Hutt’s huge (80 feet high, 212 feet long) hover barge was built at the <a href=\"http://www.visityuma.com/sand-dunes.html\" target=\"_blank\">Imperial Sand Dunes</a> in <span class=\"name\">Buttercup Valley</span>, south of <span class=\"name\">I-8</span>, just to the west of <span class=\"name\">Yuma</span>. More recently, <span class=\"name\">Jarhead</span> and <span class=\"name\">The Scorpion King</span> were filmed in the same area.</p>\n<p>More otherworldly landscapes were found in the barren landscapes of <span class=\"name\">Death Valley</span>, <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>.</p>\n<p>The monster trees on the ‘Moon of Endor’, up to 300 feet tall and 20 feet in diameter, are the giant Redwood groves of the <a href=\"http://www.parks.ca.gov/?page_id=413\" target=\"blank\">Jedediah Smith Redwoods State Park</a>, <span class=\"name\">4241 Kings Valley Road</span>, nine miles east of <span class=\"name\">Crescent City</span> on Highway 199, northern <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>.</p>\n<p><span class=\"name\">Return Of The Jedi</span> was filmed in strict secrecy, masquerading on location under the title <span class=\"ital\">Blue Harvest – Horror Beyond Imagination</span>.</p>",
+  "main_content_text": "Studio filming for this, the third in the original trilogy, was again at Elstree Studio in Hertfordshire, southeast England, but exteriors were further afield.\n\n‘Tatooine’, was found in Tunisia for Star Wars Episode IV: A New Hope, but Raiders of the Lost Ark had run into problems filming in the country – though George Lucas returned to Tunisia for Star Wars Episode 1: The Phantom Menace and for Attack Of The Clones.\n\nThe location for Episode VI is the desert near Yuma on the Arizona / California border.\n\nJabba the Hutt’s huge (80 feet high, 212 feet long) hover barge was built at the Imperial Sand Dunes in Buttercup Valley, south of I-8, just to the west of Yuma. More recently, Jarhead and The Scorpion King were filmed in the same area.\n\nMore otherworldly landscapes were found in the barren landscapes of Death Valley, California.\n\nThe monster trees on the ‘Moon of Endor’, up to 300 feet tall and 20 feet in diameter, are the giant Redwood groves of the Jedediah Smith Redwoods State Park, 4241 Kings Valley Road, nine miles east of Crescent City on Highway 199, northern California.\n\nReturn Of The Jedi was filmed in strict secrecy, masquerading on location under the title Blue Harvest – Horror Beyond Imagination.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Star Wars Episode VI: Return Of The Jedi: the Moon of Endor: Jedediah Smith Redwoods State Park, Crescent City, California | Photograph: wikimedia / Chmee2",
+      "src": "_assets/tt0086190%20-%20Star-Wars-6-Return-Of-The-Jedi/001.jpg",
+      "alt": "Star Wars Episode VI: Return Of The Jedi: Jedediah Smith Redwoods State Park, Crescent City, California"
+    },
+    {
+      "type": "paragraph",
+      "text": "Studio filming for this, the third in the original trilogy, was again at Elstree Studio in Hertfordshire, southeast England, but exteriors were further afield."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Tatooine’, was found in Tunisia for Star Wars Episode IV: A New Hope, but Raiders of the Lost Ark had run into problems filming in the country – though George Lucas returned to Tunisia for Star Wars Episode 1: The Phantom Menace and for Attack Of The Clones."
+    },
+    {
+      "type": "paragraph",
+      "text": "The location for Episode VI is the desert near Yuma on the Arizona / California border."
+    },
+    {
+      "type": "image",
+      "caption": "Star Wars Episode VI: Return Of The Jedi film location: Imperial Sand Dunes, Buttercup Valley, Arizona | Photograph: iStockphoto / jziegler",
+      "src": "_assets/tt0086190%20-%20Star-Wars-6-Return-Of-The-Jedi/003.jpg",
+      "alt": "Star Wars Episode VI: Return Of The Jedi film location: Imperial Sand Dunes, Buttercup Valley, Arizona"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jabba the Hutt’s huge (80 feet high, 212 feet long) hover barge was built at the Imperial Sand Dunes in Buttercup Valley, south of I-8, just to the west of Yuma. More recently, Jarhead and The Scorpion King were filmed in the same area."
+    },
+    {
+      "type": "paragraph",
+      "text": "More otherworldly landscapes were found in the barren landscapes of Death Valley, California."
+    },
+    {
+      "type": "paragraph",
+      "text": "The monster trees on the ‘Moon of Endor’, up to 300 feet tall and 20 feet in diameter, are the giant Redwood groves of the Jedediah Smith Redwoods State Park, 4241 Kings Valley Road, nine miles east of Crescent City on Highway 199, northern California."
+    },
+    {
+      "type": "paragraph",
+      "text": "Return Of The Jedi was filmed in strict secrecy, masquerading on location under the title Blue Harvest – Horror Beyond Imagination."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California</h3>\n<p>Visit: California</p>\n<p>Visit: Jedediah Smith Redwoods State Park, 4241 Kings Valley Road, Crescent City, CA 95531 (tel: 707.465.7335)</p>\n</section>\n<section><h3>Arizona</h3>\n<p>Visit: Arizona</p>\n<p>Visit: Yuma</p>\n<p>Visit: Imperial Sand Dunes</p>\n</section>\n<section><h3>UK | Hertfordshire</h3>\n<p>Visit: Hertfordshire</p>\n</section>",
+  "visit_info_text": "California\nVisit: California\nVisit: Jedediah Smith Redwoods State Park, 4241 Kings Valley Road, Crescent City, CA 95531 (tel: 707.465.7335)\nArizona\nVisit: Arizona\nVisit: Yuma\nVisit: Imperial Sand Dunes\nUK | Hertfordshire\nVisit: Hertfordshire",
+  "visit_sections": [
+    {
+      "title": "California",
+      "items": [
+        "Visit: California",
+        "Visit: Jedediah Smith Redwoods State Park, 4241 Kings Valley Road, Crescent City, CA 95531 (tel: 707.465.7335)"
+      ]
+    },
+    {
+      "title": "Arizona",
+      "items": [
+        "Visit: Arizona",
+        "Visit: Yuma",
+        "Visit: Imperial Sand Dunes"
+      ]
+    },
+    {
+      "title": "UK | Hertfordshire",
+      "items": [
+        "Visit: Hertfordshire"
+      ]
+    }
+  ]
+}

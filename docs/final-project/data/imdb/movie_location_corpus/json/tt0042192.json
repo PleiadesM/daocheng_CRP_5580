@@ -1,0 +1,198 @@
+{
+  "imdb_id": "tt0042192",
+  "shorthand": "All-About-Eve",
+  "title": "All About Eve",
+  "year": 1950,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0042192 - All-About-Eve.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0042192 - All-About-Eve.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0042192.json",
+  "source_url": "http://www.movie-locations.com/movies/a/All-About-Eve.php",
+  "page_title": "Film locations for All About Eve (1950)",
+  "meta_description": "Filming locations for All About Eve (1950), in New York, Los Angeles, San Francisco and Connecticut.",
+  "meta_keywords": "All About Eve (1950) film locations, filming locations, travel, tourism, visit, set-jetting, manhattan, new york, john golden theatre, 21 club, twenty-one club, los angeles, california, san francisco, curran theatre, shubert theatre, new haven, connecticut",
+  "og_title": "Filming Locations for All About Eve (1950)",
+  "og_description": "Travel guide to filming locations for All About Eve (1950), in New York, Los Angeles, San Francisco and Connecticut.",
+  "og_image": "http://www.movie-locations.com/movies/a/All-About-Eve-Curran-Theatre-lobby.jpg",
+  "top250_rank": "217",
+  "movie_locations_title": "ALL ABOUT EVE",
+  "movie_locations_regions": "Los Angeles, California | San Francisco, California | New York | Connecticut",
+  "director": "Joseph L Mankiewicz",
+  "cast": [
+    "Bette Davis",
+    "George Sanders",
+    "Anne Baxter",
+    "Celeste Holm",
+    "Marilyn Monroe"
+  ],
+  "locations": [
+    "Los Angeles, California",
+    "San Francisco, California",
+    "New York;",
+    "Connecticut"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0042192%20-%20All-About-Eve/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0042192 - All-About-Eve/002.jpg",
+    "exists": true,
+    "alt": "All About Eve poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0042192/poster.jpg",
+    "corpus_asset_src": "../assets/tt0042192/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0042192%20-%20All-About-Eve/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0042192 - All-About-Eve/001.jpg",
+    "exists": true,
+    "alt": "All About Eve location: Curran Theatre, Geary Street, San Francisco",
+    "caption": "All About Eve location: the theatre lobby: Curran Theatre, Geary Street, San Francisco",
+    "width": 630,
+    "height": 420,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0042192/001.jpg",
+    "corpus_asset_src": "../assets/tt0042192/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0042192%20-%20All-About-Eve/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0042192 - All-About-Eve/001.jpg",
+      "exists": true,
+      "alt": "All About Eve location: Curran Theatre, Geary Street, San Francisco",
+      "caption": "All About Eve location: the theatre lobby: Curran Theatre, Geary Street, San Francisco",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0042192/001.jpg",
+      "corpus_asset_src": "../assets/tt0042192/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0042192%20-%20All-About-Eve/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0042192 - All-About-Eve/002.jpg",
+      "exists": true,
+      "alt": "All About Eve poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0042192/002.jpg",
+      "corpus_asset_src": "../assets/tt0042192/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0042192%20-%20All-About-Eve/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0042192 - All-About-Eve/003.jpg",
+      "exists": true,
+      "alt": "All About Eve location: Golden Theatre, West 45th Street, New York",
+      "caption": "All About Eve location: Eve Harrington hangs around the Broadway stage door: Golden Theatre, West 45th Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0042192/003.jpg",
+      "corpus_asset_src": "../assets/tt0042192/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0042192%20-%20All-About-Eve/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0042192 - All-About-Eve/004.jpg",
+      "exists": true,
+      "alt": "All About Eve location: 21 Club, 21 West 52nd Street, New York",
+      "caption": "All About Eve location: Celeste Holm bumps into Eve Harrington: 21 Club, 21 West 52nd Street, New York | wikimedia / David Shankbone",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0042192/004.jpg",
+      "corpus_asset_src": "../assets/tt0042192/004.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0042192/001.jpg\" alt=\"All About Eve location: Curran Theatre, Geary Street, San Francisco\"><figcaption>All About Eve location: the theatre lobby: Curran Theatre, Geary Street, San Francisco</figcaption></figure>\n<p>Although made largely in the studio in <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, clever use of Second Unit filming adds a little East Coast authenticity to <a href=\"https://www.movie-locations.com/people/m/mankiewiczjl.php\">Joseph L Mankiewicz</a>’s story of ruthless ambition, set in Manhattan theatreland, which got a record fourteen Oscar nominations, and bagged six of them, including biggies Best Picture, Direction and Screenplay.</p>\n<p>Manipulative Eve Harrington (<a href=\"https://www.movie-locations.com/people/b/baxtera.php\">Anne Baxter</a>), first seen as a sweet, unassuming little mite, hangs around the stage door of <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>’s <a href=\"http://www.shubert.nyc/theatres/golden/\" target=\"_blank\">John Golden Theatre</a>, <span class=\"name\">252 West 45th Street</span> at 8th Avenue, for a glimpse of her idol, Margo Channing (<a href=\"https://www.movie-locations.com/people/d/davisb.php\">Bette Davis</a>, in best scene-stealing form).</p>\n<p>Though the alley beside the <a href=\"http://www.shubert.nyc/theatres/golden/\" target=\"_blank\">Golden</a>, where helpful Karen (<a href=\"https://www.movie-locations.com/people/h/holmc.php\">Celeste Holm</a>) offers to take Eve backstage, is a studio set, the establishing longshot is real. Doubles stood in for the two stars, who remained back at the Fox studios in <span class=\"name\">Hollywood</span>, a standard technique of the period, used throughout the film.</p>\n<p>The cast did make it a little further up the West Coast from <span class=\"name\">Hollywood</span>, though, as far as <a href=\"https://www.movie-locations.com/places/usa/sanfran.php\">San Francisco</a> to film theatre interiors, where a pre-stardom <a href=\"https://www.movie-locations.com/people/m/monroem.php\">Marilyn Monroe</a> appears as Miss Caswell, ‘a graduate of the Copacabana school of acting’ – the protegé of caustic Addison DeWitt (<a href=\"https://www.movie-locations.com/people/s/sandersg.php\">George Sanders</a>).</p>\n<p>The <a onclick=\"window.open('http://www.shubertorganization.com/theatres/john_golden.asp', 'theatre1')\" href=\"#golden\">Golden</a>’s interior seen in the film is actually that of the <span class=\"name\">Curran Theatre, 445 Geary Street, downtown</span> <a href=\"https://www.movie-locations.com/places/usa/sanfran.php\">San Francisco</a>. Built in 1922, the theatre is still a popular venue for the latest big musicals.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0042192/004.jpg\" alt=\"All About Eve location: 21 Club, 21 West 52nd Street, New York\"><figcaption>All About Eve location: Celeste Holm bumps into Eve Harrington: 21 Club, 21 West 52nd Street, New York | wikimedia / David Shankbone</figcaption></figure>\n<p><a href=\"https://www.movie-locations.com/people/h/holmc.php\">Celeste Holm</a> gets a stand-in as Karen for her entrance into <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>’s famous <a href=\"http://www.21club.com/\" target=\"_blank\">21 Club</a>, <span class=\"name\">21 West 52nd Street</span> between Fifth and Sixth Avenues, where she bumps into Eve.</p>\n<p>The real <a href=\"http://www.21club.com/\" target=\"_blank\">21 Club</a>, a pretty exclusive drinking club which started up during Prohibition as a speakeasy, was given a new lease of life in 1987 when, after years of decline, it was renovated. It features frequently as a symbol of worldly success in such films as <a href=\"https://www.movie-locations.com/people/s/stoneo.php\">Oliver Stone</a>’s <a href=\"https://www.movie-locations.com/movies/w/Wall-Street.php\">Wall Street</a>, showbiz satire <a href=\"https://www.movie-locations.com/movies/s/Sweet-Smell-Of-Success.php\">The Sweet Smell of Success</a> and <a href=\"https://www.movie-locations.com/people/a/allenw.php\">Woody Allen</a>’s <span class=\"name\">Manhattan Murder Mystery</span> – where you can see the club’s jockey-covered frontage.</p>\n<p><span class=\"ital\">Footsteps on the Ceiling</span>, the play in which Eve finally gets the coveted plum role, opens at the <a href=\"http://www.shubert.com\" target=\"_blank\">Shubert Theatre</a>, <span class=\"name\">247 College Street</span>, <a href=\"http://www.visitnewhaven.com\" target=\"_blank\">New Haven</a>,  <a href=\"https://www.movie-locations.com/places/usa/connecticut.php\">Connecticut</a>, a traditional out-of-town try-out venue for Broadway-bound shows (<span class=\"ital\">A Streetcar Named Desire</span> premiered here in 1947, launching <a href=\"https://www.movie-locations.com/people/b/brandom.php\">Marlon Brando</a> to stardom), and the hometown of Yale University. Once again, doubles are used for the long shots, while <a href=\"https://www.movie-locations.com/people/b/baxtera.php\">Anne Baxter</a> and <a href=\"https://www.movie-locations.com/people/s/sandersg.php\">George Sanders</a> stroll past rear projection of the <a href=\"http://www.shubert.com\" target=\"_blank\">Shubert</a> and the nearby Taft Hotel (now the <a href=\"http://www.taftapartments.com\" target=\"_blank\">Taft Apartments</a>).</p>\n<p>The swanky apartment to which Eve finally retires, clutching her Sarah Siddons award, was filmed on <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>’s<span class=\"name\"> Fifth Avenue</span>, with the inevitable stand-in.</p>",
+  "main_content_text": "Although made largely in the studio in Los Angeles, clever use of Second Unit filming adds a little East Coast authenticity to Joseph L Mankiewicz’s story of ruthless ambition, set in Manhattan theatreland, which got a record fourteen Oscar nominations, and bagged six of them, including biggies Best Picture, Direction and Screenplay.\n\nManipulative Eve Harrington (Anne Baxter), first seen as a sweet, unassuming little mite, hangs around the stage door of New York’s John Golden Theatre, 252 West 45th Street at 8th Avenue, for a glimpse of her idol, Margo Channing (Bette Davis, in best scene-stealing form).\n\nThough the alley beside the Golden, where helpful Karen (Celeste Holm) offers to take Eve backstage, is a studio set, the establishing longshot is real. Doubles stood in for the two stars, who remained back at the Fox studios in Hollywood, a standard technique of the period, used throughout the film.\n\nThe cast did make it a little further up the West Coast from Hollywood, though, as far as San Francisco to film theatre interiors, where a pre-stardom Marilyn Monroe appears as Miss Caswell, ‘a graduate of the Copacabana school of acting’ – the protegé of caustic Addison DeWitt (George Sanders).\n\nThe Golden’s interior seen in the film is actually that of the Curran Theatre, 445 Geary Street, downtown San Francisco. Built in 1922, the theatre is still a popular venue for the latest big musicals.\n\nCeleste Holm gets a stand-in as Karen for her entrance into New York’s famous 21 Club, 21 West 52nd Street between Fifth and Sixth Avenues, where she bumps into Eve.\n\nThe real 21 Club, a pretty exclusive drinking club which started up during Prohibition as a speakeasy, was given a new lease of life in 1987 when, after years of decline, it was renovated. It features frequently as a symbol of worldly success in such films as Oliver Stone’s Wall Street, showbiz satire The Sweet Smell of Success and Woody Allen’s Manhattan Murder Mystery – where you can see the club’s jockey-covered frontage.\n\nFootsteps on the Ceiling, the play in which Eve finally gets the coveted plum role, opens at the Shubert Theatre, 247 College Street, New Haven, Connecticut, a traditional out-of-town try-out venue for Broadway-bound shows (A Streetcar Named Desire premiered here in 1947, launching Marlon Brando to stardom), and the hometown of Yale University. Once again, doubles are used for the long shots, while Anne Baxter and George Sanders stroll past rear projection of the Shubert and the nearby Taft Hotel (now the Taft Apartments).\n\nThe swanky apartment to which Eve finally retires, clutching her Sarah Siddons award, was filmed on New York’s Fifth Avenue, with the inevitable stand-in.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "All About Eve location: the theatre lobby: Curran Theatre, Geary Street, San Francisco",
+      "src": "_assets/tt0042192%20-%20All-About-Eve/001.jpg",
+      "alt": "All About Eve location: Curran Theatre, Geary Street, San Francisco"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although made largely in the studio in Los Angeles, clever use of Second Unit filming adds a little East Coast authenticity to Joseph L Mankiewicz’s story of ruthless ambition, set in Manhattan theatreland, which got a record fourteen Oscar nominations, and bagged six of them, including biggies Best Picture, Direction and Screenplay."
+    },
+    {
+      "type": "paragraph",
+      "text": "Manipulative Eve Harrington (Anne Baxter), first seen as a sweet, unassuming little mite, hangs around the stage door of New York’s John Golden Theatre, 252 West 45th Street at 8th Avenue, for a glimpse of her idol, Margo Channing (Bette Davis, in best scene-stealing form)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Though the alley beside the Golden, where helpful Karen (Celeste Holm) offers to take Eve backstage, is a studio set, the establishing longshot is real. Doubles stood in for the two stars, who remained back at the Fox studios in Hollywood, a standard technique of the period, used throughout the film."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cast did make it a little further up the West Coast from Hollywood, though, as far as San Francisco to film theatre interiors, where a pre-stardom Marilyn Monroe appears as Miss Caswell, ‘a graduate of the Copacabana school of acting’ – the protegé of caustic Addison DeWitt (George Sanders)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Golden’s interior seen in the film is actually that of the Curran Theatre, 445 Geary Street, downtown San Francisco. Built in 1922, the theatre is still a popular venue for the latest big musicals."
+    },
+    {
+      "type": "image",
+      "caption": "All About Eve location: Celeste Holm bumps into Eve Harrington: 21 Club, 21 West 52nd Street, New York | wikimedia / David Shankbone",
+      "src": "_assets/tt0042192%20-%20All-About-Eve/004.jpg",
+      "alt": "All About Eve location: 21 Club, 21 West 52nd Street, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "Celeste Holm gets a stand-in as Karen for her entrance into New York’s famous 21 Club, 21 West 52nd Street between Fifth and Sixth Avenues, where she bumps into Eve."
+    },
+    {
+      "type": "paragraph",
+      "text": "The real 21 Club, a pretty exclusive drinking club which started up during Prohibition as a speakeasy, was given a new lease of life in 1987 when, after years of decline, it was renovated. It features frequently as a symbol of worldly success in such films as Oliver Stone’s Wall Street, showbiz satire The Sweet Smell of Success and Woody Allen’s Manhattan Murder Mystery – where you can see the club’s jockey-covered frontage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Footsteps on the Ceiling, the play in which Eve finally gets the coveted plum role, opens at the Shubert Theatre, 247 College Street, New Haven, Connecticut, a traditional out-of-town try-out venue for Broadway-bound shows (A Streetcar Named Desire premiered here in 1947, launching Marlon Brando to stardom), and the hometown of Yale University. Once again, doubles are used for the long shots, while Anne Baxter and George Sanders stroll past rear projection of the Shubert and the nearby Taft Hotel (now the Taft Apartments)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The swanky apartment to which Eve finally retires, clutching her Sarah Siddons award, was filmed on New York’s Fifth Avenue, with the inevitable stand-in."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n<p>Visit: the John Golden Theatre, 252 West 45th Street, New York, NY 10036 (tel: 212.239.6200)</p>\n<p>Vist: the 21 Club, 21 West 52nd Street, New York, NY 10019 (tel: 212.582.7200)</p>\n</section>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travel around: Los Angeles Metro</p>\n</section>\n<section><h3>California | San Francisco</h3>\n<p>Visit: San Francisco</p>\n<p>Flights: San Francisco International Airport, San Francisco, CA 94128 (tel: 650.821.8211)</p>\n<p>Travel around: BART (Bay Area Rapid Transit)</p>\n<p>Visit: the Curran Theatre, 445 Geary Street, San Francisco, CA 94102 (tel: 888.746.1799)</p>\n</section>\n<section><h3>Connecticut</h3>\n<p>Visit: Connecticut</p>\n<p>Visit: New Haven</p>\n<p>Visit: the Shubert Theatre, 247 College Street, New Haven, CT 06510 (tel: 203.562.5666)</p>\n</section>",
+  "visit_info_text": "New York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nVisit: the John Golden Theatre, 252 West 45th Street, New York, NY 10036 (tel: 212.239.6200)\nVist: the 21 Club, 21 West 52nd Street, New York, NY 10019 (tel: 212.582.7200)\nCalifornia | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravel around: Los Angeles Metro\nCalifornia | San Francisco\nVisit: San Francisco\nFlights: San Francisco International Airport, San Francisco, CA 94128 (tel: 650.821.8211)\nTravel around: BART (Bay Area Rapid Transit)\nVisit: the Curran Theatre, 445 Geary Street, San Francisco, CA 94102 (tel: 888.746.1799)\nConnecticut\nVisit: Connecticut\nVisit: New Haven\nVisit: the Shubert Theatre, 247 College Street, New Haven, CT 06510 (tel: 203.562.5666)",
+  "visit_sections": [
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA",
+        "Visit: the John Golden Theatre, 252 West 45th Street, New York, NY 10036 (tel: 212.239.6200)",
+        "Vist: the 21 Club, 21 West 52nd Street, New York, NY 10019 (tel: 212.582.7200)"
+      ]
+    },
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travel around: Los Angeles Metro"
+      ]
+    },
+    {
+      "title": "California | San Francisco",
+      "items": [
+        "Visit: San Francisco",
+        "Flights: San Francisco International Airport, San Francisco, CA 94128 (tel: 650.821.8211)",
+        "Travel around: BART (Bay Area Rapid Transit)",
+        "Visit: the Curran Theatre, 445 Geary Street, San Francisco, CA 94102 (tel: 888.746.1799)"
+      ]
+    },
+    {
+      "title": "Connecticut",
+      "items": [
+        "Visit: Connecticut",
+        "Visit: New Haven",
+        "Visit: the Shubert Theatre, 247 College Street, New Haven, CT 06510 (tel: 203.562.5666)"
+      ]
+    }
+  ]
+}

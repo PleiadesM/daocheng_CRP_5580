@@ -1,0 +1,135 @@
+{
+  "imdb_id": "tt0167260",
+  "shorthand": "Lord-Of-The-Rings-The-Return-Of-The-King",
+  "title": "Lord Of The Rings: The Return Of The King",
+  "year": 2003,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0167260 - Lord-Of-The-Rings-The-Return-Of-The-King.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0167260 - Lord-Of-The-Rings-The-Return-Of-The-King.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0167260.json",
+  "source_url": "http://www.movie-locations.com/movies/l/Lord-Of-The-Rings-The-Return-Of-The-King.php",
+  "page_title": "Lord Of The Rings: The Return Of The King | Film Locations",
+  "meta_description": "Film locations for Lord Of The Rings: The Return Of The King (2003), in New Zealand.",
+  "meta_keywords": "Lord Of The Rings: The Return Of The King (2003), film locations, filming locations, tourism, travel, set-jetting, new zealand",
+  "og_title": "Filming Locations for Lord Of The Rings: The Return Of The King (2003), in New Zealand.",
+  "og_description": "Travel guide to film locations for Lord Of The Rings: The Return Of The King (2003), in New Zealand.",
+  "og_image": "http://www.movie-locations.com/movies/l/Lord-Of-The-Rings-Return-Of-The-King.jpg",
+  "top250_rank": "6",
+  "movie_locations_title": "THE LORD OF THE RINGS: THE RETURN OF THE KING",
+  "movie_locations_regions": "New Zealand",
+  "director": "Peter Jackson",
+  "cast": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Ian Holm",
+    "Christopher Lee",
+    "Viggo Mortensen",
+    "Orlando Bloom",
+    "Cate Blanchett",
+    "Sean Astin",
+    "John Rhys-Davies",
+    "Liv Tyler",
+    "Hugo Weaving",
+    "Brad Dourif",
+    "Marton Csokas",
+    "David Wenham"
+  ],
+  "locations": [
+    "New Zealand"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0167260%20-%20Lord-Of-The-Rings-The-Return-Of-The-King/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167260 - Lord-Of-The-Rings-The-Return-Of-The-King/002.jpg",
+    "exists": true,
+    "alt": "Lord Of The Rings: The Return Of The King poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167260/poster.jpg",
+    "corpus_asset_src": "../assets/tt0167260/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0167260%20-%20Lord-Of-The-Rings-The-Return-Of-The-King/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167260 - Lord-Of-The-Rings-The-Return-Of-The-King/001.jpg",
+    "exists": true,
+    "alt": "Lord of the Rings: The Return of the King location: Mount Sunday, New Zealand",
+    "caption": "Lord of the Rings: The Return of the King location: The city of ‘Edoras’ was built on Mount Sunday, New Zealand | Photograph: Wikimedia / Oren Rozen",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167260/001.jpg",
+    "corpus_asset_src": "../assets/tt0167260/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0167260%20-%20Lord-Of-The-Rings-The-Return-Of-The-King/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167260 - Lord-Of-The-Rings-The-Return-Of-The-King/001.jpg",
+      "exists": true,
+      "alt": "Lord of the Rings: The Return of the King location: Mount Sunday, New Zealand",
+      "caption": "Lord of the Rings: The Return of the King location: The city of ‘Edoras’ was built on Mount Sunday, New Zealand | Photograph: Wikimedia / Oren Rozen",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167260/001.jpg",
+      "corpus_asset_src": "../assets/tt0167260/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0167260%20-%20Lord-Of-The-Rings-The-Return-Of-The-King/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167260 - Lord-Of-The-Rings-The-Return-Of-The-King/002.jpg",
+      "exists": true,
+      "alt": "Lord Of The Rings: The Return Of The King poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167260/002.jpg",
+      "corpus_asset_src": "../assets/tt0167260/002.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0167260/001.jpg\" alt=\"Lord of the Rings: The Return of the King location: Mount Sunday, New Zealand\"><figcaption>Lord of the Rings: The Return of the King location: The city of ‘Edoras’ was built on Mount Sunday, New Zealand | Photograph: Wikimedia / Oren Rozen</figcaption></figure>\n<p><span class=\"name\">JRR Tolkien</span>’s epic trilogy finally reaches its spectacular conclusion with eye-popping battles and, maybe, one too may endings.</p>\n<p>West of Christchurch, <span class=\"name\">Mount Sunday</span> is a rocky outcrop rising above a plain left when ancient glaciers carved out the <span class=\"name\">Rangitata River</span> valley in the centre of <span class=\"name\">South Island</span>. It was on <span class=\"name\">Mount Sunday</span>, on the <span class=\"name\">Mount Potts Station</span>, the city of ‘Edoras’ in the kingdom of ‘Rohan’ was built. The mount is a couple of miles northwest of <a href=\"http://mtpotts.co.nz\" target=\"_blank\">Mt Potts Lodge</a>, west of <span class=\"name\">Hakatere Potts Road</span>.</p>\n<p>Some 50 miles to the southwest, the <a href=\"http://www.benohau.co.nz\" target=\"_blank\">Ben Ohau Station</a>, in the <span class=\"name\">Mackenzie Basin</span>, in the <span class=\"name\">Southern Alps</span>, about five miles northwest of <span class=\"name\">Twizel</span> on <span class=\"name\">State Route 8</span> at the southern tip of Lake Pukaki, provided the ‘Pelennor Fields’, and the foothills of the ‘White Mountains’, for the climactic battle scenes.</p>\n<p>Scenes from <a href=\"https://www.movie-locations.com/movies/h/Hobbit-An-Unexpected-Journey.php\">The Hobbit</a> were filmed in this area, around Lake Pukaki on remote locations near Mount Cook. More recently, <a href=\"http://www.benohau.co.nz\" target=\"_blank\">Ben Ohau</a> was transformed into 'Colorado' for <span class=\"name\">John Maclean</span>'s 2015 <span class=\"name\">Slow West</span>, with <a href=\"https://www.movie-locations.com/people/f/fassbenderm.php\">Michael Fassbender</a> and <a href=\"https://www.movie-locations.com/people/s/smitmcpheek.php\">Kodi Smit-McPhee</a>. </p>\n<p><span class=\"name\">Queen Elizabeth Park, MacKays Crossing</span>, on the <span class=\"name\">Kapiti Coast</span> north of <span class=\"name\">Paekakariki</span>, was used to stage the more of the battle of ‘Pelennor Fields’, with the fallen oliphaunt. It's on State Highway 1, about 30 miles north of Wellington on the <span class=\"name\">North Island</span>.</p>",
+  "main_content_text": "JRR Tolkien’s epic trilogy finally reaches its spectacular conclusion with eye-popping battles and, maybe, one too may endings.\n\nWest of Christchurch, Mount Sunday is a rocky outcrop rising above a plain left when ancient glaciers carved out the Rangitata River valley in the centre of South Island. It was on Mount Sunday, on the Mount Potts Station, the city of ‘Edoras’ in the kingdom of ‘Rohan’ was built. The mount is a couple of miles northwest of Mt Potts Lodge, west of Hakatere Potts Road.\n\nSome 50 miles to the southwest, the Ben Ohau Station, in the Mackenzie Basin, in the Southern Alps, about five miles northwest of Twizel on State Route 8 at the southern tip of Lake Pukaki, provided the ‘Pelennor Fields’, and the foothills of the ‘White Mountains’, for the climactic battle scenes.\n\nScenes from The Hobbit were filmed in this area, around Lake Pukaki on remote locations near Mount Cook. More recently, Ben Ohau was transformed into 'Colorado' for John Maclean's 2015 Slow West, with Michael Fassbender and Kodi Smit-McPhee.\n\nQueen Elizabeth Park, MacKays Crossing, on the Kapiti Coast north of Paekakariki, was used to stage the more of the battle of ‘Pelennor Fields’, with the fallen oliphaunt. It's on State Highway 1, about 30 miles north of Wellington on the North Island.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Lord of the Rings: The Return of the King location: The city of ‘Edoras’ was built on Mount Sunday, New Zealand | Photograph: Wikimedia / Oren Rozen",
+      "src": "_assets/tt0167260%20-%20Lord-Of-The-Rings-The-Return-Of-The-King/001.jpg",
+      "alt": "Lord of the Rings: The Return of the King location: Mount Sunday, New Zealand"
+    },
+    {
+      "type": "paragraph",
+      "text": "JRR Tolkien’s epic trilogy finally reaches its spectacular conclusion with eye-popping battles and, maybe, one too may endings."
+    },
+    {
+      "type": "paragraph",
+      "text": "West of Christchurch, Mount Sunday is a rocky outcrop rising above a plain left when ancient glaciers carved out the Rangitata River valley in the centre of South Island. It was on Mount Sunday, on the Mount Potts Station, the city of ‘Edoras’ in the kingdom of ‘Rohan’ was built. The mount is a couple of miles northwest of Mt Potts Lodge, west of Hakatere Potts Road."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some 50 miles to the southwest, the Ben Ohau Station, in the Mackenzie Basin, in the Southern Alps, about five miles northwest of Twizel on State Route 8 at the southern tip of Lake Pukaki, provided the ‘Pelennor Fields’, and the foothills of the ‘White Mountains’, for the climactic battle scenes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scenes from The Hobbit were filmed in this area, around Lake Pukaki on remote locations near Mount Cook. More recently, Ben Ohau was transformed into 'Colorado' for John Maclean's 2015 Slow West, with Michael Fassbender and Kodi Smit-McPhee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Queen Elizabeth Park, MacKays Crossing, on the Kapiti Coast north of Paekakariki, was used to stage the more of the battle of ‘Pelennor Fields’, with the fallen oliphaunt. It's on State Highway 1, about 30 miles north of Wellington on the North Island."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New Zealand</h3>\n<p>Visit: New Zealand</p>\n<p>NORTH ISLAND</p>\n<p>Visit: Wellington</p>\n<p>Flights: Wellington International Airport, Stewart Duff Drive, Rongotai, Wellington 6022 (tel: +64.4.385.5100)</p>\n<p>SOUTH ISLAND</p>\n<p>Visit: Mt Potts Lodge, 2131 Hakatere Potts Road, Ashburton Lakes, Ashburton 7771 (tel: 00.64.3.669.4610)</p>\n<p>Visit: Ben Ohau Station, 527 Glen Lyon Road, Twizel 7999 (tel: 00.64.3.435.0791)</p>\n</section>",
+  "visit_info_text": "New Zealand\nVisit: New Zealand\nNORTH ISLAND\nVisit: Wellington\nFlights: Wellington International Airport, Stewart Duff Drive, Rongotai, Wellington 6022 (tel: +64.4.385.5100)\nSOUTH ISLAND\nVisit: Mt Potts Lodge, 2131 Hakatere Potts Road, Ashburton Lakes, Ashburton 7771 (tel: 00.64.3.669.4610)\nVisit: Ben Ohau Station, 527 Glen Lyon Road, Twizel 7999 (tel: 00.64.3.435.0791)",
+  "visit_sections": [
+    {
+      "title": "New Zealand",
+      "items": [
+        "Visit: New Zealand",
+        "NORTH ISLAND",
+        "Visit: Wellington",
+        "Flights: Wellington International Airport, Stewart Duff Drive, Rongotai, Wellington 6022 (tel: +64.4.385.5100)",
+        "SOUTH ISLAND",
+        "Visit: Mt Potts Lodge, 2131 Hakatere Potts Road, Ashburton Lakes, Ashburton 7771 (tel: 00.64.3.669.4610)",
+        "Visit: Ben Ohau Station, 527 Glen Lyon Road, Twizel 7999 (tel: 00.64.3.435.0791)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt0088763",
+  "shorthand": "Back-To-The-Future",
+  "title": "Back To The Future",
+  "year": 1985,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0088763 - Back-To-The-Future.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0088763 - Back-To-The-Future.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0088763.json",
+  "source_url": "http://www.movie-locations.com/movies/b/Back-To-The-Future.php",
+  "page_title": "Film locations for Back To The Future, around Los Angeles",
+  "meta_description": "Film locations for for Back To The Future, around Los Angeles: Universal Studios Hollywood ('Hill Valley' town square); Gamble House, 4 Westmoreland Place, Pasadena (Doc's house); 1177 Hillcrest Avenue, Oak Knoll, Pasadena (Doc's house, interior); 1711 Bushnell Avenue, South Pasadena (George's house in the Fifties); 1727 Bushnell Avenue, South Pasadena (Lorraine's house in the Fifties); Whittier Union High School, 12417 Philadelphia Street, Whittier (‘Hill Valley High School’); First United Methodist Church of Hollywood, 6817 Franklin Avenue, Hollywood (school gym, interior); Burger King, 535 North Victory Boulevard, Burbank (site of Doc's house in the Eighties); Puente Hills Mall, Pomona Freeway, City of Industry ('Twin Pines Mall'); 9303 Roslyndale Avenue, Arleta, San Fernando Valley (McFly family ‘Lyon Estates’ home)",
+  "meta_keywords": "Back to the Future, film locations, filming locations, travel, tourism, set-jetting, los angeles, california, gamble house, pasadena, whittier, arletta, bushnell avenue, hollywood, marty mcfly, robert zemeckis, michael j fox",
+  "og_title": "Film Locations for Back to the Future (1985), around Los Angeles.",
+  "og_description": "Film locations for for Back To The Future, around Los Angeles: Universal Studios Hollywood ('Hill Valley' town square); Gamble House, 4 Westmoreland Place, Pasadena (Doc's house); 1177 Hillcrest Avenue, Oak Knoll, Pasadena (Doc's house, interior); 1711 Bushnell Avenue, South Pasadena (George's house in the Fifties); 1727 Bushnell Avenue, South Pasadena (Lorraine's house in the Fifties); Whittier Union High School, 12417 Philadelphia Street, Whittier (‘Hill Valley High School’); First United Methodist Church of Hollywood, 6817 Franklin Avenue, Hollywood (school gym, interior); Burger King, 535 North Victory Boulevard, Burbank (site of Doc's house in the Eighties); Puente Hills Mall, Pomona Freeway, City of Industry ('Twin Pines Mall'); 9303 Roslyndale Avenue, Arleta, San Fernando Valley (McFly family ‘Lyon Estates’ home)",
+  "og_image": "http://www.movie-locations.com/movies/b/Back-To-The-Future-Gamble-House.jpg",
+  "top250_rank": "50",
+  "movie_locations_title": "BACK TO THE FUTURE",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Robert Zemeckis",
+  "cast": [
+    "Michael J Fox",
+    "Christopher Lloyd",
+    "Lea Thompson",
+    "Crispin Glover",
+    "James Tolkan",
+    "Casey Siemaszko"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0088763%20-%20Back-To-The-Future/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0088763 - Back-To-The-Future/002.jpg",
+    "exists": true,
+    "alt": "Back to the Future poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0088763/poster.jpg",
+    "corpus_asset_src": "../assets/tt0088763/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0088763%20-%20Back-To-The-Future/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0088763 - Back-To-The-Future/001.jpg",
+    "exists": true,
+    "alt": "Back to the Future filming location: Gamble House, Westmoreland Place, Pasadena",
+    "caption": "Back to the Future location: Doc Brown's house in the 50s: Gamble House, Westmoreland Place, Pasadena",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0088763/001.jpg",
+    "corpus_asset_src": "../assets/tt0088763/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0088763 - Back-To-The-Future/001.jpg",
+      "exists": true,
+      "alt": "Back to the Future filming location: Gamble House, Westmoreland Place, Pasadena",
+      "caption": "Back to the Future location: Doc Brown's house in the 50s: Gamble House, Westmoreland Place, Pasadena",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0088763/001.jpg",
+      "corpus_asset_src": "../assets/tt0088763/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0088763 - Back-To-The-Future/002.jpg",
+      "exists": true,
+      "alt": "Back to the Future poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0088763/002.jpg",
+      "corpus_asset_src": "../assets/tt0088763/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0088763 - Back-To-The-Future/003.jpg",
+      "exists": true,
+      "alt": "Back to the Future filming location: Blacker House, Oak Knoll",
+      "caption": "Back To The Future filming location: the front door and the interior of Doc's house: Blacker House, Hillcrest Avenue, Oak Knoll",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0088763/003.jpg",
+      "corpus_asset_src": "../assets/tt0088763/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0088763 - Back-To-The-Future/004.jpg",
+      "exists": true,
+      "alt": "Back to the Future filming location: 1711 Bushnell Avenue, Pasadena",
+      "caption": "Back To The Future filming location: Marty visits George as Darth Vader: 1711 Bushnell Avenue, Pasadena",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0088763/004.jpg",
+      "corpus_asset_src": "../assets/tt0088763/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0088763 - Back-To-The-Future/005.jpg",
+      "exists": true,
+      "alt": "Back to the Future filming location: Bushnell Avenue, Pasadena, Los Angeles",
+      "caption": "Back To The Future filming location: Marty's mum's house – supposedly across the street: 1727 Bushnell Avenue, Pasadena",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0088763/005.jpg",
+      "corpus_asset_src": "../assets/tt0088763/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0088763 - Back-To-The-Future/006.jpg",
+      "exists": true,
+      "alt": "Back to the Future filming location: First United Methodist Church of Hollywood, Franklin Avenue, Hollywood",
+      "caption": "Back To The Future filming location: 'Enchantment Under the Sea' dance: First United Methodist Church of Hollywood, Franklin Avenue, Hollywood",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0088763/006.jpg",
+      "corpus_asset_src": "../assets/tt0088763/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0088763 - Back-To-The-Future/007.jpg",
+      "exists": true,
+      "alt": "Back to the Future filming location: North Victory Boulevard, Burbank",
+      "caption": "Back To The Future filming location: Site of Doc's house in the 80s: North Victory Boulevard, Burbank",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0088763/007.jpg",
+      "corpus_asset_src": "../assets/tt0088763/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0088763 - Back-To-The-Future/008.jpg",
+      "exists": true,
+      "alt": "Back to the Future filming location: Roslyndale Avenue, Arleta, California",
+      "caption": "Back To The Future filming location: The McFly home: Roslyndale Avenue, Arleta, California",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0088763/008.jpg",
+      "corpus_asset_src": "../assets/tt0088763/008.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0088763/001.jpg\" alt=\"Back to the Future filming location: Gamble House, Westmoreland Place, Pasadena\"><figcaption>Back to the Future location: Doc Brown's house in the 50s: Gamble House, Westmoreland Place, Pasadena</figcaption></figure>\n<p>Marty McFly (<a href=\"https://www.movie-locations.com/people/f/foxmj.php\">Michael J Fox</a>) has to engineer his own parents’ romance after being whisked back from the 1980s to the 1950s in this enjoyably slam-bang fantasy film.\nThe setting of ‘Hill Valley’ is fictitious, and the town square is a much-re-used set on the backlot of <a href=\"http://www.universalstudioshollywood.com/\" target=\"_blank\">Universal Studios Hollywood</a>, but many of the other locations can be found around <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>The striking home of Doc Emmett Brown (<a href=\"https://www.movie-locations.com/people/l/lloydc.php\">Christopher Lloyd</a>), ‘1640 Riverside Drive, Hill Valley’, is one of the great architectural joys of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, the 1908 <a href=\"http://www.gamblehouse.org/\" target=\"_blank\">Gamble House</a>, <span class=\"name\">4 Westmoreland Place</span> in <span class=\"name\">Pasadena</span>, just a little to the south of the Pasadena Historical Society.</p>\n<p>\nBuilt for the Gamble family (as in Proctor and...), this charming, Japanese-influenced wood shingle house is open to the public for tours.\n</p>\n<p>The Doc’s workshop, where the time-travelling DeLorean is stored, is actually the <a href=\"http://www.gamblehouse.org/\" target=\"_blank\">Gamble House</a> bookshop, alongside the main house.</p>\n<p>The front door on which Fox knocks, though, and the house interior, is the 1907 <span class=\"name\">RR Blacker House</span>, a similar Japanese-inspired design by Charles and Henry Greene, at <span class=\"name\">1177 Hillcrest Avenue</span>,<span class=\"name\"> Oak Knoll, Pasadena</span>. If you’ve seen the deleted scenes on the <a href=\"https://www.movie-locations.com/movies/a/Armageddon.php\">Armageddon</a> DVD, you’ll recognise the Blacker as the house where <a href=\"https://www.movie-locations.com/people/w/willisb.php\">Bruce Willis</a> bids goodbye to his dad.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0088763/004.jpg\" alt=\"Back to the Future filming location: 1711 Bushnell Avenue, Pasadena\"><figcaption>Back To The Future filming location: Marty visits George as Darth Vader: 1711 Bushnell Avenue, Pasadena</figcaption></figure>\n<p>The Fifties neighbourhood of Marty’s parents-to-be is also <span class=\"name\">Pasadena</span>. The house of George (<a href=\"https://www.movie-locations.com/people/g/gloverc.php\">Crispin Glover</a>), where Marty pays a nighttime visit as Darth Vader, is <span class=\"name\">1711 Bushnell Avenue</span> in <span class=\"name\">South Pasadena</span>.\n\t  </p>\n<p>Supposedly just across the street (but a few doors along on the same side) is the home of Lorraine (<a href=\"https://www.movie-locations.com/people/t/thompsonl.php\">Lea Thompson</a>), outside which Marty gets hit by a car while saving George: <span class=\"name\">1727 Bushnell Avenue</span>.</p>\n<p>A few miles further south you’ll find ‘Hill Valley High School’, down in <span class=\"name\">Whittier</span>, southeastern <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, hometown of Richard Milhaus Nixon. And indeed the school, <span class=\"name\">Whittier Union High School, 12417 Philadelphia Street</span> at Pierce Avenue, is where Tricky Dickie graduated in 1930.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0088763/006.jpg\" alt=\"Back to the Future filming location: First United Methodist Church of Hollywood, Franklin Avenue, Hollywood\"><figcaption>Back To The Future filming location: 'Enchantment Under the Sea' dance: First United Methodist Church of Hollywood, Franklin Avenue, Hollywood</figcaption></figure>\n<p>The ‘Enchantment Under The Sea’ dance, though, where Marty finally unites his parents and invents rock’n’roll, was filmed in <span class=\"name\">Hollywood</span>, in the gymnasium of the <span class=\"name\">First United Methodist Church of Hollywood, 6817 Franklin Avenue</span>. You can see the church’s exterior in the period Hollywood scene in <a href=\"https://www.movie-locations.com/movies/g/Godfather.php\">The Godfather</a>.</p>\n<p>Back to the Eighties. The Doc’s house in 1985 (the garage of the old mansion, which supposedly burned down) was constructed for the film behind <span class=\"name\">Burger King, 535 North Victory Boulevard, Burbank</span> (a stretch of road seen in <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>’s film <a href=\"https://www.movie-locations.com/movies/m/Memento.php\">Memento</a>). It's from here that Marty heads off to school at the beginning of the film.</p>\n<p>To the east of <span class=\"name\">Whittier</span>, in the anonymous sprawl of industrial estates aptly called <span class=\"name\">City of Industry</span>, is the ‘Twin Pines Mall’ where Doc Emmett gets gunned down by irate Libyans. It’s the <span class=\"name\">Puente Hills Mall</span> on the southeast corner of the <span class=\"name\">Pomona Freeway</span> exit, Highway 60, at <span class=\"name\">Azusa Avenue</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0088763/008.jpg\" alt=\"Back to the Future filming location: Roslyndale Avenue, Arleta, California\"><figcaption>Back To The Future filming location: The McFly home: Roslyndale Avenue, Arleta, California</figcaption></figure>\n<p>The Eighties McFly ‘Lyon Estates’ home is beneath the power pylons of <span class=\"name\">Arleta</span> in the San Fernando Valley. It’s <span class=\"name\">9303 Roslyndale Avenue</span>, a quiet sidestreet off Sunburst Street.</p>",
+  "main_content_text": "Marty McFly (Michael J Fox) has to engineer his own parents’ romance after being whisked back from the 1980s to the 1950s in this enjoyably slam-bang fantasy film. The setting of ‘Hill Valley’ is fictitious, and the town square is a much-re-used set on the backlot of Universal Studios Hollywood, but many of the other locations can be found around Los Angeles.\n\nThe striking home of Doc Emmett Brown (Christopher Lloyd), ‘1640 Riverside Drive, Hill Valley’, is one of the great architectural joys of Los Angeles, the 1908 Gamble House, 4 Westmoreland Place in Pasadena, just a little to the south of the Pasadena Historical Society.\n\nBuilt for the Gamble family (as in Proctor and...), this charming, Japanese-influenced wood shingle house is open to the public for tours.\n\nThe Doc’s workshop, where the time-travelling DeLorean is stored, is actually the Gamble House bookshop, alongside the main house.\n\nThe front door on which Fox knocks, though, and the house interior, is the 1907 RR Blacker House, a similar Japanese-inspired design by Charles and Henry Greene, at 1177 Hillcrest Avenue, Oak Knoll, Pasadena. If you’ve seen the deleted scenes on the Armageddon DVD, you’ll recognise the Blacker as the house where Bruce Willis bids goodbye to his dad.\n\nThe Fifties neighbourhood of Marty’s parents-to-be is also Pasadena. The house of George (Crispin Glover), where Marty pays a nighttime visit as Darth Vader, is 1711 Bushnell Avenue in South Pasadena.\n\nSupposedly just across the street (but a few doors along on the same side) is the home of Lorraine (Lea Thompson), outside which Marty gets hit by a car while saving George: 1727 Bushnell Avenue.\n\nA few miles further south you’ll find ‘Hill Valley High School’, down in Whittier, southeastern Los Angeles, hometown of Richard Milhaus Nixon. And indeed the school, Whittier Union High School, 12417 Philadelphia Street at Pierce Avenue, is where Tricky Dickie graduated in 1930.\n\nThe ‘Enchantment Under The Sea’ dance, though, where Marty finally unites his parents and invents rock’n’roll, was filmed in Hollywood, in the gymnasium of the First United Methodist Church of Hollywood, 6817 Franklin Avenue. You can see the church’s exterior in the period Hollywood scene in The Godfather.\n\nBack to the Eighties. The Doc’s house in 1985 (the garage of the old mansion, which supposedly burned down) was constructed for the film behind Burger King, 535 North Victory Boulevard, Burbank (a stretch of road seen in Christopher Nolan’s film Memento). It's from here that Marty heads off to school at the beginning of the film.\n\nTo the east of Whittier, in the anonymous sprawl of industrial estates aptly called City of Industry, is the ‘Twin Pines Mall’ where Doc Emmett gets gunned down by irate Libyans. It’s the Puente Hills Mall on the southeast corner of the Pomona Freeway exit, Highway 60, at Azusa Avenue.\n\nThe Eighties McFly ‘Lyon Estates’ home is beneath the power pylons of Arleta in the San Fernando Valley. It’s 9303 Roslyndale Avenue, a quiet sidestreet off Sunburst Street.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Back to the Future location: Doc Brown's house in the 50s: Gamble House, Westmoreland Place, Pasadena",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/001.jpg",
+      "alt": "Back to the Future filming location: Gamble House, Westmoreland Place, Pasadena"
+    },
+    {
+      "type": "paragraph",
+      "text": "Marty McFly (Michael J Fox) has to engineer his own parents’ romance after being whisked back from the 1980s to the 1950s in this enjoyably slam-bang fantasy film. The setting of ‘Hill Valley’ is fictitious, and the town square is a much-re-used set on the backlot of Universal Studios Hollywood, but many of the other locations can be found around Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "The striking home of Doc Emmett Brown (Christopher Lloyd), ‘1640 Riverside Drive, Hill Valley’, is one of the great architectural joys of Los Angeles, the 1908 Gamble House, 4 Westmoreland Place in Pasadena, just a little to the south of the Pasadena Historical Society."
+    },
+    {
+      "type": "paragraph",
+      "text": "Built for the Gamble family (as in Proctor and...), this charming, Japanese-influenced wood shingle house is open to the public for tours."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Doc’s workshop, where the time-travelling DeLorean is stored, is actually the Gamble House bookshop, alongside the main house."
+    },
+    {
+      "type": "paragraph",
+      "text": "The front door on which Fox knocks, though, and the house interior, is the 1907 RR Blacker House, a similar Japanese-inspired design by Charles and Henry Greene, at 1177 Hillcrest Avenue, Oak Knoll, Pasadena. If you’ve seen the deleted scenes on the Armageddon DVD, you’ll recognise the Blacker as the house where Bruce Willis bids goodbye to his dad."
+    },
+    {
+      "type": "image",
+      "caption": "Back To The Future filming location: Marty visits George as Darth Vader: 1711 Bushnell Avenue, Pasadena",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/004.jpg",
+      "alt": "Back to the Future filming location: 1711 Bushnell Avenue, Pasadena"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Fifties neighbourhood of Marty’s parents-to-be is also Pasadena. The house of George (Crispin Glover), where Marty pays a nighttime visit as Darth Vader, is 1711 Bushnell Avenue in South Pasadena."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supposedly just across the street (but a few doors along on the same side) is the home of Lorraine (Lea Thompson), outside which Marty gets hit by a car while saving George: 1727 Bushnell Avenue."
+    },
+    {
+      "type": "paragraph",
+      "text": "A few miles further south you’ll find ‘Hill Valley High School’, down in Whittier, southeastern Los Angeles, hometown of Richard Milhaus Nixon. And indeed the school, Whittier Union High School, 12417 Philadelphia Street at Pierce Avenue, is where Tricky Dickie graduated in 1930."
+    },
+    {
+      "type": "image",
+      "caption": "Back To The Future filming location: 'Enchantment Under the Sea' dance: First United Methodist Church of Hollywood, Franklin Avenue, Hollywood",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/006.jpg",
+      "alt": "Back to the Future filming location: First United Methodist Church of Hollywood, Franklin Avenue, Hollywood"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Enchantment Under The Sea’ dance, though, where Marty finally unites his parents and invents rock’n’roll, was filmed in Hollywood, in the gymnasium of the First United Methodist Church of Hollywood, 6817 Franklin Avenue. You can see the church’s exterior in the period Hollywood scene in The Godfather."
+    },
+    {
+      "type": "paragraph",
+      "text": "Back to the Eighties. The Doc’s house in 1985 (the garage of the old mansion, which supposedly burned down) was constructed for the film behind Burger King, 535 North Victory Boulevard, Burbank (a stretch of road seen in Christopher Nolan’s film Memento). It's from here that Marty heads off to school at the beginning of the film."
+    },
+    {
+      "type": "paragraph",
+      "text": "To the east of Whittier, in the anonymous sprawl of industrial estates aptly called City of Industry, is the ‘Twin Pines Mall’ where Doc Emmett gets gunned down by irate Libyans. It’s the Puente Hills Mall on the southeast corner of the Pomona Freeway exit, Highway 60, at Azusa Avenue."
+    },
+    {
+      "type": "image",
+      "caption": "Back To The Future filming location: The McFly home: Roslyndale Avenue, Arleta, California",
+      "src": "_assets/tt0088763%20-%20Back-To-The-Future/008.jpg",
+      "alt": "Back to the Future filming location: Roslyndale Avenue, Arleta, California"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Eighties McFly ‘Lyon Estates’ home is beneath the power pylons of Arleta in the San Fernando Valley. It’s 9303 Roslyndale Avenue, a quiet sidestreet off Sunburst Street."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Visit: the Gamble House, 4 Westmoreland Place, Pasadena, CA 91103 (tel: 626.793.3334)</p>\n<p>Visit: Universal Studios Hollywood, 100 Universal City Plaza, Universal City, CA 91608 (tel: 800.864.8377)</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nVisit: the Gamble House, 4 Westmoreland Place, Pasadena, CA 91103 (tel: 626.793.3334)\nVisit: Universal Studios Hollywood, 100 Universal City Plaza, Universal City, CA 91608 (tel: 800.864.8377)",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Visit: the Gamble House, 4 Westmoreland Place, Pasadena, CA 91103 (tel: 626.793.3334)",
+        "Visit: Universal Studios Hollywood, 100 Universal City Plaza, Universal City, CA 91608 (tel: 800.864.8377)"
+      ]
+    }
+  ]
+}

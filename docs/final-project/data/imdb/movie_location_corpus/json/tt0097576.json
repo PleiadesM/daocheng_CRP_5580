@@ -1,0 +1,709 @@
+{
+  "imdb_id": "tt0097576",
+  "shorthand": "Indiana-Jones-And-The-Last-Crusade",
+  "title": "Indiana Jones And The Last Crusade",
+  "year": 1989,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0097576 - Indiana-Jones-And-The-Last-Crusade.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0097576 - Indiana-Jones-And-The-Last-Crusade.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0097576.json",
+  "source_url": "http://www.movie-locations.com/movies/i/Indiana-Jones-And-The-Last-Crusade.php",
+  "page_title": "Film Locations for Indiana Jones And The Last Crusade (1989), in Utah, Colorado, California, Italy, Jordan, Spain and the UK",
+  "meta_description": "Film locations for Steven Spielberg's Indiana Jones and the Last Crusade, in Utah, Colorado, Venice, Jordan and London",
+  "meta_keywords": "Film locations for Steven Spielberg's Indiana Jones and the Last Crusade, filming locations, travel, tourism set-jetting, arches national park, moab, utah, cumbres and toltec scenic railroad, colorado, venice, campo san barnaba, church of san barnaba, london, westminster, horticultural hall, petra, jordan, spain, rickmansworth masonic school, stowe school, buckinghamshire, harrison ford, sean connery, river phoenix",
+  "og_title": "Filming locations for Indiana Jones And The Last Crusade (1989) in Jordan, Spain, Italy; in the USA around Utah, Colorado, California and Texas; and around the UK in Buckinghamshire, Hertfordshire, Essex and London.",
+  "og_description": "Filming locations for Indiana Jones And The Last Crusade (1989) in Jordan, Spain, Italy; in the USA around Utah, Colorado, California and Texas; and around the UK in Buckinghamshire, Hertfordshire, Essex and London.",
+  "og_image": "http://www.movie-locations.com/movies/i/indiana-jones-and-the-last-crusade-meta.jpg",
+  "top250_rank": "187",
+  "movie_locations_title": "INDIANA JONES AND THE LAST CRUSADE",
+  "movie_locations_regions": "Utah | Colorado | California | Texas | Italy | Jordan | Spain | Buckinghamshire | Hertfordshire | Essex | London",
+  "director": "Steven Spielberg",
+  "cast": [
+    "Harrison Ford",
+    "Sean Connery",
+    "Alison Doody",
+    "River Phoenix",
+    "Julian Glover",
+    "Denholm Elliott",
+    "John Rhys-Davies",
+    "Kevork Malikyan",
+    "Isla Blair",
+    "Vernon Dobtcheff"
+  ],
+  "locations": [
+    "Utah;",
+    "Colorado;",
+    "California;",
+    "Texas;",
+    "Italy;",
+    "Jordan;",
+    "Spain;",
+    "Buckinghamshire;",
+    "Hertfordshire;",
+    "Essex;",
+    "London"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/002.jpg",
+    "exists": true,
+    "alt": "Indiana Jones And The Last Crusade poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/poster.jpg",
+    "corpus_asset_src": "../assets/tt0097576/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/001.jpg",
+    "exists": true,
+    "alt": ": Petra, Jordan",
+    "caption": "Indiana Jones and the Last Crusade film location: ‘Canyon of the Crescent Moon’: Petra, in Jordan | Photograph: wikimedia / Bernard Gagnon",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/001.jpg",
+    "corpus_asset_src": "../assets/tt0097576/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/001.jpg",
+      "exists": true,
+      "alt": ": Petra, Jordan",
+      "caption": "Indiana Jones and the Last Crusade film location: ‘Canyon of the Crescent Moon’: Petra, in Jordan | Photograph: wikimedia / Bernard Gagnon",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/001.jpg",
+      "corpus_asset_src": "../assets/tt0097576/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/002.jpg",
+      "exists": true,
+      "alt": "Indiana Jones And The Last Crusade poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/002.jpg",
+      "corpus_asset_src": "../assets/tt0097576/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/003.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade film location: Courthouse Towers, Arches National Park, Moab, Utah",
+      "caption": "Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: Courthouse Towers, Arches National Park, Moab, Utah | Photograph: Shutterstock / vagabond54",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/003.jpg",
+      "corpus_asset_src": "../assets/tt0097576/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/004.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade film location: The Organ, Arches National Park, Moab, Utah",
+      "caption": "Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: The Organ, Arches National Park, Moab, Utah | Photograph: Shutterstock / Marc Venema",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/004.jpg",
+      "corpus_asset_src": "../assets/tt0097576/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/005.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade film location: The Three Gossips, Arches National Park, Moab, Utah",
+      "caption": "Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: The Three Gossips, Arches National Park, Moab, Utah | Photograph: Shutterstock / An Van de Wal",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/005.jpg",
+      "corpus_asset_src": "../assets/tt0097576/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/006.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade film location: Balanced Rock, Arches National Park, Moab, Utah",
+      "caption": "Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: Balanced Rock, Arches National Park, Moab, Utah | Photograph: Shutterstock / melissamn",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/006.jpg",
+      "corpus_asset_src": "../assets/tt0097576/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/007.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade filming location: Double Arch, Arches National Park, Moab, Utah",
+      "caption": "Indiana Jones and the Last Crusade film location: the scout troop dismounts and young Indy goes off exploring: Double Arch, Arches National Park, Moab, Utah | Photograph: Arches National Park",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/007.jpg",
+      "corpus_asset_src": "../assets/tt0097576/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/008.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade filming location: 502 Front Street, Antonito, Colorado",
+      "caption": "Indiana Jones and the Last Crusade film location: the young Henry Jones's home: Indiana Jones Bed & Breakfast, Front Street, Antonito, Colorado",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/008.jpg",
+      "corpus_asset_src": "../assets/tt0097576/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/009.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade film location: Rickmansworth Masonic School, Rickmansworth, Hertfordshire",
+      "caption": "Indiana Jones and the Last Crusade film location: 'Barnett College, New York', where Indy teaches: Rickmansworth Masonic School, Rickmansworth, Hertfordshire",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/009.jpg",
+      "corpus_asset_src": "../assets/tt0097576/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/010.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade filming location: Park Lodge, Wills Grove, Mill Hill, London NW7",
+      "caption": "Indiana Jones and the Last Crusade film location: Prof Henry Jones's 'New York' home: Park Lodge, Wills Grove, Mill Hill, London NW7",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/010.jpg",
+      "corpus_asset_src": "../assets/tt0097576/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/011.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade film location: Church of San Barnaba, Campo San Barnaba, Venice",
+      "caption": "Indiana Jones and the Last Crusade film location: looking for 'X' in the Venice 'library': Church of San Barnaba, Campo San Barnaba, Venice",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/011.jpg",
+      "corpus_asset_src": "../assets/tt0097576/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/012.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade film location: Palazzo Barbaro, Canal Grande, Venice",
+      "caption": "Indiana Jones and the Last Crusade film location: Kazim gives Indy vital information about his father: Palazzo Barbaro, Canal Grande, Venice",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/012.jpg",
+      "corpus_asset_src": "../assets/tt0097576/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/013.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade film location: Guadix Station, Spain",
+      "caption": "Indiana Jones and the Last Crusade film location: Dr Brody arrives in ‘Iskenderun’: Guadix Station, Spain | Photograph: Shutterstock / Pepe Perez",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/013.jpg",
+      "corpus_asset_src": "../assets/tt0097576/013.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/014.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/014.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade film location: Stowe School, Buckinghamshire",
+      "caption": "Indiana Jones and the Last Crusade film location: the Nazi rally in ‘Berlin’: Stowe School, Buckinghamshire | Photograph: wikimedia / Shaun Ferguson",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/014.jpg",
+      "corpus_asset_src": "../assets/tt0097576/014.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/015.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/015.jpg",
+      "exists": true,
+      "alt": "Administration Building, Treasure Island, San Francisco",
+      "caption": "Indiana Jones and the Last Crusade film location: the exterior of ‘Berlin Airport’: Administration Building, Treasure Island, San Francisco",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/015.jpg",
+      "corpus_asset_src": "../assets/tt0097576/015.jpg"
+    },
+    {
+      "role": "content",
+      "src": "Indiana-Jones-And-The-Last-Crusade-Lawrence%20Hall.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/Indiana-Jones-And-The-Last-Crusade-Lawrence Hall.jpg",
+      "exists": false,
+      "alt": "Indiana Jones and the Last Crusade film location: The Royal Horticultural Hall, Westminster, London SW1",
+      "caption": "Indiana Jones and the Last Crusade film location: ‘Berlin Airport’: The Royal Horticultural Hall, Westminster, London SW1 | Photograph: Wikimedia / Patche99z",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": null,
+      "corpus_asset_src": null
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/017.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/017.jpg",
+      "exists": true,
+      "alt": "Playa De Monsul, Almeria, Spain",
+      "caption": "Indiana Jones and the Last Crusade film location: Jones Sr brings down the plane with a flock of seagulls: Playa De Monsul, Almeria, Spain | Photograph: wikimedia / Martyn Thompson",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/017.jpg",
+      "corpus_asset_src": "../assets/tt0097576/017.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/018.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/018.jpg",
+      "exists": true,
+      "alt": "Escuela de Arte De Almeria (School of Arts & Crafts) , Plaza Pablo Cazard, Almeria, Spain",
+      "caption": "Indiana Jones and the Last Crusade film location: Donovan trades his Rolls in the 'Iskenderun' palace courtyard\": Escuela de Arte De Almeria (School of Arts & Crafts) , Plaza Pablo Cazard, Almeria, Spain | Photograph: wikimedia / Rubén Ojeda",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/018.jpg",
+      "corpus_asset_src": "../assets/tt0097576/018.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/019.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0097576 - Indiana-Jones-And-The-Last-Crusade/019.jpg",
+      "exists": true,
+      "alt": "Indiana Jones and the Last Crusade film location: The Siq, Wadi Musa, Jordan",
+      "caption": "Indiana Jones and the Last Crusade film location: the 'Canyon of the Crescent Moon' leading to the Grail: The Siq, Wadi Musa, Jordan | Photograph: Shutterstock / Piu-Piu",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0097576/019.jpg",
+      "corpus_asset_src": "../assets/tt0097576/019.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0097576/001.jpg\" alt=\": Petra, Jordan\"><figcaption>Indiana Jones and the Last Crusade film location: ‘Canyon of the Crescent Moon’: Petra, in Jordan | Photograph: wikimedia / Bernard Gagnon</figcaption></figure>\n<p>Discover all the places where <span class=\"name\">Indiana Jones And The Last Crusade</span> (1989) was filmed in <span class=\"name\">Jordan</span>, <span class=\"name\">Spain</span>, <span class=\"name\">Italy</span>; in the <span class=\"name\">USA</span> around <span class=\"name\">Utah, Colorado, California</span> and <span class=\"name\">Texas</span>; and around the <span class=\"name\">UK</span> in <span class=\"name\">Buckinghamshire, Hertfordshire, Essex</span> and <span class=\"name\">London</span>.</p>\n<p>Third, and arguably best, of the <span class=\"name\">Indiana Jones</span> movies, as Indy discovers from his father the value of “shelf reliance”. Wise words.</p>\n<p><span class=\"name\">Last Crusade</span> certainly does its share of globetrotting – even if not all of the filming sites are where they claim to be.</p>\n<p>The prologue itself, establishing all the traits of the young Indy (<a href=\"https://www.movie-locations.com/people/p/phoenixr.php\">River Phoenix</a>) and set in ‘Utah, 1912’, was filmed in two different US States.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/003.jpg\" alt=\"Indiana Jones and the Last Crusade film location: Courthouse Towers, Arches National Park, Moab, Utah\"><figcaption>Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: Courthouse Towers, Arches National Park, Moab, Utah | Photograph: Shutterstock / vagabond54</figcaption></figure>\n<p>The astonishing sandstone landscapes, through which Indy’s scout troop rides, really is Utah of course. It’s <a href=\"https://www.nps.gov/arch/index.htm\" target=\"_blank\">Arches National Park</a> covering 120 square miles in <span class=\"name\">Southern</span> <a href=\"https://www.movie-locations.com/places/usa/utah.php\">Utah</a>. It's 'high desert' so the climate is one of very hot summers and cold winters, with temperatures liable to vary wildly in a single day.</p>\n<p>The <a href=\"https://www.nps.gov/arch/index.htm\" target=\"_blank\">Park</a>’s <span class=\"name\">Visitor Center</span> can be found on <span class=\"name\">US-191</span>about five miles northwest of <span class=\"name\">Moab</span> and, fortunately, most of the fantastic rock formations seen during the credits sequence can be found within a short drive from this entrance.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/004.jpg\" alt=\"Indiana Jones and the Last Crusade film location: The Organ, Arches National Park, Moab, Utah\"><figcaption>Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: The Organ, Arches National Park, Moab, Utah | Photograph: Shutterstock / Marc Venema</figcaption></figure>\n<p>From the Center, take <span class=\"name\">Arches Scenic Drive</span> north and, after about four miles, you’ll come to the mighty blocks of <span class=\"name\">Courthouse Towers</span> and <span class=\"name\">The Organ</span> on your right.  To your left, you’ll see that trio of what look like sculpted figures, known as the <span class=\"name\">Three Gossips</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/005.jpg\" alt=\"Indiana Jones and the Last Crusade film location: The Three Gossips, Arches National Park, Moab, Utah\"><figcaption>Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: The Three Gossips, Arches National Park, Moab, Utah | Photograph: Shutterstock / An Van de Wal</figcaption></figure>\n<p>A little more than five miles further on, is the single teardrop-shaped rock perched precariously on a narrow stem and called, for obvious reasons, <span class=\"name\">Balanced Rock</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/006.jpg\" alt=\"Indiana Jones and the Last Crusade film location: Balanced Rock, Arches National Park, Moab, Utah\"><figcaption>Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: Balanced Rock, Arches National Park, Moab, Utah | Photograph: Shutterstock / melissamn</figcaption></figure>\n<p>Just past this, turning right onto <span class=\"name\">The Windows Road</span> will eventually take you to the amazing <span class=\"name\">Double Arch</span>, two natural bridges, which is where the scouts dismount. Here you’ll also find the entrance to the cave where Indy rescues the ‘Cross of Coronado’ from unscrupulous treasure hunters.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/007.jpg\" alt=\"Indiana Jones and the Last Crusade filming location: Double Arch, Arches National Park, Moab, Utah\"><figcaption>Indiana Jones and the Last Crusade film location: the scout troop dismounts and young Indy goes off exploring: Double Arch, Arches National Park, Moab, Utah | Photograph: Arches National Park</figcaption></figure>\n<p>As the looters give chase and Indy clambers onto a horse, you’ll notice that the wild rock shapes almost instantly disappear, giving way to flat, scrubby grassland.</p>\n<p>That’s because the following sequence aboard the passing circus train was filmed on the <a href=\"http://cumbrestoltec.com\" target=\"_blank\">Cumbres &amp; Toltec Scenic Railroad</a> in <span class=\"name\">Southern</span> <a href=\"https://www.movie-locations.com/places/usa/colorado.php\">Colorado</a>. Built in 1880 to serve the silver mining area of the San Juan Mountains, and little changed since, the Railroad is a 64-mile, fully operational steam railroad, jointly owned by the states of <a href=\"https://www.movie-locations.com/places/usa/colorado.php\">Colorado</a> and <a href=\"https://www.movie-locations.com/places/usa/newmexico.php\">New Mexico</a> since 1970.</p>\n<p>And it’s a railroad you can travel, too. The return journey, taking a whole day, runs from <span class=\"name\">Antonito</span>, Route 285, south of Alamosa in southern <a href=\"https://www.movie-locations.com/places/usa/colorado.php\">Colorado</a>, 30 miles southwest through the San Juan Mountains to <span class=\"name\">Chama</span> in northern <a href=\"https://www.movie-locations.com/places/usa/newmexico.php\">New Mexico</a>.</p>\n<p>When Indy finally makes it home, his town does turn out to be the railroad’s terminus, <span class=\"name\">Antonito</span>, in <span class=\"name\">Conejos County</span>. The modest little home where his distracted Dad requires him to count in Greek is <span class=\"name\">502 Front Street</span> at  East 5th Avenue. The really good news? The enterprising owners of the house have turned it into the <a href=\"https://www.indianajonesbedandbreakfast.com/\" target=\"_blank\">Indiana Jones Bed &amp; Breakfast</a>.\t\t</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/008.jpg\" alt=\"Indiana Jones and the Last Crusade filming location: 502 Front Street, Antonito, Colorado\"><figcaption>Indiana Jones and the Last Crusade film location: the young Henry Jones's home: Indiana Jones Bed &amp; Breakfast, Front Street, Antonito, Colorado</figcaption></figure>\n<p>Moving on to ’1938’, the grown up Indiana Jones (<a href=\"https://www.movie-locations.com/people/f/fordh.php\">Harrison Ford</a>) is now teaching at ’Barnett College, New York’. The film was based at <span class=\"name\">Elstree Studios</span> in <a href=\"https://www.movie-locations.com/places/uk/herts.php\">Hertfordshire</a>, so a few locations can be found in the <span class=\"name\">UK</span> and the college is one of them.</p>\n<p>It’s <span class=\"name\">Rickmansworth Masonic School, Chorleywood Road</span> (A404) just a couple of minutes north of Rickmansworth Station (<span class=\"ital\">rail: London Marylebone Station</span>), <a href=\"https://www.movie-locations.com/places/uk/herts.php\">Hertfordshire</a>. The school had previously supplied the college interiors for <a href=\"https://www.movie-locations.com/movies/r/Raiders-Of-The-Lost-Ark.php\">Raiders Of The Lost Ark</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/009.jpg\" alt=\"Indiana Jones and the Last Crusade film location: Rickmansworth Masonic School, Rickmansworth, Hertfordshire\"><figcaption>Indiana Jones and the Last Crusade film location: 'Barnett College, New York', where Indy teaches: Rickmansworth Masonic School, Rickmansworth, Hertfordshire</figcaption></figure>\n<p>From here, Indy finds himself whisked away to the smart penthouse of collector Walter Donovan (<a href=\"https://www.movie-locations.com/people/g/gloverj.php\">Julian Glover</a>) who offers tantalising hints as to the whereabouts of the Holy Grail but – more importantly  – informs Indy that, following these leads, his father has gone missing.</p>\n<p>And, yes, Indy discovers that his father’s house is empty and ransacked. What could look more like Upstate New York than the white clapboard house in ‘Fermdale, NY’? </p>\n<p>In fact it's in North <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>. It's <span class=\"name\">Park Lodge, Wills Grove, Mill Hill</span>, <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> <span class=\"name\">NW7</span>. Please remember this is a private home and respect the residents' privacy.</p>\n<p>Coincidentally, it's only a few minutes' walk northwest of the, since demolished, Institute for Medical Research which provided the exterior of 'Arkham Asylum' in <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>'s <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/010.jpg\" alt=\"Indiana Jones and the Last Crusade filming location: Park Lodge, Wills Grove, Mill Hill, London NW7\"><figcaption>Indiana Jones and the Last Crusade film location: Prof Henry Jones's 'New York' home: Park Lodge, Wills Grove, Mill Hill, London NW7</figcaption></figure>\n<p>Guided by his father’s journal, Indy along with Marcus Brody (<a href=\"https://www.movie-locations.com/people/e/elliottd.php\">Denholm Elliott</a>) travel immediately to <a href=\"http://www.venice-tourism.com/en\" target=\"_blank\">Venice</a> in search of the stone which might reveal the Grail’s whereabouts.</p>\n<p>They’re met by Dr Elsa Schneider (<a href=\"https://www.movie-locations.com/people/d/doodya.php\">Alison Doody</a>) on the <span class=\"name\">Fondamenta Salute</span>, on the south bank of the entrance to the <span class=\"name\">Canal Grande</span> across from the <span class=\"name\">Piazza San Marco</span>.</p>\n<p>It seems only a short walk, but it’s quite a way to the west find the ‘Biblioteca di S Barnaba’, the church converted into a library where the stone tablet may possibly be hidden. The church hasn’t in fact been converted, it remains <span class=\"name\">Church of San Barnaba, Campo San Barnaba</span> on the <span class=\"name\">Fondamenta Gherardini</span> in the pleasantly laidback <span class=\"name\">Dorsoduro</span> district. If you want to see the real interior, the 1749 church is open daily from 7.30am to noon and 4.30pm to 7pm.</p>\n<p>Incidentally, <span class=\"name\">Campo San Barnaba</span> is the spot where <a href=\"https://www.movie-locations.com/people/h/hepburnk.php\">Katherine Hepburn</a> famously tumbles into the canal in <a href=\"https://www.movie-locations.com/people/l/leand.php\">David Lean</a>'s <span class=\"name\">Summer Madness</span>. As <a href=\"https://www.movie-locations.com/people/s/spielbergs.php\">Steven Spielberg</a> is such a <a href=\"https://www.movie-locations.com/people/l/leand.php\">Lean</a> fan, this hardly seems to be coincidence. The same piazza is  featured again in the 2003 remake of <a href=\"https://www.movie-locations.com/movies/i/Italian-Job-2003.php\">The Italian Job</a>.</p>\n<p>The tablet is found in the tomb of Sir Richard beneath the library floor, but it seems the interlopers are not welcome. Escaping through a manhole cover in <span class=\"name\">Campo San Barnaba</span> (yes, that was faked), they’re chased to the city’s docks.</p>\n<p>We’re suddenly back in the <span class=\"name\">UK</span>. A small section of ‘Calle di S Lucia’ was constructed on the waterfront of <span class=\"name\">Tilbury Docks</span> in <a href=\"https://www.movie-locations.com/places/uk/essex.php\">Essex</a>, where the the leap into a speedboat and the ensuing chase were filmed. Just like the <a href=\"https://www.movie-locations.com/places/usa/utah.php\">Utah</a> rocks, the palazzos and campaniles  of <a href=\"http://www.venice-tourism.com/en\" target=\"_blank\">Venice</a> suddenly disappear as the boats negotiate cargo ships and cranes.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/011.jpg\" alt=\"Indiana Jones and the Last Crusade film location: Church of San Barnaba, Campo San Barnaba, Venice\"><figcaption>Indiana Jones and the Last Crusade film location: looking for 'X' in the Venice 'library': Church of San Barnaba, Campo San Barnaba, Venice</figcaption></figure>\n<p>Once the chase ends, the real <a href=\"http://www.venice-tourism.com/en\" target=\"_blank\">Venice</a> reappears as Indy discovers that the apparent assailants are a secret brotherhood sworn to protect the secrets of the Grail.</p>\n<p>It’s on a pier in front of the 17th century <span class=\"name\">Palazzo Barbaro</span>, on the <span class=\"name\">Canal Grande</span> at Ponte dell’Accademia, that the leader Kazim (<a href=\"https://www.movie-locations.com/people/m/malikyank.php\">Kevork Malikyan</a>) reveals that Nazis too are after the Grail for their own nefarious ends, and that Professor Jones is being held by them at the ‘Castle of Brunwald’ on the Austrian-German border.</p>\n<p>The <span class=\"name\">Palazzo Barbaro</span> itself featured in <a href=\"https://www.movie-locations.com/movies/v/Vampire-In-Venice.php\">Vampire In Venice</a> (the 1986 sequel to <a href=\"https://www.movie-locations.com/people/h/herzogw.php\">Werner Herzog</a>’s <a href=\"https://www.movie-locations.com/movies/n/Nosferatu-1979.php\">Nosferatu, Phantom der Nacht</a>) as well as <a href=\"https://www.movie-locations.com/people/a/attenboroughr.php\">Richard Attenborough</a>’s <span class=\"name\">In Love and War</span>, with <a href=\"https://www.movie-locations.com/people/o/odonnellc.php\">Chris O'Donnell</a> as the young <span class=\"name\">Ernest Hemingway</span> and <a href=\"https://www.movie-locations.com/people/s/softleyi.php\">Iain Softley</a>’s <span class=\"name\">Wings Of The Dove</span> (author <span class=\"name\">Henry James</span> actually stayed here).\t\t</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/012.jpg\" alt=\"Indiana Jones and the Last Crusade film location: Palazzo Barbaro, Canal Grande, Venice\"><figcaption>Indiana Jones and the Last Crusade film location: Kazim gives Indy vital information about his father: Palazzo Barbaro, Canal Grande, Venice</figcaption></figure>\n<p>As Indy and Elsa go to find the professor, Brody – realising that the the road to the Grail starts from ‘Iskenderun’ in the ‘Republic of Hatay’ – follows a different lead.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/013.jpg\" alt=\"Indiana Jones and the Last Crusade film location: Guadix Station, Spain\"><figcaption>Indiana Jones and the Last Crusade film location: Dr Brody arrives in ‘Iskenderun’: Guadix Station, Spain | Photograph: Shutterstock / Pepe Perez</figcaption></figure>\n<p>Hatay was real – a small sultanate south of Turkey and north of Syria, and Iskenderun is now a Mediterranean port – but the film uses <span class=\"name\">Southern</span> <a href=\"https://www.movie-locations.com/places/europe/spain.php\">Spain</a>. ‘Iskenderun’ railway station, where Dr Brody is besieged by beggars and almost immediately abducted by Nazis, is <span class=\"name\">Guadix Station, Guadix</span>, about 30 miles east of Granada on the N342.</p>\n<p>The castle at ‘Brunwald’ turns out to be little more than sets built at Elstree, though the long-shot is of <a href=\"http://www.burgen-rlp.de/index.php?id=schlossbuerresheim\" target=\"_blank\">Schloss Bürresheim</a>, a medieval castle northwest of <span class=\"name\">Mayen</span> in <a href=\"https://www.movie-locations.com/places/europe/germany.php\">Germany</a>, heavily enhanced with pre-digital matte painting. Built on a rock in the Eifel Mountains above the River Nette, it's now a museum.     </p>\n<p>Indy manages to rescue Jones Sr (<a href=\"https://www.movie-locations.com/people/c/connerys.php\">Sean Connery</a>) and the two escape from the Nazis in a motorbike and sidecar. Their destination is Berlin, where the Professor’s precious journal has ended up.</p>\n<p>The classically grand setting for the ‘Berlin’ rally, where Indy manages to get the Führer’s autograph, is the prestigious <a href=\"http://www.stowe.co.uk/house/plan-your-visit\" target=\"_blank\">Stowe School</a> in <a href=\"https://www.movie-locations.com/places/uk/bucks.php\">Buckinghamshire</a>. This former home of the <span class=\"name\">Duke of Buckinghamshire</span>, set in grounds landscaped by <span class=\"name\">Capability Brown</span>, is four miles north of <span class=\"name\">Buckingham</span> town itself (a few miles west of Milton Keynes), and usually open to the public for the first two weeks in April and from July through to the beginning of September.</p>\n<p><a href=\"http://www.stowe.co.uk/house/plan-your-visit\" target=\"_blank\">Stowe</a> also appears as the school where Rohan (<a href=\"https://www.movie-locations.com/people/r/roshanh.php\">Hrithik Roshan</a>) wins the crucial cricket match at the beginning of 2001 Hindi smash <a href=\"https://www.movie-locations.com/movies/k/Kabhi-Khushi-Kabhie-Gham.php\">Kabhi Khushi Kabhie Gham...</a> Its grounds are seen in 1999 Bond movie <a href=\"https://www.movie-locations.com/movies/w/World-Is-Not-Enough.php\">The World Is Not Enough</a>, with <a href=\"https://www.movie-locations.com/people/b/brosnanp.php\">Pierce Brosnan</a>, and the 2010 version of <a href=\"https://www.movie-locations.com/movies/w/Wolfman-2010.php\">The Wolfman</a>, with <a href=\"https://www.movie-locations.com/people/d/deltorob.php\">Benicio Del Toro</a>.</p>\n<p>The school's interior can be seen in the 1998 film of 60s cult TV show <a href=\"https://www.movie-locations.com/movies/a/Avengers-1998.php\">The Avengers</a> and in <a href=\"https://www.movie-locations.com/people/v/vaughnm.php\">Matthew Vaughn</a>'s 2007 fantasy <a href=\"https://www.movie-locations.com/movies/s/Stardust-2007.php\">Stardust</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/014.jpg\" alt=\"Indiana Jones and the Last Crusade film location: Stowe School, Buckinghamshire\"><figcaption>Indiana Jones and the Last Crusade film location: the Nazi rally in ‘Berlin’: Stowe School, Buckinghamshire | Photograph: wikimedia / Shaun Ferguson</figcaption></figure>\n<p>Now needing to make a hasty getaway, the Joneses take the first flight out of Germany, which happens to be via  airship.</p>\n<p>‘Berlin Airport' is a conflation of two locations thousands of miles apart. The exterior is the sleek art deco <span class=\"name\">Administration Building</span> on <span class=\"name\">Treasure Island</span>, a man-made landform across in <span class=\"name\">San Francisco Bay</span>, across from the city of <a href=\"https://www.movie-locations.com/places/usa/sanfran.php\">San Francisco</a>, <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>, built for the 1939 Golden Gate International Exposition.</p>\n<p>It was later used as a naval base, and more recently the island’s hangars have found regular use as film soundstages for such productions as <a href=\"https://www.movie-locations.com/people/l/leea.php\">Ang Lee</a>'s 2003 <a href=\"https://www.movie-locations.com/movies/h/Hulk.php\">Hulk</a> and 1997 <a href=\"https://www.movie-locations.com/people/w/williamsr.php\">Robin Williams</a> comedy <span class=\"name\">Flubber</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/015.jpg\" alt=\"Administration Building, Treasure Island, San Francisco\"><figcaption>Indiana Jones and the Last Crusade film location: the exterior of ‘Berlin Airport’: Administration Building, Treasure Island, San Francisco</figcaption></figure>\n<p>The ‘airport’ interior is in <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> – it's the brutalist 1920s architecture of <span class=\"name\">Lawrence Hall</span>, originally one of the two <a href=\"http://www.rhhonline.co.uk/\" target=\"_blank\">Royal Horticultural Halls</a>, <span class=\"name\">Greycoat Street</span> at Elverton Street, <span class=\"name\">Westminster, SW1</span>.</p>\n<p>The hall, which was leased to Westminster School in 2011, also masqueraded as 'Berlin Airport' in the misfired 1997 version of <a href=\"https://www.movie-locations.com/movies/s/Saint-1997.php\">The Saint</a>, with <a href=\"https://www.movie-locations.com/people/k/kilmerv.php\">Val Kilmer</a>.</p>\n<p> Its severe lines make it the ideal place for scary fascist gatherings, too. It's here that loopy rockstar Pink (<span class=\"name\">Bob Geldof</span>) presides over the inexplicably sinister rally in <a href=\"https://www.movie-locations.com/people/p/parkera.php\">Alan Parker</a>'s film of <span class=\"name\">Pink Floyd The Wall</span>, and that Richard (<a href=\"https://www.movie-locations.com/people/m/mckelleni.php\">Ian McKellen</a>) is offered the crown in <a href=\"https://www.movie-locations.com/people/l/loncrainer.php\">Richard Loncraine</a>'s imaginative 30s-set <a href=\"https://www.movie-locations.com/movies/r/Richard-III-1995.php\">Richard III</a>.</p>\n<figure class=\"mainpic\"><img src=\"Indiana-Jones-And-The-Last-Crusade-Lawrence%20Hall.jpg\" alt=\"Indiana Jones and the Last Crusade film location: The Royal Horticultural Hall, Westminster, London SW1\"><figcaption>Indiana Jones and the Last Crusade film location: ‘Berlin Airport’: The Royal Horticultural Hall, Westminster, London SW1 | Photograph: Wikimedia / Patche99z</figcaption></figure>\n<p>When the airship turns to head back to 'Berlin', it’s time to commandeer the tiny bi-plane moored beneath the ship.</p>\n<p>After an aerial dogfight, the pair manage to  crash-land the plane and now help themselves to a car, still pursued by airborne Nazis. The plane/car chase – and the later tank chase – were filmed in the desert areas east of <a href=\"https://www.andalucia.org/en/destinations/provinces/almeria/\" target=\"_blank\">Almería</a>, <span class=\"name\">Southeast</span> <a href=\"https://www.movie-locations.com/places/europe/spain.php\">Spain</a>. The Tabernas Desert and the area around here are familiar territory, with a history going back to <a href=\"https://www.movie-locations.com/people/l/leand.php\">David Lean</a>'s <a href=\"https://www.movie-locations.com/movies/l/Lawrence-Of-Arabia.php\">Lawrence of Arabia</a> and <a href=\"https://www.movie-locations.com/people/l/leones.php\">Sergio Leone</a>’s classic Spaghetti Westerns.</p>\n<p>For more precise details of the exact shooting locations of the chase sequences, take a look at <span class=\"name\">Alex Hogg</span>'s excellent <a href=\"http://lastcrusadeultimatelocationguide.blogspot.com/2015/07/indiana-jones-and-last-crusade-ultimate.html\" target=\"_blank\">Indiana Jones and the Last Crusade Ultimate Location Travel Guide</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/017.jpg\" alt=\"Playa De Monsul, Almeria, Spain\"><figcaption>Indiana Jones and the Last Crusade film location: Jones Sr brings down the plane with a flock of seagulls: Playa De Monsul, Almeria, Spain | Photograph: wikimedia / Martyn Thompson</figcaption></figure>\n<p>Once the car, too, has been written off, the Joneses find themselves on a rocky beach where Jones Sr, remembering his Charlemagne, makes ingenious use of his brolley to panic a flock of seabirds into the engines of a last remaining plane.</p>\n<p>The curving beach with its single huge volcanic boulder is <span class=\"name\">Playa De Monsul</span>, with its striking volcanic rock, <span class=\"name\">Punta de la Peineta</span>, in the <a href=\"http://www.unique-almeria.com/cabo-de-gata.html\" target=\"_blank\">Cabo de Gata-Níjar Natural Park</a>, a few miles east of <a href=\"https://www.andalucia.org/en/destinations/provinces/almeria/\" target=\"_blank\">Almería</a> on the coast of southeast <a href=\"https://www.movie-locations.com/places/europe/spain.php\">Spain</a>.</p>\n<p>The beach is three miles southwest of <span class=\"name\">San José</span>. There’s a small parking lot, but it’s actually cheaper to take a shuttle bus from the town.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/018.jpg\" alt=\"Escuela de Arte De Almeria (School of Arts &amp; Crafts) , Plaza Pablo Cazard, Almeria, Spain\"><figcaption>Indiana Jones and the Last Crusade film location: Donovan trades his Rolls in the 'Iskenderun' palace courtyard\": Escuela de Arte De Almeria (School of Arts &amp; Crafts) , Plaza Pablo Cazard, Almeria, Spain | Photograph: wikimedia / Rubén Ojeda</figcaption></figure>\n<p>Donovan has meanwhile teamed up with the Nazis and made it to 'Iskenderun' where he trades his Rolls Royce to the Sultan for the use of soldiers and that tank. It had been intended to film the Sultan's palace courtyard in the grand Alhambra palace at Granada, but driving a Rolls Royce into its historic Court of the Lions was ruled out.</p>\n<p>Imaginatively, they settled on the courtyard of the <a href=\"http://www.unique-almeria.com/school-of-arts.html\" target=\"_blank\">Escuela de Arte de Almería</a> (<a href=\"http://www.unique-almeria.com/school-of-arts.html\" target=\"_blank\">School of Arts and Crafts</a>), <span class=\"name\">Plaza Pablo Cazard</span> in <a href=\"https://www.andalucia.org/en/destinations/provinces/almeria/\" target=\"_blank\">Almería</a> itself, which is housed in what was once an old convent. </p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0097576/019.jpg\" alt=\"Indiana Jones and the Last Crusade film location: The Siq, Wadi Musa, Jordan\"><figcaption>Indiana Jones and the Last Crusade film location: the 'Canyon of the Crescent Moon' leading to the Grail: The Siq, Wadi Musa, Jordan | Photograph: Shutterstock / Piu-Piu</figcaption></figure>\n<p>The Grail, it turns out, resides in the ‘Canyon of the Crescent Moon’, in actuality, <span class=\"name\">Al Khazneh</span>, the so-called ‘Treasury’ of the rock city of <span class=\"name\">Petra</span> in the <span class=\"name\">Edom Mountains</span> of southwest <a href=\"https://www.movie-locations.com/places/mideast/jordan.php\">Jordan</a>. </p>\n<p><span class=\"name\">Petra</span> is at <span class=\"name\">Wadi Musa</span>, a three-hour drive or bus-ride from the Jordanian capital of Amman (though you can reach it more easily from Aqaba or from Eilat in <a href=\"https://www.movie-locations.com/places/mideast/israel.php\">Israel</a>), at the end of a three-quarter-mile trek (on foot, camel or horse) through the <span class=\"name\">Siq</span>, a narrow rock fissure in the cliffs.</p>\n<p>The canyon is seen again in <a href=\"https://www.movie-locations.com/people/s/sommerss.php\">Stephen Sommers</a>’ 2001 <a href=\"https://www.movie-locations.com/movies/m/Mummy-Returns.php\">The Mummy Returns</a>, and another part of the <span class=\"name\">Petra</span> complex houses the ‘Tomb of the Primes’ in <a href=\"https://www.movie-locations.com/people/b/baym.php\">Michael Bay</a>’s <a href=\"https://www.movie-locations.com/movies/t/Transformers-Revenge-Of-The-Fallen.php\">Transformers: Revenge Of The Fallen</a>.</p>\n<p>There’s still one more location, which you might have missed. As the four ride off into the sunset, that one final shot, amazingly, was filmed at the <span class=\"name\">Figure 3 Ranch</span> at the <span class=\"name\">Palo Duro Canyon</span>, southeast of <span class=\"name\">Amarill</span>o, <a href=\"https://www.movie-locations.com/places/usa/texas.php\">Texas</a>.  I defy anyone to pinpoint the precise site of the flat featureless landscape seen only in silhouette.</p>\n<p>Do you think that’s really <a href=\"https://www.movie-locations.com/people/f/fordh.php\">Ford</a>, <a href=\"https://www.movie-locations.com/people/c/connerys.php\">Connery</a>, <a href=\"https://www.movie-locations.com/people/e/elliottd.php\">Elliott</a> and <a href=\"https://www.movie-locations.com/people/r/rhysdaviesj.php\">Rhys-Davies</a> out in <a href=\"https://www.movie-locations.com/places/usa/texas.php\">Texas</a>, or do you think they might have used stand-ins?</p>\n<p class=\"ital\">• Many thanks to <span class=\"name\">Oliver Krendel</span>, <span class=\"name\">Mike Jordan</span> and <span class=\"name\">Barry Winger</span> for help with this section.</p>",
+  "main_content_text": "Discover all the places where Indiana Jones And The Last Crusade (1989) was filmed in Jordan, Spain, Italy; in the USA around Utah, Colorado, California and Texas; and around the UK in Buckinghamshire, Hertfordshire, Essex and London.\n\nThird, and arguably best, of the Indiana Jones movies, as Indy discovers from his father the value of “shelf reliance”. Wise words.\n\nLast Crusade certainly does its share of globetrotting – even if not all of the filming sites are where they claim to be.\n\nThe prologue itself, establishing all the traits of the young Indy (River Phoenix) and set in ‘Utah, 1912’, was filmed in two different US States.\n\nThe astonishing sandstone landscapes, through which Indy’s scout troop rides, really is Utah of course. It’s Arches National Park covering 120 square miles in Southern Utah. It's 'high desert' so the climate is one of very hot summers and cold winters, with temperatures liable to vary wildly in a single day.\n\nThe Park’s Visitor Center can be found on US-191about five miles northwest of Moab and, fortunately, most of the fantastic rock formations seen during the credits sequence can be found within a short drive from this entrance.\n\nFrom the Center, take Arches Scenic Drive north and, after about four miles, you’ll come to the mighty blocks of Courthouse Towers and The Organ on your right. To your left, you’ll see that trio of what look like sculpted figures, known as the Three Gossips.\n\nA little more than five miles further on, is the single teardrop-shaped rock perched precariously on a narrow stem and called, for obvious reasons, Balanced Rock.\n\nJust past this, turning right onto The Windows Road will eventually take you to the amazing Double Arch, two natural bridges, which is where the scouts dismount. Here you’ll also find the entrance to the cave where Indy rescues the ‘Cross of Coronado’ from unscrupulous treasure hunters.\n\nAs the looters give chase and Indy clambers onto a horse, you’ll notice that the wild rock shapes almost instantly disappear, giving way to flat, scrubby grassland.\n\nThat’s because the following sequence aboard the passing circus train was filmed on the Cumbres & Toltec Scenic Railroad in Southern Colorado. Built in 1880 to serve the silver mining area of the San Juan Mountains, and little changed since, the Railroad is a 64-mile, fully operational steam railroad, jointly owned by the states of Colorado and New Mexico since 1970.\n\nAnd it’s a railroad you can travel, too. The return journey, taking a whole day, runs from Antonito, Route 285, south of Alamosa in southern Colorado, 30 miles southwest through the San Juan Mountains to Chama in northern New Mexico.\n\nWhen Indy finally makes it home, his town does turn out to be the railroad’s terminus, Antonito, in Conejos County. The modest little home where his distracted Dad requires him to count in Greek is 502 Front Street at East 5th Avenue. The really good news? The enterprising owners of the house have turned it into the Indiana Jones Bed & Breakfast.\n\nMoving on to ’1938’, the grown up Indiana Jones (Harrison Ford) is now teaching at ’Barnett College, New York’. The film was based at Elstree Studios in Hertfordshire, so a few locations can be found in the UK and the college is one of them.\n\nIt’s Rickmansworth Masonic School, Chorleywood Road (A404) just a couple of minutes north of Rickmansworth Station (rail: London Marylebone Station), Hertfordshire. The school had previously supplied the college interiors for Raiders Of The Lost Ark.\n\nFrom here, Indy finds himself whisked away to the smart penthouse of collector Walter Donovan (Julian Glover) who offers tantalising hints as to the whereabouts of the Holy Grail but – more importantly – informs Indy that, following these leads, his father has gone missing.\n\nAnd, yes, Indy discovers that his father’s house is empty and ransacked. What could look more like Upstate New York than the white clapboard house in ‘Fermdale, NY’?\n\nIn fact it's in North London. It's Park Lodge, Wills Grove, Mill Hill, London NW7. Please remember this is a private home and respect the residents' privacy.\n\nCoincidentally, it's only a few minutes' walk northwest of the, since demolished, Institute for Medical Research which provided the exterior of 'Arkham Asylum' in Christopher Nolan's Batman Begins.\n\nGuided by his father’s journal, Indy along with Marcus Brody (Denholm Elliott) travel immediately to Venice in search of the stone which might reveal the Grail’s whereabouts.\n\nThey’re met by Dr Elsa Schneider (Alison Doody) on the Fondamenta Salute, on the south bank of the entrance to the Canal Grande across from the Piazza San Marco.\n\nIt seems only a short walk, but it’s quite a way to the west find the ‘Biblioteca di S Barnaba’, the church converted into a library where the stone tablet may possibly be hidden. The church hasn’t in fact been converted, it remains Church of San Barnaba, Campo San Barnaba on the Fondamenta Gherardini in the pleasantly laidback Dorsoduro district. If you want to see the real interior, the 1749 church is open daily from 7.30am to noon and 4.30pm to 7pm.\n\nIncidentally, Campo San Barnaba is the spot where Katherine Hepburn famously tumbles into the canal in David Lean's Summer Madness. As Steven Spielberg is such a Lean fan, this hardly seems to be coincidence. The same piazza is featured again in the 2003 remake of The Italian Job.\n\nThe tablet is found in the tomb of Sir Richard beneath the library floor, but it seems the interlopers are not welcome. Escaping through a manhole cover in Campo San Barnaba (yes, that was faked), they’re chased to the city’s docks.\n\nWe’re suddenly back in the UK. A small section of ‘Calle di S Lucia’ was constructed on the waterfront of Tilbury Docks in Essex, where the the leap into a speedboat and the ensuing chase were filmed. Just like the Utah rocks, the palazzos and campaniles of Venice suddenly disappear as the boats negotiate cargo ships and cranes.\n\nOnce the chase ends, the real Venice reappears as Indy discovers that the apparent assailants are a secret brotherhood sworn to protect the secrets of the Grail.\n\nIt’s on a pier in front of the 17th century Palazzo Barbaro, on the Canal Grande at Ponte dell’Accademia, that the leader Kazim (Kevork Malikyan) reveals that Nazis too are after the Grail for their own nefarious ends, and that Professor Jones is being held by them at the ‘Castle of Brunwald’ on the Austrian-German border.\n\nThe Palazzo Barbaro itself featured in Vampire In Venice (the 1986 sequel to Werner Herzog’s Nosferatu, Phantom der Nacht) as well as Richard Attenborough’s In Love and War, with Chris O'Donnell as the young Ernest Hemingway and Iain Softley’s Wings Of The Dove (author Henry James actually stayed here).\n\nAs Indy and Elsa go to find the professor, Brody – realising that the the road to the Grail starts from ‘Iskenderun’ in the ‘Republic of Hatay’ – follows a different lead.\n\nHatay was real – a small sultanate south of Turkey and north of Syria, and Iskenderun is now a Mediterranean port – but the film uses Southern Spain. ‘Iskenderun’ railway station, where Dr Brody is besieged by beggars and almost immediately abducted by Nazis, is Guadix Station, Guadix, about 30 miles east of Granada on the N342.\n\nThe castle at ‘Brunwald’ turns out to be little more than sets built at Elstree, though the long-shot is of Schloss Bürresheim, a medieval castle northwest of Mayen in Germany, heavily enhanced with pre-digital matte painting. Built on a rock in the Eifel Mountains above the River Nette, it's now a museum.\n\nIndy manages to rescue Jones Sr (Sean Connery) and the two escape from the Nazis in a motorbike and sidecar. Their destination is Berlin, where the Professor’s precious journal has ended up.\n\nThe classically grand setting for the ‘Berlin’ rally, where Indy manages to get the Führer’s autograph, is the prestigious Stowe School in Buckinghamshire. This former home of the Duke of Buckinghamshire, set in grounds landscaped by Capability Brown, is four miles north of Buckingham town itself (a few miles west of Milton Keynes), and usually open to the public for the first two weeks in April and from July through to the beginning of September.\n\nStowe also appears as the school where Rohan (Hrithik Roshan) wins the crucial cricket match at the beginning of 2001 Hindi smash Kabhi Khushi Kabhie Gham... Its grounds are seen in 1999 Bond movie The World Is Not Enough, with Pierce Brosnan, and the 2010 version of The Wolfman, with Benicio Del Toro.\n\nThe school's interior can be seen in the 1998 film of 60s cult TV show The Avengers and in Matthew Vaughn's 2007 fantasy Stardust.\n\nNow needing to make a hasty getaway, the Joneses take the first flight out of Germany, which happens to be via airship.\n\n‘Berlin Airport' is a conflation of two locations thousands of miles apart. The exterior is the sleek art deco Administration Building on Treasure Island, a man-made landform across in San Francisco Bay, across from the city of San Francisco, California, built for the 1939 Golden Gate International Exposition.\n\nIt was later used as a naval base, and more recently the island’s hangars have found regular use as film soundstages for such productions as Ang Lee's 2003 Hulk and 1997 Robin Williams comedy Flubber.\n\nThe ‘airport’ interior is in London – it's the brutalist 1920s architecture of Lawrence Hall, originally one of the two Royal Horticultural Halls, Greycoat Street at Elverton Street, Westminster, SW1.\n\nThe hall, which was leased to Westminster School in 2011, also masqueraded as 'Berlin Airport' in the misfired 1997 version of The Saint, with Val Kilmer.\n\nIts severe lines make it the ideal place for scary fascist gatherings, too. It's here that loopy rockstar Pink (Bob Geldof) presides over the inexplicably sinister rally in Alan Parker's film of Pink Floyd The Wall, and that Richard (Ian McKellen) is offered the crown in Richard Loncraine's imaginative 30s-set Richard III.\n\nWhen the airship turns to head back to 'Berlin', it’s time to commandeer the tiny bi-plane moored beneath the ship.\n\nAfter an aerial dogfight, the pair manage to crash-land the plane and now help themselves to a car, still pursued by airborne Nazis. The plane/car chase – and the later tank chase – were filmed in the desert areas east of Almería, Southeast Spain. The Tabernas Desert and the area around here are familiar territory, with a history going back to David Lean's Lawrence of Arabia and Sergio Leone’s classic Spaghetti Westerns.\n\nFor more precise details of the exact shooting locations of the chase sequences, take a look at Alex Hogg's excellent Indiana Jones and the Last Crusade Ultimate Location Travel Guide.\n\nOnce the car, too, has been written off, the Joneses find themselves on a rocky beach where Jones Sr, remembering his Charlemagne, makes ingenious use of his brolley to panic a flock of seabirds into the engines of a last remaining plane.\n\nThe curving beach with its single huge volcanic boulder is Playa De Monsul, with its striking volcanic rock, Punta de la Peineta, in the Cabo de Gata-Níjar Natural Park, a few miles east of Almería on the coast of southeast Spain.\n\nThe beach is three miles southwest of San José. There’s a small parking lot, but it’s actually cheaper to take a shuttle bus from the town.\n\nDonovan has meanwhile teamed up with the Nazis and made it to 'Iskenderun' where he trades his Rolls Royce to the Sultan for the use of soldiers and that tank. It had been intended to film the Sultan's palace courtyard in the grand Alhambra palace at Granada, but driving a Rolls Royce into its historic Court of the Lions was ruled out.\n\nImaginatively, they settled on the courtyard of the Escuela de Arte de Almería (School of Arts and Crafts), Plaza Pablo Cazard in Almería itself, which is housed in what was once an old convent.\n\nThe Grail, it turns out, resides in the ‘Canyon of the Crescent Moon’, in actuality, Al Khazneh, the so-called ‘Treasury’ of the rock city of Petra in the Edom Mountains of southwest Jordan.\n\nPetra is at Wadi Musa, a three-hour drive or bus-ride from the Jordanian capital of Amman (though you can reach it more easily from Aqaba or from Eilat in Israel), at the end of a three-quarter-mile trek (on foot, camel or horse) through the Siq, a narrow rock fissure in the cliffs.\n\nThe canyon is seen again in Stephen Sommers’ 2001 The Mummy Returns, and another part of the Petra complex houses the ‘Tomb of the Primes’ in Michael Bay’s Transformers: Revenge Of The Fallen.\n\nThere’s still one more location, which you might have missed. As the four ride off into the sunset, that one final shot, amazingly, was filmed at the Figure 3 Ranch at the Palo Duro Canyon, southeast of Amarillo, Texas. I defy anyone to pinpoint the precise site of the flat featureless landscape seen only in silhouette.\n\nDo you think that’s really Ford, Connery, Elliott and Rhys-Davies out in Texas, or do you think they might have used stand-ins?\n\n• Many thanks to Oliver Krendel, Mike Jordan and Barry Winger for help with this section.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: ‘Canyon of the Crescent Moon’: Petra, in Jordan | Photograph: wikimedia / Bernard Gagnon",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/001.jpg",
+      "alt": ": Petra, Jordan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover all the places where Indiana Jones And The Last Crusade (1989) was filmed in Jordan, Spain, Italy; in the USA around Utah, Colorado, California and Texas; and around the UK in Buckinghamshire, Hertfordshire, Essex and London."
+    },
+    {
+      "type": "paragraph",
+      "text": "Third, and arguably best, of the Indiana Jones movies, as Indy discovers from his father the value of “shelf reliance”. Wise words."
+    },
+    {
+      "type": "paragraph",
+      "text": "Last Crusade certainly does its share of globetrotting – even if not all of the filming sites are where they claim to be."
+    },
+    {
+      "type": "paragraph",
+      "text": "The prologue itself, establishing all the traits of the young Indy (River Phoenix) and set in ‘Utah, 1912’, was filmed in two different US States."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: Courthouse Towers, Arches National Park, Moab, Utah | Photograph: Shutterstock / vagabond54",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/003.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: Courthouse Towers, Arches National Park, Moab, Utah"
+    },
+    {
+      "type": "paragraph",
+      "text": "The astonishing sandstone landscapes, through which Indy’s scout troop rides, really is Utah of course. It’s Arches National Park covering 120 square miles in Southern Utah. It's 'high desert' so the climate is one of very hot summers and cold winters, with temperatures liable to vary wildly in a single day."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Park’s Visitor Center can be found on US-191about five miles northwest of Moab and, fortunately, most of the fantastic rock formations seen during the credits sequence can be found within a short drive from this entrance."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: The Organ, Arches National Park, Moab, Utah | Photograph: Shutterstock / Marc Venema",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/004.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: The Organ, Arches National Park, Moab, Utah"
+    },
+    {
+      "type": "paragraph",
+      "text": "From the Center, take Arches Scenic Drive north and, after about four miles, you’ll come to the mighty blocks of Courthouse Towers and The Organ on your right. To your left, you’ll see that trio of what look like sculpted figures, known as the Three Gossips."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: The Three Gossips, Arches National Park, Moab, Utah | Photograph: Shutterstock / An Van de Wal",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/005.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: The Three Gossips, Arches National Park, Moab, Utah"
+    },
+    {
+      "type": "paragraph",
+      "text": "A little more than five miles further on, is the single teardrop-shaped rock perched precariously on a narrow stem and called, for obvious reasons, Balanced Rock."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: the scout troop ride through the desert: Balanced Rock, Arches National Park, Moab, Utah | Photograph: Shutterstock / melissamn",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/006.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: Balanced Rock, Arches National Park, Moab, Utah"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just past this, turning right onto The Windows Road will eventually take you to the amazing Double Arch, two natural bridges, which is where the scouts dismount. Here you’ll also find the entrance to the cave where Indy rescues the ‘Cross of Coronado’ from unscrupulous treasure hunters."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: the scout troop dismounts and young Indy goes off exploring: Double Arch, Arches National Park, Moab, Utah | Photograph: Arches National Park",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/007.jpg",
+      "alt": "Indiana Jones and the Last Crusade filming location: Double Arch, Arches National Park, Moab, Utah"
+    },
+    {
+      "type": "paragraph",
+      "text": "As the looters give chase and Indy clambers onto a horse, you’ll notice that the wild rock shapes almost instantly disappear, giving way to flat, scrubby grassland."
+    },
+    {
+      "type": "paragraph",
+      "text": "That’s because the following sequence aboard the passing circus train was filmed on the Cumbres & Toltec Scenic Railroad in Southern Colorado. Built in 1880 to serve the silver mining area of the San Juan Mountains, and little changed since, the Railroad is a 64-mile, fully operational steam railroad, jointly owned by the states of Colorado and New Mexico since 1970."
+    },
+    {
+      "type": "paragraph",
+      "text": "And it’s a railroad you can travel, too. The return journey, taking a whole day, runs from Antonito, Route 285, south of Alamosa in southern Colorado, 30 miles southwest through the San Juan Mountains to Chama in northern New Mexico."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Indy finally makes it home, his town does turn out to be the railroad’s terminus, Antonito, in Conejos County. The modest little home where his distracted Dad requires him to count in Greek is 502 Front Street at East 5th Avenue. The really good news? The enterprising owners of the house have turned it into the Indiana Jones Bed & Breakfast."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: the young Henry Jones's home: Indiana Jones Bed & Breakfast, Front Street, Antonito, Colorado",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/008.jpg",
+      "alt": "Indiana Jones and the Last Crusade filming location: 502 Front Street, Antonito, Colorado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Moving on to ’1938’, the grown up Indiana Jones (Harrison Ford) is now teaching at ’Barnett College, New York’. The film was based at Elstree Studios in Hertfordshire, so a few locations can be found in the UK and the college is one of them."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s Rickmansworth Masonic School, Chorleywood Road (A404) just a couple of minutes north of Rickmansworth Station (rail: London Marylebone Station), Hertfordshire. The school had previously supplied the college interiors for Raiders Of The Lost Ark."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: 'Barnett College, New York', where Indy teaches: Rickmansworth Masonic School, Rickmansworth, Hertfordshire",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/009.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: Rickmansworth Masonic School, Rickmansworth, Hertfordshire"
+    },
+    {
+      "type": "paragraph",
+      "text": "From here, Indy finds himself whisked away to the smart penthouse of collector Walter Donovan (Julian Glover) who offers tantalising hints as to the whereabouts of the Holy Grail but – more importantly – informs Indy that, following these leads, his father has gone missing."
+    },
+    {
+      "type": "paragraph",
+      "text": "And, yes, Indy discovers that his father’s house is empty and ransacked. What could look more like Upstate New York than the white clapboard house in ‘Fermdale, NY’?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In fact it's in North London. It's Park Lodge, Wills Grove, Mill Hill, London NW7. Please remember this is a private home and respect the residents' privacy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Coincidentally, it's only a few minutes' walk northwest of the, since demolished, Institute for Medical Research which provided the exterior of 'Arkham Asylum' in Christopher Nolan's Batman Begins."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: Prof Henry Jones's 'New York' home: Park Lodge, Wills Grove, Mill Hill, London NW7",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/010.jpg",
+      "alt": "Indiana Jones and the Last Crusade filming location: Park Lodge, Wills Grove, Mill Hill, London NW7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guided by his father’s journal, Indy along with Marcus Brody (Denholm Elliott) travel immediately to Venice in search of the stone which might reveal the Grail’s whereabouts."
+    },
+    {
+      "type": "paragraph",
+      "text": "They’re met by Dr Elsa Schneider (Alison Doody) on the Fondamenta Salute, on the south bank of the entrance to the Canal Grande across from the Piazza San Marco."
+    },
+    {
+      "type": "paragraph",
+      "text": "It seems only a short walk, but it’s quite a way to the west find the ‘Biblioteca di S Barnaba’, the church converted into a library where the stone tablet may possibly be hidden. The church hasn’t in fact been converted, it remains Church of San Barnaba, Campo San Barnaba on the Fondamenta Gherardini in the pleasantly laidback Dorsoduro district. If you want to see the real interior, the 1749 church is open daily from 7.30am to noon and 4.30pm to 7pm."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incidentally, Campo San Barnaba is the spot where Katherine Hepburn famously tumbles into the canal in David Lean's Summer Madness. As Steven Spielberg is such a Lean fan, this hardly seems to be coincidence. The same piazza is featured again in the 2003 remake of The Italian Job."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tablet is found in the tomb of Sir Richard beneath the library floor, but it seems the interlopers are not welcome. Escaping through a manhole cover in Campo San Barnaba (yes, that was faked), they’re chased to the city’s docks."
+    },
+    {
+      "type": "paragraph",
+      "text": "We’re suddenly back in the UK. A small section of ‘Calle di S Lucia’ was constructed on the waterfront of Tilbury Docks in Essex, where the the leap into a speedboat and the ensuing chase were filmed. Just like the Utah rocks, the palazzos and campaniles of Venice suddenly disappear as the boats negotiate cargo ships and cranes."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: looking for 'X' in the Venice 'library': Church of San Barnaba, Campo San Barnaba, Venice",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/011.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: Church of San Barnaba, Campo San Barnaba, Venice"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the chase ends, the real Venice reappears as Indy discovers that the apparent assailants are a secret brotherhood sworn to protect the secrets of the Grail."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s on a pier in front of the 17th century Palazzo Barbaro, on the Canal Grande at Ponte dell’Accademia, that the leader Kazim (Kevork Malikyan) reveals that Nazis too are after the Grail for their own nefarious ends, and that Professor Jones is being held by them at the ‘Castle of Brunwald’ on the Austrian-German border."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Palazzo Barbaro itself featured in Vampire In Venice (the 1986 sequel to Werner Herzog’s Nosferatu, Phantom der Nacht) as well as Richard Attenborough’s In Love and War, with Chris O'Donnell as the young Ernest Hemingway and Iain Softley’s Wings Of The Dove (author Henry James actually stayed here)."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: Kazim gives Indy vital information about his father: Palazzo Barbaro, Canal Grande, Venice",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/012.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: Palazzo Barbaro, Canal Grande, Venice"
+    },
+    {
+      "type": "paragraph",
+      "text": "As Indy and Elsa go to find the professor, Brody – realising that the the road to the Grail starts from ‘Iskenderun’ in the ‘Republic of Hatay’ – follows a different lead."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: Dr Brody arrives in ‘Iskenderun’: Guadix Station, Spain | Photograph: Shutterstock / Pepe Perez",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/013.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: Guadix Station, Spain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hatay was real – a small sultanate south of Turkey and north of Syria, and Iskenderun is now a Mediterranean port – but the film uses Southern Spain. ‘Iskenderun’ railway station, where Dr Brody is besieged by beggars and almost immediately abducted by Nazis, is Guadix Station, Guadix, about 30 miles east of Granada on the N342."
+    },
+    {
+      "type": "paragraph",
+      "text": "The castle at ‘Brunwald’ turns out to be little more than sets built at Elstree, though the long-shot is of Schloss Bürresheim, a medieval castle northwest of Mayen in Germany, heavily enhanced with pre-digital matte painting. Built on a rock in the Eifel Mountains above the River Nette, it's now a museum."
+    },
+    {
+      "type": "paragraph",
+      "text": "Indy manages to rescue Jones Sr (Sean Connery) and the two escape from the Nazis in a motorbike and sidecar. Their destination is Berlin, where the Professor’s precious journal has ended up."
+    },
+    {
+      "type": "paragraph",
+      "text": "The classically grand setting for the ‘Berlin’ rally, where Indy manages to get the Führer’s autograph, is the prestigious Stowe School in Buckinghamshire. This former home of the Duke of Buckinghamshire, set in grounds landscaped by Capability Brown, is four miles north of Buckingham town itself (a few miles west of Milton Keynes), and usually open to the public for the first two weeks in April and from July through to the beginning of September."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stowe also appears as the school where Rohan (Hrithik Roshan) wins the crucial cricket match at the beginning of 2001 Hindi smash Kabhi Khushi Kabhie Gham... Its grounds are seen in 1999 Bond movie The World Is Not Enough, with Pierce Brosnan, and the 2010 version of The Wolfman, with Benicio Del Toro."
+    },
+    {
+      "type": "paragraph",
+      "text": "The school's interior can be seen in the 1998 film of 60s cult TV show The Avengers and in Matthew Vaughn's 2007 fantasy Stardust."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: the Nazi rally in ‘Berlin’: Stowe School, Buckinghamshire | Photograph: wikimedia / Shaun Ferguson",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/014.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: Stowe School, Buckinghamshire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now needing to make a hasty getaway, the Joneses take the first flight out of Germany, which happens to be via airship."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Berlin Airport' is a conflation of two locations thousands of miles apart. The exterior is the sleek art deco Administration Building on Treasure Island, a man-made landform across in San Francisco Bay, across from the city of San Francisco, California, built for the 1939 Golden Gate International Exposition."
+    },
+    {
+      "type": "paragraph",
+      "text": "It was later used as a naval base, and more recently the island’s hangars have found regular use as film soundstages for such productions as Ang Lee's 2003 Hulk and 1997 Robin Williams comedy Flubber."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: the exterior of ‘Berlin Airport’: Administration Building, Treasure Island, San Francisco",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/015.jpg",
+      "alt": "Administration Building, Treasure Island, San Francisco"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘airport’ interior is in London – it's the brutalist 1920s architecture of Lawrence Hall, originally one of the two Royal Horticultural Halls, Greycoat Street at Elverton Street, Westminster, SW1."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hall, which was leased to Westminster School in 2011, also masqueraded as 'Berlin Airport' in the misfired 1997 version of The Saint, with Val Kilmer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Its severe lines make it the ideal place for scary fascist gatherings, too. It's here that loopy rockstar Pink (Bob Geldof) presides over the inexplicably sinister rally in Alan Parker's film of Pink Floyd The Wall, and that Richard (Ian McKellen) is offered the crown in Richard Loncraine's imaginative 30s-set Richard III."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: ‘Berlin Airport’: The Royal Horticultural Hall, Westminster, London SW1 | Photograph: Wikimedia / Patche99z",
+      "src": "Indiana-Jones-And-The-Last-Crusade-Lawrence%20Hall.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: The Royal Horticultural Hall, Westminster, London SW1"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the airship turns to head back to 'Berlin', it’s time to commandeer the tiny bi-plane moored beneath the ship."
+    },
+    {
+      "type": "paragraph",
+      "text": "After an aerial dogfight, the pair manage to crash-land the plane and now help themselves to a car, still pursued by airborne Nazis. The plane/car chase – and the later tank chase – were filmed in the desert areas east of Almería, Southeast Spain. The Tabernas Desert and the area around here are familiar territory, with a history going back to David Lean's Lawrence of Arabia and Sergio Leone’s classic Spaghetti Westerns."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more precise details of the exact shooting locations of the chase sequences, take a look at Alex Hogg's excellent Indiana Jones and the Last Crusade Ultimate Location Travel Guide."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: Jones Sr brings down the plane with a flock of seagulls: Playa De Monsul, Almeria, Spain | Photograph: wikimedia / Martyn Thompson",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/017.jpg",
+      "alt": "Playa De Monsul, Almeria, Spain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the car, too, has been written off, the Joneses find themselves on a rocky beach where Jones Sr, remembering his Charlemagne, makes ingenious use of his brolley to panic a flock of seabirds into the engines of a last remaining plane."
+    },
+    {
+      "type": "paragraph",
+      "text": "The curving beach with its single huge volcanic boulder is Playa De Monsul, with its striking volcanic rock, Punta de la Peineta, in the Cabo de Gata-Níjar Natural Park, a few miles east of Almería on the coast of southeast Spain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The beach is three miles southwest of San José. There’s a small parking lot, but it’s actually cheaper to take a shuttle bus from the town."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: Donovan trades his Rolls in the 'Iskenderun' palace courtyard\": Escuela de Arte De Almeria (School of Arts & Crafts) , Plaza Pablo Cazard, Almeria, Spain | Photograph: wikimedia / Rubén Ojeda",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/018.jpg",
+      "alt": "Escuela de Arte De Almeria (School of Arts & Crafts) , Plaza Pablo Cazard, Almeria, Spain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Donovan has meanwhile teamed up with the Nazis and made it to 'Iskenderun' where he trades his Rolls Royce to the Sultan for the use of soldiers and that tank. It had been intended to film the Sultan's palace courtyard in the grand Alhambra palace at Granada, but driving a Rolls Royce into its historic Court of the Lions was ruled out."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaginatively, they settled on the courtyard of the Escuela de Arte de Almería (School of Arts and Crafts), Plaza Pablo Cazard in Almería itself, which is housed in what was once an old convent."
+    },
+    {
+      "type": "image",
+      "caption": "Indiana Jones and the Last Crusade film location: the 'Canyon of the Crescent Moon' leading to the Grail: The Siq, Wadi Musa, Jordan | Photograph: Shutterstock / Piu-Piu",
+      "src": "_assets/tt0097576%20-%20Indiana-Jones-And-The-Last-Crusade/019.jpg",
+      "alt": "Indiana Jones and the Last Crusade film location: The Siq, Wadi Musa, Jordan"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Grail, it turns out, resides in the ‘Canyon of the Crescent Moon’, in actuality, Al Khazneh, the so-called ‘Treasury’ of the rock city of Petra in the Edom Mountains of southwest Jordan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Petra is at Wadi Musa, a three-hour drive or bus-ride from the Jordanian capital of Amman (though you can reach it more easily from Aqaba or from Eilat in Israel), at the end of a three-quarter-mile trek (on foot, camel or horse) through the Siq, a narrow rock fissure in the cliffs."
+    },
+    {
+      "type": "paragraph",
+      "text": "The canyon is seen again in Stephen Sommers’ 2001 The Mummy Returns, and another part of the Petra complex houses the ‘Tomb of the Primes’ in Michael Bay’s Transformers: Revenge Of The Fallen."
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s still one more location, which you might have missed. As the four ride off into the sunset, that one final shot, amazingly, was filmed at the Figure 3 Ranch at the Palo Duro Canyon, southeast of Amarillo, Texas. I defy anyone to pinpoint the precise site of the flat featureless landscape seen only in silhouette."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you think that’s really Ford, Connery, Elliott and Rhys-Davies out in Texas, or do you think they might have used stand-ins?"
+    },
+    {
+      "type": "paragraph",
+      "text": "• Many thanks to Oliver Krendel, Mike Jordan and Barry Winger for help with this section."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Utah</h3>\n<p>Visit: Utah</p>\n<p>Visit: Moab</p>\n<p>Visit: Arches National Park, Hwy 191, five miles north of Moab (tel: 435.719.2299)</p>\n</section>\n<section><h3>Colorado</h3>\n<p>Visit: Colorado</p>\n<p>Visit: the Cumbres &amp; Toltec Scenic Railroad</p>\n</section>\n<section><h3>California</h3>\n<p>Visit: California</p>\n</section>\n<section><h3>Italy</h3>\n<p>Visit: Italy</p>\n<p>Visit: Venice</p>\n<p>Flights: Venice Marco Polo Airport, Via Galileo Galilei, 30/1, 30173 Venezia (tel: +39.041.260.6111)</p>\n</section>\n<section><h3>Jordan</h3>\n<p>Visit: Jordan</p>\n<p>Flights: Queen Alia International Airport, 30 km south of Amman</p>\n<p>Visit: Petra, Wadi Musa</p>\n<p>Bus: JETT (Jordan Express Tourist Transportation) buses connect to Amman (about 3 hours) and Aqaba via the Desert Highway</p>\n</section>\n<section><h3>Spain</h3>\n<p>Visit: Spain</p>\n<p>Visit: Almería</p>\n<p>Flights: Almería Airport, Carretera Níjar, Km 9, 04130 Almería (tel: +34.902.40.47.04)</p>\n<p>Visit: the Cabo de Gata-Níjar Natural Park</p>\n</section>\n<section><h3>UK | Buckinghamshire</h3>\n<p>Visit: Buckinghamshire</p>\n<p>Visit: Stowe School, Buckingham MK18 5EH</p>\n</section>\n<section><h3>UK | Hertfordshire</h3>\n<p>Visit: Hertfordshire</p>\n</section>\n<section><h3>UK | Essex</h3>\n<p>Visit: Essex</p>\n</section>\n<section><h3>UK | London</h3>\n<p>Flights: Heathrow Airport; Gatwick Airport</p>\n<p>Visit: London</p>\n<p>Travelling: Transport For London</p>\n</section>",
+  "visit_info_text": "Utah\nVisit: Utah\nVisit: Moab\nVisit: Arches National Park, Hwy 191, five miles north of Moab (tel: 435.719.2299)\nColorado\nVisit: Colorado\nVisit: the Cumbres & Toltec Scenic Railroad\nCalifornia\nVisit: California\nItaly\nVisit: Italy\nVisit: Venice\nFlights: Venice Marco Polo Airport, Via Galileo Galilei, 30/1, 30173 Venezia (tel: +39.041.260.6111)\nJordan\nVisit: Jordan\nFlights: Queen Alia International Airport, 30 km south of Amman\nVisit: Petra, Wadi Musa\nBus: JETT (Jordan Express Tourist Transportation) buses connect to Amman (about 3 hours) and Aqaba via the Desert Highway\nSpain\nVisit: Spain\nVisit: Almería\nFlights: Almería Airport, Carretera Níjar, Km 9, 04130 Almería (tel: +34.902.40.47.04)\nVisit: the Cabo de Gata-Níjar Natural Park\nUK | Buckinghamshire\nVisit: Buckinghamshire\nVisit: Stowe School, Buckingham MK18 5EH\nUK | Hertfordshire\nVisit: Hertfordshire\nUK | Essex\nVisit: Essex\nUK | London\nFlights: Heathrow Airport; Gatwick Airport\nVisit: London\nTravelling: Transport For London",
+  "visit_sections": [
+    {
+      "title": "Utah",
+      "items": [
+        "Visit: Utah",
+        "Visit: Moab",
+        "Visit: Arches National Park, Hwy 191, five miles north of Moab (tel: 435.719.2299)"
+      ]
+    },
+    {
+      "title": "Colorado",
+      "items": [
+        "Visit: Colorado",
+        "Visit: the Cumbres & Toltec Scenic Railroad"
+      ]
+    },
+    {
+      "title": "California",
+      "items": [
+        "Visit: California"
+      ]
+    },
+    {
+      "title": "Italy",
+      "items": [
+        "Visit: Italy",
+        "Visit: Venice",
+        "Flights: Venice Marco Polo Airport, Via Galileo Galilei, 30/1, 30173 Venezia (tel: +39.041.260.6111)"
+      ]
+    },
+    {
+      "title": "Jordan",
+      "items": [
+        "Visit: Jordan",
+        "Flights: Queen Alia International Airport, 30 km south of Amman",
+        "Visit: Petra, Wadi Musa",
+        "Bus: JETT (Jordan Express Tourist Transportation) buses connect to Amman (about 3 hours) and Aqaba via the Desert Highway"
+      ]
+    },
+    {
+      "title": "Spain",
+      "items": [
+        "Visit: Spain",
+        "Visit: Almería",
+        "Flights: Almería Airport, Carretera Níjar, Km 9, 04130 Almería (tel: +34.902.40.47.04)",
+        "Visit: the Cabo de Gata-Níjar Natural Park"
+      ]
+    },
+    {
+      "title": "UK | Buckinghamshire",
+      "items": [
+        "Visit: Buckinghamshire",
+        "Visit: Stowe School, Buckingham MK18 5EH"
+      ]
+    },
+    {
+      "title": "UK | Hertfordshire",
+      "items": [
+        "Visit: Hertfordshire"
+      ]
+    },
+    {
+      "title": "UK | Essex",
+      "items": [
+        "Visit: Essex"
+      ]
+    },
+    {
+      "title": "UK | London",
+      "items": [
+        "Flights: Heathrow Airport; Gatwick Airport",
+        "Visit: London",
+        "Travelling: Transport For London"
+      ]
+    }
+  ]
+}

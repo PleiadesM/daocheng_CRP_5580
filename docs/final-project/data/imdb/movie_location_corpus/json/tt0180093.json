@@ -1,0 +1,210 @@
+{
+  "imdb_id": "tt0180093",
+  "shorthand": "Requiem-For-A-Dream",
+  "title": "Requiem For A Dream",
+  "year": 2000,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0180093 - Requiem-For-A-Dream.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0180093 - Requiem-For-A-Dream.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0180093.json",
+  "source_url": "http://www.movie-locations.com/movies/r/Requiem-For-A-Dream.php",
+  "page_title": "Requiem For A Dream | Film Locations",
+  "meta_description": "Discover the New York film locations for Darren Aronofsky's intense drama Requiem For A Dream (2000), around Brighton Beach and Coney Island in Brooklyn.",
+  "meta_keywords": "Requiem For A Dream (2000), film locations, filming locations, tourism, travel, set-jetting, brighton beach, coney island, brooklyn, new york, darren aronofsky",
+  "og_title": "Filming Locations for Requiem For A Dream (2000), in New York.",
+  "og_description": "Discover the New York film locations for Darren Aronofsky's intense drama Requiem For A Dream (2000), around Brighton Beach and Coney Island in Brooklyn.",
+  "og_image": "http://www.movie-locations.com/movies/r/Requiem-For-A-Dream-Brighton-6th-Street.jpg",
+  "top250_rank": "127",
+  "movie_locations_title": "REQUIEM FOR A DREAM",
+  "movie_locations_regions": "New York",
+  "director": "Darren Aronofsky",
+  "cast": [
+    "Ellen Burstyn",
+    "Jared Leto",
+    "Jennifer Connelly",
+    "Marlon Wayans",
+    "Keith David",
+    "Dylan Baker",
+    "Mark Margolis",
+    "Peter Maloney"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0180093 - Requiem-For-A-Dream/002.jpg",
+    "exists": true,
+    "alt": "Requiem For A Dream poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0180093/poster.jpg",
+    "corpus_asset_src": "../assets/tt0180093/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0180093 - Requiem-For-A-Dream/001.jpg",
+    "exists": true,
+    "alt": "Requiem For A Dream location: Brighton Sixth Street, Brighton Beach, Brooklyn",
+    "caption": "Requiem For A Dream location: Sara Goldfarb’s apartment: Brighton Sixth Street, Brighton Beach, Brooklyn",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0180093/001.jpg",
+    "corpus_asset_src": "../assets/tt0180093/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0180093 - Requiem-For-A-Dream/001.jpg",
+      "exists": true,
+      "alt": "Requiem For A Dream location: Brighton Sixth Street, Brighton Beach, Brooklyn",
+      "caption": "Requiem For A Dream location: Sara Goldfarb’s apartment: Brighton Sixth Street, Brighton Beach, Brooklyn",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0180093/001.jpg",
+      "corpus_asset_src": "../assets/tt0180093/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0180093 - Requiem-For-A-Dream/002.jpg",
+      "exists": true,
+      "alt": "Requiem For A Dream poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0180093/002.jpg",
+      "corpus_asset_src": "../assets/tt0180093/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0180093 - Requiem-For-A-Dream/003.jpg",
+      "exists": true,
+      "alt": "Requiem For A Dream location: Brighton Sixth Street, Brighton Beach, Brooklyn",
+      "caption": "Requiem For A Dream location: Sara Goldfarb’s apartment: Brighton Sixth Street, Brighton Beach, Brooklyn",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0180093/003.jpg",
+      "corpus_asset_src": "../assets/tt0180093/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0180093 - Requiem-For-A-Dream/004.jpg",
+      "exists": true,
+      "alt": "Requiem For A Dream location: Coney Island Boardwalk, Coney Island, Brooklyn",
+      "caption": "Requiem For A Dream location: wheeling the TV set: Coney Island Boardwalk, Coney Island, Brooklyn",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0180093/004.jpg",
+      "corpus_asset_src": "../assets/tt0180093/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0180093 - Requiem-For-A-Dream/005.jpg",
+      "exists": true,
+      "alt": "Requiem For A Dream location: Steeplechase Pier, Coney Island, Brooklyn",
+      "caption": "Requiem For A Dream location: Harry's dream: Steeplechase Pier, Coney Island, Brooklyn",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0180093/005.jpg",
+      "corpus_asset_src": "../assets/tt0180093/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0180093 - Requiem-For-A-Dream/006.jpg",
+      "exists": true,
+      "alt": "Requiem For A Dream location: the Parachute Jump, Coney Island, Brooklyn",
+      "caption": "Requiem For A Dream location: Coney Island landmark: the Parachute Jump, Coney Island, Brooklyn",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0180093/006.jpg",
+      "corpus_asset_src": "../assets/tt0180093/006.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0180093/001.jpg\" alt=\"Requiem For A Dream location: Brighton Sixth Street, Brighton Beach, Brooklyn\"><figcaption>Requiem For A Dream location: Sara Goldfarb’s apartment: Brighton Sixth Street, Brighton Beach, Brooklyn</figcaption></figure>\n<p>Discover the <span class=\"name\">Brighton Beach</span> and <span class=\"name\">Coney Island</span> locations in <span class=\"name\">Brooklyn</span> for <span class=\"name\">Darren Aronofsky</span>'s intense <span class=\"name\">Requiem For A Dream</span>.</p>\n<p><span class=\"name\">Hubert Selby Jr</span>’s (<span class=\"ital\">Last Exit to Brooklyn</span>) novel about four people and their addictions is turned into a intense, expressionist experience, shot in director <a href=\"https://www.movie-locations.com/people/a/aronofskyd.php\">Darren Aronofsky</a>’s neighbourhood of <span class=\"name\">Coney Island</span> and <span class=\"name\">Brighton Beach</span>, <span class=\"name\">Brooklyn</span>.</p>\n<p>The apartment of TV obsessed Sara Goldfarb (Oscar-nominated <a href=\"https://www.movie-locations.com/people/b/burstyne.php\">Ellen Burstyn</a>) is <span class=\"name\">3152 Brighton Sixth Street</span> at Ocean View, <span class=\"name\">Brighton Beach</span>, <span class=\"name\">Brooklyn</span>’s old seaside Russian community (next door to the apartment is the Winter Garden Russian restaurant, which you can glimpse in the movie).</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0180093/003.jpg\" alt=\"Requiem For A Dream location: Brighton Sixth Street, Brighton Beach, Brooklyn\"><figcaption>Requiem For A Dream location: Sara Goldfarb’s apartment: Brighton Sixth Street, Brighton Beach, Brooklyn</figcaption></figure>\n<p><span class=\"name\">Brighton Sixth Street</span> leads to the <span class=\"name\">Boardwalk</span>, which stretches west to famed resort <a href=\"http://www.coneyisland.com/tourist-information\" target=\"_blank\">Coney Island</a>. Sara’s son, Harry Goldfarb (<a href=\"https://www.movie-locations.com/people/l/letoj.php\">Jared Leto</a>), with his buddy Tyrone (<a href=\"https://www.movie-locations.com/people/w/wayansd.php\">Marlon Wayans</a>), drags his mum’s TV set along the <span class=\"name\">Coney Island Boardwalk</span>, past the vast hulk of the old Thunderbolt rollercoaster, which was   demolished shortly after filming (not the famous Cyclone, which is still going strong). It was beneath the Thunderbolt that the <a href=\"https://www.movie-locations.com/people/a/allenw.php\">Woody Allen</a> character lived in <a href=\"https://www.movie-locations.com/movies/a/Annie-Hall.php\">Annie Hall</a>. <a href=\"http://www.coneyisland.com/tourist-information\" target=\"_blank\">Coney Island</a> was also the gang's home turf in <a href=\"https://www.movie-locations.com/people/h/hillw.php\">Walter Hill</a>'s 1979 <a href=\"https://www.movie-locations.com/movies/w/Warriors-1979.php\">The Warriors</a>.</p>\n<p>The D, Q, N or F trains will take you to Stillwell Avenue Station, but be aware the journey from midtown Manhattan can take up to an hour.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0180093/004.jpg\" alt=\"Requiem For A Dream location: Coney Island Boardwalk, Coney Island, Brooklyn\"><figcaption>Requiem For A Dream location: wheeling the TV set: Coney Island Boardwalk, Coney Island, Brooklyn</figcaption></figure>\n<p>Harry has a romantic dream of seeing Marion (<a href=\"https://www.movie-locations.com/people/c/connellyj.php\">Jennifer Connelly</a>) at the end of <span class=\"name\">Steeplechase Pier</span> on the <span class=\"name\">Boardwalk</span> between West 16th and West 19th Streets.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0180093/005.jpg\" alt=\"Requiem For A Dream location: Steeplechase Pier, Coney Island, Brooklyn\"><figcaption>Requiem For A Dream location: Harry's dream: Steeplechase Pier, Coney Island, Brooklyn</figcaption></figure>\n<p>The odd red tower seen in the background of many of the scenes is the 262-foot <span class=\"name\">Parachute Jump</span>, built as a military training aid, and later converted to an amusement park ride in the old Steeplechase Park, <span class=\"name\">Coney Island</span>, opposite the <span class=\"name\">Steeplechase Pier</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0180093/006.jpg\" alt=\"Requiem For A Dream location: the Parachute Jump, Coney Island, Brooklyn\"><figcaption>Requiem For A Dream location: Coney Island landmark: the Parachute Jump, Coney Island, Brooklyn</figcaption></figure>\n<p>Although closed in 1968, it’s recently been restored as part of a massive regeneration of the area, and is now a protected landmark.</p>",
+  "main_content_text": "Discover the Brighton Beach and Coney Island locations in Brooklyn for Darren Aronofsky's intense Requiem For A Dream.\n\nHubert Selby Jr’s (Last Exit to Brooklyn) novel about four people and their addictions is turned into a intense, expressionist experience, shot in director Darren Aronofsky’s neighbourhood of Coney Island and Brighton Beach, Brooklyn.\n\nThe apartment of TV obsessed Sara Goldfarb (Oscar-nominated Ellen Burstyn) is 3152 Brighton Sixth Street at Ocean View, Brighton Beach, Brooklyn’s old seaside Russian community (next door to the apartment is the Winter Garden Russian restaurant, which you can glimpse in the movie).\n\nBrighton Sixth Street leads to the Boardwalk, which stretches west to famed resort Coney Island. Sara’s son, Harry Goldfarb (Jared Leto), with his buddy Tyrone (Marlon Wayans), drags his mum’s TV set along the Coney Island Boardwalk, past the vast hulk of the old Thunderbolt rollercoaster, which was demolished shortly after filming (not the famous Cyclone, which is still going strong). It was beneath the Thunderbolt that the Woody Allen character lived in Annie Hall. Coney Island was also the gang's home turf in Walter Hill's 1979 The Warriors.\n\nThe D, Q, N or F trains will take you to Stillwell Avenue Station, but be aware the journey from midtown Manhattan can take up to an hour.\n\nHarry has a romantic dream of seeing Marion (Jennifer Connelly) at the end of Steeplechase Pier on the Boardwalk between West 16th and West 19th Streets.\n\nThe odd red tower seen in the background of many of the scenes is the 262-foot Parachute Jump, built as a military training aid, and later converted to an amusement park ride in the old Steeplechase Park, Coney Island, opposite the Steeplechase Pier.\n\nAlthough closed in 1968, it’s recently been restored as part of a massive regeneration of the area, and is now a protected landmark.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Requiem For A Dream location: Sara Goldfarb’s apartment: Brighton Sixth Street, Brighton Beach, Brooklyn",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/001.jpg",
+      "alt": "Requiem For A Dream location: Brighton Sixth Street, Brighton Beach, Brooklyn"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover the Brighton Beach and Coney Island locations in Brooklyn for Darren Aronofsky's intense Requiem For A Dream."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hubert Selby Jr’s (Last Exit to Brooklyn) novel about four people and their addictions is turned into a intense, expressionist experience, shot in director Darren Aronofsky’s neighbourhood of Coney Island and Brighton Beach, Brooklyn."
+    },
+    {
+      "type": "paragraph",
+      "text": "The apartment of TV obsessed Sara Goldfarb (Oscar-nominated Ellen Burstyn) is 3152 Brighton Sixth Street at Ocean View, Brighton Beach, Brooklyn’s old seaside Russian community (next door to the apartment is the Winter Garden Russian restaurant, which you can glimpse in the movie)."
+    },
+    {
+      "type": "image",
+      "caption": "Requiem For A Dream location: Sara Goldfarb’s apartment: Brighton Sixth Street, Brighton Beach, Brooklyn",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/003.jpg",
+      "alt": "Requiem For A Dream location: Brighton Sixth Street, Brighton Beach, Brooklyn"
+    },
+    {
+      "type": "paragraph",
+      "text": "Brighton Sixth Street leads to the Boardwalk, which stretches west to famed resort Coney Island. Sara’s son, Harry Goldfarb (Jared Leto), with his buddy Tyrone (Marlon Wayans), drags his mum’s TV set along the Coney Island Boardwalk, past the vast hulk of the old Thunderbolt rollercoaster, which was demolished shortly after filming (not the famous Cyclone, which is still going strong). It was beneath the Thunderbolt that the Woody Allen character lived in Annie Hall. Coney Island was also the gang's home turf in Walter Hill's 1979 The Warriors."
+    },
+    {
+      "type": "paragraph",
+      "text": "The D, Q, N or F trains will take you to Stillwell Avenue Station, but be aware the journey from midtown Manhattan can take up to an hour."
+    },
+    {
+      "type": "image",
+      "caption": "Requiem For A Dream location: wheeling the TV set: Coney Island Boardwalk, Coney Island, Brooklyn",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/004.jpg",
+      "alt": "Requiem For A Dream location: Coney Island Boardwalk, Coney Island, Brooklyn"
+    },
+    {
+      "type": "paragraph",
+      "text": "Harry has a romantic dream of seeing Marion (Jennifer Connelly) at the end of Steeplechase Pier on the Boardwalk between West 16th and West 19th Streets."
+    },
+    {
+      "type": "image",
+      "caption": "Requiem For A Dream location: Harry's dream: Steeplechase Pier, Coney Island, Brooklyn",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/005.jpg",
+      "alt": "Requiem For A Dream location: Steeplechase Pier, Coney Island, Brooklyn"
+    },
+    {
+      "type": "paragraph",
+      "text": "The odd red tower seen in the background of many of the scenes is the 262-foot Parachute Jump, built as a military training aid, and later converted to an amusement park ride in the old Steeplechase Park, Coney Island, opposite the Steeplechase Pier."
+    },
+    {
+      "type": "image",
+      "caption": "Requiem For A Dream location: Coney Island landmark: the Parachute Jump, Coney Island, Brooklyn",
+      "src": "_assets/tt0180093%20-%20Requiem-For-A-Dream/006.jpg",
+      "alt": "Requiem For A Dream location: the Parachute Jump, Coney Island, Brooklyn"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although closed in 1968, it’s recently been restored as part of a massive regeneration of the area, and is now a protected landmark."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n<p>Visit: Coney Island (D, Q, N or F train to Stillwell Avenue)</p>\n</section>",
+  "visit_info_text": "New York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nVisit: Coney Island (D, Q, N or F train to Stillwell Avenue)",
+  "visit_sections": [
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA",
+        "Visit: Coney Island (D, Q, N or F train to Stillwell Avenue)"
+      ]
+    }
+  ]
+}

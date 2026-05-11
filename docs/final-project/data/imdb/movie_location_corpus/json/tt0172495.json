@@ -1,0 +1,169 @@
+{
+  "imdb_id": "tt0172495",
+  "shorthand": "Gladiator",
+  "title": "Gladiator",
+  "year": 2000,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0172495 - Gladiator.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0172495 - Gladiator.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0172495.json",
+  "source_url": "http://www.movie-locations.com/movies/g/Gladiator.php",
+  "page_title": "Gladiator | Film Locations",
+  "meta_description": "Filming locations for Ridley Scott's Oscar-winning film Gladiator, with Russell Crowe, in Surrey (Bourne Woods near Farnham), Morocco (Ait Benhaddou) and Malta (Fort Ricasoli)",
+  "meta_keywords": "Gladiator, film locations, filming locations, tourism, travel, set-jetting, morocco, ait benhaddou, fort ricasoli, malta, bourne wood, farnham, surrey, ridley scott, russell crowe",
+  "og_title": "Filming Locations for Gladiator (2000)",
+  "og_description": "Guide to the film locations for Ridley Scott's Gladiator (2000), in Morocco, Malta and Surrey.",
+  "og_image": "http://www.movie-locations.com/movies/g/Gladiator-2000-Bourne-Wood.jpg",
+  "top250_rank": "47",
+  "movie_locations_title": "GLADIATOR",
+  "movie_locations_regions": "Morocco | Malta | Surrey",
+  "director": "Ridley Scott",
+  "cast": [
+    "Russell Crowe",
+    "Joaquin Phoenix",
+    "Oliver Reed",
+    "Connie Nielsen",
+    "Richard Harris",
+    "Derek Jacobi",
+    "Djimon Hounsou",
+    "David Schofield",
+    "David Hemmings",
+    "John Shrapnel",
+    "Tommy Flanagan",
+    "Tony Curran",
+    "Tomas Arana"
+  ],
+  "locations": [
+    "Morocco;",
+    "Malta;",
+    "Surrey"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0172495%20-%20Gladiator/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0172495 - Gladiator/002.jpg",
+    "exists": true,
+    "alt": "Gladiator poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0172495/poster.jpg",
+    "corpus_asset_src": "../assets/tt0172495/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0172495%20-%20Gladiator/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0172495 - Gladiator/001.jpg",
+    "exists": true,
+    "alt": "Gladiator film location: Bourne Wood, Farnham, Surrey",
+    "caption": "Gladiator film location: the bloody battle in ‘Germania’: Bourne Wood, Farnham, Surrey",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0172495/001.jpg",
+    "corpus_asset_src": "../assets/tt0172495/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0172495%20-%20Gladiator/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0172495 - Gladiator/001.jpg",
+      "exists": true,
+      "alt": "Gladiator film location: Bourne Wood, Farnham, Surrey",
+      "caption": "Gladiator film location: the bloody battle in ‘Germania’: Bourne Wood, Farnham, Surrey",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0172495/001.jpg",
+      "corpus_asset_src": "../assets/tt0172495/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0172495%20-%20Gladiator/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0172495 - Gladiator/002.jpg",
+      "exists": true,
+      "alt": "Gladiator poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0172495/002.jpg",
+      "corpus_asset_src": "../assets/tt0172495/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0172495%20-%20Gladiator/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0172495 - Gladiator/003.jpg",
+      "exists": true,
+      "alt": "Gladiator filming location: Ait Benhaddou, Morocco",
+      "caption": "Gladiator filming location: Maximus fights in the ‘African’ arena, Aït Ben Haddou, Morocco",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0172495/003.jpg",
+      "corpus_asset_src": "../assets/tt0172495/003.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0172495/001.jpg\" alt=\"Gladiator film location: Bourne Wood, Farnham, Surrey\"><figcaption>Gladiator film location: the bloody battle in ‘Germania’: Bourne Wood, Farnham, Surrey</figcaption></figure>\n<p>Discover where <a href=\"https://www.movie-locations.com/people/s/scottr.php\">Ridley Scott</a>’s Oscar-winning blockbuster <span class=\"name\">Gladiator</span> was filmed in <span class=\"name\">Morocco</span>, <span class=\"name\">North Africa</span>, on the island of <span class=\"name\">Malta</span> in the Mediterranean, and even in the woodland of <span class=\"name\">Surrey</span>.</p>\n<p><a href=\"https://www.movie-locations.com/people/s/scottr.php\">Ridley Scott</a>’s Oscar-winning epic film borrows heavily from <a href=\"https://www.movie-locations.com/people/m/manna.php\">Anthony Mann</a>’s 1964 <span class=\"name\">Fall of the Roman Empire</span> (made on vast sets in <a href=\"https://www.movie-locations.com/places/europe/spain.php\">Spain</a>, and which had <a href=\"https://www.movie-locations.com/people/g/guinnessa.php\">Alec Guinness</a> in the <a href=\"https://www.movie-locations.com/people/h/harrisr.php\">Richard Harris</a> role of Marcus Aurelius, and <a href=\"https://www.movie-locations.com/people/p/plummerc.php\">Christopher Plummer</a> as the barking mad emperor Commodus) and <a href=\"https://www.movie-locations.com/people/k/kubricks.php\">Stanley Kubrick</a>‘s <a href=\"https://www.movie-locations.com/movies/s/Spartacus-1960.php\">Spartacus</a> (which was, itself, begun by <a href=\"https://www.movie-locations.com/people/m/manna.php\">Anthony Mann</a>).</p>\n<p>The savage opening battle, set in ‘Germania’, was staged at <a href=\"https://www.forestryengland.uk/bourne-wood-bourne\" target=\"_blank\">Bourne Wood</a> near <span class=\"name\">Farnham</span>, <a href=\"https://www.movie-locations.com/places/uk/surrey.php\">Surrey</a>. The story that filming caused ructions among environmentalists after swathes of forest were cleared seems to be a media concoction – this was an area  scheduled for clearing by the Forestry Commission. The clearing, south of <span class=\"name\">Dene Lane</span>, off <span class=\"name\">Tilford Road</span>, southeast of <span class=\"name\">Farnham</span>, was revisited in 2009 by <a href=\"https://www.movie-locations.com/people/s/scottr.php\">Ridley Scott</a> and <a href=\"https://www.movie-locations.com/people/c/crower.php\">Russell Crowe</a> for the castle and village sets in <span class=\"name\">Robin Hood</span>. More recently, the forest became the muddy battlefield of WWI for <a href=\"https://www.movie-locations.com/people/s/spielbergs.php\">Steven Spielberg</a>’s <a href=\"https://www.movie-locations.com/movies/w/War-Horse.php\">War Horse</a> and saw Marvel’s hammer-wielding superhero battling inhuman hordes in <a href=\"https://www.movie-locations.com/movies/t/Thor-The-Dark-World.php\">Thor: The Dark World</a>, Diana Prince and her team riding through the forest to find the 'German High Command' in <a href=\"https://www.movie-locations.com/people/j/jenkinsp.php\">Patty Jenkins</a>'s <a href=\"https://www.movie-locations.com/movies/w/Wonder-Woman.php\">Wonder Woman</a> and King Magnus facing a phantom army in <a href=\"https://www.movie-locations.com/movies/s/Snow-White-And-The-Huntsman.php\">Snow White and the Huntsman</a>.</p>\n<p>The African town, where Maximus (<a href=\"https://www.movie-locations.com/people/c/crower.php\">Crowe</a>) is sold into slavery, is <span class=\"name\">Aït Ben Haddou</span>, near <a href=\"https://ouarzazate.city/\" target=\"_blank\">Ouarzazate</a> in <a href=\"https://www.movie-locations.com/places/africa/morocco.php\">Morocco</a>. Director <a href=\"https://www.movie-locations.com/people/s/scottr.php\">Ridley Scott</a> returned to the same locale to film 'Jerusalem' scenes for <span class=\"name\">Kingdom of Heaven</span> and again for <a href=\"https://www.movie-locations.com/movies/g/Gladiator-2.php\">Gladiator II</a>.</p>\n<p><a href=\"http://whc.unesco.org/en/list/444\" target=\"_blank\">Aït Ben Haddou</a> is a ksar (fortified village) on the former caravan route between the Sahara and Marrakech in the foothills of the High Atlas Mountains. It's a great example of southern Moroccan earthen clay architecture and in 1987 was designated a UNESCO World Heritage Site.      </p>\n<p>\n        \n        The provincial arena was added to the existing village, which had already hosted films such as <a href=\"https://www.movie-locations.com/people/l/leand.php\">David Lean</a>’s <a href=\"https://www.movie-locations.com/movies/l/Lawrence-Of-Arabia.php\">Lawrence of Arabia</a>, <a href=\"https://www.movie-locations.com/movies/l/Last-Days-Of-Sodom-And-Gomorrah.php\">The Last Days of Sodom and Gomorrah</a> (co-directed by <a href=\"https://www.movie-locations.com/people/l/leones.php\">Sergio Leone</a> and <a href=\"https://www.movie-locations.com/people/a/aldrichr.php\">Robert Aldrich</a>) and <span class=\"name\">Jewel of the Nile</span>.</p>\n<p>\n\nThe vast ‘Roman’ sets (with extensive CGI additions) were constructed on the massive remains of <a onclick=\"window.open('http://www.locationmalta.com/attractions/ricasoli1.php', 'visit')\" href=\"#ricasoli2\">Fort Ricasoli</a> on <a href=\"https://www.movie-locations.com/places/europe/malta.php\">Malta</a>, later used for the filming of <a href=\"https://www.movie-locations.com/people/p/petersenw.php\">Wolfgang Petersen</a>’s 2004 epic <a href=\"https://www.movie-locations.com/movies/t/Troy-2004.php\">Troy</a> as well as <a href=\"https://www.movie-locations.com/people/s/scottr.php\">Scott</a>'s own <span class=\"name\">Napoleon</span> and <a href=\"https://www.movie-locations.com/movies/g/Gladiator-2.php\">Gladiator II</a>.</p>",
+  "main_content_text": "Discover where Ridley Scott’s Oscar-winning blockbuster Gladiator was filmed in Morocco, North Africa, on the island of Malta in the Mediterranean, and even in the woodland of Surrey.\n\nRidley Scott’s Oscar-winning epic film borrows heavily from Anthony Mann’s 1964 Fall of the Roman Empire (made on vast sets in Spain, and which had Alec Guinness in the Richard Harris role of Marcus Aurelius, and Christopher Plummer as the barking mad emperor Commodus) and Stanley Kubrick‘s Spartacus (which was, itself, begun by Anthony Mann).\n\nThe savage opening battle, set in ‘Germania’, was staged at Bourne Wood near Farnham, Surrey. The story that filming caused ructions among environmentalists after swathes of forest were cleared seems to be a media concoction – this was an area scheduled for clearing by the Forestry Commission. The clearing, south of Dene Lane, off Tilford Road, southeast of Farnham, was revisited in 2009 by Ridley Scott and Russell Crowe for the castle and village sets in Robin Hood. More recently, the forest became the muddy battlefield of WWI for Steven Spielberg’s War Horse and saw Marvel’s hammer-wielding superhero battling inhuman hordes in Thor: The Dark World, Diana Prince and her team riding through the forest to find the 'German High Command' in Patty Jenkins's Wonder Woman and King Magnus facing a phantom army in Snow White and the Huntsman.\n\nThe African town, where Maximus (Crowe) is sold into slavery, is Aït Ben Haddou, near Ouarzazate in Morocco. Director Ridley Scott returned to the same locale to film 'Jerusalem' scenes for Kingdom of Heaven and again for Gladiator II.\n\nAït Ben Haddou is a ksar (fortified village) on the former caravan route between the Sahara and Marrakech in the foothills of the High Atlas Mountains. It's a great example of southern Moroccan earthen clay architecture and in 1987 was designated a UNESCO World Heritage Site.\n\nThe provincial arena was added to the existing village, which had already hosted films such as David Lean’s Lawrence of Arabia, The Last Days of Sodom and Gomorrah (co-directed by Sergio Leone and Robert Aldrich) and Jewel of the Nile.\n\nThe vast ‘Roman’ sets (with extensive CGI additions) were constructed on the massive remains of Fort Ricasoli on Malta, later used for the filming of Wolfgang Petersen’s 2004 epic Troy as well as Scott's own Napoleon and Gladiator II.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Gladiator film location: the bloody battle in ‘Germania’: Bourne Wood, Farnham, Surrey",
+      "src": "_assets/tt0172495%20-%20Gladiator/001.jpg",
+      "alt": "Gladiator film location: Bourne Wood, Farnham, Surrey"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover where Ridley Scott’s Oscar-winning blockbuster Gladiator was filmed in Morocco, North Africa, on the island of Malta in the Mediterranean, and even in the woodland of Surrey."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ridley Scott’s Oscar-winning epic film borrows heavily from Anthony Mann’s 1964 Fall of the Roman Empire (made on vast sets in Spain, and which had Alec Guinness in the Richard Harris role of Marcus Aurelius, and Christopher Plummer as the barking mad emperor Commodus) and Stanley Kubrick‘s Spartacus (which was, itself, begun by Anthony Mann)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The savage opening battle, set in ‘Germania’, was staged at Bourne Wood near Farnham, Surrey. The story that filming caused ructions among environmentalists after swathes of forest were cleared seems to be a media concoction – this was an area scheduled for clearing by the Forestry Commission. The clearing, south of Dene Lane, off Tilford Road, southeast of Farnham, was revisited in 2009 by Ridley Scott and Russell Crowe for the castle and village sets in Robin Hood. More recently, the forest became the muddy battlefield of WWI for Steven Spielberg’s War Horse and saw Marvel’s hammer-wielding superhero battling inhuman hordes in Thor: The Dark World, Diana Prince and her team riding through the forest to find the 'German High Command' in Patty Jenkins's Wonder Woman and King Magnus facing a phantom army in Snow White and the Huntsman."
+    },
+    {
+      "type": "paragraph",
+      "text": "The African town, where Maximus (Crowe) is sold into slavery, is Aït Ben Haddou, near Ouarzazate in Morocco. Director Ridley Scott returned to the same locale to film 'Jerusalem' scenes for Kingdom of Heaven and again for Gladiator II."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aït Ben Haddou is a ksar (fortified village) on the former caravan route between the Sahara and Marrakech in the foothills of the High Atlas Mountains. It's a great example of southern Moroccan earthen clay architecture and in 1987 was designated a UNESCO World Heritage Site."
+    },
+    {
+      "type": "paragraph",
+      "text": "The provincial arena was added to the existing village, which had already hosted films such as David Lean’s Lawrence of Arabia, The Last Days of Sodom and Gomorrah (co-directed by Sergio Leone and Robert Aldrich) and Jewel of the Nile."
+    },
+    {
+      "type": "paragraph",
+      "text": "The vast ‘Roman’ sets (with extensive CGI additions) were constructed on the massive remains of Fort Ricasoli on Malta, later used for the filming of Wolfgang Petersen’s 2004 epic Troy as well as Scott's own Napoleon and Gladiator II."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Morocco</h3>\n<p>Visit: Morocco</p>\n<p>Visit: Marrakech</p>\n<p>Flights: Marrakech Menara Airport, Ménara, Marrakech 40000 (tel: +212.5244.47910)</p>\n<p>Visit: Ouarzazate</p>\n<p>Visit: Atlas Studios, Km 5, BP 28 Route de Marrakech, BP 28 Route de Marrakech, Ouarzazate 45000 (tel: 212.5248.82212)</p>\n<p>Visit: the Ksar of Ait-Ben-Haddou</p>\n</section>\n<section><h3>Malta</h3>\n<p>Visit: Malta</p>\n<p>Flights: Malta International Airport, Luqa LQA 4000, Malta (tel: 356.2124.9600)</p>\n</section>\n<section><h3>Surrey</h3>\n<p>Visit: Surrey</p>\n<p>Visit: Bourne Wood (rail: Farnham, from London Waterloo)</p>\n</section>",
+  "visit_info_text": "Morocco\nVisit: Morocco\nVisit: Marrakech\nFlights: Marrakech Menara Airport, Ménara, Marrakech 40000 (tel: +212.5244.47910)\nVisit: Ouarzazate\nVisit: Atlas Studios, Km 5, BP 28 Route de Marrakech, BP 28 Route de Marrakech, Ouarzazate 45000 (tel: 212.5248.82212)\nVisit: the Ksar of Ait-Ben-Haddou\nMalta\nVisit: Malta\nFlights: Malta International Airport, Luqa LQA 4000, Malta (tel: 356.2124.9600)\nSurrey\nVisit: Surrey\nVisit: Bourne Wood (rail: Farnham, from London Waterloo)",
+  "visit_sections": [
+    {
+      "title": "Morocco",
+      "items": [
+        "Visit: Morocco",
+        "Visit: Marrakech",
+        "Flights: Marrakech Menara Airport, Ménara, Marrakech 40000 (tel: +212.5244.47910)",
+        "Visit: Ouarzazate",
+        "Visit: Atlas Studios, Km 5, BP 28 Route de Marrakech, BP 28 Route de Marrakech, Ouarzazate 45000 (tel: 212.5248.82212)",
+        "Visit: the Ksar of Ait-Ben-Haddou"
+      ]
+    },
+    {
+      "title": "Malta",
+      "items": [
+        "Visit: Malta",
+        "Flights: Malta International Airport, Luqa LQA 4000, Malta (tel: 356.2124.9600)"
+      ]
+    },
+    {
+      "title": "Surrey",
+      "items": [
+        "Visit: Surrey",
+        "Visit: Bourne Wood (rail: Farnham, from London Waterloo)"
+      ]
+    }
+  ]
+}

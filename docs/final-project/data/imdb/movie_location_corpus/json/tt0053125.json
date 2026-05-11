@@ -1,0 +1,229 @@
+{
+  "imdb_id": "tt0053125",
+  "shorthand": "North-By-Northwest",
+  "title": "North By Northwest",
+  "year": 1959,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0053125 - North-By-Northwest.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0053125 - North-By-Northwest.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0053125.json",
+  "source_url": "http://www.movie-locations.com/movies/n/North-By-Northwest.php",
+  "page_title": "North By Northwest | Film Locations",
+  "meta_description": "Film locations for Alfred Hitchcock's North By Northwest (1959), in New York, Chicago, and Mount Rushmore in South Dakota.",
+  "meta_keywords": "North By Northwest (1959), film locations, filming locations, tourism, travel, set-jetting, new york, united nations building, old westbury gardens, long island, chicago, mount rushmore, south dakota, alfred hitchcock, cary grant",
+  "og_title": "Filming Locations for Alfred Hitchcock's North By Northwest (1959), in New York, Chicago, and Mount Rushmore in South Dakota.",
+  "og_description": "Travel guide to film locations for Alfred Hitchcock's North By Northwest (1959), in New York, Chicago, and Mount Rushmore in South Dakota.",
+  "og_image": "http://www.movie-locations.com/movies/n/North-By-Northwest-Mount-Rushmore.jpg",
+  "top250_rank": "137",
+  "movie_locations_title": "NORTH BY NORTHWEST",
+  "movie_locations_regions": "New York City | New York State | Chicago | South Dakota | California",
+  "director": "Alfred Hitchcock",
+  "cast": [
+    "Cary Grant",
+    "Eva Marie Saint",
+    "James Mason",
+    "Martin Landau",
+    "Leo G Carroll"
+  ],
+  "locations": [
+    "New York City;",
+    "New York State;",
+    "Chicago;",
+    "South Dakota;",
+    "California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0053125%20-%20North-By-Northwest/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0053125 - North-By-Northwest/002.jpg",
+    "exists": true,
+    "alt": "North By Northwest poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0053125/poster.jpg",
+    "corpus_asset_src": "../assets/tt0053125/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0053125%20-%20North-By-Northwest/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0053125 - North-By-Northwest/001.jpg",
+    "exists": true,
+    "alt": "North By Northwest location: Mount Rushmore, South Dakota",
+    "caption": "North By Northwest location: Mount Rushmore, South Dakota | Photograph: iStockphoto © William Blacke",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0053125/001.jpg",
+    "corpus_asset_src": "../assets/tt0053125/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0053125%20-%20North-By-Northwest/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0053125 - North-By-Northwest/001.jpg",
+      "exists": true,
+      "alt": "North By Northwest location: Mount Rushmore, South Dakota",
+      "caption": "North By Northwest location: Mount Rushmore, South Dakota | Photograph: iStockphoto © William Blacke",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0053125/001.jpg",
+      "corpus_asset_src": "../assets/tt0053125/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0053125%20-%20North-By-Northwest/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0053125 - North-By-Northwest/002.jpg",
+      "exists": true,
+      "alt": "North By Northwest poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0053125/002.jpg",
+      "corpus_asset_src": "../assets/tt0053125/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0053125%20-%20North-By-Northwest/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0053125 - North-By-Northwest/003.jpg",
+      "exists": true,
+      "alt": "North By Northwest location: Plaza Hotel, New York",
+      "caption": "North By Northwest location: Roger O Thornhill gets abducted: Plaza Hotel, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0053125/003.jpg",
+      "corpus_asset_src": "../assets/tt0053125/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0053125%20-%20North-By-Northwest/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0053125 - North-By-Northwest/004.jpg",
+      "exists": true,
+      "alt": "North By Northwest location: Old Westbury Gardens, Long Island",
+      "caption": "North By Northwest location: James Mason's estate: Old Westbury Gardens, Long Island | Photograph: iStockphoto © Jim Lopes",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0053125/004.jpg",
+      "corpus_asset_src": "../assets/tt0053125/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0053125%20-%20North-By-Northwest/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0053125 - North-By-Northwest/005.jpg",
+      "exists": true,
+      "alt": "North By Northwest location: Omni Ambassador East Hotel, Chicago",
+      "caption": "North By Northwest location: Thornhill pursues the mysterious ‘Kaplan’: Omni Ambassador East, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0053125/005.jpg",
+      "corpus_asset_src": "../assets/tt0053125/005.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0053125/001.jpg\" alt=\"North By Northwest location: Mount Rushmore, South Dakota\"><figcaption>North By Northwest location: Mount Rushmore, South Dakota | Photograph: iStockphoto © William Blacke</figcaption></figure>\n<p><a href=\"https://www.movie-locations.com/people/h/hitchcocka.php\">Alfred Hitchcock</a> hits peak lightweight form with the greatest of all comedy thrillers. <a href=\"https://www.movie-locations.com/people/g/grantc.php\">Cary Grant</a> is perfectly cast as Roger O Thornhill, an advertising exec working in the now demolished CIT Building, which stood at <span class=\"name\">650 Madison Avenue</span> in <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>  (<a href=\"https://www.movie-locations.com/people/h/hitchcocka.php\">Hitchcock</a> makes his cameo appearance under the credits here, just missing the bus).</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0053125/003.jpg\" alt=\"North By Northwest location: Plaza Hotel, New York\"><figcaption>North By Northwest location: Roger O Thornhill gets abducted: Plaza Hotel, New York</figcaption></figure>\n<p>Thornhill is mistakenly abducted, in place of the mysterious ‘Mr Kaplan’, from the <a href=\"http://www.theplazany.com\" target=\"_blank\">Plaza Hotel</a>, <span class=\"name\">Fifth Avenue at 59th Street</span>. The 19-story landmark was built in 1907 and the list of jawdropping features begins with the 1,650 crystal chandeliers. The first nightly rate when the hotel opened? $2.50. Today it’s a little more.</p>\n<p>Other movies featuring the <a href=\"http://www.theplazany.com\" target=\"_blank\">Plaza</a> include <a href=\"https://www.movie-locations.com/movies/a/Arthur-1981.php\">Arthur</a>, <a href=\"https://www.movie-locations.com/movies/c/Crocodile-Dundee.php\">Crocodile Dundee</a>, <a href=\"https://www.movie-locations.com/movies/b/Barefoot-In-The-Park.php\">Barefoot In The Park</a>, <a href=\"https://www.movie-locations.com/movies/n/Network.php\">Network</a>, <a href=\"https://www.movie-locations.com/movies/s/Sleepless-In-Seattle.php\">Sleepless In Seattle</a>, <a href=\"https://www.movie-locations.com/movies/h/Home-Alone-2.php\">Home Alone II</a><span class=\"name\">, The Cotton Club</span>, <span class=\"name\">Funny Girl</span>, <span class=\"name\">The Great Gatsby</span>, <span class=\"name\">King of New York</span>, <span class=\"name\">Plaza Suite</span> (naturally) and <span class=\"name\">The Way We Were</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0053125/004.jpg\" alt=\"North By Northwest location: Old Westbury Gardens, Long Island\"><figcaption>North By Northwest location: James Mason's estate: Old Westbury Gardens, Long Island | Photograph: iStockphoto © Jim Lopes</figcaption></figure>\n<p>The house of silkily villainous Phillip Vandamm (<a href=\"https://www.movie-locations.com/people/m/masonj.php\">James Mason</a>), supposedly ‘169 Baywood, Glen Cove’, where Thornhill is force-fed bourbon by creepy Leonard (<a href=\"https://www.movie-locations.com/people/l/landaum.php\">Martin Landau</a>), is the redbrick mansion at <a href=\"http://www.oldwestburygardens.org/\" target=\"_blank\">Old Westbury Gardens</a>, <span class=\"name\">71 Old Westbury Road</span>, the Phipps Estate, a few miles south of the real Glen Cove, <span class=\"name\">Long Island</span>. The estate – which is open to visitors – can be reached from <a href=\"http://lirr42.mta.info/stationInfo.php?id=55\" target=\"_blank\">Westbury Station</a>, on the <a href=\"http://www.mta.info/lirr\" target=\"_blank\">Long Island Railroad</a>, from <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>’s <a href=\"https://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&amp;code=NYP\" target=\"_blank\">Pennsylvania Station</a>.  Another screen favourite, the estate is also seen in <a href=\"https://www.movie-locations.com/people/s/scottr.php\">Ridley Scott</a>'s 2007 epic <a href=\"https://www.movie-locations.com/movies/a/American-Gangster.php\">American Gangster</a>, <a href=\"https://www.movie-locations.com/movies/l/Love-Story.php\">Love Story</a>, <a href=\"https://www.movie-locations.com/movies/c/Cruel-Intentions.php\">Cruel Intentions</a>, Hindi drama <a href=\"https://www.movie-locations.com/movies/k/Kal-Ho-Naa-Ho.php\">Kal Ho Naa Ho</a>, and <a href=\"https://www.movie-locations.com/movies/w/Wolf-1994.php\">Wolf</a>, among others.</p>\n<p>Thornhill follows a lead to the <span class=\"name\">United Nations Headquarters</span>, <span class=\"name\">First Avenue between 42nd and 48th Streets</span>, where he’s framed for murder. You can, more safely, book a <a href=\"http://visit.un.org/content/guided-tours\" target=\"_blank\">United Nations Guided Tour</a>. </p>\n<p>Thornhill escapes on the Twentieth Century from <span class=\"name\">Grand Central Station, East 42nd Street</span> at Park Avenue, and meets the compliant Eve Kendall (<a href=\"https://www.movie-locations.com/people/s/saintem.php\">Eva Marie Saint</a>), who helps him evade Redcaps when they arrive at <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>.</p>\n<p>The old <span class=\"name\">LaSalle Street Station</span>, seen in the film, which stood at <span class=\"name\">414 South LaSalle Street</span> between West Van Buren Street and West Harrison Street, was replaced  in the early Eighties by a bland, new modern structure, incorporating office space.</p>\n<p>In one of cinema’s most famous scenes, Thornhill goes to meet the strange ‘Mr Kaplan’ by taking the Greyhound bus to Indianapolis and getting off at the ‘Prairie Stop on Route 41’, where he’s attacked by the crop-dusting plane. Far from ‘Indiana’, the crop fields are actually at <span class=\"name\">Wasco</span>, near <span class=\"name\">Bakersfield</span> on Route 99, in the <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> desert 80 miles north of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>. A favourite road of <a href=\"https://www.movie-locations.com/people/h/hitchcocka.php\">Hitchcock</a>’s – it links Hollywood to the vineyards of Northern <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> – it’s the same stretch of road on which <a href=\"https://www.movie-locations.com/people/d/deanj.php\">James Dean</a> met his fate.</p>\n<p>Thornhill, though, survives and returns to <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a> in dogged pursuit of Kaplan at what was the legendary Omni Ambassador East Hotel in the city's <span class=\"name\">Gold Coast</span> district. In 2010, the famed establishment was sold to hotelier <span class=\"name\">Ian Schrager</span>, who completely remodelled it as the <a href=\"http://www.publicchicago.com\" target=\"_blank\">Public Chicago</a>, <span class=\"name\">1301 North State Parkway</span> at East Goethe Street.</p>\n<p>Built in 1926, to mirror the 1919 Ambassador West over North State Street at 1300, the Ambassador East, and its luxurious <a href=\"http://www.pumproom.com\" target=\"_blank\">Pump Room</a> restaurant (which remains), was a personal favourite of <a href=\"https://www.movie-locations.com/people/h/hitchcocka.php\">Hitchcock</a>’s. The hotel also featured in <span class=\"name\">Tony Bill</span>’s <span class=\"name\">My Bodyguard</span> in 1980.</p>\n<p>Built in the studio in <span class=\"name\">Hollywood</span> were Vandamm’s futuristic <span class=\"name\">Frank Lloyd Wright</span>-style home  and a section of <a href=\"http://www.nps.gov/moru/index.htm\" target=\"_blank\">Mount Rushmore</a> for the famous climax – the authorities weren’t going to allow any disrespect to the dead presidents (at one point, <a href=\"https://www.movie-locations.com/people/h/hitchcocka.php\">Hitchcock</a> wanted Thornhill to be given away by a sneeze while hidden inside a huge presidential nostril).</p>\n<p>The real <a href=\"http://www.nps.gov/moru/index.htm\" target=\"_blank\">Mount Rushmore</a>, with its four  60-feet-tall faces of US presidents <span class=\"name\">Washington</span>, <span class=\"name\">Jefferson</span>, <span class=\"name\">Roosevelt</span> and <span class=\"name\">Lincoln</span>, sculpted between 1927 and 1941, can be visited in the <a href=\"http://www.fs.usda.gov/blackhills\" target=\"_blank\">Black Hills National Forest</a>, Route 385, about 35 miles southeast of <a href=\"http://www.visitrapidcity.com\" target=\"_blank\">Rapid City</a>, <a href=\"https://www.movie-locations.com/places/usa/sdakota.php\">South Dakota</a>. I hope you're more impressed than the grumpy Woody (<a href=\"https://www.movie-locations.com/people/d/dernb.php\">Bruce Dern</a>) in <a href=\"https://www.movie-locations.com/people/p/paynea.php\">Alexander Payne</a>'s 2013 <a href=\"https://www.movie-locations.com/movies/n/Nebraska-2013.php\">Nebraska</a> – “Doesn’t look finished to me.”</p>",
+  "main_content_text": "Alfred Hitchcock hits peak lightweight form with the greatest of all comedy thrillers. Cary Grant is perfectly cast as Roger O Thornhill, an advertising exec working in the now demolished CIT Building, which stood at 650 Madison Avenue in New York (Hitchcock makes his cameo appearance under the credits here, just missing the bus).\n\nThornhill is mistakenly abducted, in place of the mysterious ‘Mr Kaplan’, from the Plaza Hotel, Fifth Avenue at 59th Street. The 19-story landmark was built in 1907 and the list of jawdropping features begins with the 1,650 crystal chandeliers. The first nightly rate when the hotel opened? $2.50. Today it’s a little more.\n\nOther movies featuring the Plaza include Arthur, Crocodile Dundee, Barefoot In The Park, Network, Sleepless In Seattle, Home Alone II, The Cotton Club, Funny Girl, The Great Gatsby, King of New York, Plaza Suite (naturally) and The Way We Were.\n\nThe house of silkily villainous Phillip Vandamm (James Mason), supposedly ‘169 Baywood, Glen Cove’, where Thornhill is force-fed bourbon by creepy Leonard (Martin Landau), is the redbrick mansion at Old Westbury Gardens, 71 Old Westbury Road, the Phipps Estate, a few miles south of the real Glen Cove, Long Island. The estate – which is open to visitors – can be reached from Westbury Station, on the Long Island Railroad, from New York’s Pennsylvania Station. Another screen favourite, the estate is also seen in Ridley Scott's 2007 epic American Gangster, Love Story, Cruel Intentions, Hindi drama Kal Ho Naa Ho, and Wolf, among others.\n\nThornhill follows a lead to the United Nations Headquarters, First Avenue between 42nd and 48th Streets, where he’s framed for murder. You can, more safely, book a United Nations Guided Tour.\n\nThornhill escapes on the Twentieth Century from Grand Central Station, East 42nd Street at Park Avenue, and meets the compliant Eve Kendall (Eva Marie Saint), who helps him evade Redcaps when they arrive at Chicago.\n\nThe old LaSalle Street Station, seen in the film, which stood at 414 South LaSalle Street between West Van Buren Street and West Harrison Street, was replaced in the early Eighties by a bland, new modern structure, incorporating office space.\n\nIn one of cinema’s most famous scenes, Thornhill goes to meet the strange ‘Mr Kaplan’ by taking the Greyhound bus to Indianapolis and getting off at the ‘Prairie Stop on Route 41’, where he’s attacked by the crop-dusting plane. Far from ‘Indiana’, the crop fields are actually at Wasco, near Bakersfield on Route 99, in the California desert 80 miles north of Los Angeles. A favourite road of Hitchcock’s – it links Hollywood to the vineyards of Northern California – it’s the same stretch of road on which James Dean met his fate.\n\nThornhill, though, survives and returns to Chicago in dogged pursuit of Kaplan at what was the legendary Omni Ambassador East Hotel in the city's Gold Coast district. In 2010, the famed establishment was sold to hotelier Ian Schrager, who completely remodelled it as the Public Chicago, 1301 North State Parkway at East Goethe Street.\n\nBuilt in 1926, to mirror the 1919 Ambassador West over North State Street at 1300, the Ambassador East, and its luxurious Pump Room restaurant (which remains), was a personal favourite of Hitchcock’s. The hotel also featured in Tony Bill’s My Bodyguard in 1980.\n\nBuilt in the studio in Hollywood were Vandamm’s futuristic Frank Lloyd Wright-style home and a section of Mount Rushmore for the famous climax – the authorities weren’t going to allow any disrespect to the dead presidents (at one point, Hitchcock wanted Thornhill to be given away by a sneeze while hidden inside a huge presidential nostril).\n\nThe real Mount Rushmore, with its four 60-feet-tall faces of US presidents Washington, Jefferson, Roosevelt and Lincoln, sculpted between 1927 and 1941, can be visited in the Black Hills National Forest, Route 385, about 35 miles southeast of Rapid City, South Dakota. I hope you're more impressed than the grumpy Woody (Bruce Dern) in Alexander Payne's 2013 Nebraska – “Doesn’t look finished to me.”",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "North By Northwest location: Mount Rushmore, South Dakota | Photograph: iStockphoto © William Blacke",
+      "src": "_assets/tt0053125%20-%20North-By-Northwest/001.jpg",
+      "alt": "North By Northwest location: Mount Rushmore, South Dakota"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alfred Hitchcock hits peak lightweight form with the greatest of all comedy thrillers. Cary Grant is perfectly cast as Roger O Thornhill, an advertising exec working in the now demolished CIT Building, which stood at 650 Madison Avenue in New York (Hitchcock makes his cameo appearance under the credits here, just missing the bus)."
+    },
+    {
+      "type": "image",
+      "caption": "North By Northwest location: Roger O Thornhill gets abducted: Plaza Hotel, New York",
+      "src": "_assets/tt0053125%20-%20North-By-Northwest/003.jpg",
+      "alt": "North By Northwest location: Plaza Hotel, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thornhill is mistakenly abducted, in place of the mysterious ‘Mr Kaplan’, from the Plaza Hotel, Fifth Avenue at 59th Street. The 19-story landmark was built in 1907 and the list of jawdropping features begins with the 1,650 crystal chandeliers. The first nightly rate when the hotel opened? $2.50. Today it’s a little more."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other movies featuring the Plaza include Arthur, Crocodile Dundee, Barefoot In The Park, Network, Sleepless In Seattle, Home Alone II, The Cotton Club, Funny Girl, The Great Gatsby, King of New York, Plaza Suite (naturally) and The Way We Were."
+    },
+    {
+      "type": "image",
+      "caption": "North By Northwest location: James Mason's estate: Old Westbury Gardens, Long Island | Photograph: iStockphoto © Jim Lopes",
+      "src": "_assets/tt0053125%20-%20North-By-Northwest/004.jpg",
+      "alt": "North By Northwest location: Old Westbury Gardens, Long Island"
+    },
+    {
+      "type": "paragraph",
+      "text": "The house of silkily villainous Phillip Vandamm (James Mason), supposedly ‘169 Baywood, Glen Cove’, where Thornhill is force-fed bourbon by creepy Leonard (Martin Landau), is the redbrick mansion at Old Westbury Gardens, 71 Old Westbury Road, the Phipps Estate, a few miles south of the real Glen Cove, Long Island. The estate – which is open to visitors – can be reached from Westbury Station, on the Long Island Railroad, from New York’s Pennsylvania Station. Another screen favourite, the estate is also seen in Ridley Scott's 2007 epic American Gangster, Love Story, Cruel Intentions, Hindi drama Kal Ho Naa Ho, and Wolf, among others."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thornhill follows a lead to the United Nations Headquarters, First Avenue between 42nd and 48th Streets, where he’s framed for murder. You can, more safely, book a United Nations Guided Tour."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thornhill escapes on the Twentieth Century from Grand Central Station, East 42nd Street at Park Avenue, and meets the compliant Eve Kendall (Eva Marie Saint), who helps him evade Redcaps when they arrive at Chicago."
+    },
+    {
+      "type": "paragraph",
+      "text": "The old LaSalle Street Station, seen in the film, which stood at 414 South LaSalle Street between West Van Buren Street and West Harrison Street, was replaced in the early Eighties by a bland, new modern structure, incorporating office space."
+    },
+    {
+      "type": "paragraph",
+      "text": "In one of cinema’s most famous scenes, Thornhill goes to meet the strange ‘Mr Kaplan’ by taking the Greyhound bus to Indianapolis and getting off at the ‘Prairie Stop on Route 41’, where he’s attacked by the crop-dusting plane. Far from ‘Indiana’, the crop fields are actually at Wasco, near Bakersfield on Route 99, in the California desert 80 miles north of Los Angeles. A favourite road of Hitchcock’s – it links Hollywood to the vineyards of Northern California – it’s the same stretch of road on which James Dean met his fate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thornhill, though, survives and returns to Chicago in dogged pursuit of Kaplan at what was the legendary Omni Ambassador East Hotel in the city's Gold Coast district. In 2010, the famed establishment was sold to hotelier Ian Schrager, who completely remodelled it as the Public Chicago, 1301 North State Parkway at East Goethe Street."
+    },
+    {
+      "type": "paragraph",
+      "text": "Built in 1926, to mirror the 1919 Ambassador West over North State Street at 1300, the Ambassador East, and its luxurious Pump Room restaurant (which remains), was a personal favourite of Hitchcock’s. The hotel also featured in Tony Bill’s My Bodyguard in 1980."
+    },
+    {
+      "type": "paragraph",
+      "text": "Built in the studio in Hollywood were Vandamm’s futuristic Frank Lloyd Wright-style home and a section of Mount Rushmore for the famous climax – the authorities weren’t going to allow any disrespect to the dead presidents (at one point, Hitchcock wanted Thornhill to be given away by a sneeze while hidden inside a huge presidential nostril)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The real Mount Rushmore, with its four 60-feet-tall faces of US presidents Washington, Jefferson, Roosevelt and Lincoln, sculpted between 1927 and 1941, can be visited in the Black Hills National Forest, Route 385, about 35 miles southeast of Rapid City, South Dakota. I hope you're more impressed than the grumpy Woody (Bruce Dern) in Alexander Payne's 2013 Nebraska – “Doesn’t look finished to me.”"
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n<p>Stay at: the Plaza Hotel, 768 5th Avenue, New York, NY 10019 (tel: 212.759.3000)</p>\n<p>Take: the United Nations Guided Tour, First Avenue between 42nd and 48th Streets</p>\n<p>Visit: Old Westbury Gardens, 71 Old Westbury Road, Westbury, NY 11590 (tel: 516.333.0048)</p>\n</section>\n<section><h3>Illinois | Chicago</h3>\n<p>Visit: Chicago</p>\n<p>Flights: O’Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666 (tel: 800.832.6352)</p>\n<p>Travel around: Chicago Transit Authority</p>\n<p>Stay at: the Public Chicago, 1301 North State Parkway, Chicago, IL 60610 (tel: 312.787.3700)</p>\n</section>\n<section><h3>South Dakota</h3>\n<p>Visit: South Dakota</p>\n<p>Visit: Mount Rushmore, 13000 SD-244, Keystone, SD 57751 (tel: 605.574.2523)</p>\n<p>Visit: Rapid City</p>\n<p>Visit: Black Hills National Forest</p>\n</section>\n<section><h3>California</h3>\n<p>Visit: California</p>\n</section>",
+  "visit_info_text": "New York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nStay at: the Plaza Hotel, 768 5th Avenue, New York, NY 10019 (tel: 212.759.3000)\nTake: the United Nations Guided Tour, First Avenue between 42nd and 48th Streets\nVisit: Old Westbury Gardens, 71 Old Westbury Road, Westbury, NY 11590 (tel: 516.333.0048)\nIllinois | Chicago\nVisit: Chicago\nFlights: O’Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666 (tel: 800.832.6352)\nTravel around: Chicago Transit Authority\nStay at: the Public Chicago, 1301 North State Parkway, Chicago, IL 60610 (tel: 312.787.3700)\nSouth Dakota\nVisit: South Dakota\nVisit: Mount Rushmore, 13000 SD-244, Keystone, SD 57751 (tel: 605.574.2523)\nVisit: Rapid City\nVisit: Black Hills National Forest\nCalifornia\nVisit: California",
+  "visit_sections": [
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA",
+        "Stay at: the Plaza Hotel, 768 5th Avenue, New York, NY 10019 (tel: 212.759.3000)",
+        "Take: the United Nations Guided Tour, First Avenue between 42nd and 48th Streets",
+        "Visit: Old Westbury Gardens, 71 Old Westbury Road, Westbury, NY 11590 (tel: 516.333.0048)"
+      ]
+    },
+    {
+      "title": "Illinois | Chicago",
+      "items": [
+        "Visit: Chicago",
+        "Flights: O’Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666 (tel: 800.832.6352)",
+        "Travel around: Chicago Transit Authority",
+        "Stay at: the Public Chicago, 1301 North State Parkway, Chicago, IL 60610 (tel: 312.787.3700)"
+      ]
+    },
+    {
+      "title": "South Dakota",
+      "items": [
+        "Visit: South Dakota",
+        "Visit: Mount Rushmore, 13000 SD-244, Keystone, SD 57751 (tel: 605.574.2523)",
+        "Visit: Rapid City",
+        "Visit: Black Hills National Forest"
+      ]
+    },
+    {
+      "title": "California",
+      "items": [
+        "Visit: California"
+      ]
+    }
+  ]
+}
