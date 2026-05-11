@@ -3,7 +3,7 @@ title: "Final Project Data Overview"
 permalink: /final-project/data-overview/
 ---
 
-Please visit the data directory on Github: https://github.com/PleiadesM/daocheng_CRP_5580/tree/main/docs/final-project/data, and read the introduction below:
+Please visit the data directory on Github: [Click here](https://github.com/PleiadesM/daocheng_CRP_5580/tree/main/docs/final-project/data), and read the introduction below:
 
 # MovieMap — Data
 
