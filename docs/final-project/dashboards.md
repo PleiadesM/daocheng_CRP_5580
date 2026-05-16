@@ -38,9 +38,7 @@ Besides the dashboard below, I also wrote the data as a whole webpage for a fina
   var vizElement = divElement.getElementsByTagName('object')[0];
 
   vizElement.style.width = '100%';
-  vizElement.style.maxWidth = '1116px';
   vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-  vizElement.style.maxHeight = '1091px';
 
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
