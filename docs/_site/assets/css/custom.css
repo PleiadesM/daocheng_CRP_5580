@@ -58,14 +58,15 @@ body {
                  "Book Antiqua", Georgia, serif;
 }
 
-/* Dark mode */
+/* Dark mode — disabled for now (Tableau embed has no dark variant).
+   Re-enable once the dashboards have a dark-mode workbook. */
+/*
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #151515 !important;
         color: #ddd;
     }
 
-    /* Make sure MM masthead respects dark mode too */
     .masthead,
     .greedy-nav,
     .greedy-nav a {
@@ -73,6 +74,7 @@ body {
         color: #ddd !important;
     }
 }
+*/
 
 /* ---------- Masthead / Navigation ---------- */
 /* Fix Problem 1: force MM nav to use Tufte background */
@@ -164,12 +166,15 @@ a:visited {
     font-family: et-book, Palatino, "Palatino Linotype", Georgia, serif;
 }
 
+/* Dark mode footer — disabled (see note above). */
+/*
 @media (prefers-color-scheme: dark) {
     .page__footer {
         background-color: #151515 !important;
         color: #ddd;
     }
 }
+*/
 
 /* ==========================================================================
    2. TUFTE CONTENT AREA — scoped to .page__content and .page__inner-wrap
