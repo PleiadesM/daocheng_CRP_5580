@@ -626,3 +626,17 @@ p.subtitle {
 .feature__item .archive__item-body > p:last-child {
     margin-top: auto;
 }
+
+/* Primary button color */
+.btn--primary {
+    background-color: #A32D2B !important;
+    border-color: #A32D2B !important;
+    color: #fffff8 !important;
+}
+
+.btn--primary:hover,
+.btn--primary:focus {
+    background-color: #7d2220 !important;
+    border-color: #7d2220 !important;
+    color: #fffff8 !important;
+}
