@@ -1,0 +1,460 @@
+{
+  "imdb_id": "tt0105236",
+  "shorthand": "Reservoir-Dogs",
+  "title": "Reservoir Dogs",
+  "year": 1992,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0105236 - Reservoir-Dogs.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0105236 - Reservoir-Dogs.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0105236.json",
+  "source_url": "http://www.movie-locations.com/movies/r/Reservoir-Dogs.php",
+  "page_title": "Reservoir Dogs | Film Locations",
+  "meta_description": "The film locations for Quentin Tarantino's Reservoir Dogs (1992), around Los Angeles – including the site of the warehouse in Highland Park, Pat & Lorraine's Coffee Shop in Eagle Rock, the aftermath of the heist in Nighland Park and more.",
+  "meta_keywords": "Reservoir Dogs (1992), film locations, filming locations, tourism, travel, set-jetting, los angeles, quentin tarantino, highland park, eagle rock, johnie's, belmont station, burbank",
+  "og_title": "Film Locations for Quentin Tarantino's Reservoir Dogs (1992), around Los Angeles, in Highland Park, Eagle Rock, Midtown and North Hollywood.",
+  "og_description": "The film locations for Quentin Tarantino's Reservoir Dogs (1992), around Los Angeles – including the site of the Dogs' warehouse, the site of the robbery, Pat & Lorraine's Coffee Shop in Eagle Rock, and the foot chase and shootout through Nighland Park.",
+  "og_image": "http://www.movie-locations.com/movies/r/Reservoir-Dogs-Pat-And-Lorraine.jpg",
+  "top250_rank": "124",
+  "movie_locations_title": "RESERVOIR DOGS",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Quentin Tarantino",
+  "cast": [
+    "Harvey Keitel",
+    "Michael Madsen",
+    "Tim Roth",
+    "Steve Buscemi",
+    "Chris Penn",
+    "Lawrence Tierney"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0105236%20-%20Reservoir-Dogs/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/002.jpg",
+    "exists": true,
+    "alt": "Reservoir Dogs poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/poster.jpg",
+    "corpus_asset_src": "../assets/tt0105236/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0105236%20-%20Reservoir-Dogs/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/001.jpg",
+    "exists": true,
+    "alt": "Reservoir Dogs film location: Pat and Lorraine's, Eagle Rock Boulevard, Eagle Rock, Los Angeles",
+    "caption": "Reservoir Dogs film location: discussing Madonna lyrics: Pat and Lorraine’s, Eagle Rock Boulevard, Eagle Rock, Los Angeles",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/001.jpg",
+    "corpus_asset_src": "../assets/tt0105236/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/001.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Pat and Lorraine's, Eagle Rock Boulevard, Eagle Rock, Los Angeles",
+      "caption": "Reservoir Dogs film location: discussing Madonna lyrics: Pat and Lorraine’s, Eagle Rock Boulevard, Eagle Rock, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/001.jpg",
+      "corpus_asset_src": "../assets/tt0105236/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/002.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/002.jpg",
+      "corpus_asset_src": "../assets/tt0105236/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/003.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Avenue 59 at Figueroa Street, Highland Park, Los Angeles",
+      "caption": "Reservoir Dogs film location: site of the Dogs' warehouse: Avenue 59 at Figueroa Street, Highland Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/003.jpg",
+      "corpus_asset_src": "../assets/tt0105236/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/004.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Avenue 59 at Figueroa Street, Highland Park, Los Angeles",
+      "caption": "Reservoir Dogs film location: the view from Mr Orange's window: Avenue 59 at Figueroa Street, Highland Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/004.jpg",
+      "corpus_asset_src": "../assets/tt0105236/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/005.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Avenue 59 at Figueroa Street, Highland Park, Los Angeles",
+      "caption": "Reservoir Dogs film location: Mr White and Nice Guy Eddie watch as Mr Orange gets into the car: Avenue 59 at Figueroa Street, Highland Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/005.jpg",
+      "corpus_asset_src": "../assets/tt0105236/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/006.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Pat and Lorraine's, Eagle Rock Boulevard, Eagle Rock, Los Angeles",
+      "caption": "Reservoir Dogs film location: to tip or not to tip: Pat and Lorraine’s, Eagle Rock Boulevard, Eagle Rock, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/006.jpg",
+      "corpus_asset_src": "../assets/tt0105236/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/007.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Pat and Lorraine's, Eagle Rock Boulevard, Eagle Rock, Los Angeles",
+      "caption": "Reservoir Dogs film location: the robbery at ‘Karina’s’: West Burbank Avenue in Burbank, San Fernando Valley",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/007.jpg",
+      "corpus_asset_src": "../assets/tt0105236/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/008.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Marmion Way, Highland Park, Los Angeles",
+      "caption": "Reservoir Dogs film location: wounded Mr Brown drives the car into the alleyway, where Mr White shoots the cops: Marmion Way, Highland Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/008.jpg",
+      "corpus_asset_src": "../assets/tt0105236/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/009.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Marmion Way, Highland Park, Los Angeles",
+      "caption": "Reservoir Dogs film location: Mr White and Orange try to commandeer a car: Marmion Way, Highland Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/009.jpg",
+      "corpus_asset_src": "../assets/tt0105236/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/010.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles",
+      "caption": "Reservoir Dogs film location: Mr Orange is shot: Avenue 50 at York Boulevard, Highland Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/010.jpg",
+      "corpus_asset_src": "../assets/tt0105236/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/011.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles",
+      "caption": "Reservoir Dogs film location: Mr Pink chased by the cops toward Avenue 50: York Boulevard, Highland Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/011.jpg",
+      "corpus_asset_src": "../assets/tt0105236/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/012.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles",
+      "caption": "Reservoir Dogs film location: Mr Pink chased by the cops away from Avenue 50: York Boulevard, Highland Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/012.jpg",
+      "corpus_asset_src": "../assets/tt0105236/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/013.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles",
+      "caption": "Reservoir Dogs film location: Mr Pink gets hit by the car: Avenue 50 at York Boulevard, Highland Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/013.jpg",
+      "corpus_asset_src": "../assets/tt0105236/013.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/014.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/014.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Johnie's, Wilshire Boulevard, midtown Los Angeles",
+      "caption": "Reservoir Dogs film location: Mr Orange meets up with his superior: Johnie’s, Wilshire Boulevard, midtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/014.jpg",
+      "corpus_asset_src": "../assets/tt0105236/014.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/015.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/015.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Johnie's, Wilshire Boulevard, midtown Los Angeles",
+      "caption": "Reservoir Dogs film location: Johnie’s in its heyday in 1996, Wilshire Boulevard, midtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/015.jpg",
+      "corpus_asset_src": "../assets/tt0105236/015.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/016.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/016.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: Beverly Boulevard at Second Street, downtown Los Angeles",
+      "caption": "Reservoir Dogs film location: Mr Orange rehearses: Beverly Boulevard at Second Street, downtown Los Angeles; now the site of the Belmont Station apartment complex.",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/016.jpg",
+      "corpus_asset_src": "../assets/tt0105236/016.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/017.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0105236 - Reservoir-Dogs/017.jpg",
+      "exists": true,
+      "alt": "Reservoir Dogs film location: The Lodge, Lankershim Boulevard, North Hollywood, San Fernando Valley",
+      "caption": "Reservoir Dogs film location: Mr Orange tells his drug story: The Lodge, Lankershim Boulevard, North Hollywood, San Fernando Valley",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0105236/017.jpg",
+      "corpus_asset_src": "../assets/tt0105236/017.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0105236/001.jpg\" alt=\"Reservoir Dogs film location: Pat and Lorraine's, Eagle Rock Boulevard, Eagle Rock, Los Angeles\"><figcaption>Reservoir Dogs film location: discussing Madonna lyrics: Pat and Lorraine’s, Eagle Rock Boulevard, Eagle Rock, Los Angeles</figcaption></figure>\n<p>Discover the filming locations for <a href=\"https://www.movie-locations.com/people/t/tarantinoq.php\">Quentin Tarantino</a>'s first movie, around <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> including the site of the (since demolished) warehouse, the robbery itself, the subsequent chase, shootout and more.</p>\n<p>It seems unbelievable that the <span class=\"name\">Reservoir Dogs</span> warehouse was torn down, but I guess no one realised the significance at the time.</p>\n<p>Just imagine the tourist bucks, $5 entrance, <span class=\"name\">Stealers Wheel</span> CDs, souvenir rubber ears.... missed opportunity or what?</p>\n<p>Well you can still worship at the site (it’s now – inevitably for <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> – a parking lot) or check out the alleyways of the bloody shootout after the robbery.</p>\n<p>Although the Dogs’ warehouse has been demolished, you’re sure to recognise the  site, now a car park, on <span class=\"name\">59th Avenue</span>, just south of <span class=\"name\">Figueroa Street </span> in <span class=\"name\">Highland Park</span>. Fittingly, the building (which was also used for Mr Orange’s scuzzy hotel room) was a former mortuary.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/003.jpg\" alt=\"Reservoir Dogs film location: Avenue 59 at Figueroa Street, Highland Park, Los Angeles\"><figcaption>Reservoir Dogs film location: site of the Dogs' warehouse: Avenue 59 at Figueroa Street, Highland Park, Los Angeles</figcaption></figure>\n<p>Since the budget was so tight, the upper floor of the building was used as Mr Orange's (<a href=\"https://www.movie-locations.com/people/r/rotht.php\">Tim Roth</a>) apartment. When he gets the call that the job is on and looks out of the window, you can see a view of <span class=\"name\">Avenue 59</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/004.jpg\" alt=\"Reservoir Dogs film location: Avenue 59 at Figueroa Street, Highland Park, Los Angeles\"><figcaption>Reservoir Dogs film location: the view from Mr Orange's window: Avenue 59 at Figueroa Street, Highland Park, Los Angeles</figcaption></figure>\n<p>And when Mr White (<a href=\"https://www.movie-locations.com/people/k/keitelh.php\">Harvey Keitel</a>) and Nice Guy Eddie (<a href=\"https://www.movie-locations.com/people/p/pennc.php\">Chris Penn</a>) watch him from the car as he leaves his apartment, they're parked right outside on <span class=\"name\">Avenue 59</span> looking towards <span class=\"name\">Figueroa</span>.</p>\n<p>BTW, the corner establishment is now <a href=\"https://www.jeffstablela.com/\" target=\"_blank\">Jeff's Table</a>, <span class=\"name\">5900 North Figueroa Street</span>, the old liquor store has been repurposed as a deli.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/005.jpg\" alt=\"Reservoir Dogs film location: Avenue 59 at Figueroa Street, Highland Park, Los Angeles\"><figcaption>Reservoir Dogs film location: Mr White and Nice Guy Eddie watch as Mr Orange gets into the car: Avenue 59 at Figueroa Street, Highland Park, Los Angeles</figcaption></figure>\n<p>The best <span class=\"name\">Dogs</span> experience is breakfast at <a href=\"https://www.facebook.com/pages/Pat-Lorraines-Coffee-Shop/115916768428507\" target=\"_blank\">Pat and Lorraine's</a>, <span class=\"name\">4720 Eagle Rock Boulevard, Eagle Rock</span>, northeast of downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, which is where the Dogs gather to discuss <span class=\"name\">Madonna</span> lyrics and the ethics of tipping. The staff are extremely friendly, so ignore mean old Mr Pink and leave a tip.</p>\n<p>As you can see, when I visited it was almost Halloween.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/006.jpg\" alt=\"Reservoir Dogs film location: Pat and Lorraine's, Eagle Rock Boulevard, Eagle Rock, Los Angeles\"><figcaption>Reservoir Dogs film location: to tip or not to tip: Pat and Lorraine’s, Eagle Rock Boulevard, Eagle Rock, Los Angeles</figcaption></figure>\n<p>The robbery itself was filmed up in the <span class=\"name\">San Fernando Valley</span>. The forbidding brick ‘jewellery store’ – ‘Karina’s’ (named after <a href=\"https://www.movie-locations.com/people/g/godardjl.php\">Jean-Luc Godard</a>’s muse, and one-time wife, <a href=\"https://www.movie-locations.com/people/k/karinaa.php\">Anna Karina</a>), is a mirror/picture frame supplier at <span class=\"name\">2612 West Burbank Boulevard</span> at Wyoming Avenue in <span class=\"name\">Burbank</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/007.jpg\" alt=\"Reservoir Dogs film location: Pat and Lorraine's, Eagle Rock Boulevard, Eagle Rock, Los Angeles\"><figcaption>Reservoir Dogs film location: the robbery at ‘Karina’s’: West Burbank Avenue in Burbank, San Fernando Valley</figcaption></figure>\n<p>The aftermath, though, is filmed way to the northeast of Downtown <span class=\"name\">LA</span> in the <span class=\"name\">Highland Park</span> district. More movie references abound – Mr Blue is “Dead as Dillinger” and <a href=\"https://www.movie-locations.com/people/t/tierneyl.php\">Laurence Tierney</a> (gangleader Joe Cabot) played <span class=\"name\">Dillinger</span> in 1945 for Monogram Pictures, the company to whom <a href=\"https://www.movie-locations.com/people/g/godardjl.php\">Jean-Luc Godard</a> dedicated <a href=\"https://www.movie-locations.com/movies/a/A-Bout-De-Souffle.php\">A Bout de Souffle</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/008.jpg\" alt=\"Reservoir Dogs film location: Marmion Way, Highland Park, Los Angeles\"><figcaption>Reservoir Dogs film location: wounded Mr Brown drives the car into the alleyway, where Mr White shoots the cops: Marmion Way, Highland Park, Los Angeles</figcaption></figure>\n<p>At the wheel of the car, Mr Brown (<a href=\"https://www.movie-locations.com/people/t/tarantinoq.php\">Tarantino</a> himself) gets shot and drives into an alleyway, where he slumps forward an dies. It's here that Mr Orange looks on in horror as Mr White kills two cops. This alleyway runs from <span class=\"name\">Figueroa Street</span> to <span class=\"name\">Marmion Way</span>, in the block between <span class=\"name\">Avenue 55 and Avenue 56</span>, and remains pretty much unchanged.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/009.jpg\" alt=\"Reservoir Dogs film location: Marmion Way, Highland Park, Los Angeles\"><figcaption>Reservoir Dogs film location: Mr White and Orange try to commandeer a car: Marmion Way, Highland Park, Los Angeles</figcaption></figure>\n<p>Mr White and Mr Orange emerge from the alleyway alongside <span class=\"name\">5518 Marmion Way</span>, near <span class=\"name\">Avenue 56</span>, where they try to commandeer a car, and where Mr Orange is shot by the driver.</p>\n<p>The area is a damn sight smarter than when I first visited in 1996 (I felt very uncomfortable back then) and, as you can see, the <span class=\"name\">Gold Line</span> of the <a href=\"https://www.metro.net/\" target=\"_blank\">LA Metro</a> to Pasadena and the east, runs along the middle of <span class=\"name\">Marmion Way</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/010.jpg\" alt=\"Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles\"><figcaption>Reservoir Dogs film location: Mr Orange is shot: Avenue 50 at York Boulevard, Highland Park, Los Angeles</figcaption></figure>\n<p>After the failed heist, Mr Pink (<a href=\"https://www.movie-locations.com/people/b/buscemis.php\">Steve Buscemi</a>) shoots his way out and heads down <span class=\"name\">Figueroa Street</span> (play Spot-the-camera crew in the shop windows in this scene) between <strong>Avenue 51</strong> and <strong>Avenue 50</strong>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/011.jpg\" alt=\"Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles\"><figcaption>Reservoir Dogs film location: Mr Pink chased by the cops toward Avenue 50: York Boulevard, Highland Park, Los Angeles</figcaption></figure>\n<p>The production didn't have a permit to close down streets so, craftily, only that one single block is used. To lengthen the foot chase, Mr Pink and the cops are seen running  past the same shopfronts.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/012.jpg\" alt=\"Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles\"><figcaption>Reservoir Dogs film location: Mr Pink chased by the cops away from Avenue 50: York Boulevard, Highland Park, Los Angeles</figcaption></figure>\n<p>They also run in different directions from shot to shot, on opposite sites of the street, toward <span class=\"name\">Avenue 50</span> or toward <span class=\"name\">Avenue 51</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/013.jpg\" alt=\"Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles\"><figcaption>Reservoir Dogs film location: Mr Pink gets hit by the car: Avenue 50 at York Boulevard, Highland Park, Los Angeles</figcaption></figure>\n<p>But finally it's toward <span class=\"name\">Avenue 50</span>, where Mr Pink finally gets hit by a car at the corner of <span class=\"name\">York Boulevard</span>, alongside what is now <span class=\"name\">Cafe de Leche</span>. He successfully  commandeers the motor and makes off along <span class=\"name\">Avenue 50</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0105236/014.jpg\" alt=\"Reservoir Dogs film location: Johnie's, Wilshire Boulevard, midtown Los Angeles\"><figcaption>Reservoir Dogs film location: Mr Orange meets up with his superior: Johnie’s, Wilshire Boulevard, midtown Los Angeles</figcaption></figure>\n<p>The café, where Mr Orange meets up with his superior, is <span class=\"name\">Johnie’s Coffee Shop, 6101 Wilshire Boulevard</span> at Fairfax Avenue (a familiar location – it’s where <a href=\"https://www.movie-locations.com/people/e/edwardsa.php\">Anthony Edwards</a> receives news of impending apocalypse in <span class=\"name\">Miracle Mile</span>, <span class=\"name\">Eds</span> <a href=\"https://www.movie-locations.com/people/n/nortone.php\">Norton</a> and <a href=\"https://www.movie-locations.com/people/f/furlonge.php\">Furlong</a> stop off in <a href=\"https://www.movie-locations.com/movies/a/American-History-X.php\">American History X</a> and where the Dude discusses the severed toe with friend Walter in <a href=\"https://www.movie-locations.com/movies/b/Big-Lebowski.php\">The Big Lebowski</a>. It’s now closed, though still occasionally used for filming.</p>\n<p>Back in 1996, I managed to get this shot of the interior before it closed.</p>\n<p>The graffiti-covered walls, where Orange rehearses his druggy cover story, could – until 2006 – be seen at the junction of <span class=\"name\">Beverly Boulevard and Second Street and Toluca Street</span>, just northwest of downtown, but no more.</p>\n<p>The location was a platform  on <span class=\"name\">LA</span>’s original metro train line, dating from the early 1900s, which ran through a tunnel under the hill to the south. A huge apartment complex called Belmont Station has been built on the site – into which a section of the Belmont Tunnel/Toluca Substation has been integrated.</p>\n<p>He retails the story to the other Dogs in <span class=\"name\">The Lodge, 4923 Lankershim Boulevard</span> (<span class=\"ital\">tel: 818.769.7722</span>) between Vineland and Magnolia, which is in reality a <span class=\"name\">North Hollywood</span> gay bar, and flashbacks to the toilets of the <span class=\"name\">Park Plaza Hotel, 607 South Park View Street</span>, midtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>“The hotel has been featured many times in films,” claimed <a href=\"https://www.movie-locations.com/people/t/tarantinoq.php\">Tarantino</a>, “but I’m the only director that has used only its bathroom.”. Maybe, but it’s a close thing. The <span class=\"name\">Park Plaza</span> supplied the men’s room at ‘Capitol Pictures’ for the Coens’ <a href=\"https://www.movie-locations.com/movies/b/Barton-Fink.php\">Barton Fink</a>, but it was also used for the USO dance scene.</p>\n<p>One of the most popular locations in <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, the <span class=\"name\">Park Plaza</span> has been given a major makeover but no loner functions as a hotel. This popular film location can also be seen in <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Martin Scorsese</a>’s <a href=\"https://www.movie-locations.com/movies/n/New-York-New-York.php\">New York, New York</a>, <a href=\"https://www.movie-locations.com/people/s/spielbergs.php\">Steven Spielberg</a>’s <a href=\"https://www.movie-locations.com/movies/h/Hook.php\">Hook</a>, <a href=\"https://www.movie-locations.com/people/a/attenboroughr.php\">Richard Attenborough</a>'s biopic <a href=\"https://www.movie-locations.com/movies/c/Chaplin.php\">Chaplin</a>, with <a href=\"https://www.movie-locations.com/people/d/downeyjrr.php\">Robert Downey Jr,</a> and <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>'s <a href=\"https://www.movie-locations.com/movies/p/Prestige.php\">The Prestige</a> among many others.</p>",
+  "main_content_text": "Discover the filming locations for Quentin Tarantino's first movie, around Los Angeles including the site of the (since demolished) warehouse, the robbery itself, the subsequent chase, shootout and more.\n\nIt seems unbelievable that the Reservoir Dogs warehouse was torn down, but I guess no one realised the significance at the time.\n\nJust imagine the tourist bucks, $5 entrance, Stealers Wheel CDs, souvenir rubber ears.... missed opportunity or what?\n\nWell you can still worship at the site (it’s now – inevitably for Los Angeles – a parking lot) or check out the alleyways of the bloody shootout after the robbery.\n\nAlthough the Dogs’ warehouse has been demolished, you’re sure to recognise the site, now a car park, on 59th Avenue, just south of Figueroa Street in Highland Park. Fittingly, the building (which was also used for Mr Orange’s scuzzy hotel room) was a former mortuary.\n\nSince the budget was so tight, the upper floor of the building was used as Mr Orange's (Tim Roth) apartment. When he gets the call that the job is on and looks out of the window, you can see a view of Avenue 59.\n\nAnd when Mr White (Harvey Keitel) and Nice Guy Eddie (Chris Penn) watch him from the car as he leaves his apartment, they're parked right outside on Avenue 59 looking towards Figueroa.\n\nBTW, the corner establishment is now Jeff's Table, 5900 North Figueroa Street, the old liquor store has been repurposed as a deli.\n\nThe best Dogs experience is breakfast at Pat and Lorraine's, 4720 Eagle Rock Boulevard, Eagle Rock, northeast of downtown Los Angeles, which is where the Dogs gather to discuss Madonna lyrics and the ethics of tipping. The staff are extremely friendly, so ignore mean old Mr Pink and leave a tip.\n\nAs you can see, when I visited it was almost Halloween.\n\nThe robbery itself was filmed up in the San Fernando Valley. The forbidding brick ‘jewellery store’ – ‘Karina’s’ (named after Jean-Luc Godard’s muse, and one-time wife, Anna Karina), is a mirror/picture frame supplier at 2612 West Burbank Boulevard at Wyoming Avenue in Burbank.\n\nThe aftermath, though, is filmed way to the northeast of Downtown LA in the Highland Park district. More movie references abound – Mr Blue is “Dead as Dillinger” and Laurence Tierney (gangleader Joe Cabot) played Dillinger in 1945 for Monogram Pictures, the company to whom Jean-Luc Godard dedicated A Bout de Souffle.\n\nAt the wheel of the car, Mr Brown (Tarantino himself) gets shot and drives into an alleyway, where he slumps forward an dies. It's here that Mr Orange looks on in horror as Mr White kills two cops. This alleyway runs from Figueroa Street to Marmion Way, in the block between Avenue 55 and Avenue 56, and remains pretty much unchanged.\n\nMr White and Mr Orange emerge from the alleyway alongside 5518 Marmion Way, near Avenue 56, where they try to commandeer a car, and where Mr Orange is shot by the driver.\n\nThe area is a damn sight smarter than when I first visited in 1996 (I felt very uncomfortable back then) and, as you can see, the Gold Line of the LA Metro to Pasadena and the east, runs along the middle of Marmion Way.\n\nAfter the failed heist, Mr Pink (Steve Buscemi) shoots his way out and heads down Figueroa Street (play Spot-the-camera crew in the shop windows in this scene) between Avenue 51 and Avenue 50.\n\nThe production didn't have a permit to close down streets so, craftily, only that one single block is used. To lengthen the foot chase, Mr Pink and the cops are seen running past the same shopfronts.\n\nThey also run in different directions from shot to shot, on opposite sites of the street, toward Avenue 50 or toward Avenue 51.\n\nBut finally it's toward Avenue 50, where Mr Pink finally gets hit by a car at the corner of York Boulevard, alongside what is now Cafe de Leche. He successfully commandeers the motor and makes off along Avenue 50.\n\nThe café, where Mr Orange meets up with his superior, is Johnie’s Coffee Shop, 6101 Wilshire Boulevard at Fairfax Avenue (a familiar location – it’s where Anthony Edwards receives news of impending apocalypse in Miracle Mile, Eds Norton and Furlong stop off in American History X and where the Dude discusses the severed toe with friend Walter in The Big Lebowski. It’s now closed, though still occasionally used for filming.\n\nBack in 1996, I managed to get this shot of the interior before it closed.\n\nThe graffiti-covered walls, where Orange rehearses his druggy cover story, could – until 2006 – be seen at the junction of Beverly Boulevard and Second Street and Toluca Street, just northwest of downtown, but no more.\n\nThe location was a platform on LA’s original metro train line, dating from the early 1900s, which ran through a tunnel under the hill to the south. A huge apartment complex called Belmont Station has been built on the site – into which a section of the Belmont Tunnel/Toluca Substation has been integrated.\n\nHe retails the story to the other Dogs in The Lodge, 4923 Lankershim Boulevard (tel: 818.769.7722) between Vineland and Magnolia, which is in reality a North Hollywood gay bar, and flashbacks to the toilets of the Park Plaza Hotel, 607 South Park View Street, midtown Los Angeles.\n\n“The hotel has been featured many times in films,” claimed Tarantino, “but I’m the only director that has used only its bathroom.”. Maybe, but it’s a close thing. The Park Plaza supplied the men’s room at ‘Capitol Pictures’ for the Coens’ Barton Fink, but it was also used for the USO dance scene.\n\nOne of the most popular locations in Los Angeles, the Park Plaza has been given a major makeover but no loner functions as a hotel. This popular film location can also be seen in Martin Scorsese’s New York, New York, Steven Spielberg’s Hook, Richard Attenborough's biopic Chaplin, with Robert Downey Jr, and Christopher Nolan's The Prestige among many others.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: discussing Madonna lyrics: Pat and Lorraine’s, Eagle Rock Boulevard, Eagle Rock, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/001.jpg",
+      "alt": "Reservoir Dogs film location: Pat and Lorraine's, Eagle Rock Boulevard, Eagle Rock, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover the filming locations for Quentin Tarantino's first movie, around Los Angeles including the site of the (since demolished) warehouse, the robbery itself, the subsequent chase, shootout and more."
+    },
+    {
+      "type": "paragraph",
+      "text": "It seems unbelievable that the Reservoir Dogs warehouse was torn down, but I guess no one realised the significance at the time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just imagine the tourist bucks, $5 entrance, Stealers Wheel CDs, souvenir rubber ears.... missed opportunity or what?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Well you can still worship at the site (it’s now – inevitably for Los Angeles – a parking lot) or check out the alleyways of the bloody shootout after the robbery."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the Dogs’ warehouse has been demolished, you’re sure to recognise the site, now a car park, on 59th Avenue, just south of Figueroa Street in Highland Park. Fittingly, the building (which was also used for Mr Orange’s scuzzy hotel room) was a former mortuary."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: site of the Dogs' warehouse: Avenue 59 at Figueroa Street, Highland Park, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/003.jpg",
+      "alt": "Reservoir Dogs film location: Avenue 59 at Figueroa Street, Highland Park, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the budget was so tight, the upper floor of the building was used as Mr Orange's (Tim Roth) apartment. When he gets the call that the job is on and looks out of the window, you can see a view of Avenue 59."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: the view from Mr Orange's window: Avenue 59 at Figueroa Street, Highland Park, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/004.jpg",
+      "alt": "Reservoir Dogs film location: Avenue 59 at Figueroa Street, Highland Park, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "And when Mr White (Harvey Keitel) and Nice Guy Eddie (Chris Penn) watch him from the car as he leaves his apartment, they're parked right outside on Avenue 59 looking towards Figueroa."
+    },
+    {
+      "type": "paragraph",
+      "text": "BTW, the corner establishment is now Jeff's Table, 5900 North Figueroa Street, the old liquor store has been repurposed as a deli."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: Mr White and Nice Guy Eddie watch as Mr Orange gets into the car: Avenue 59 at Figueroa Street, Highland Park, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/005.jpg",
+      "alt": "Reservoir Dogs film location: Avenue 59 at Figueroa Street, Highland Park, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The best Dogs experience is breakfast at Pat and Lorraine's, 4720 Eagle Rock Boulevard, Eagle Rock, northeast of downtown Los Angeles, which is where the Dogs gather to discuss Madonna lyrics and the ethics of tipping. The staff are extremely friendly, so ignore mean old Mr Pink and leave a tip."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, when I visited it was almost Halloween."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: to tip or not to tip: Pat and Lorraine’s, Eagle Rock Boulevard, Eagle Rock, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/006.jpg",
+      "alt": "Reservoir Dogs film location: Pat and Lorraine's, Eagle Rock Boulevard, Eagle Rock, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The robbery itself was filmed up in the San Fernando Valley. The forbidding brick ‘jewellery store’ – ‘Karina’s’ (named after Jean-Luc Godard’s muse, and one-time wife, Anna Karina), is a mirror/picture frame supplier at 2612 West Burbank Boulevard at Wyoming Avenue in Burbank."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: the robbery at ‘Karina’s’: West Burbank Avenue in Burbank, San Fernando Valley",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/007.jpg",
+      "alt": "Reservoir Dogs film location: Pat and Lorraine's, Eagle Rock Boulevard, Eagle Rock, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The aftermath, though, is filmed way to the northeast of Downtown LA in the Highland Park district. More movie references abound – Mr Blue is “Dead as Dillinger” and Laurence Tierney (gangleader Joe Cabot) played Dillinger in 1945 for Monogram Pictures, the company to whom Jean-Luc Godard dedicated A Bout de Souffle."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: wounded Mr Brown drives the car into the alleyway, where Mr White shoots the cops: Marmion Way, Highland Park, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/008.jpg",
+      "alt": "Reservoir Dogs film location: Marmion Way, Highland Park, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "At the wheel of the car, Mr Brown (Tarantino himself) gets shot and drives into an alleyway, where he slumps forward an dies. It's here that Mr Orange looks on in horror as Mr White kills two cops. This alleyway runs from Figueroa Street to Marmion Way, in the block between Avenue 55 and Avenue 56, and remains pretty much unchanged."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: Mr White and Orange try to commandeer a car: Marmion Way, Highland Park, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/009.jpg",
+      "alt": "Reservoir Dogs film location: Marmion Way, Highland Park, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mr White and Mr Orange emerge from the alleyway alongside 5518 Marmion Way, near Avenue 56, where they try to commandeer a car, and where Mr Orange is shot by the driver."
+    },
+    {
+      "type": "paragraph",
+      "text": "The area is a damn sight smarter than when I first visited in 1996 (I felt very uncomfortable back then) and, as you can see, the Gold Line of the LA Metro to Pasadena and the east, runs along the middle of Marmion Way."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: Mr Orange is shot: Avenue 50 at York Boulevard, Highland Park, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/010.jpg",
+      "alt": "Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "After the failed heist, Mr Pink (Steve Buscemi) shoots his way out and heads down Figueroa Street (play Spot-the-camera crew in the shop windows in this scene) between Avenue 51 and Avenue 50."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: Mr Pink chased by the cops toward Avenue 50: York Boulevard, Highland Park, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/011.jpg",
+      "alt": "Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The production didn't have a permit to close down streets so, craftily, only that one single block is used. To lengthen the foot chase, Mr Pink and the cops are seen running past the same shopfronts."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: Mr Pink chased by the cops away from Avenue 50: York Boulevard, Highland Park, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/012.jpg",
+      "alt": "Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "They also run in different directions from shot to shot, on opposite sites of the street, toward Avenue 50 or toward Avenue 51."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: Mr Pink gets hit by the car: Avenue 50 at York Boulevard, Highland Park, Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/013.jpg",
+      "alt": "Reservoir Dogs film location: Figueroa street at 59th Avenue, Highland Park, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "But finally it's toward Avenue 50, where Mr Pink finally gets hit by a car at the corner of York Boulevard, alongside what is now Cafe de Leche. He successfully commandeers the motor and makes off along Avenue 50."
+    },
+    {
+      "type": "image",
+      "caption": "Reservoir Dogs film location: Mr Orange meets up with his superior: Johnie’s, Wilshire Boulevard, midtown Los Angeles",
+      "src": "_assets/tt0105236%20-%20Reservoir-Dogs/014.jpg",
+      "alt": "Reservoir Dogs film location: Johnie's, Wilshire Boulevard, midtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The café, where Mr Orange meets up with his superior, is Johnie’s Coffee Shop, 6101 Wilshire Boulevard at Fairfax Avenue (a familiar location – it’s where Anthony Edwards receives news of impending apocalypse in Miracle Mile, Eds Norton and Furlong stop off in American History X and where the Dude discusses the severed toe with friend Walter in The Big Lebowski. It’s now closed, though still occasionally used for filming."
+    },
+    {
+      "type": "paragraph",
+      "text": "Back in 1996, I managed to get this shot of the interior before it closed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The graffiti-covered walls, where Orange rehearses his druggy cover story, could – until 2006 – be seen at the junction of Beverly Boulevard and Second Street and Toluca Street, just northwest of downtown, but no more."
+    },
+    {
+      "type": "paragraph",
+      "text": "The location was a platform on LA’s original metro train line, dating from the early 1900s, which ran through a tunnel under the hill to the south. A huge apartment complex called Belmont Station has been built on the site – into which a section of the Belmont Tunnel/Toluca Substation has been integrated."
+    },
+    {
+      "type": "paragraph",
+      "text": "He retails the story to the other Dogs in The Lodge, 4923 Lankershim Boulevard (tel: 818.769.7722) between Vineland and Magnolia, which is in reality a North Hollywood gay bar, and flashbacks to the toilets of the Park Plaza Hotel, 607 South Park View Street, midtown Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "“The hotel has been featured many times in films,” claimed Tarantino, “but I’m the only director that has used only its bathroom.”. Maybe, but it’s a close thing. The Park Plaza supplied the men’s room at ‘Capitol Pictures’ for the Coens’ Barton Fink, but it was also used for the USO dance scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most popular locations in Los Angeles, the Park Plaza has been given a major makeover but no loner functions as a hotel. This popular film location can also be seen in Martin Scorsese’s New York, New York, Steven Spielberg’s Hook, Richard Attenborough's biopic Chaplin, with Robert Downey Jr, and Christopher Nolan's The Prestige among many others."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Dine at: Pat and Lorraine's Coffee Shop, 4720 Eagle Rock Boulevard, Eagle Rock, Los Angeles, CA 90041 (tel: 323.257.7926)</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nDine at: Pat and Lorraine's Coffee Shop, 4720 Eagle Rock Boulevard, Eagle Rock, Los Angeles, CA 90041 (tel: 323.257.7926)",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Dine at: Pat and Lorraine's Coffee Shop, 4720 Eagle Rock Boulevard, Eagle Rock, Los Angeles, CA 90041 (tel: 323.257.7926)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "imdb_id": "tt0056172",
+  "shorthand": "Lawrence-Of-Arabia",
+  "title": "Lawrence Of Arabia",
+  "year": 1962,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0056172 - Lawrence-Of-Arabia.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0056172 - Lawrence-Of-Arabia.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0056172.json",
+  "source_url": "http://www.movie-locations.com/movies/l/Lawrence-Of-Arabia.php",
+  "page_title": "Lawrence Of Arabia | Film Locations",
+  "meta_description": "Filming locations for David Lean's classic Lawrence Of Arabia (1962), in Jordan; in Seville, southern Spain; Morocco; and London and Surrey in the UK.",
+  "meta_keywords": "Lawrence of Arabia filming locations, tourism, travel, set-jetting, Seville, spain, plaza de espana, jordan, morocco, st paul's cathedral, london, david lean, peter o'toole",
+  "og_title": "Filming Locations for Lawrence of Arabia (1962)",
+  "og_description": "Filming locations for David Lean's classic Lawrence Of Arabia (1962), in Jordan; in Seville, southern Spain; Morocco; and London and Surrey in the UK.",
+  "og_image": "http://www.movie-locations.com/movies/l/lawrence-of-arabia-meta.jpg",
+  "top250_rank": "138",
+  "movie_locations_title": "LAWRENCE OF ARABIA",
+  "movie_locations_regions": "Jordan | Spain | Morocco | London | Surrey | California",
+  "director": "David Lean",
+  "cast": [
+    "Peter O'Toole",
+    "Omar Sharif",
+    "Alec Guinness",
+    "Anthony Quinn",
+    "José Ferrer",
+    "Anthony Quayle",
+    "IS Johar",
+    "Jack Hawkins",
+    "Claude Rains",
+    "Jack Hedley",
+    "Norman Rossington"
+  ],
+  "locations": [
+    "Jordan;",
+    "Spain;",
+    "Morocco;",
+    "London;",
+    "Surrey;",
+    "California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/002.jpg",
+    "exists": true,
+    "alt": "Lawrence Of Arabia poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/poster.jpg",
+    "corpus_asset_src": "../assets/tt0056172/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/001.jpg",
+    "exists": true,
+    "alt": "Lawrence of Arabia filming location: Wadi Rumm, Jordan",
+    "caption": "Lawrence of Arabia film location: The Arabian desert: the cliffs of Wadi Rumm, Jordan | Photograph: Wikimedia / Tango7174",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/001.jpg",
+    "corpus_asset_src": "../assets/tt0056172/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/001.jpg",
+      "exists": true,
+      "alt": "Lawrence of Arabia filming location: Wadi Rumm, Jordan",
+      "caption": "Lawrence of Arabia film location: The Arabian desert: the cliffs of Wadi Rumm, Jordan | Photograph: Wikimedia / Tango7174",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/001.jpg",
+      "corpus_asset_src": "../assets/tt0056172/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/002.jpg",
+      "exists": true,
+      "alt": "Lawrence Of Arabia poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/002.jpg",
+      "corpus_asset_src": "../assets/tt0056172/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/003.jpg",
+      "exists": true,
+      "alt": "Lawrence of Arabia filming location: St Paul’s Cathedral, London",
+      "caption": "Lawrence of Arabia film location: The memorial service for TE Lawrence: St Paul’s Cathedral, London",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/003.jpg",
+      "corpus_asset_src": "../assets/tt0056172/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/004.jpg",
+      "exists": true,
+      "alt": "Lawrence of Arabia filming location: Plaza de Espana, Seville, Spain",
+      "caption": "Lawrence of Arabia film location: The Officers’ club in ‘Cairo’: Plaza de Espana, Seville, Spain",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/004.jpg",
+      "corpus_asset_src": "../assets/tt0056172/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/005.jpg",
+      "exists": true,
+      "alt": "Lawrence of Arabia filming location: Plaza of the Americas, Seville, Spain",
+      "caption": "Lawrence of Arabia film location: the civic buildings of ‘Jerusalem’: Plaza of the Americas, Seville, Spain",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/005.jpg",
+      "corpus_asset_src": "../assets/tt0056172/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/006.jpg",
+      "exists": true,
+      "alt": "Lawrence of Arabia filming location: El Casino, Seville, Spain",
+      "caption": "Lawrence of Arabia film location: the council chamber: El Casino, Seville, Spain",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/006.jpg",
+      "corpus_asset_src": "../assets/tt0056172/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/007.jpg",
+      "exists": true,
+      "alt": "Lawrence of Arabia filming location: Alfonso XIII Hotel, Seville, Spain",
+      "caption": "Lawrence of Arabia film location: Courtyard of the officers' club: Seville's luxurious Alfonso XIII Hotel",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/007.jpg",
+      "corpus_asset_src": "../assets/tt0056172/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/008.jpg",
+      "exists": true,
+      "alt": "Lawrence of Arabia filming location: Casa de Pilatos, Plaza de Pilatos, Seville, Spain",
+      "caption": "Lawrence of Arabia film location: Lawrence meets General Allenby: Casa de Pilatos, Plaza de Pilatos, Seville",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/008.jpg",
+      "corpus_asset_src": "../assets/tt0056172/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0056172 - Lawrence-Of-Arabia/009.jpg",
+      "exists": true,
+      "alt": "Lawrence of Arabia filming location: the cliffs of Wadi Rumm, Jordan",
+      "caption": "Lawrence of Arabia film location: The Arabian desert: the cliffs of Wadi Rumm, Jordan",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0056172/009.jpg",
+      "corpus_asset_src": "../assets/tt0056172/009.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0056172/001.jpg\" alt=\"Lawrence of Arabia filming location: Wadi Rumm, Jordan\"><figcaption>Lawrence of Arabia film location: The Arabian desert: the cliffs of Wadi Rumm, Jordan | Photograph: Wikimedia / Tango7174</figcaption></figure>\n<p>Discover where <span class=\"name\">David Lean</span>'s classic <span class=\"name\">Lawrence Of Arabia</span> (1962) was filmed, in <span class=\"name\">Jordan</span>; in <span class=\"name\">Seville, southern Spain</span>; <span class=\"name\">Morocco</span>; and <span class=\"name\">London</span> and <span class=\"name\">Surrey</span> in the <span class=\"name\">UK</span>.</p>\n<p>Most of the locations for <a href=\"https://www.movie-locations.com/people/l/leand.php\">David Lean</a>’s last really great film, before his taste for the overblown tipped over into pomposity, can be found – despite appearances – in <a href=\"https://www.movie-locations.com/places/europe/spain.php\">Spain</a>.</p>\n<p>The memorial service for TE Lawrence (<a href=\"https://www.movie-locations.com/people/o/otoolep.php\">Peter O’Toole</a>) did actually use the steps in front of <span class=\"name\">St Paul’s Cathedral</span> in <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>, but even here, the interior was recreated in a Spanish studio. <a href=\"https://www.movie-locations.com/people/l/leand.php\">David \n     Lean</a> had already filmed at <span class=\"name\">St Paul’s</span>, back in 1946, for his classic adaptation of <span class=\"name\">Charles Dickens</span>’ <span class=\"name\">Great Expectations</span>. </p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0056172/003.jpg\" alt=\"Lawrence of Arabia filming location: St Paul’s Cathedral, London\"><figcaption>Lawrence of Arabia film location: The memorial service for TE Lawrence: St Paul’s Cathedral, London</figcaption></figure>\n<p>The town of’ ‘Aqaba’ was built at a beach called <span class=\"name\">Playa del Algarrobico</span> near <span class=\"name\">Carboneras</span>, close to <span class=\"name\">Almeria</span> in southern <a href=\"https://www.movie-locations.com/places/europe/spain.php\">Spain</a>. The attack on the train filmed at <span class=\"name\">Genovese Beach, San Jose</span> on <span class=\"name\">Cabo de Gata</span> (Cape of the Cat) nearby.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0056172/004.jpg\" alt=\"Lawrence of Arabia filming location: Plaza de Espana, Seville, Spain\"><figcaption>Lawrence of Arabia film location: The Officers’ club in ‘Cairo’: Plaza de Espana, Seville, Spain</figcaption></figure>\n<p>For many of the ‘Middle Eastern’ settings, <a href=\"https://www.movie-locations.com/people/l/leand.php\">Lean</a> used the heavily Moorish city of <span class=\"name\">Seville</span>, particularly the vast complex of buildings in the <span class=\"name\">Parque de Maria Luisa, Avenida de Isabel la Catolica</span>, built for the disastrous 1929 Spanish-American exhibition.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0056172/005.jpg\" alt=\"Lawrence of Arabia filming location:  Plaza of the Americas, Seville, Spain\"><figcaption>Lawrence of Arabia film location: the civic buildings of ‘Jerusalem’: Plaza of the Americas, Seville, Spain</figcaption></figure>\n<p>Here you can find the ‘Cairo’ officers' club, where Lawrence’s companion is refused a drink after the desert crossing, which is the, currently empty and rather dilapidated, <span class=\"name\">Palaçio Español</span>, a semi-circular arcaded building in the <span class=\"name\">Plaza de España</span> (seen more recently as the exterior of ‘Naboo's Theed palace’ in <a href=\"https://www.movie-locations.com/movies/s/Star-Wars-2-Attack-Of-The-Clones.php\">Star Wars Episode II: Attack of the Clones</a>, and as  the presidential palace of ‘Wadiya’ in <a href=\"https://www.movie-locations.com/people/c/cohensb.php\">Sacha Baron Cohen</a> comedy, <span class=\"name\">The Dictator</span>).</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0056172/006.jpg\" alt=\"Lawrence of Arabia filming location: El Casino, Seville, Spain\"><figcaption>Lawrence of Arabia film location: the council chamber: El Casino, Seville, Spain</figcaption></figure>\n<p>‘Jerusalem’s civic buildings’ are the <span class=\"name\">Plaza of the Americas</span> just to the south (seen as ‘Tangier’ in <span class=\"name\">John Milius</span>’s 1975 epic <span class=\"name\">The Wind and the Lion</span>, with <a href=\"https://www.movie-locations.com/people/b/bergenc.php\">Candice Bergen</a> and <a href=\"https://www.movie-locations.com/people/c/connerys.php\">Sean Connery</a>), while ‘Damascus’ town hall, the Arab council chamber, is the nearby circular <span class=\"name\">El Casino, Avenida de Maria Luisa</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0056172/007.jpg\" alt=\"Lawrence of Arabia filming location: Alfonso XIII Hotel, Seville, Spain\"><figcaption>Lawrence of Arabia film location: Courtyard of the officers' club: Seville's luxurious Alfonso XIII Hotel</figcaption></figure>\n<p>Also in <span class=\"name\">Seville</span> is the courtyard of the Officers’ Club, which is the central court of the luxurious, though extremely friendly, <a href=\"http://www.hotel-alfonsoxiii.com/\" target=\"_blank\">Hotel Alfonso XIII</a>, <span class=\"name\">2 San Fernando 41004</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0056172/008.jpg\" alt=\"Lawrence of Arabia filming location: Casa de Pilatos, Plaza de Pilatos, Seville, Spain\"><figcaption>Lawrence of Arabia film location: Lawrence meets General Allenby: Casa de Pilatos, Plaza de Pilatos, Seville</figcaption></figure>\n<p>Lawrence and General Allenby (<a href=\"https://www.movie-locations.com/people/h/hawkinsj.php\">Jack Hawkins</a>) meet in another <span class=\"name\">Seville</span> landmark, the <a href=\"http://www.fundacionmedinaceli.org/monumentos/pilatos/\" target=\"blank\">Casa de Pilatos</a>, <span class=\"name\">Plaza de Pilatos</span>, built in 1519, the claim that it’s a copy of Pontius Pilate’s – surprisingly 16th century – Jerusalem home, sadly, seems to be a myth. During the performance of a religious play here in the 16th century, the character of Pilate appeared at a window to deliver a short speech, since when  the palace was popularly referred to as Pilate´s home. The villa crops up again in <a href=\"https://www.movie-locations.com/people/s/scottr.php\">Ridley Scott</a>'s <a href=\"https://www.movie-locations.com/movies/0/1492-Conquest-Of-Paradise.php\">1492: Conquest Of Paradise</a> and as the hideout of the main villain in <a href=\"https://www.movie-locations.com/people/c/cruiset.php\">Tom Cruise</a>-<a href=\"https://www.movie-locations.com/people/d/diazc.php\">Cameron Diaz</a> action comedy <a href=\"https://www.movie-locations.com/movies/k/Knight-And-Day.php\">Knight And Day</a>. </p>\n<p>But of course, the real visual splendour of <span class=\"name\">Lawrence</span> lies in its breathtaking desertscapes, which were filmed in <a href=\"https://www.movie-locations.com/places/mideast/jordan.php\">Jordan</a>. </p>\n<p>Lawrence’s first introduction to the desert is the black basalt landscape of <span class=\"name\">Jebel Tubayq</span>, near <a href=\"https://www.movie-locations.com/places/mideast/jordan.php\">Jordan</a>'s Saudi Arabian border, as is much of the trekking and the caravan across the <span class=\"name\">Nefud</span>. The camp of Prince Feisal (<a href=\"https://www.movie-locations.com/people/g/guinnessa.php\">Alec Guinness</a>), and the well where Lawrence gets a little bit carried away with his new Arab robes, are the spectacular red cliffs of <span class=\"name\">Wadi Rum</span>, twenty miles north of the Gulf of Aqaba.</p>\n<p>The spectacular camel ride entrance of Sherif Ali (<a href=\"https://www.movie-locations.com/people/s/sharifo.php\">Omar Sharif</a>) used the mudflats at <span class=\"name\">Jafr</span> in <a href=\"https://www.movie-locations.com/places/mideast/jordan.php\">Jordan</a>  (of course, <a href=\"https://www.movie-locations.com/people/s/sharifo.php\">Sharif</a> wasn’t actually in this, his most famous scene), as did the rescue of the lost Gasim (<a href=\"https://www.movie-locations.com/people/j/joharis.php\">IS Johar</a>).</p>\n<p>The opening scene, of Lawrence’s fatal motorbike ride, which in reality took place in Dorset) is <span class=\"name\">Chobham</span>, <a href=\"https://www.movie-locations.com/places/uk/surrey.php\">Surrey</a>.</p>\n<p>It’s claimed that more scenes were filmed in <a href=\"https://www.movie-locations.com/places/africa/morocco.php\">Morocco</a>, at <span class=\"name\">Ait Benhaddou</span>, a spectacular village made up of several small kasbahs (fortresses), about fifteen miles northwest of <span class=\"name\">Ouarzazate</span>. Its red towers have been seen in <a href=\"https://www.movie-locations.com/movies/g/Gladiator.php\">Gladiator</a>, <a href=\"https://www.movie-locations.com/movies/l/Last-Days-Of-Sodom-And-Gomorrah.php\">The Last Days of Sodom and Gomorrah</a> and <span class=\"name\">The Jewel of the Nile</span>. The giant, now crumbling, <span class=\"name\">Glaoui Kasbah</span>, about three miles from <span class=\"name\">Ouarzazate</span> on the P31, was converted into a hotel, specially to house the cast..</p>\n<p>Extra desert shots were filmed in the <a href=\"https://www.movie-locations.com/places/usa.php\">United States</a>, on the <span class=\"name\">Imperial Sand Dunes, Highway 78</span>, east of<span class=\"name\"> El Centro</span>, southern <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> close to the Mexican border.</p>",
+  "main_content_text": "Discover where David Lean's classic Lawrence Of Arabia (1962) was filmed, in Jordan; in Seville, southern Spain; Morocco; and London and Surrey in the UK.\n\nMost of the locations for David Lean’s last really great film, before his taste for the overblown tipped over into pomposity, can be found – despite appearances – in Spain.\n\nThe memorial service for TE Lawrence (Peter O’Toole) did actually use the steps in front of St Paul’s Cathedral in London, but even here, the interior was recreated in a Spanish studio. David Lean had already filmed at St Paul’s, back in 1946, for his classic adaptation of Charles Dickens’ Great Expectations.\n\nThe town of’ ‘Aqaba’ was built at a beach called Playa del Algarrobico near Carboneras, close to Almeria in southern Spain. The attack on the train filmed at Genovese Beach, San Jose on Cabo de Gata (Cape of the Cat) nearby.\n\nFor many of the ‘Middle Eastern’ settings, Lean used the heavily Moorish city of Seville, particularly the vast complex of buildings in the Parque de Maria Luisa, Avenida de Isabel la Catolica, built for the disastrous 1929 Spanish-American exhibition.\n\nHere you can find the ‘Cairo’ officers' club, where Lawrence’s companion is refused a drink after the desert crossing, which is the, currently empty and rather dilapidated, Palaçio Español, a semi-circular arcaded building in the Plaza de España (seen more recently as the exterior of ‘Naboo's Theed palace’ in Star Wars Episode II: Attack of the Clones, and as the presidential palace of ‘Wadiya’ in Sacha Baron Cohen comedy, The Dictator).\n\n‘Jerusalem’s civic buildings’ are the Plaza of the Americas just to the south (seen as ‘Tangier’ in John Milius’s 1975 epic The Wind and the Lion, with Candice Bergen and Sean Connery), while ‘Damascus’ town hall, the Arab council chamber, is the nearby circular El Casino, Avenida de Maria Luisa.\n\nAlso in Seville is the courtyard of the Officers’ Club, which is the central court of the luxurious, though extremely friendly, Hotel Alfonso XIII, 2 San Fernando 41004.\n\nLawrence and General Allenby (Jack Hawkins) meet in another Seville landmark, the Casa de Pilatos, Plaza de Pilatos, built in 1519, the claim that it’s a copy of Pontius Pilate’s – surprisingly 16th century – Jerusalem home, sadly, seems to be a myth. During the performance of a religious play here in the 16th century, the character of Pilate appeared at a window to deliver a short speech, since when the palace was popularly referred to as Pilate´s home. The villa crops up again in Ridley Scott's 1492: Conquest Of Paradise and as the hideout of the main villain in Tom Cruise-Cameron Diaz action comedy Knight And Day.\n\nBut of course, the real visual splendour of Lawrence lies in its breathtaking desertscapes, which were filmed in Jordan.\n\nLawrence’s first introduction to the desert is the black basalt landscape of Jebel Tubayq, near Jordan's Saudi Arabian border, as is much of the trekking and the caravan across the Nefud. The camp of Prince Feisal (Alec Guinness), and the well where Lawrence gets a little bit carried away with his new Arab robes, are the spectacular red cliffs of Wadi Rum, twenty miles north of the Gulf of Aqaba.\n\nThe spectacular camel ride entrance of Sherif Ali (Omar Sharif) used the mudflats at Jafr in Jordan (of course, Sharif wasn’t actually in this, his most famous scene), as did the rescue of the lost Gasim (IS Johar).\n\nThe opening scene, of Lawrence’s fatal motorbike ride, which in reality took place in Dorset) is Chobham, Surrey.\n\nIt’s claimed that more scenes were filmed in Morocco, at Ait Benhaddou, a spectacular village made up of several small kasbahs (fortresses), about fifteen miles northwest of Ouarzazate. Its red towers have been seen in Gladiator, The Last Days of Sodom and Gomorrah and The Jewel of the Nile. The giant, now crumbling, Glaoui Kasbah, about three miles from Ouarzazate on the P31, was converted into a hotel, specially to house the cast..\n\nExtra desert shots were filmed in the United States, on the Imperial Sand Dunes, Highway 78, east of El Centro, southern California close to the Mexican border.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Lawrence of Arabia film location: The Arabian desert: the cliffs of Wadi Rumm, Jordan | Photograph: Wikimedia / Tango7174",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/001.jpg",
+      "alt": "Lawrence of Arabia filming location: Wadi Rumm, Jordan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover where David Lean's classic Lawrence Of Arabia (1962) was filmed, in Jordan; in Seville, southern Spain; Morocco; and London and Surrey in the UK."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most of the locations for David Lean’s last really great film, before his taste for the overblown tipped over into pomposity, can be found – despite appearances – in Spain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The memorial service for TE Lawrence (Peter O’Toole) did actually use the steps in front of St Paul’s Cathedral in London, but even here, the interior was recreated in a Spanish studio. David Lean had already filmed at St Paul’s, back in 1946, for his classic adaptation of Charles Dickens’ Great Expectations."
+    },
+    {
+      "type": "image",
+      "caption": "Lawrence of Arabia film location: The memorial service for TE Lawrence: St Paul’s Cathedral, London",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/003.jpg",
+      "alt": "Lawrence of Arabia filming location: St Paul’s Cathedral, London"
+    },
+    {
+      "type": "paragraph",
+      "text": "The town of’ ‘Aqaba’ was built at a beach called Playa del Algarrobico near Carboneras, close to Almeria in southern Spain. The attack on the train filmed at Genovese Beach, San Jose on Cabo de Gata (Cape of the Cat) nearby."
+    },
+    {
+      "type": "image",
+      "caption": "Lawrence of Arabia film location: The Officers’ club in ‘Cairo’: Plaza de Espana, Seville, Spain",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/004.jpg",
+      "alt": "Lawrence of Arabia filming location: Plaza de Espana, Seville, Spain"
+    },
+    {
+      "type": "paragraph",
+      "text": "For many of the ‘Middle Eastern’ settings, Lean used the heavily Moorish city of Seville, particularly the vast complex of buildings in the Parque de Maria Luisa, Avenida de Isabel la Catolica, built for the disastrous 1929 Spanish-American exhibition."
+    },
+    {
+      "type": "image",
+      "caption": "Lawrence of Arabia film location: the civic buildings of ‘Jerusalem’: Plaza of the Americas, Seville, Spain",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/005.jpg",
+      "alt": "Lawrence of Arabia filming location:  Plaza of the Americas, Seville, Spain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here you can find the ‘Cairo’ officers' club, where Lawrence’s companion is refused a drink after the desert crossing, which is the, currently empty and rather dilapidated, Palaçio Español, a semi-circular arcaded building in the Plaza de España (seen more recently as the exterior of ‘Naboo's Theed palace’ in Star Wars Episode II: Attack of the Clones, and as the presidential palace of ‘Wadiya’ in Sacha Baron Cohen comedy, The Dictator)."
+    },
+    {
+      "type": "image",
+      "caption": "Lawrence of Arabia film location: the council chamber: El Casino, Seville, Spain",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/006.jpg",
+      "alt": "Lawrence of Arabia filming location: El Casino, Seville, Spain"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Jerusalem’s civic buildings’ are the Plaza of the Americas just to the south (seen as ‘Tangier’ in John Milius’s 1975 epic The Wind and the Lion, with Candice Bergen and Sean Connery), while ‘Damascus’ town hall, the Arab council chamber, is the nearby circular El Casino, Avenida de Maria Luisa."
+    },
+    {
+      "type": "image",
+      "caption": "Lawrence of Arabia film location: Courtyard of the officers' club: Seville's luxurious Alfonso XIII Hotel",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/007.jpg",
+      "alt": "Lawrence of Arabia filming location: Alfonso XIII Hotel, Seville, Spain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also in Seville is the courtyard of the Officers’ Club, which is the central court of the luxurious, though extremely friendly, Hotel Alfonso XIII, 2 San Fernando 41004."
+    },
+    {
+      "type": "image",
+      "caption": "Lawrence of Arabia film location: Lawrence meets General Allenby: Casa de Pilatos, Plaza de Pilatos, Seville",
+      "src": "_assets/tt0056172%20-%20Lawrence-Of-Arabia/008.jpg",
+      "alt": "Lawrence of Arabia filming location: Casa de Pilatos, Plaza de Pilatos, Seville, Spain"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lawrence and General Allenby (Jack Hawkins) meet in another Seville landmark, the Casa de Pilatos, Plaza de Pilatos, built in 1519, the claim that it’s a copy of Pontius Pilate’s – surprisingly 16th century – Jerusalem home, sadly, seems to be a myth. During the performance of a religious play here in the 16th century, the character of Pilate appeared at a window to deliver a short speech, since when the palace was popularly referred to as Pilate´s home. The villa crops up again in Ridley Scott's 1492: Conquest Of Paradise and as the hideout of the main villain in Tom Cruise-Cameron Diaz action comedy Knight And Day."
+    },
+    {
+      "type": "paragraph",
+      "text": "But of course, the real visual splendour of Lawrence lies in its breathtaking desertscapes, which were filmed in Jordan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lawrence’s first introduction to the desert is the black basalt landscape of Jebel Tubayq, near Jordan's Saudi Arabian border, as is much of the trekking and the caravan across the Nefud. The camp of Prince Feisal (Alec Guinness), and the well where Lawrence gets a little bit carried away with his new Arab robes, are the spectacular red cliffs of Wadi Rum, twenty miles north of the Gulf of Aqaba."
+    },
+    {
+      "type": "paragraph",
+      "text": "The spectacular camel ride entrance of Sherif Ali (Omar Sharif) used the mudflats at Jafr in Jordan (of course, Sharif wasn’t actually in this, his most famous scene), as did the rescue of the lost Gasim (IS Johar)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The opening scene, of Lawrence’s fatal motorbike ride, which in reality took place in Dorset) is Chobham, Surrey."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s claimed that more scenes were filmed in Morocco, at Ait Benhaddou, a spectacular village made up of several small kasbahs (fortresses), about fifteen miles northwest of Ouarzazate. Its red towers have been seen in Gladiator, The Last Days of Sodom and Gomorrah and The Jewel of the Nile. The giant, now crumbling, Glaoui Kasbah, about three miles from Ouarzazate on the P31, was converted into a hotel, specially to house the cast.."
+    },
+    {
+      "type": "paragraph",
+      "text": "Extra desert shots were filmed in the United States, on the Imperial Sand Dunes, Highway 78, east of El Centro, southern California close to the Mexican border."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Jordan</h3>\n<p>Visit: Jordan</p>\n<p>Flights: Queen Alia International Airport, 30 km south of Amman</p>\n<p>Visit: Petra, Wadi Musa</p>\n<p>Bus: JETT (Jordan Express Tourist Transportation) buses connect to Amman (about 3 hours) and Aqaba via the Desert Highway</p>\n</section>\n<section><h3>Spain</h3>\n<p>Visit: Spain</p>\n<p>Visit: Almería</p>\n<p>Flights: Almería Airport, Carretera Níjar, Km 9, 04130 Almería (tel: +34.902.40.47.04)</p>\n<p>Visit: the Cabo de Gata-Níjar Natural Park</p>\n<p>Visit: Seville</p>\n<p>Flights: Seville Airport, A-4, Km. 532, 41020 Sevilla (tel: 34.954.44.90.00)</p>\n<p>Stay at: the Hotel Alfonso XIII, Calle San Fernando, 2, 41004 Sevilla (tel: +34.954.91.70.00)</p>\n<p>Visit: the Plaza de España, Avenida de Isabel la Católica, 41004 Sevilla</p>\n<p>Visit: the Casa de Pilatos, Plaza de Pilatos, 1 - 41003 Sevilla (tel: +34.954.22.52.98)</p>\n</section>\n<section><h3>Morocco</h3>\n<p>Visit: Morocco</p>\n<p>Visit: Marrakech</p>\n<p>Flights: Marrakech Menara Airport, Ménara, Marrakech 40000 (tel: +212.5244.47910)</p>\n<p>Visit: Ouarzazate</p>\n</section>\n<section><h3>UK | London</h3>\n<p>Flights: Heathrow Airport; Gatwick Airport</p>\n<p>Visit: London</p>\n<p>Travelling: Transport For London</p>\n</section>\n<section><h3>UK | Surrey</h3>\n<p>Visit: Surrey</p>\n</section>\n<section><h3>California</h3>\n<p>Visit: California</p>\n</section>",
+  "visit_info_text": "Jordan\nVisit: Jordan\nFlights: Queen Alia International Airport, 30 km south of Amman\nVisit: Petra, Wadi Musa\nBus: JETT (Jordan Express Tourist Transportation) buses connect to Amman (about 3 hours) and Aqaba via the Desert Highway\nSpain\nVisit: Spain\nVisit: Almería\nFlights: Almería Airport, Carretera Níjar, Km 9, 04130 Almería (tel: +34.902.40.47.04)\nVisit: the Cabo de Gata-Níjar Natural Park\nVisit: Seville\nFlights: Seville Airport, A-4, Km. 532, 41020 Sevilla (tel: 34.954.44.90.00)\nStay at: the Hotel Alfonso XIII, Calle San Fernando, 2, 41004 Sevilla (tel: +34.954.91.70.00)\nVisit: the Plaza de España, Avenida de Isabel la Católica, 41004 Sevilla\nVisit: the Casa de Pilatos, Plaza de Pilatos, 1 - 41003 Sevilla (tel: +34.954.22.52.98)\nMorocco\nVisit: Morocco\nVisit: Marrakech\nFlights: Marrakech Menara Airport, Ménara, Marrakech 40000 (tel: +212.5244.47910)\nVisit: Ouarzazate\nUK | London\nFlights: Heathrow Airport; Gatwick Airport\nVisit: London\nTravelling: Transport For London\nUK | Surrey\nVisit: Surrey\nCalifornia\nVisit: California",
+  "visit_sections": [
+    {
+      "title": "Jordan",
+      "items": [
+        "Visit: Jordan",
+        "Flights: Queen Alia International Airport, 30 km south of Amman",
+        "Visit: Petra, Wadi Musa",
+        "Bus: JETT (Jordan Express Tourist Transportation) buses connect to Amman (about 3 hours) and Aqaba via the Desert Highway"
+      ]
+    },
+    {
+      "title": "Spain",
+      "items": [
+        "Visit: Spain",
+        "Visit: Almería",
+        "Flights: Almería Airport, Carretera Níjar, Km 9, 04130 Almería (tel: +34.902.40.47.04)",
+        "Visit: the Cabo de Gata-Níjar Natural Park",
+        "Visit: Seville",
+        "Flights: Seville Airport, A-4, Km. 532, 41020 Sevilla (tel: 34.954.44.90.00)",
+        "Stay at: the Hotel Alfonso XIII, Calle San Fernando, 2, 41004 Sevilla (tel: +34.954.91.70.00)",
+        "Visit: the Plaza de España, Avenida de Isabel la Católica, 41004 Sevilla",
+        "Visit: the Casa de Pilatos, Plaza de Pilatos, 1 - 41003 Sevilla (tel: +34.954.22.52.98)"
+      ]
+    },
+    {
+      "title": "Morocco",
+      "items": [
+        "Visit: Morocco",
+        "Visit: Marrakech",
+        "Flights: Marrakech Menara Airport, Ménara, Marrakech 40000 (tel: +212.5244.47910)",
+        "Visit: Ouarzazate"
+      ]
+    },
+    {
+      "title": "UK | London",
+      "items": [
+        "Flights: Heathrow Airport; Gatwick Airport",
+        "Visit: London",
+        "Travelling: Transport For London"
+      ]
+    },
+    {
+      "title": "UK | Surrey",
+      "items": [
+        "Visit: Surrey"
+      ]
+    },
+    {
+      "title": "California",
+      "items": [
+        "Visit: California"
+      ]
+    }
+  ]
+}

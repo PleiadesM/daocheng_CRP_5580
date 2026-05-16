@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt0071562",
+  "shorthand": "Godfather-2",
+  "title": "The Godfather Part II",
+  "year": 1974,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0071562 - Godfather-2.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0071562 - Godfather-2.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0071562.json",
+  "source_url": "http://www.movie-locations.com/movies/g/Godfather-2.php",
+  "page_title": "The Godfather Part 2 | Film Locations",
+  "meta_description": "The filming locations for Francis Ford Coppola's The Godfather Part II (1974), in New York; Lake Tahoe; Miami, Florida; Dominican Republic; California; and Sicily.",
+  "meta_keywords": "The Godfather Part 2, film locations, filming locations, travel, tourism, set-jetting, new york, manhattan, sicily, nevada",
+  "og_title": "The filming locations for The Godfather Part II (1974), in New York; Lake Tahoe; Miami, Florida; Dominican Republic; California; and Sicily.",
+  "og_description": "The filming locations for The Godfather Part II (1974), in New York; Lake Tahoe; Miami, Florida; Dominican Republic; California; and Sicily.",
+  "og_image": "http://www.movie-locations.com/movies/g/godfather-part-2-meta.jpg",
+  "top250_rank": "8",
+  "movie_locations_title": "THE GODFATHER PART II",
+  "movie_locations_regions": "New York | California | Nevada | Florida | Italy | Dominican Republic",
+  "director": "Francis Ford Coppola",
+  "cast": [
+    "Robert de Niro",
+    "Al Pacino",
+    "Lee Strasberg",
+    "Robert Duvall",
+    "Diane Keaton",
+    "John Cazale",
+    "Talia Shire",
+    "Michael V Gazzo",
+    "Bruno Kirby",
+    "Richard Bright",
+    "Frank Sivero",
+    "Roger Corman",
+    "Peter Donat",
+    "GD Spradlin"
+  ],
+  "locations": [
+    "New York;",
+    "California;",
+    "Nevada;",
+    "Florida;",
+    "Italy;",
+    "Dominican Republic"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0071562%20-%20Godfather-2/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0071562 - Godfather-2/002.jpg",
+    "exists": true,
+    "alt": "The Godfather Part 2 poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0071562/poster.jpg",
+    "corpus_asset_src": "../assets/tt0071562/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0071562%20-%20Godfather-2/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0071562 - Godfather-2/001.jpg",
+    "exists": true,
+    "alt": "The Godfather Part 2 filming location: PH Vazac's, East Village, New York",
+    "caption": "The Godfather Part II location: The Rosato brothers attack Pentangeli: Vazac's Horseshoe Bar, East Village, New York",
+    "width": 630,
+    "height": 420,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0071562/001.jpg",
+    "corpus_asset_src": "../assets/tt0071562/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0071562%20-%20Godfather-2/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0071562 - Godfather-2/001.jpg",
+      "exists": true,
+      "alt": "The Godfather Part 2 filming location: PH Vazac's, East Village, New York",
+      "caption": "The Godfather Part II location: The Rosato brothers attack Pentangeli: Vazac's Horseshoe Bar, East Village, New York",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0071562/001.jpg",
+      "corpus_asset_src": "../assets/tt0071562/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0071562%20-%20Godfather-2/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0071562 - Godfather-2/002.jpg",
+      "exists": true,
+      "alt": "The Godfather Part 2 poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0071562/002.jpg",
+      "corpus_asset_src": "../assets/tt0071562/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0071562%20-%20Godfather-2/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0071562 - Godfather-2/003.jpg",
+      "exists": true,
+      "alt": "The Godfather Part 2 filming location: PH Vazac's, East Village, New York",
+      "caption": "The Godfather Part II location: The Rosato brothers attack Pentangeli: Vazac's Horseshoe Bar, East Village, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0071562/003.jpg",
+      "corpus_asset_src": "../assets/tt0071562/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0071562%20-%20Godfather-2/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0071562 - Godfather-2/004.jpg",
+      "exists": true,
+      "alt": "The Godfather Part 2 filming location: East 7th Street, East Village, New York",
+      "caption": "The Godfather Part II location: The shoot-out with the Rosato brothers: East 7th Street, East Village, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0071562/004.jpg",
+      "corpus_asset_src": "../assets/tt0071562/004.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0071562/001.jpg\" alt=\"The Godfather Part 2 filming location: PH Vazac's, East Village, New York\"><figcaption>The Godfather Part II location: The Rosato brothers attack Pentangeli: Vazac's Horseshoe Bar, East Village, New York</figcaption></figure>\n<p>Discover where <span class=\"name\">The Godfather Part II</span> (1974) was filmed, in <span class=\"name\">New York; Lake Tahoe; Miami, Florida; Dominican Republic; California</span>; and <span class=\"name\">Sicily</span>.</p>\n<p>Regarded by many as  superior to part one, <span class=\"name\">The Godfather, Part II</span> was the first sequel ever to win Best Picture at the Oscars.</p>\n<p>The village of Vito Andolini’s youth is supposedly ‘Corleone’, a real town about twenty miles south of Palermo in western <span class=\"name\">Sicily</span>, though the locale seen in the movie is around <span class=\"name\">Taormina</span> in the northeast of the island.</p>\n<p>A more surprising Italian location is <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>’s 'Ellis Island', point of arrival for European immigrants during the first half of the century, where Vito Andolini becomes Vito Corleone. The buildings had fallen into disrepair, but are now restored as the <a href=\"http://www.libertyellisfoundation.org/immigration-museum\" target=\"_blank\">Ellis Island Immigration Museum</a>. The museum is located in the Main Building of the former immigration station complex, and records stories of the 12 million immigrants who passed through Ellis Island to a new life in America. The film uses the <span class=\"name\">Old Fish Market</span> at <span class=\"name\">Trieste</span>, on the Adriatic coast of northern <a href=\"https://www.movie-locations.com/places/europe/italy.php\">Italy</a>. This, too, has been restored and is now a cultural centre, the <a href=\"http://salonedeglincanti.comune.trieste.it\" target=\"_blank\">Salone Degli Incanti</a> (Salon of Enchantments). </p>\n<p>The Corleone lakeside estate is <span class=\"name\">Fleur du Lac</span>, the Henry Kaiser estate on the western <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> shore of <span class=\"name\">Lake Tahoe</span>. The lakeside area has been developed and the Corleone compound is now the boathouse of a private, gated, community.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0071562/003.jpg\" alt=\"The Godfather Part 2 filming location: PH Vazac's, East Village, New York\"><figcaption>The Godfather Part II location: The Rosato brothers attack Pentangeli: Vazac's Horseshoe Bar, East Village, New York</figcaption></figure>\n<p>The scenes of younger Vito’s  Little Italy neighbourhood of 1917 were shot on <span class=\"name\">Sixth Street</span> in the <span class=\"name\">East Village</span> between <span class=\"name\">Avenues A and B</span>, tricked out in period dressing.</p>\n<p>A block north, you'll find the bar where the Rosato brothers try to garotte Pentangeli, which was PH Vazac’s and is now <a href=\"https://www.facebook.com/7bHorseshoeBarAkaVazacs/\" target=\"_blank\">7B Horseshoe Bar (Vazac's)</a>, <span class=\"name\">108 Avenue B</span> at Seventh Street (known as Seven and B), at the southeast corner of Tompkins Square Park in the <span class=\"name\">East Village</span>.</p>\n<p>Popular in movies as a ‘lowlife’ bar, <a href=\"https://www.facebook.com/7bHorseshoeBarAkaVazacs/\" target=\"_blank\">7B Horseshoe Bar</a> is where Mick Dundee (<a href=\"https://www.movie-locations.com/people/h/hoganp.php\">Paul Hogan</a>) gets unwittingly fixed up with a bloke in drag in <a href=\"https://www.movie-locations.com/movies/c/Crocodile-Dundee.php\">Crocodile Dundee</a>; where Harry Angel (<font color=\"#999999\"><a href=\"https://www.movie-locations.com/people/r/rourkem.php\">Mickey \n        Rourke</a></font>) gets photos of Johnny Favorite in <a href=\"https://www.movie-locations.com/people/p/parkera.php\">Alan Parker</a>'s <a href=\"https://www.movie-locations.com/movies/a/Angel-Heart.php\">Angel Heart</a>; and it's the local hangout in 1988's <span class=\"name\">Five Corners</span> with <a href=\"https://www.movie-locations.com/people/f/fosterj.php\">Jodie Foster</a> and <a href=\"https://www.movie-locations.com/people/r/robbinst.php\">Tim Robbins</a>. I love this bar. It's not the place if you want elegance and cocktails, but it's a friendly local with a great jukebox.</p>\n<p>The ensuing shoot-out was filmed outside on <span class=\"name\">East Seventh Street</span>.</p>\n<p>When Michael Corleone (<a href=\"https://www.movie-locations.com/people/p/pacinoa.php\">Al Pacino</a>) visits Hyman Roth (legendary acting coach <a href=\"https://www.movie-locations.com/people/s/strasbergl.php\">Lee Strasberg</a>) in <span class=\"name\">Miami</span> it’s the real thing, but ‘Cuba’ was clearly out of the question. The pre-Revolutionary scenes were filmed in the <span class=\"name\">Dominican Republic</span>, the eastern part of the island of <span class=\"name\">Hispaniola</span> (Gulf &amp; Western, Paramount’s parent company conveniently owns property in there).</p>\n<p><span class=\"name\">Santo Domingo</span>, the island’s capital on the southern coast, stands in for 1950s ‘Havana’, where Roth’s hotel is <a href=\"http://www.occidentalhotels.com/city-hotel/occidental-el-embajador\" target=\"_blank\">Occidental El Embajador</a>, <span class=\"name\">Avenue Sarasota 65</span>, built in 1956 and given a major makeover in 2014.</p>\n<p><span class=\"name\">Santo Domingo</span>’s enormous <span class=\"name\">Presidential Palace</span> stands in for the palace of President Batista, where the New Year’s festivities are cut short by insurrection.</p>\n<p>Back in the USA, the army post, where the FBI protect Pentangeli, is the <span class=\"name\">California Institute for Men, Central Avenue</span>, three miles south of <span class=\"name\">Chino</span>, Highway 60 to the east of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>The <a href=\"https://www.movie-locations.com/places/usa/florida.php\">Florida</a> home of Hyman Roth is <span class=\"name\">2045 North Hibiscus Drive</span> off Biscayne Boulevard in the <span class=\"name\">Keystone Islands</span> of <span class=\"name\">North Miami</span>.</p>\n<p>Two other places claiming to have been used as locations, but not instantly recognisable, are the <span class=\"name\">Doheny Mansion, Chester Place</span>, on the campus of Mount St Mary’s College, off West Adams Boulevard in <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>. You can see the Mansion in <a href=\"https://www.movie-locations.com/people/r/raimis.php\">Sam Raimi</a>'s <a href=\"https://www.movie-locations.com/movies/d/Drag-Me-To-Hell.php\">Drag Me To Hell</a> and <a href=\"https://www.movie-locations.com/movies/s/Spider-Man-3.php\">Spider-Man3</a>, and as the ‘Consulate of Genovia’ in <a href=\"https://www.movie-locations.com/movies/p/Princess-Diaries.php\">The Princess Diaries</a>.</p>\n<p>While in <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New \n        York</a>,  venerable coffee house <span class=\"name\">Caffe Reggio, 19 MacDougal Street</span> at West 3rd Street in Greenwich Village is often claimed to appear in the film.</p>\n<p>The<span class=\"name\"> Reggio</span>, reputed to be <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New \n        York</a>’s oldest coffee house, is also supposed to featured in <span class=\"name\">Serpico</span> but, although Frank Serpico's classmate says she works in <span class=\"name\">Caffe Reggio</span>, we don’t – despite claims made in many <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New \n      York</a> guidebooks – actually get to see the famed Village hangout. You can, though, see the cafe in the dull 1976 <font color=\"#999999\"><a href=\"https://www.movie-locations.com/people/c/connerys.php\">Sean Connery</a></font> thriller <span class=\"name\">The Next Man</span>, as well as in the original 1971 <a href=\"https://www.movie-locations.com/movies/s/Shaft-1971.php\">Shaft</a> and more recently in the <span class=\"name\">Coens</span>’ <a href=\"https://www.movie-locations.com/movies/i/Inside-Llewyn-Davis.php\">Inside Llewyn Davis</a>.</p>",
+  "main_content_text": "Discover where The Godfather Part II (1974) was filmed, in New York; Lake Tahoe; Miami, Florida; Dominican Republic; California; and Sicily.\n\nRegarded by many as superior to part one, The Godfather, Part II was the first sequel ever to win Best Picture at the Oscars.\n\nThe village of Vito Andolini’s youth is supposedly ‘Corleone’, a real town about twenty miles south of Palermo in western Sicily, though the locale seen in the movie is around Taormina in the northeast of the island.\n\nA more surprising Italian location is New York’s 'Ellis Island', point of arrival for European immigrants during the first half of the century, where Vito Andolini becomes Vito Corleone. The buildings had fallen into disrepair, but are now restored as the Ellis Island Immigration Museum. The museum is located in the Main Building of the former immigration station complex, and records stories of the 12 million immigrants who passed through Ellis Island to a new life in America. The film uses the Old Fish Market at Trieste, on the Adriatic coast of northern Italy. This, too, has been restored and is now a cultural centre, the Salone Degli Incanti (Salon of Enchantments).\n\nThe Corleone lakeside estate is Fleur du Lac, the Henry Kaiser estate on the western California shore of Lake Tahoe. The lakeside area has been developed and the Corleone compound is now the boathouse of a private, gated, community.\n\nThe scenes of younger Vito’s Little Italy neighbourhood of 1917 were shot on Sixth Street in the East Village between Avenues A and B, tricked out in period dressing.\n\nA block north, you'll find the bar where the Rosato brothers try to garotte Pentangeli, which was PH Vazac’s and is now 7B Horseshoe Bar (Vazac's), 108 Avenue B at Seventh Street (known as Seven and B), at the southeast corner of Tompkins Square Park in the East Village.\n\nPopular in movies as a ‘lowlife’ bar, 7B Horseshoe Bar is where Mick Dundee (Paul Hogan) gets unwittingly fixed up with a bloke in drag in Crocodile Dundee; where Harry Angel (Mickey Rourke) gets photos of Johnny Favorite in Alan Parker's Angel Heart; and it's the local hangout in 1988's Five Corners with Jodie Foster and Tim Robbins. I love this bar. It's not the place if you want elegance and cocktails, but it's a friendly local with a great jukebox.\n\nThe ensuing shoot-out was filmed outside on East Seventh Street.\n\nWhen Michael Corleone (Al Pacino) visits Hyman Roth (legendary acting coach Lee Strasberg) in Miami it’s the real thing, but ‘Cuba’ was clearly out of the question. The pre-Revolutionary scenes were filmed in the Dominican Republic, the eastern part of the island of Hispaniola (Gulf & Western, Paramount’s parent company conveniently owns property in there).\n\nSanto Domingo, the island’s capital on the southern coast, stands in for 1950s ‘Havana’, where Roth’s hotel is Occidental El Embajador, Avenue Sarasota 65, built in 1956 and given a major makeover in 2014.\n\nSanto Domingo’s enormous Presidential Palace stands in for the palace of President Batista, where the New Year’s festivities are cut short by insurrection.\n\nBack in the USA, the army post, where the FBI protect Pentangeli, is the California Institute for Men, Central Avenue, three miles south of Chino, Highway 60 to the east of Los Angeles.\n\nThe Florida home of Hyman Roth is 2045 North Hibiscus Drive off Biscayne Boulevard in the Keystone Islands of North Miami.\n\nTwo other places claiming to have been used as locations, but not instantly recognisable, are the Doheny Mansion, Chester Place, on the campus of Mount St Mary’s College, off West Adams Boulevard in Los Angeles. You can see the Mansion in Sam Raimi's Drag Me To Hell and Spider-Man3, and as the ‘Consulate of Genovia’ in The Princess Diaries.\n\nWhile in New York, venerable coffee house Caffe Reggio, 19 MacDougal Street at West 3rd Street in Greenwich Village is often claimed to appear in the film.\n\nThe Reggio, reputed to be New York’s oldest coffee house, is also supposed to featured in Serpico but, although Frank Serpico's classmate says she works in Caffe Reggio, we don’t – despite claims made in many New York guidebooks – actually get to see the famed Village hangout. You can, though, see the cafe in the dull 1976 Sean Connery thriller The Next Man, as well as in the original 1971 Shaft and more recently in the Coens’ Inside Llewyn Davis.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "The Godfather Part II location: The Rosato brothers attack Pentangeli: Vazac's Horseshoe Bar, East Village, New York",
+      "src": "_assets/tt0071562%20-%20Godfather-2/001.jpg",
+      "alt": "The Godfather Part 2 filming location: PH Vazac's, East Village, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover where The Godfather Part II (1974) was filmed, in New York; Lake Tahoe; Miami, Florida; Dominican Republic; California; and Sicily."
+    },
+    {
+      "type": "paragraph",
+      "text": "Regarded by many as superior to part one, The Godfather, Part II was the first sequel ever to win Best Picture at the Oscars."
+    },
+    {
+      "type": "paragraph",
+      "text": "The village of Vito Andolini’s youth is supposedly ‘Corleone’, a real town about twenty miles south of Palermo in western Sicily, though the locale seen in the movie is around Taormina in the northeast of the island."
+    },
+    {
+      "type": "paragraph",
+      "text": "A more surprising Italian location is New York’s 'Ellis Island', point of arrival for European immigrants during the first half of the century, where Vito Andolini becomes Vito Corleone. The buildings had fallen into disrepair, but are now restored as the Ellis Island Immigration Museum. The museum is located in the Main Building of the former immigration station complex, and records stories of the 12 million immigrants who passed through Ellis Island to a new life in America. The film uses the Old Fish Market at Trieste, on the Adriatic coast of northern Italy. This, too, has been restored and is now a cultural centre, the Salone Degli Incanti (Salon of Enchantments)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Corleone lakeside estate is Fleur du Lac, the Henry Kaiser estate on the western California shore of Lake Tahoe. The lakeside area has been developed and the Corleone compound is now the boathouse of a private, gated, community."
+    },
+    {
+      "type": "image",
+      "caption": "The Godfather Part II location: The Rosato brothers attack Pentangeli: Vazac's Horseshoe Bar, East Village, New York",
+      "src": "_assets/tt0071562%20-%20Godfather-2/003.jpg",
+      "alt": "The Godfather Part 2 filming location: PH Vazac's, East Village, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "The scenes of younger Vito’s Little Italy neighbourhood of 1917 were shot on Sixth Street in the East Village between Avenues A and B, tricked out in period dressing."
+    },
+    {
+      "type": "paragraph",
+      "text": "A block north, you'll find the bar where the Rosato brothers try to garotte Pentangeli, which was PH Vazac’s and is now 7B Horseshoe Bar (Vazac's), 108 Avenue B at Seventh Street (known as Seven and B), at the southeast corner of Tompkins Square Park in the East Village."
+    },
+    {
+      "type": "paragraph",
+      "text": "Popular in movies as a ‘lowlife’ bar, 7B Horseshoe Bar is where Mick Dundee (Paul Hogan) gets unwittingly fixed up with a bloke in drag in Crocodile Dundee; where Harry Angel (Mickey Rourke) gets photos of Johnny Favorite in Alan Parker's Angel Heart; and it's the local hangout in 1988's Five Corners with Jodie Foster and Tim Robbins. I love this bar. It's not the place if you want elegance and cocktails, but it's a friendly local with a great jukebox."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ensuing shoot-out was filmed outside on East Seventh Street."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Michael Corleone (Al Pacino) visits Hyman Roth (legendary acting coach Lee Strasberg) in Miami it’s the real thing, but ‘Cuba’ was clearly out of the question. The pre-Revolutionary scenes were filmed in the Dominican Republic, the eastern part of the island of Hispaniola (Gulf & Western, Paramount’s parent company conveniently owns property in there)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Santo Domingo, the island’s capital on the southern coast, stands in for 1950s ‘Havana’, where Roth’s hotel is Occidental El Embajador, Avenue Sarasota 65, built in 1956 and given a major makeover in 2014."
+    },
+    {
+      "type": "paragraph",
+      "text": "Santo Domingo’s enormous Presidential Palace stands in for the palace of President Batista, where the New Year’s festivities are cut short by insurrection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Back in the USA, the army post, where the FBI protect Pentangeli, is the California Institute for Men, Central Avenue, three miles south of Chino, Highway 60 to the east of Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Florida home of Hyman Roth is 2045 North Hibiscus Drive off Biscayne Boulevard in the Keystone Islands of North Miami."
+    },
+    {
+      "type": "paragraph",
+      "text": "Two other places claiming to have been used as locations, but not instantly recognisable, are the Doheny Mansion, Chester Place, on the campus of Mount St Mary’s College, off West Adams Boulevard in Los Angeles. You can see the Mansion in Sam Raimi's Drag Me To Hell and Spider-Man3, and as the ‘Consulate of Genovia’ in The Princess Diaries."
+    },
+    {
+      "type": "paragraph",
+      "text": "While in New York, venerable coffee house Caffe Reggio, 19 MacDougal Street at West 3rd Street in Greenwich Village is often claimed to appear in the film."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Reggio, reputed to be New York’s oldest coffee house, is also supposed to featured in Serpico but, although Frank Serpico's classmate says she works in Caffe Reggio, we don’t – despite claims made in many New York guidebooks – actually get to see the famed Village hangout. You can, though, see the cafe in the dull 1976 Sean Connery thriller The Next Man, as well as in the original 1971 Shaft and more recently in the Coens’ Inside Llewyn Davis."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n<p>Visit: 7B Horseshoe Bar (Vazac's), 108 Avenue B, New York, NY 10009 (tel: 212.677.6742)</p>\n<p>Visit: the Ellis Island Immigration Museum (tel: 212.561.4588)</p>\n</section>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n</section>\n<section><h3>Nevada</h3>\n<p>Visit: Nevada</p>\n<p>Visit: Las Vegas</p>\n<p>Flights: Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, Las Vegas, NV 89119 (tel: 702.261.5211)</p>\n<p>Visit: the Tropicana, 3801 Las Vegas Boulevard South, Las Vegas, NV 89109 (tel: 702.739.2222)</p>\n</section>\n<section><h3>Florida</h3>\n<p>Visit: Florida</p>\n<p>Visit: Miami &amp; The Beaches</p>\n</section>\n<section><h3>Italy</h3>\n<p>Visit: Italy</p>\n<p>Visit: Sicily</p>\n<p>Visit: Trieste</p>\n<p>Visit: the Salone Degli Incanti, Riva Nazario Sauro, 1, 34123 Trieste</p>\n</section>\n<section><h3>Dominican Republic</h3>\n<p>Visit: Dominican Republic</p>\n<p>Stay at: the Occidental El Embajador, Avenue Sarasota 65, Santo Domingo 11211, Dominican Republic (tel: +44.800.021.1573)</p>\n</section>",
+  "visit_info_text": "New York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nVisit: 7B Horseshoe Bar (Vazac's), 108 Avenue B, New York, NY 10009 (tel: 212.677.6742)\nVisit: the Ellis Island Immigration Museum (tel: 212.561.4588)\nCalifornia | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nNevada\nVisit: Nevada\nVisit: Las Vegas\nFlights: Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, Las Vegas, NV 89119 (tel: 702.261.5211)\nVisit: the Tropicana, 3801 Las Vegas Boulevard South, Las Vegas, NV 89109 (tel: 702.739.2222)\nFlorida\nVisit: Florida\nVisit: Miami & The Beaches\nItaly\nVisit: Italy\nVisit: Sicily\nVisit: Trieste\nVisit: the Salone Degli Incanti, Riva Nazario Sauro, 1, 34123 Trieste\nDominican Republic\nVisit: Dominican Republic\nStay at: the Occidental El Embajador, Avenue Sarasota 65, Santo Domingo 11211, Dominican Republic (tel: +44.800.021.1573)",
+  "visit_sections": [
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA",
+        "Visit: 7B Horseshoe Bar (Vazac's), 108 Avenue B, New York, NY 10009 (tel: 212.677.6742)",
+        "Visit: the Ellis Island Immigration Museum (tel: 212.561.4588)"
+      ]
+    },
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro"
+      ]
+    },
+    {
+      "title": "Nevada",
+      "items": [
+        "Visit: Nevada",
+        "Visit: Las Vegas",
+        "Flights: Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, Las Vegas, NV 89119 (tel: 702.261.5211)",
+        "Visit: the Tropicana, 3801 Las Vegas Boulevard South, Las Vegas, NV 89109 (tel: 702.739.2222)"
+      ]
+    },
+    {
+      "title": "Florida",
+      "items": [
+        "Visit: Florida",
+        "Visit: Miami & The Beaches"
+      ]
+    },
+    {
+      "title": "Italy",
+      "items": [
+        "Visit: Italy",
+        "Visit: Sicily",
+        "Visit: Trieste",
+        "Visit: the Salone Degli Incanti, Riva Nazario Sauro, 1, 34123 Trieste"
+      ]
+    },
+    {
+      "title": "Dominican Republic",
+      "items": [
+        "Visit: Dominican Republic",
+        "Stay at: the Occidental El Embajador, Avenue Sarasota 65, Santo Domingo 11211, Dominican Republic (tel: +44.800.021.1573)"
+      ]
+    }
+  ]
+}

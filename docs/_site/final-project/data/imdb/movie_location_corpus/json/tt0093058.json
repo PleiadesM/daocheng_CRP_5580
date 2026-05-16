@@ -1,0 +1,163 @@
+{
+  "imdb_id": "tt0093058",
+  "shorthand": "Full-Metal-Jacket",
+  "title": "Full Metal Jacket",
+  "year": 1987,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0093058 - Full-Metal-Jacket.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0093058 - Full-Metal-Jacket.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0093058.json",
+  "source_url": "http://www.movie-locations.com/movies/f/Full-Metal-Jacket.php",
+  "page_title": "Full Metal Jacket | Film Locations",
+  "meta_description": "Film locations for Full Metal Jacket (1987), in London, Cambridgeshire and Norfolk.",
+  "meta_keywords": "Full Metal Jacket (1987), film locations, filming locations, tourism, travel, set-jetting, beckton, london, bassingbourn, cambridgeshire, norfolk",
+  "og_title": "Filming Locations for Full Metal Jacket (1987), in London, Cambridgeshire and Norfolk.",
+  "og_description": "Travel guide to filming locations for Full Metal Jacket (1987), in London, Cambridgeshire and Norfolk.",
+  "og_image": "http://www.movie-locations.com/movies/f/Full-Metal-Jacket.jpg",
+  "top250_rank": "189",
+  "movie_locations_title": "FULL METAL JACKET",
+  "movie_locations_regions": "London | Cambridgeshire | Norfolk",
+  "director": "Stanley Kubrick",
+  "cast": [
+    "Matthew Modine",
+    "R Lee Ermey",
+    "Adam Baldwin",
+    "Vincent d’Onofrio",
+    "Arliss Howard"
+  ],
+  "locations": [
+    "London;",
+    "Cambridgeshire;",
+    "Norfolk"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "Full-Metal-Jacket.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/Full-Metal-Jacket.jpg",
+    "exists": false,
+    "alt": "Full Metal Jacket poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": null,
+    "corpus_asset_src": null
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0093058%20-%20Full-Metal-Jacket/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0093058 - Full-Metal-Jacket/001.jpg",
+    "exists": true,
+    "alt": "Full Metal Jacket filming location: Bassingbourn Barracks, Bassingbourn, Cambridgeshire",
+    "caption": "Full Metal Jacket filming location: training at 'Parris Island': Bassingbourn Barracks, Bassingbourn, Cambridgeshire | Photograph: Anonymous",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0093058/001.jpg",
+    "corpus_asset_src": "../assets/tt0093058/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0093058%20-%20Full-Metal-Jacket/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0093058 - Full-Metal-Jacket/001.jpg",
+      "exists": true,
+      "alt": "Full Metal Jacket filming location: Bassingbourn Barracks, Bassingbourn, Cambridgeshire",
+      "caption": "Full Metal Jacket filming location: training at 'Parris Island': Bassingbourn Barracks, Bassingbourn, Cambridgeshire | Photograph: Anonymous",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0093058/001.jpg",
+      "corpus_asset_src": "../assets/tt0093058/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "Full-Metal-Jacket.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/Full-Metal-Jacket.jpg",
+      "exists": false,
+      "alt": "Full Metal Jacket poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": null,
+      "corpus_asset_src": null
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0093058%20-%20Full-Metal-Jacket/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0093058 - Full-Metal-Jacket/003.jpg",
+      "exists": true,
+      "alt": "Full Metal Jacket filming location: Bassingbourn Barracks, Bassingbourn, Cambridgeshire",
+      "caption": "Full Metal Jacket filming location: the rifle range at 'Parris Island': Bassingbourn Barracks, Bassingbourn, Cambridgeshire | Photograph: Anonymous",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0093058/003.jpg",
+      "corpus_asset_src": "../assets/tt0093058/003.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0093058/001.jpg\" alt=\"Full Metal Jacket filming location: Bassingbourn Barracks, Bassingbourn, Cambridgeshire\"><figcaption>Full Metal Jacket filming location: training at 'Parris Island': Bassingbourn Barracks, Bassingbourn, Cambridgeshire | Photograph: Anonymous</figcaption></figure>\n<p><a href=\"https://www.movie-locations.com/people/k/kubricks.php\">Stanley Kubrick</a>’s strange Vietnam movie, feels like two films in one, and looks like no other, without foliage or rolling green hills, but the bombed out ruins of a far eastern city.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0093058/003.jpg\" alt=\"Full Metal Jacket filming location: Bassingbourn Barracks, Bassingbourn, Cambridgeshire\"><figcaption>Full Metal Jacket filming location: the rifle range at 'Parris Island': Bassingbourn Barracks, Bassingbourn, Cambridgeshire | Photograph: Anonymous</figcaption></figure>\n<p>The first half, the training sequence on 'Marine Corps Recruit Depot Parris Island, South Carolina', was filmed at <span class=\"name\">PEA Bassingbourn Barracks</span>, <span class=\"name\">Bassingbourn</span>, north of Royston on the A505 between Cambridge and Letchworth in <a href=\"https://www.movie-locations.com/places/uk/cambs.php\">Cambridgeshire</a>. The barracks were established in 1970 on the site of the former RAF Bassingbourn airfield. <span class=\"name\">Bassingbourn</span>, originally an RAF station, became a bomber airfield of the Eighth Air Force, of the United States Army Air Forces during WWII. It remains the home of the <a href=\"http://www.towermuseumbassingbourn.co.uk\" target=\"_blank\">Tower Museum Bassingbourn</a>, housed in the original pre-war air traffic control tower.</p>\n<p>It was from <span class=\"name\">Bassingbourn</span> that the B17 Flying Fortress known as 'Memphis Belle', flew on bombing raids in 1942-3.      When Hollywood director <a href=\"https://www.movie-locations.com/people/w/wylerw.php\">William Wyler</a> came to <span class=\"name\">Bassingbourn</span>, he made the documentary <span class=\"name\">Memphis Belle</span> which, it's claimed, helped keep America in the war.</p>\n<p>The 1990 fictionalised version, Memphis Belle – which coincidentally also starred <a href=\"https://www.movie-locations.com/people/m/modinem.php\">Matthew Modine</a> – was filmed at RAF Binbrook in <a href=\"https://www.movie-locations.com/places/uk/lincs.php\">Lincolnshire</a>, which had recently vacated by the air force.      </p>\n<p>The bombed-out city of 'Hue' in 'Vietnam' was famously filmed in the vast abandoned gasworks at <span class=\"name\">Beckton</span>, on the north bank of the Thames just to the northeast of what is now <a href=\"https://www.londoncityairport.com\" target=\"_blank\">London City Airport</a>. The industrial site was dressed as the Far East by designer <span class=\"name\">Anton Furst</span> (the man who designed the brilliant Gotham City for <a href=\"https://www.movie-locations.com/people/b/burtont.php\">Tim Burton</a>’s 1989 <a href=\"https://www.movie-locations.com/movies/b/Batman-1989.php\">Batman</a>) and planted with (inevitably wilting) palm trees.</p>\n<p>The old industrial site was also used for the Japanese internment camp in <a href=\"https://www.movie-locations.com/people/s/spielbergs.php\">Steven Spielberg</a>'s film of <span class=\"name\">JG Ballard</span>'s <a href=\"https://www.movie-locations.com/movies/e/Empire-Of-The-Sun.php\">Empire Of The Sun</a>, for the horrible opening sequence of 1981 Bond movie <a href=\"https://www.movie-locations.com/movies/f/For-Your-Eyes-Only.php\">For Your Eyes Only</a>, and for the WWI battlefields of 1986's spoofy <span class=\"name\">Biggles</span>. The gasworks has now gone and the area has been mostly redeveloped.</p>\n<p>The delta helicopter scenes were filmed, not on the 'Mekong River', but above the <a href=\"http://www.enjoythebroads.com\" target=\"_blank\">Norfolk Broads</a>, a network of rivers and lakes extending into the county of <a href=\"https://www.movie-locations.com/places/uk/suffolk.php\">Suffolk</a>, known locally as broads, which was originally formed when rising sea levels flooded Medieval peat excavations. The <a href=\"http://www.enjoythebroads.com\" target=\"_blank\">Broads</a> remain a popular boating holiday destination.</p>",
+  "main_content_text": "Stanley Kubrick’s strange Vietnam movie, feels like two films in one, and looks like no other, without foliage or rolling green hills, but the bombed out ruins of a far eastern city.\n\nThe first half, the training sequence on 'Marine Corps Recruit Depot Parris Island, South Carolina', was filmed at PEA Bassingbourn Barracks, Bassingbourn, north of Royston on the A505 between Cambridge and Letchworth in Cambridgeshire. The barracks were established in 1970 on the site of the former RAF Bassingbourn airfield. Bassingbourn, originally an RAF station, became a bomber airfield of the Eighth Air Force, of the United States Army Air Forces during WWII. It remains the home of the Tower Museum Bassingbourn, housed in the original pre-war air traffic control tower.\n\nIt was from Bassingbourn that the B17 Flying Fortress known as 'Memphis Belle', flew on bombing raids in 1942-3. When Hollywood director William Wyler came to Bassingbourn, he made the documentary Memphis Belle which, it's claimed, helped keep America in the war.\n\nThe 1990 fictionalised version, Memphis Belle – which coincidentally also starred Matthew Modine – was filmed at RAF Binbrook in Lincolnshire, which had recently vacated by the air force.\n\nThe bombed-out city of 'Hue' in 'Vietnam' was famously filmed in the vast abandoned gasworks at Beckton, on the north bank of the Thames just to the northeast of what is now London City Airport. The industrial site was dressed as the Far East by designer Anton Furst (the man who designed the brilliant Gotham City for Tim Burton’s 1989 Batman) and planted with (inevitably wilting) palm trees.\n\nThe old industrial site was also used for the Japanese internment camp in Steven Spielberg's film of JG Ballard's Empire Of The Sun, for the horrible opening sequence of 1981 Bond movie For Your Eyes Only, and for the WWI battlefields of 1986's spoofy Biggles. The gasworks has now gone and the area has been mostly redeveloped.\n\nThe delta helicopter scenes were filmed, not on the 'Mekong River', but above the Norfolk Broads, a network of rivers and lakes extending into the county of Suffolk, known locally as broads, which was originally formed when rising sea levels flooded Medieval peat excavations. The Broads remain a popular boating holiday destination.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Full Metal Jacket filming location: training at 'Parris Island': Bassingbourn Barracks, Bassingbourn, Cambridgeshire | Photograph: Anonymous",
+      "src": "_assets/tt0093058%20-%20Full-Metal-Jacket/001.jpg",
+      "alt": "Full Metal Jacket filming location: Bassingbourn Barracks, Bassingbourn, Cambridgeshire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stanley Kubrick’s strange Vietnam movie, feels like two films in one, and looks like no other, without foliage or rolling green hills, but the bombed out ruins of a far eastern city."
+    },
+    {
+      "type": "image",
+      "caption": "Full Metal Jacket filming location: the rifle range at 'Parris Island': Bassingbourn Barracks, Bassingbourn, Cambridgeshire | Photograph: Anonymous",
+      "src": "_assets/tt0093058%20-%20Full-Metal-Jacket/003.jpg",
+      "alt": "Full Metal Jacket filming location: Bassingbourn Barracks, Bassingbourn, Cambridgeshire"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first half, the training sequence on 'Marine Corps Recruit Depot Parris Island, South Carolina', was filmed at PEA Bassingbourn Barracks, Bassingbourn, north of Royston on the A505 between Cambridge and Letchworth in Cambridgeshire. The barracks were established in 1970 on the site of the former RAF Bassingbourn airfield. Bassingbourn, originally an RAF station, became a bomber airfield of the Eighth Air Force, of the United States Army Air Forces during WWII. It remains the home of the Tower Museum Bassingbourn, housed in the original pre-war air traffic control tower."
+    },
+    {
+      "type": "paragraph",
+      "text": "It was from Bassingbourn that the B17 Flying Fortress known as 'Memphis Belle', flew on bombing raids in 1942-3. When Hollywood director William Wyler came to Bassingbourn, he made the documentary Memphis Belle which, it's claimed, helped keep America in the war."
+    },
+    {
+      "type": "paragraph",
+      "text": "The 1990 fictionalised version, Memphis Belle – which coincidentally also starred Matthew Modine – was filmed at RAF Binbrook in Lincolnshire, which had recently vacated by the air force."
+    },
+    {
+      "type": "paragraph",
+      "text": "The bombed-out city of 'Hue' in 'Vietnam' was famously filmed in the vast abandoned gasworks at Beckton, on the north bank of the Thames just to the northeast of what is now London City Airport. The industrial site was dressed as the Far East by designer Anton Furst (the man who designed the brilliant Gotham City for Tim Burton’s 1989 Batman) and planted with (inevitably wilting) palm trees."
+    },
+    {
+      "type": "paragraph",
+      "text": "The old industrial site was also used for the Japanese internment camp in Steven Spielberg's film of JG Ballard's Empire Of The Sun, for the horrible opening sequence of 1981 Bond movie For Your Eyes Only, and for the WWI battlefields of 1986's spoofy Biggles. The gasworks has now gone and the area has been mostly redeveloped."
+    },
+    {
+      "type": "paragraph",
+      "text": "The delta helicopter scenes were filmed, not on the 'Mekong River', but above the Norfolk Broads, a network of rivers and lakes extending into the county of Suffolk, known locally as broads, which was originally formed when rising sea levels flooded Medieval peat excavations. The Broads remain a popular boating holiday destination."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>UK | London</h3>\n<p>Flights: Heathrow Airport; Gatwick Airport</p>\n<p>Visit: London</p>\n<p>Travelling: Transport For London</p>\n</section>\n<section><h3>UK | Cambridgeshire</h3>\n<p>Visit: Cambridgeshire</p>\n</section>\n<section><h3>UK | Norfolk</h3>\n<p>Visit: Norfolk</p>\n<p>Visit: the Broads</p>\n</section>",
+  "visit_info_text": "UK | London\nFlights: Heathrow Airport; Gatwick Airport\nVisit: London\nTravelling: Transport For London\nUK | Cambridgeshire\nVisit: Cambridgeshire\nUK | Norfolk\nVisit: Norfolk\nVisit: the Broads",
+  "visit_sections": [
+    {
+      "title": "UK | London",
+      "items": [
+        "Flights: Heathrow Airport; Gatwick Airport",
+        "Visit: London",
+        "Travelling: Transport For London"
+      ]
+    },
+    {
+      "title": "UK | Cambridgeshire",
+      "items": [
+        "Visit: Cambridgeshire"
+      ]
+    },
+    {
+      "title": "UK | Norfolk",
+      "items": [
+        "Visit: Norfolk",
+        "Visit: the Broads"
+      ]
+    }
+  ]
+}

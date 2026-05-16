@@ -52,10 +52,10 @@ Please see the major updates below to find the assignments.
 - *Feb. 26, 2026:* [The assignment 2](assignments/assignment_2) has been updated.
 - *Feb. 16, 2026:* [The first graded assignment](assignments/assignment_1/) has been uploaded.
 
-
+# Features
 {% include feature_row %}
 
-<div class="button-container">
+<!-- <div class="button-container">
   <a href="assignments/miniproject.md" class="btn btn--primary">View Assignments</a>
   <a href="final-project/" class="btn btn--primary">View Final Project</a>
-</div>
+</div> -->

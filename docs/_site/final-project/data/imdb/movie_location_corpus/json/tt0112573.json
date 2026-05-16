@@ -1,0 +1,249 @@
+{
+  "imdb_id": "tt0112573",
+  "shorthand": "Braveheart",
+  "title": "Braveheart",
+  "year": 1995,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0112573 - Braveheart.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0112573 - Braveheart.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0112573.json",
+  "source_url": "http://www.movie-locations.com/movies/b/Braveheart.php",
+  "page_title": "Film locations for Braveheart in Ireland and Scotland",
+  "meta_description": "Film locations for Mel Gibson's Braveheart, in Ireland and Scotland: Glen Nevis Valley (village of ‘Lanark’ built); the Mamores, between Loch Leven and Glen Nevis (Wallace's trek); Edinburgh Council Chamber, High Street, Edinburgh (Mornay's castle, interior); Trim Castle, Co Meath, Ireland (town of 'York' and 'London' square); Coronation Plantation, Wicklow Mountains National Park ('English' stockade); Blessington Lakes (Wallace's escape); Ballymore Eustace ('Battle of Falkirk'); Curragh Plain ('Battle of Stirling bridge'); Bective Abbey (Longshanks' castle); St Nicholas Church, Dunsany Castle ('Westminster Abbey); Dunsoghly Castle, Finglas (‘Edinburgh Castle’)",
+  "meta_keywords": "Braveheart film locations, travel, scotland, glencoe, ireland, william wallace, mel gibson, glen nevis, ben nevis, glencoe, loch leven, trim castle, dunsoghly, bective abbey, dublin",
+  "og_title": "Filming locations for Mel Gibson's epic Braveheart (1995) in the Scottish Highlands and in Ireland.",
+  "og_description": "Filming locations for Mel Gibson's epic Braveheart (1995) in the Scottish Highlands and in Ireland.",
+  "og_image": "http://www.movie-locations.com/movies/b/braveheart-meta.jpg",
+  "top250_rank": "125",
+  "movie_locations_title": "BRAVEHEART",
+  "movie_locations_regions": "Republic of Ireland; Scotland",
+  "director": "Mel Gibson",
+  "cast": [
+    "Mel Gibson",
+    "Patrick McGoohan",
+    "Sophie Marceau",
+    "Brendan Gleeson",
+    "Brian Cox",
+    "Alun Armstrong",
+    "Catherine McCormack",
+    "Angus Macfadyen",
+    "David O’Hara",
+    "Peter Mullan",
+    "Gerard McSorley",
+    "Tommy Flanagan",
+    "Ian Bannen",
+    "Alex Norton"
+  ],
+  "locations": [
+    "Republic of Ireland; Scotland"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0112573%20-%20Braveheart/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112573 - Braveheart/002.jpg",
+    "exists": true,
+    "alt": "Braveheart poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112573/poster.jpg",
+    "corpus_asset_src": "../assets/tt0112573/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0112573%20-%20Braveheart/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112573 - Braveheart/001.jpg",
+    "exists": true,
+    "alt": "Braveheart location: Glencoe, Scotland",
+    "caption": "Braveheart location: the Scottish Highlands: Glencoe, Scotland",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112573/001.jpg",
+    "corpus_asset_src": "../assets/tt0112573/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0112573%20-%20Braveheart/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112573 - Braveheart/001.jpg",
+      "exists": true,
+      "alt": "Braveheart location: Glencoe, Scotland",
+      "caption": "Braveheart location: the Scottish Highlands: Glencoe, Scotland",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112573/001.jpg",
+      "corpus_asset_src": "../assets/tt0112573/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0112573%20-%20Braveheart/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112573 - Braveheart/002.jpg",
+      "exists": true,
+      "alt": "Braveheart poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112573/002.jpg",
+      "corpus_asset_src": "../assets/tt0112573/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0112573%20-%20Braveheart/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112573 - Braveheart/003.jpg",
+      "exists": true,
+      "alt": "Braveheart filming location: Loch Leven, Scotland",
+      "caption": "Braveheart location: the Scottish highlands: Loch Leven, Scotland | Photograph: iStockphoto © Juliane Jacobs",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112573/003.jpg",
+      "corpus_asset_src": "../assets/tt0112573/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0112573%20-%20Braveheart/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112573 - Braveheart/004.jpg",
+      "exists": true,
+      "alt": "Braveheart filming location: Trim Castle, Co Meath, Ireland",
+      "caption": "Braveheart location: the English town of ‘York’: Trim Castle, Co Meath, Ireland | Photograph: iStockphoto © Brian Tansey",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112573/004.jpg",
+      "corpus_asset_src": "../assets/tt0112573/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0112573%20-%20Braveheart/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112573 - Braveheart/005.jpg",
+      "exists": true,
+      "alt": "Braveheart filming location: Bective Abbey, Ireland",
+      "caption": "Braveheart location: Longshanks’ castle: Bective Abbey, Ireland | Photograph: Flickr © Sitomon",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112573/005.jpg",
+      "corpus_asset_src": "../assets/tt0112573/005.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0112573/001.jpg\" alt=\"Braveheart location: Glencoe, Scotland\"><figcaption>Braveheart location: the Scottish Highlands: Glencoe, Scotland</figcaption></figure>\n<p>Discover where <span class=\"name\">Mel Gibson</span>'s epic <span class=\"name\">Braveheart</span> (1995) was filmed in the <span class=\"name\">Scottish Highlands</span> and in <span class=\"name\">Ireland</span>.</p>\n<p>A reckless disregard for historical accuracy didn't prevent <a href=\"https://www.movie-locations.com/people/g/gibsonm.php\">Mel Gibson</a>’s two-dimensional tale of Scots hero <span class=\"name\">William Wallace</span> from snagging both Best Film and Best Director Oscars. The epic movie helped along by a solid cast, bloodily rousing battle scenes, <span class=\"name\">James Horner</span>’s swooningly romantic score and the awesome landscapes of the <span class=\"name\">Scottish Highlands</span> and – erm – <a href=\"https://www.movie-locations.com/places/europe/repireland.php\">Ireland</a>.</p>\n<p>There was a bit of controversy when it was announced that this quintessentially Scottish story was to be made largely in <a href=\"https://www.movie-locations.com/places/europe/repireland.php\">Ireland</a> but, when it comes to filmmaking, the Republic is on the ball with tax breaks and the use of its army as extras.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0112573/003.jpg\" alt=\"Braveheart filming location: Loch Leven, Scotland\"><figcaption>Braveheart location: the Scottish highlands: Loch Leven, Scotland | Photograph: iStockphoto © Juliane Jacobs</figcaption></figure>\n<p>The sweeping, mountainous landscapes couldn't be faked and really are the wild, rocky Highlands of <a href=\"https://www.movie-locations.com/places/uk/scotland.php\">Scotland</a>, around <span class=\"name\">Loch Leven</span> and <span class=\"name\">Glen Coe</span>, filming in the some of the same areas as as <a href=\"https://www.movie-locations.com/movies/h/Highlander.php\">Highlander</a>. </p>\n<p>The village of ‘Lanark’, where the young William Wallace grows up, and falls in love with Murron (<a href=\"https://www.movie-locations.com/people/m/mccormackc.php\">Catherine McCormack</a>), was  constructed in the <span class=\"name\">Glen Nevis Valley</span> at the foot of <span class=\"name\">Ben Nevis</span>, the highest mountain peak in Britain.  Although the set was dismantled after filming and the area returned to its former state, the Braveheart Car Park, constructed to service the location, has been retained.</p>\n<p>The filming site is up the glen, past the car park, and below the road’s highest point. The design of the village houses was based on those of St Kilda, a tiny island off the Scottish coast, inhabited until the late 18th century, but now a tourist attraction.</p>\n<p>As Wallace’s legend grows after the killing of Mornay (<a href=\"https://www.movie-locations.com/people/a/armstronga.php\">Alun Armstrong</a>), his trek along the spectacular mountain path filmed on the <span class=\"name\">Mamores</span>, a group of ten mountains linked by a narrow ridge, stretching between <span class=\"name\">Loch Leven</span> itself and <span class=\"name\">Glen Nevis</span>. If you fancy yourself as a fit hillwalker, you should be able to walk the ten peaks in a day.  Access to the ridges is gained either from the south at Kinlochleven, or from the north in Glen Nevis.</p>\n<p>The interior of Mornay’s castle  is another Scots location, filmed in <span class=\"name\">Edinburgh Council Chamber</span>, <span class=\"name\">High Street, Edinburgh</span>. </p>\n<p>The rest of the film was shot  in <a href=\"https://www.movie-locations.com/places/europe/repireland.php\">Ireland</a>, within a 30 mile radius of the city of <span class=\"name\">Dublin</span>, where most of the interiors were filmed at the famous <span class=\"name\">Ardmore Studios</span>. Production Designer Tom Sanders does a terrific job of dressing up time-worn Irish castles to provide authentically solid backdrops.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0112573/004.jpg\" alt=\"Braveheart filming location: Trim Castle, Co Meath, Ireland\"><figcaption>Braveheart location: the English town of ‘York’: Trim Castle, Co Meath, Ireland | Photograph: iStockphoto © Brian Tansey</figcaption></figure>\n<p> The fortified English town of ‘York’ is <a href=\"http://www.heritageireland.ie/en/midlandseastcoast/trimcastle/\" target=\"_blank\">Trim Castle</a>, a massive ruin brought to life with extensive wooden buttresses and a gate that alone weighed seven tons.</p>\n<p>The ‘London square’ was also created at <span class=\"name\">Trim</span>, on the other side of the castle wall. (<a href=\"http://www.heritageireland.ie/en/midlandseastcoast/trimcastle/\" target=\"_blank\">Trim Castle</a> can also be seen in <span class=\"name\">Sam Fuller</span>’s 1980 war movie, <span class=\"name\">The Big Red One</span>, with <a href=\"https://www.movie-locations.com/people/m/marvinl.php\">Lee Marvin</a>). The town of <span class=\"name\">Trim</span> is about 26 miles northwest of <span class=\"name\">Dublin</span> on the River Boyne, Co Meath.</p>\n<p>The ‘English’ stockade was constructed around an old hunting lodge on the <span class=\"name\">Coronation Plantation</span> (named to celebrate the coronation of King William IV in 1831), in <a href=\"http://www.wicklowmountainsnationalpark.ie\" target=\"_blank\">Wicklow Mountains National Park</a>,  in the <span class=\"name\">Sally Gap</span>, which stretches along the Liffey Valley, near Kippure Mountain, County Wicklow.</p>\n<p>Wallace’s escape on horseback from Mornay’s castle, after bloodily crushing his skull, filmed at <span class=\"name\">Blessington Lakes</span>, where a 45-foot tower was specially constructed for the leap into the water (and, don’t worry, that’s a mechanical horse). Covering 5,000 acres, the lakes were formed in the 1940s by the building of the Poulaphouca Dam to provide electricity and water for the Dublin region. If you're visiting, the lakes also offer opportunities for fishing, sailing, windsurfing and canoeing.</p>\n<p>Not far from <span class=\"name\">Blessington Lakes</span>, the ‘Battle of  Falkirk’ was staged in fields outside the town of <span class=\"name\">Ballymore Eustace</span>. In 2004, the sets for <span class=\"name\">Antoine Fuqua</span>’s <span class=\"name\">King Arthur</span>, with <a href=\"https://www.movie-locations.com/people/o/owenc.php\">Clive Owen</a>, were built on the same spot. </p>\n<p><span class=\"name\">Curragh Plain</span>, a 5000 acre tract of land between Newbridge and Kildare, <span class=\"name\">Co Kildare</span>, scoured flat during the Ice Age and now well known as a horse breeding area, was used for the ‘Battle of Stirling Bridge’  which – as the name suggests – was famously fought on a bridge. The scene required six weeks to shoot, with nine cameras and 2000 extras. But no bridge. </p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0112573/005.jpg\" alt=\"Braveheart filming location: Bective Abbey, Ireland\"><figcaption>Braveheart location: Longshanks’ castle: Bective Abbey, Ireland | Photograph: Flickr © Sitomon</figcaption></figure>\n<p>About five miles northeast of <span class=\"name\">Trim</span> is <a href=\"http://www.meath.ie/Tourism/Heritage/HeritageSites/BectiveAbbey/\" target=\"_blank\">Bective Abbey</a>,  a Cistercian abbey on the River Boyne in <span class=\"name\">Bective</span>, County Meath, which served as the courtyard of Longshanks’ castle, and also supplied the dungeons in which Wallace is imprisoned.</p>\n<p>‘Westminster Abbey’, where the preposterously fey Prince Edward (the future Edward II) reluctantly marries Isabella, is the 15th century <span class=\"name\">St Nicholas Church,</span> <a href=\"http://www.dunsany.com\" target=\"_blank\">Dunsany Castle</a>, in the townland of <span class=\"name\">Dunsany</span> (Dun Samhnaigh or Dun Samhna), between Trim and the village of Dunshaughlin in County Meath. The name Dunsany might be familiar to fans of fantasy and science fiction. The estate was home to writer <span class=\"name\">Lord Dunsany</span>, an influential exponent of the genre. </p>\n<p>‘Edinburgh Castle’, the base of Robert the Bruce where Wallace is finally taken by the English, is the tall, square-towered <span class=\"name\">Dunsoghly Castle</span>, dating from 1450 – and the only castle in Ireland to retain its original medieval trussed roof. It’s about two miles northwest of <span class=\"name\">Finglas</span>, northern <span class=\"name\">Dublin</span> off the N2 between Kilshane Bridge and Pass If You Can, but not open to the public.</p>\n<p>Although  filmed in <a href=\"https://www.movie-locations.com/places/europe/repireland.php\">Ireland</a> for the movie,  the real site of <span class=\"name\">William Wallace</span>’s torture and execution in 1305 was <span class=\"name\">West Smithfield</span> in <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>, <span class=\"name\">EC1</span> . The spot, once a cloth fair and marketplace, was  the city’s regular site for spectacularly gruesome executions. A memorial to Wallace, usually festooned with flowers and various tartans, can be seen on <span class=\"name\">Smithfield</span>’s southeast side.</p>",
+  "main_content_text": "Discover where Mel Gibson's epic Braveheart (1995) was filmed in the Scottish Highlands and in Ireland.\n\nA reckless disregard for historical accuracy didn't prevent Mel Gibson’s two-dimensional tale of Scots hero William Wallace from snagging both Best Film and Best Director Oscars. The epic movie helped along by a solid cast, bloodily rousing battle scenes, James Horner’s swooningly romantic score and the awesome landscapes of the Scottish Highlands and – erm – Ireland.\n\nThere was a bit of controversy when it was announced that this quintessentially Scottish story was to be made largely in Ireland but, when it comes to filmmaking, the Republic is on the ball with tax breaks and the use of its army as extras.\n\nThe sweeping, mountainous landscapes couldn't be faked and really are the wild, rocky Highlands of Scotland, around Loch Leven and Glen Coe, filming in the some of the same areas as as Highlander.\n\nThe village of ‘Lanark’, where the young William Wallace grows up, and falls in love with Murron (Catherine McCormack), was constructed in the Glen Nevis Valley at the foot of Ben Nevis, the highest mountain peak in Britain. Although the set was dismantled after filming and the area returned to its former state, the Braveheart Car Park, constructed to service the location, has been retained.\n\nThe filming site is up the glen, past the car park, and below the road’s highest point. The design of the village houses was based on those of St Kilda, a tiny island off the Scottish coast, inhabited until the late 18th century, but now a tourist attraction.\n\nAs Wallace’s legend grows after the killing of Mornay (Alun Armstrong), his trek along the spectacular mountain path filmed on the Mamores, a group of ten mountains linked by a narrow ridge, stretching between Loch Leven itself and Glen Nevis. If you fancy yourself as a fit hillwalker, you should be able to walk the ten peaks in a day. Access to the ridges is gained either from the south at Kinlochleven, or from the north in Glen Nevis.\n\nThe interior of Mornay’s castle is another Scots location, filmed in Edinburgh Council Chamber, High Street, Edinburgh.\n\nThe rest of the film was shot in Ireland, within a 30 mile radius of the city of Dublin, where most of the interiors were filmed at the famous Ardmore Studios. Production Designer Tom Sanders does a terrific job of dressing up time-worn Irish castles to provide authentically solid backdrops.\n\nThe fortified English town of ‘York’ is Trim Castle, a massive ruin brought to life with extensive wooden buttresses and a gate that alone weighed seven tons.\n\nThe ‘London square’ was also created at Trim, on the other side of the castle wall. (Trim Castle can also be seen in Sam Fuller’s 1980 war movie, The Big Red One, with Lee Marvin). The town of Trim is about 26 miles northwest of Dublin on the River Boyne, Co Meath.\n\nThe ‘English’ stockade was constructed around an old hunting lodge on the Coronation Plantation (named to celebrate the coronation of King William IV in 1831), in Wicklow Mountains National Park, in the Sally Gap, which stretches along the Liffey Valley, near Kippure Mountain, County Wicklow.\n\nWallace’s escape on horseback from Mornay’s castle, after bloodily crushing his skull, filmed at Blessington Lakes, where a 45-foot tower was specially constructed for the leap into the water (and, don’t worry, that’s a mechanical horse). Covering 5,000 acres, the lakes were formed in the 1940s by the building of the Poulaphouca Dam to provide electricity and water for the Dublin region. If you're visiting, the lakes also offer opportunities for fishing, sailing, windsurfing and canoeing.\n\nNot far from Blessington Lakes, the ‘Battle of Falkirk’ was staged in fields outside the town of Ballymore Eustace. In 2004, the sets for Antoine Fuqua’s King Arthur, with Clive Owen, were built on the same spot.\n\nCurragh Plain, a 5000 acre tract of land between Newbridge and Kildare, Co Kildare, scoured flat during the Ice Age and now well known as a horse breeding area, was used for the ‘Battle of Stirling Bridge’ which – as the name suggests – was famously fought on a bridge. The scene required six weeks to shoot, with nine cameras and 2000 extras. But no bridge.\n\nAbout five miles northeast of Trim is Bective Abbey, a Cistercian abbey on the River Boyne in Bective, County Meath, which served as the courtyard of Longshanks’ castle, and also supplied the dungeons in which Wallace is imprisoned.\n\n‘Westminster Abbey’, where the preposterously fey Prince Edward (the future Edward II) reluctantly marries Isabella, is the 15th century St Nicholas Church, Dunsany Castle, in the townland of Dunsany (Dun Samhnaigh or Dun Samhna), between Trim and the village of Dunshaughlin in County Meath. The name Dunsany might be familiar to fans of fantasy and science fiction. The estate was home to writer Lord Dunsany, an influential exponent of the genre.\n\n‘Edinburgh Castle’, the base of Robert the Bruce where Wallace is finally taken by the English, is the tall, square-towered Dunsoghly Castle, dating from 1450 – and the only castle in Ireland to retain its original medieval trussed roof. It’s about two miles northwest of Finglas, northern Dublin off the N2 between Kilshane Bridge and Pass If You Can, but not open to the public.\n\nAlthough filmed in Ireland for the movie, the real site of William Wallace’s torture and execution in 1305 was West Smithfield in London, EC1 . The spot, once a cloth fair and marketplace, was the city’s regular site for spectacularly gruesome executions. A memorial to Wallace, usually festooned with flowers and various tartans, can be seen on Smithfield’s southeast side.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Braveheart location: the Scottish Highlands: Glencoe, Scotland",
+      "src": "_assets/tt0112573%20-%20Braveheart/001.jpg",
+      "alt": "Braveheart location: Glencoe, Scotland"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover where Mel Gibson's epic Braveheart (1995) was filmed in the Scottish Highlands and in Ireland."
+    },
+    {
+      "type": "paragraph",
+      "text": "A reckless disregard for historical accuracy didn't prevent Mel Gibson’s two-dimensional tale of Scots hero William Wallace from snagging both Best Film and Best Director Oscars. The epic movie helped along by a solid cast, bloodily rousing battle scenes, James Horner’s swooningly romantic score and the awesome landscapes of the Scottish Highlands and – erm – Ireland."
+    },
+    {
+      "type": "paragraph",
+      "text": "There was a bit of controversy when it was announced that this quintessentially Scottish story was to be made largely in Ireland but, when it comes to filmmaking, the Republic is on the ball with tax breaks and the use of its army as extras."
+    },
+    {
+      "type": "image",
+      "caption": "Braveheart location: the Scottish highlands: Loch Leven, Scotland | Photograph: iStockphoto © Juliane Jacobs",
+      "src": "_assets/tt0112573%20-%20Braveheart/003.jpg",
+      "alt": "Braveheart filming location: Loch Leven, Scotland"
+    },
+    {
+      "type": "paragraph",
+      "text": "The sweeping, mountainous landscapes couldn't be faked and really are the wild, rocky Highlands of Scotland, around Loch Leven and Glen Coe, filming in the some of the same areas as as Highlander."
+    },
+    {
+      "type": "paragraph",
+      "text": "The village of ‘Lanark’, where the young William Wallace grows up, and falls in love with Murron (Catherine McCormack), was constructed in the Glen Nevis Valley at the foot of Ben Nevis, the highest mountain peak in Britain. Although the set was dismantled after filming and the area returned to its former state, the Braveheart Car Park, constructed to service the location, has been retained."
+    },
+    {
+      "type": "paragraph",
+      "text": "The filming site is up the glen, past the car park, and below the road’s highest point. The design of the village houses was based on those of St Kilda, a tiny island off the Scottish coast, inhabited until the late 18th century, but now a tourist attraction."
+    },
+    {
+      "type": "paragraph",
+      "text": "As Wallace’s legend grows after the killing of Mornay (Alun Armstrong), his trek along the spectacular mountain path filmed on the Mamores, a group of ten mountains linked by a narrow ridge, stretching between Loch Leven itself and Glen Nevis. If you fancy yourself as a fit hillwalker, you should be able to walk the ten peaks in a day. Access to the ridges is gained either from the south at Kinlochleven, or from the north in Glen Nevis."
+    },
+    {
+      "type": "paragraph",
+      "text": "The interior of Mornay’s castle is another Scots location, filmed in Edinburgh Council Chamber, High Street, Edinburgh."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rest of the film was shot in Ireland, within a 30 mile radius of the city of Dublin, where most of the interiors were filmed at the famous Ardmore Studios. Production Designer Tom Sanders does a terrific job of dressing up time-worn Irish castles to provide authentically solid backdrops."
+    },
+    {
+      "type": "image",
+      "caption": "Braveheart location: the English town of ‘York’: Trim Castle, Co Meath, Ireland | Photograph: iStockphoto © Brian Tansey",
+      "src": "_assets/tt0112573%20-%20Braveheart/004.jpg",
+      "alt": "Braveheart filming location: Trim Castle, Co Meath, Ireland"
+    },
+    {
+      "type": "paragraph",
+      "text": "The fortified English town of ‘York’ is Trim Castle, a massive ruin brought to life with extensive wooden buttresses and a gate that alone weighed seven tons."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘London square’ was also created at Trim, on the other side of the castle wall. (Trim Castle can also be seen in Sam Fuller’s 1980 war movie, The Big Red One, with Lee Marvin). The town of Trim is about 26 miles northwest of Dublin on the River Boyne, Co Meath."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘English’ stockade was constructed around an old hunting lodge on the Coronation Plantation (named to celebrate the coronation of King William IV in 1831), in Wicklow Mountains National Park, in the Sally Gap, which stretches along the Liffey Valley, near Kippure Mountain, County Wicklow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wallace’s escape on horseback from Mornay’s castle, after bloodily crushing his skull, filmed at Blessington Lakes, where a 45-foot tower was specially constructed for the leap into the water (and, don’t worry, that’s a mechanical horse). Covering 5,000 acres, the lakes were formed in the 1940s by the building of the Poulaphouca Dam to provide electricity and water for the Dublin region. If you're visiting, the lakes also offer opportunities for fishing, sailing, windsurfing and canoeing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not far from Blessington Lakes, the ‘Battle of Falkirk’ was staged in fields outside the town of Ballymore Eustace. In 2004, the sets for Antoine Fuqua’s King Arthur, with Clive Owen, were built on the same spot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Curragh Plain, a 5000 acre tract of land between Newbridge and Kildare, Co Kildare, scoured flat during the Ice Age and now well known as a horse breeding area, was used for the ‘Battle of Stirling Bridge’ which – as the name suggests – was famously fought on a bridge. The scene required six weeks to shoot, with nine cameras and 2000 extras. But no bridge."
+    },
+    {
+      "type": "image",
+      "caption": "Braveheart location: Longshanks’ castle: Bective Abbey, Ireland | Photograph: Flickr © Sitomon",
+      "src": "_assets/tt0112573%20-%20Braveheart/005.jpg",
+      "alt": "Braveheart filming location: Bective Abbey, Ireland"
+    },
+    {
+      "type": "paragraph",
+      "text": "About five miles northeast of Trim is Bective Abbey, a Cistercian abbey on the River Boyne in Bective, County Meath, which served as the courtyard of Longshanks’ castle, and also supplied the dungeons in which Wallace is imprisoned."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Westminster Abbey’, where the preposterously fey Prince Edward (the future Edward II) reluctantly marries Isabella, is the 15th century St Nicholas Church, Dunsany Castle, in the townland of Dunsany (Dun Samhnaigh or Dun Samhna), between Trim and the village of Dunshaughlin in County Meath. The name Dunsany might be familiar to fans of fantasy and science fiction. The estate was home to writer Lord Dunsany, an influential exponent of the genre."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Edinburgh Castle’, the base of Robert the Bruce where Wallace is finally taken by the English, is the tall, square-towered Dunsoghly Castle, dating from 1450 – and the only castle in Ireland to retain its original medieval trussed roof. It’s about two miles northwest of Finglas, northern Dublin off the N2 between Kilshane Bridge and Pass If You Can, but not open to the public."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although filmed in Ireland for the movie, the real site of William Wallace’s torture and execution in 1305 was West Smithfield in London, EC1 . The spot, once a cloth fair and marketplace, was the city’s regular site for spectacularly gruesome executions. A memorial to Wallace, usually festooned with flowers and various tartans, can be seen on Smithfield’s southeast side."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Scotland</h3>\n<p>Visit: Scotland</p>\n</section>\n<section><h3>Republic of Ireland</h3>\n<p>Visit: Republic of Ireland</p>\n<p>Visit: Trim Castle, Trim, Co. Meath (tel: 353.46.943.8619)</p>\n<p>Visit: Bective Abbey, R161, Co. Meath (tel: 046.943.7111)</p>\n<p>Visit: Dunsany Castle, Dunsany, Co. Meath (tel: 353.46.902.5169)</p>\n<p>Visit: Wicklow Mountains National Park, Bray, Laragh, Co. Wicklow</p>\n</section>",
+  "visit_info_text": "Scotland\nVisit: Scotland\nRepublic of Ireland\nVisit: Republic of Ireland\nVisit: Trim Castle, Trim, Co. Meath (tel: 353.46.943.8619)\nVisit: Bective Abbey, R161, Co. Meath (tel: 046.943.7111)\nVisit: Dunsany Castle, Dunsany, Co. Meath (tel: 353.46.902.5169)\nVisit: Wicklow Mountains National Park, Bray, Laragh, Co. Wicklow",
+  "visit_sections": [
+    {
+      "title": "Scotland",
+      "items": [
+        "Visit: Scotland"
+      ]
+    },
+    {
+      "title": "Republic of Ireland",
+      "items": [
+        "Visit: Republic of Ireland",
+        "Visit: Trim Castle, Trim, Co. Meath (tel: 353.46.943.8619)",
+        "Visit: Bective Abbey, R161, Co. Meath (tel: 046.943.7111)",
+        "Visit: Dunsany Castle, Dunsany, Co. Meath (tel: 353.46.902.5169)",
+        "Visit: Wicklow Mountains National Park, Bray, Laragh, Co. Wicklow"
+      ]
+    }
+  ]
+}

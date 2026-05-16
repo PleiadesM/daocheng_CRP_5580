@@ -1,0 +1,627 @@
+{
+  "imdb_id": "tt0468569",
+  "shorthand": "Dark-Knight",
+  "title": "The Dark Knight",
+  "year": 2008,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0468569 - Dark-Knight.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0468569 - Dark-Knight.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0468569.json",
+  "source_url": "http://www.movie-locations.com/movies/d/Dark-Knight.php",
+  "page_title": "Film Locations for Christopher Nolan's The Dark Knight, in Chicago, London, Bedfordshire and China",
+  "meta_description": "Filming locations for The Dark Knight (2008) around Chicago, as well as in London and Bedfordshire in the UK, and briefly in Hong Kong.)",
+  "meta_keywords": "The Dark Knight, film locations in Chicago, London and China; Bedfordshire, hong Kong, twin anchors, criterion restaurant, berghoff restaurant, sound bar, sears tower, Heath Ledger, Christian Bale, Christopher Nolan",
+  "og_title": "Film Locations for Christopher Nolan's The Dark Knight (2008), with Christian Bale and Heath Ledger, in Chicago and London; including the Post Office Building, the Twin Anchors, the Berghoff Restaurant, Hotel 71, Sears Tower, Lake Street and the Navy Pier in Chicago; and the Criterion Restaurant and Farmiloe Building in London, Bedfordshire and Hong Kong",
+  "og_description": "Filming locations for The Dark Knight (2008) around Chicago, as well as in London and Bedfordshire in the UK, and briefly in Hong Kong.",
+  "og_image": "http://www.movie-locations.com/movies/d/dark-knight-meta.jpg",
+  "top250_rank": "3",
+  "movie_locations_title": "THE DARK KNIGHT",
+  "movie_locations_regions": "Chicago, Illinois; London; Bedfordshire; China",
+  "director": "Christopher Nolan",
+  "cast": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Michael Caine",
+    "Maggie Gyllenhaal",
+    "Morgan Freeman",
+    "Gary Oldman",
+    "Aaron Eckhart",
+    "Cillian Murphy",
+    "William Fichtner",
+    "Eric Roberts",
+    "Anthony Michael Hall",
+    "David Dastmalchian",
+    "Vincent Riotta"
+  ],
+  "locations": [
+    "Chicago, Illinois; London; Bedfordshire; China"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0468569%20-%20Dark-Knight/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/002.jpg",
+    "exists": true,
+    "alt": "The Dark Knight poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/poster.jpg",
+    "corpus_asset_src": "../assets/tt0468569/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0468569%20-%20Dark-Knight/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/001.jpg",
+    "exists": true,
+    "alt": "The Dark Knight filming location: the Twin Anchors, 1665 North Sedgwick Street, Chicago",
+    "caption": "The Dark Knight film location: Harvey Dent, barman: the Twin Anchors, 1665 North Sedgwick Street, Chicago",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/001.jpg",
+    "corpus_asset_src": "../assets/tt0468569/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/001.jpg",
+      "exists": true,
+      "alt": "The Dark Knight filming location: the Twin Anchors, 1665 North Sedgwick Street, Chicago",
+      "caption": "The Dark Knight film location: Harvey Dent, barman: the Twin Anchors, 1665 North Sedgwick Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/001.jpg",
+      "corpus_asset_src": "../assets/tt0468569/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/002.jpg",
+      "exists": true,
+      "alt": "The Dark Knight poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/002.jpg",
+      "corpus_asset_src": "../assets/tt0468569/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/003.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Chicago Post Office Building, West Van Buren Street, Chicago",
+      "caption": "The Dark Knight film location: the Joker’s crew robs ‘Gotham National Bank’: Chicago Post Office Building, West Van Buren Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/003.jpg",
+      "corpus_asset_src": "../assets/tt0468569/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/004.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: 200 West Randolph Street, Chicago",
+      "caption": "The Dark Knight film location: taking down the Scarecrow: 200 West Randolph Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/004.jpg",
+      "corpus_asset_src": "../assets/tt0468569/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/005.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Richard J Daley Center, Daley Plaza, Washington Street, Chicago",
+      "caption": "The Dark Knight film location: the HQ of ‘Wayne Enterprises’: Richard J Daley Center, Daley Plaza, Washington Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/005.jpg",
+      "corpus_asset_src": "../assets/tt0468569/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/006.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: IBM Building, 330 North Wabash Avenue, Chicago",
+      "caption": "The Dark Knight film location: the offices of Harvey Dent, the Police Commissioner, and the Mayor plus the boardroom of ‘Wayne Enterprises’: IBM Building, 330 North Wabash Avenue, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/006.jpg",
+      "corpus_asset_src": "../assets/tt0468569/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/007.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Criterion Restaurant, 224 Piccadilly, London W1",
+      "caption": "The Dark Knight film location: Rachel enjoys a meal with Harvey Dent: Criterion Restaurant, 224 Piccadilly, London W1",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/007.jpg",
+      "corpus_asset_src": "../assets/tt0468569/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/008.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Chicago Theater, 175 North State Street, Chicago",
+      "caption": "The Dark Knight film location: the ballet is cancelled: Chicago Theater, 175 North State Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/008.jpg",
+      "corpus_asset_src": "../assets/tt0468569/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/009.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: The Berghoff, 17 West Adams Street, Chicago",
+      "caption": "The Dark Knight film location: arresting Gotham’s mob bosses: The Berghoff, 17 West Adams Street, Chicago Photograph: The Berghoff, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/009.jpg",
+      "corpus_asset_src": "../assets/tt0468569/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/010.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: The Berghoff, 17 West Adams Street, Chicago",
+      "caption": "The Dark Knight film location: arresting Gotham’s mob bosses: The Berghoff, 17 West Adams Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/010.jpg",
+      "corpus_asset_src": "../assets/tt0468569/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/011.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Illinois Center Buildings, 111 East Wacker Drive, Chicago",
+      "caption": "The Dark Knight film location: The Joker crashes Harvey Dent’s fundraiser: Illinois Center Buildings, 111 East Wacker Drive, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/011.jpg",
+      "corpus_asset_src": "../assets/tt0468569/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/012.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Hotel 71, 71 East Wacker Drive, Chicago",
+      "caption": "The Dark Knight film location: Bruce Wayne’s penthouse: Hotel 71, 71 East Wacker Drive, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/012.jpg",
+      "corpus_asset_src": "../assets/tt0468569/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/013.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Sears Tower, Chicago",
+      "caption": "The Dark Knight film location: The Dark Knight surveys Gotham: Sears Tower, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/013.jpg",
+      "corpus_asset_src": "../assets/tt0468569/013.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/014.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/014.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1",
+      "caption": "The Dark Knight film location: the interior of ‘Gotham Police Station’: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/014.jpg",
+      "corpus_asset_src": "../assets/tt0468569/014.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/015.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/015.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: LaSalle Street, Chicago",
+      "caption": "The Dark Knight film location: the Batpod chase: Metra station, Millennium Park, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/015.jpg",
+      "corpus_asset_src": "../assets/tt0468569/015.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/016.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/016.jpg",
+      "exists": true,
+      "alt": "The Dark Knight filming location: South LaSalle Street, Chicago",
+      "caption": "The Dark Knight film location: the confrontation between Batman and the Joker: South LaSalle Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/016.jpg",
+      "corpus_asset_src": "../assets/tt0468569/016.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/017.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/017.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Lake Street, Chicago",
+      "caption": "The Dark Knight film location: Bruce Wayne in the Lamborghini: Lake Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/017.jpg",
+      "corpus_asset_src": "../assets/tt0468569/017.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/018.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/018.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Twin Anchors, 1665 North Sedgwick Street, Chicago",
+      "caption": "The Dark Knight film location: Harvey Dent, barman: the Twin Anchors, 1665 North Sedgwick Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/018.jpg",
+      "corpus_asset_src": "../assets/tt0468569/018.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/019.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/019.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Twin Anchors, 1665 North Sedgwick Street, Chicago",
+      "caption": "The Dark Knight film location: Harvey’s dents: bar at the Twin Anchors, 1665 North Sedgwick Street, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/019.jpg",
+      "corpus_asset_src": "../assets/tt0468569/019.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/020.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/020.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Navy Pier, Chicago",
+      "caption": "The Dark Knight film location: the evacuation of Gotham: Navy Pier, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/020.jpg",
+      "corpus_asset_src": "../assets/tt0468569/020.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/021.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0468569 - Dark-Knight/021.jpg",
+      "exists": true,
+      "alt": "The Dark Knight film location: Trump Tower, North Wabash Avenue, Chicago",
+      "caption": "The Dark Knight film location: the climactic hand-to-hand face-off between Batman and the Joker: Trump Tower, North Wabash Avenue, Chicago",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0468569/021.jpg",
+      "corpus_asset_src": "../assets/tt0468569/021.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0468569/001.jpg\" alt=\"The Dark Knight filming location: the Twin Anchors, 1665 North Sedgwick Street, Chicago\"><figcaption>The Dark Knight film location: Harvey Dent, barman: the Twin Anchors, 1665 North Sedgwick Street, Chicago</figcaption></figure>\n<p>Discover where <span class=\"name\">The Dark Knight</span> (2008) was filmed around <span class=\"name\">Chicago</span>, as well as in <span class=\"name\">London</span> and <span class=\"name\">Bedfordshire</span> in the <span class=\"name\">UK</span>, and briefly in <span class=\"name\">Hong Kong</span>.</p>\n<p><span class=\"name\">The Dark Knight,</span> <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>’s follow-up to <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a>, expands Batman’s universe with plenty of real locations in <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>, <span class=\"name\">Hong Kong</span> and <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>. Memories of <span class=\"name\">Adam West</span> and <span class=\"name\">Cesar Romero</span>’s Sixties hi-jinks are banished completely as the mood shifts from dark to downright grim.</p>\n<p>As the tone changes, so ‘Gotham’ morphs from urban Gothic to sinister corporate sheen – and this time it’s mostly <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/003.jpg\" alt=\"The Dark Knight film location: Chicago Post Office Building, West Van Buren Street, Chicago\"><figcaption>The Dark Knight film location: the Joker’s crew robs ‘Gotham National Bank’: Chicago Post Office Building, West Van Buren Street, Chicago</figcaption></figure>\n<p>▶ The opening robbery of ‘Gotham National Bank’ by the Joker (<a href=\"https://www.movie-locations.com/people/l/ledgerh.php\">Heath Ledger</a>), and his  band of disposable clowns, is the old<span class=\"name\"> Chicago Post Office, 404 West Harrison</span> – though the exterior seen is the northern corner at <span class=\"name\">West Van Buren Street and Canal Street</span>, where a fake extension was built on the adjoining vacant lot.</p>\n<p>The vast and disused building, which also stood in for the exterior of ‘Gotham Police Department’, occupies two city blocks – with the <span class=\"name\">Congress Parkway</span> running straight through the middle. The convoy of school buses, in which the Joker makes his getaway, heads into the city on <span class=\"name\">West Van Buren Street</span>.</p>\n<p>The post office building turns up on-screen again, as the ‘Department of Health and Human Services’, the front for the NEST headquarters in <a href=\"https://www.movie-locations.com/movies/t/Transformers-Dark-Of-The-Moon.php\">Transformers: Dark Of The Moon</a>, a film which shares quite a few <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a> locations with <span class=\"name\">The Dark Knight</span>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/004.jpg\" alt=\"The Dark Knight film location: 200 West Randolph Street, Chicago\"><figcaption>The Dark Knight film location: taking down the Scarecrow: 200 West Randolph Street, Chicago</figcaption></figure>\n<p>▶ Batman rounds up not just the Scarecrow (a brief, but welcome, return by <a href=\"https://www.movie-locations.com/people/m/murphyc.php\">Cillian Murphy</a>) but a host of other baddies and a few bogus Batmen, too, in the parking garage at <span class=\"name\">200 West Randolph Street</span> (that’s the same garage which was the start of the Tumbler’s rooftop chase in <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a>). <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/005.jpg\" alt=\"The Dark Knight film location: Richard J Daley Center, Daley Plaza, Washington Street, Chicago\"><figcaption>The Dark Knight film location: the HQ of ‘Wayne Enterprises’: Richard J Daley Center, Daley Plaza, Washington Street, Chicago</figcaption></figure>\n<p>▶ It’s a sign of the change of tone from the previous film that the HQ of ‘Wayne Enterprises’ – which was the old 1930 art deco Chicago Board of Trade Building – is now the 1965 <span class=\"name\">Richard J Daley Center</span>, towering over <span class=\"name\">Daley Plaza</span> on <span class=\"name\">Washington Street</span> between Clark and Dearborn Streets. And, yes, of course, this is the plaza with the Picasso sculpture seen at the climax of <a href=\"https://www.movie-locations.com/movies/b/Blues-Brothers.php\">The Blues Brothers</a>.</p>\n<p>The centre also houses the courtroom in which Harvey Dent (<a href=\"https://www.movie-locations.com/people/e/eckharta.php\">Aaron Eckhart</a>) prosecutes the case against Falcone’s successor, Maroni (<a href=\"https://www.movie-locations.com/people/r/robertse.php\">Eric Roberts</a>). <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/006.jpg\" alt=\"The Dark Knight film location: IBM Building, 330 North Wabash Avenue, Chicago\"><figcaption>The Dark Knight film location: the offices of Harvey Dent, the Police Commissioner, and the Mayor plus the boardroom of ‘Wayne Enterprises’: IBM Building, 330 North Wabash Avenue, Chicago</figcaption></figure>\n<p>▶ The ‘Wayne Enterprises’ boardroom, though, is in another darkly gleaming monolith, the <span class=\"name\">IBM Building, 330 North Wabash Avenue</span>, a slab of black glass, on the north riverfront between Wabash and State Streets</p>\n<p>The final work of architect <span class=\"name\">Mies Van der Rohe</span> – father of the minimalist glass block –  the 1971 building supplied multiple locations, including the offices of Harvey Dent, the Mayor and the Police Commissioner. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/007.jpg\" alt=\"The Dark Knight film location: Criterion Restaurant, 224 Piccadilly, London W1\"><figcaption>The Dark Knight film location: Rachel enjoys a meal with Harvey Dent: Criterion Restaurant, 224 Piccadilly, London W1</figcaption></figure>\n<p>There’s a brief flit across the Atlantic for the restaurant – naturally owned by Bruce Wayne (<a href=\"https://www.movie-locations.com/people/b/balec.php\">Christian Bale</a>) – in which the multi-millionaire playboy, with prima ballerina in tow, discovers Rachel Dawes (<a href=\"https://www.movie-locations.com/people/g/gyllenhaalm.php\">Maggie Gyllenhaal</a>) dining with Harvey Dent. It’s the venerable <span class=\"name\">Criterion, 224 Piccadilly, W1</span>, on the south side of <span class=\"name\">Piccadilly Circus</span> in the heart of <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>’s West End.</p>\n<p>The 140-year-old institution, where Dr Watson first learns of Sherlock Holmes in <span class=\"name\">Sir Arthur Conan Doyle</span>’s <span class=\"ital\">A Study In Scarlet</span>, and where the – real – Suffragettes held meetings over afternoon tea in the 1920s, closed down in 2015. It’s since reopened as <a href=\"http://saviniatcriterion.co.uk\" target=\"_blank\">Savini At Criterion</a>, an offshoot of one of Milan’s most famous restaurants. The restaurant is also featured on-screen in <a href=\"https://www.movie-locations.com/people/s/scottr.php\">Ridley Scott</a>’s <span class=\"name\">A Good Year</span>, with <a href=\"https://www.movie-locations.com/people/c/crower.php\">Russell Crowe</a>, and in 2010 thriller <span class=\"name\">London Boulevard</span>, with <a href=\"https://www.movie-locations.com/people/f/farrellc.php\">Colin Farrell</a>. <a href=\"#1st\">⏏</a></p>\n<p>▶ The vast warehouse of Wayne Enterprises’ ‘Applied Science Division’, where Lucius Fox (<a href=\"https://www.movie-locations.com/people/f/freemanm.php\">Morgan Freeman</a>) takes on the role of Batman’s Q, is the <span class=\"name\">Convention Hall</span> of the <span class=\"name\">West Building</span>, <a href=\"http://www.mccormickplace.com/\" target=\"_blank\">McCormick Place</a>, <span class=\"name\">2301 South Indiana Avenue</span>, the convention centre complex south of <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a> (<span class=\"ital\">Metra: McCormick Place; from Chicago Millennium Station</span>). <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/008.jpg\" alt=\"The Dark Knight film location: Chicago Theater, 175 North State Street, Chicago\"><figcaption>The Dark Knight film location: the ballet is cancelled: Chicago Theater, 175 North State Street, Chicago</figcaption></figure>\n<p>▶ Harvey Dent and Rachel Dawes turn up for an evening at the ballet, only to find the performance cancelled – since Bruce Wayne has taken off on a cruise with the entire <span class=\"ital\">corps de ballet</span>. The theatre is naturally the legendary <a href=\"http://www.theChicagotheatre.com/\" target=\"_blank\">Chicago Theatre</a><span class=\"name\">, 175 North State Street</span>. The theatre is just about the only glimpse of Chi Town in Oscar-winning musical <a href=\"https://www.movie-locations.com/movies/c/Chicago.php\">Chicago</a>, (and even then buried under a mountain of CGI), but see its extravagant lobby as Al Capone’s hotel in <a href=\"https://www.movie-locations.com/people/d/depalmab.php\">Brian de Palma</a>’s <a href=\"https://www.movie-locations.com/movies/u/Untouchables.php\">The Untouchables</a>. <a href=\"#1st\">⏏</a></p>\n<p>Next, to <span class=\"name\">Hong Kong</span> for the meeting with crooked financial magnate Lau, at the <span class=\"name\">IFC2 Building (2 International Finance Centre), 8 Finance Street</span>; at 415m and 88 floors, it’s the tallest building in the city.</p>\n<p>▶ Acting on Lau’s information, Lt Gordon (<a href=\"https://www.movie-locations.com/people/o/oldmang.php\">Gary Oldman</a>) is finally able to arrest Maroni as he’s enjoying a meal in marvelously oak-panelled <a href=\"http://www.theberghoff.com/\" target=\"_blank\">The Berghoff</a>, <span class=\"name\">17 West Adams Street</span> between Dearborn and State Streets (<span class=\"ital\">CTA: Jackson or Monroe Stations; Blue and Red Lines</span>) </p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/010.jpg\" alt=\"The Dark Knight film location: The Berghoff, 17 West Adams Street, Chicago\"><figcaption>The Dark Knight film location: arresting Gotham’s mob bosses: The Berghoff, 17 West Adams Street, Chicago</figcaption></figure>\n<p>Having occupied this site since 1905, the historic German restaurant is housed in one of the first buildings constructed in the Loop after the disastrous <span class=\"name\">Chicago</span> fire, and one of the city’s few remaining buildings boasting a cast-iron façade. After briefly closing in 2006, it’s reopened with a smart revamp and an expanded menu. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/011.jpg\" alt=\"The Dark Knight film location: Illinois Center Buildings, 111 East Wacker Drive, Chicago\"><figcaption>The Dark Knight film location: The Joker crashes Harvey Dent’s fundraiser: Illinois Center Buildings, 111 East Wacker Drive, Chicago</figcaption></figure>\n<p>▶ The fundraiser for Harvey Dent – “Any psychotic ex-boyfriends I should know about?” – crashed by the Joker, is held at <span class=\"name\">Building 2</span> of <span class=\"name\">Illinois Center Buildings, 111 East Wacker Drive</span> – a complex of five office buildings and a couple of hotels, connected by an enclosed concourse lined with shops and restaurants (and another design by <span class=\"name\">Mies van der Rohe</span>), overlooking the Chicago River near the foot of the Michigan Avenue Bridge.</p>\n<p>As there is no ‘Wayne Manor’ (it’s being rebuilt after the fire – remember?), the lobby of <span class=\"name\">One Illinois Center</span>, part of the same complex, was transformed into the main living area of Bruce Wayne’s glitzy new penthouse. The lobby was surrounded by green screens so that views over the city could be digitally added later. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/012.jpg\" alt=\"The Dark Knight film location: Hotel 71, 71 East Wacker Drive, Chicago\"><figcaption>The Dark Knight film location: Bruce Wayne’s penthouse: Hotel 71, 71 East Wacker Drive, Chicago</figcaption></figure>\n<p>▶ Those views (over the Chicago River to the unmistakable twin ‘corncobs’ of Marina City) are from the  the 39th floor of the 40-story <a href=\"http://www.wyndhamgrandChicagoriverfront.com\" target=\"_blank\">Wyndham Grand</a> (formerly Hotel 71), <span class=\"name\">71 East Wacker Drive</span>, which is where the bedroom of Wayne’s penthouse was filmed. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/013.jpg\" alt=\"The Dark Knight film location: Sears Tower, Chicago\"><figcaption>The Dark Knight film location: The Dark Knight surveys Gotham: Sears Tower, Chicago</figcaption></figure>\n<p>▶ Gone are the decorative towers of the old Jewelers Building, from which the caped crusader surveyed the city in <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a>. The Dark Knight now looks down from the severe black slab of <a href=\"http://www.searstower.com\" target=\"_blank\">Willis Tower</a>,<span class=\"name\"> 233 South Wacker Drive</span> – better known by its former name of <span class=\"name\">Sears Tower</span> – occupying the block surrounded by Franklin Street and Wacker Drive, Adams Street and Jackson Boulevard. The tower moved from ‘Gotham City’ to ‘Metropolis’ to supply the interior of the ‘Daily Planet’ office in <a href=\"https://www.movie-locations.com/movies/m/Man-Of-Steel.php\">Man Of Steel</a>, but was back in <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a> in time to provide a safe mooring for the alien craft in <a href=\"https://www.movie-locations.com/movies/t/Transformers-Age-Of-Extinction.php\">Transformers: Age Of Extinction</a>.</p>\n<p>You can’t perch atop the building but – if you’ve seen <a href=\"https://www.movie-locations.com/movies/f/Ferris-Buellers-Day-Off.php\">Ferris Bueller’s Day Off</a> – you’ll know that you can get fantastic views of <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a> from the <a href=\"http://theskydeck.com\" target=\"_blank\">Skydeck</a>, 1353 feet above the city (entrance on Jackson Boulevard between South Wacker Drive and Franklin Street (<span class=\"ital\">CTA: Quincy Station</span>). <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/014.jpg\" alt=\"The Dark Knight film location: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1\"><figcaption>The Dark Knight film location: the interior of ‘Gotham Police Station’: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1</figcaption></figure>\n<p>▶ And once again, as in <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a>, the first floor offices of the <span class=\"name\">The Farmiloe Building, 28-36 St John Street, Clerkenwell</span>, in <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>, were transformed into ‘Gotham City Police Station’. The <span class=\"name\">Farmiloe</span> is also used in <a href=\"https://www.movie-locations.com/movies/d/Dark-Knight-Rises.php\">The Dark Knight Rises</a>, <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>’s <a href=\"https://www.movie-locations.com/movies/i/Inception.php\">Inception</a> and in <a href=\"https://www.movie-locations.com/people/c/cronenbergd.php\">David Cronenberg</a>’s <a href=\"https://www.movie-locations.com/movies/e/Eastern-Promises.php\">Eastern Promises</a>. <a href=\"#1st\">⏏</a></p>\n<p>After mayhem at the memorial for the murdered police commissioner, the disco in which Batman pummels customers to get to Maroni is the huge (as in nine bars and a 4,000-square-foot dancefloor) <a href=\"http://www.sound-bar.com/\" target=\"_blank\">Sound Bar</a>, <span class=\"name\">226 West Ontario Street</span>, at North Franklin Street (<span class=\"ital\">CTA: Chicago Station, Brown Line</span>).</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/015.jpg\" alt=\"The Dark Knight film location: LaSalle Street, Chicago\"><figcaption>The Dark Knight film location: the Batpod chase: Metra station, Millennium Park, Chicago</figcaption></figure>\n<p>▶ And the sinuously curving passageways of the newly remodelled entrance to the Metra station at <span class=\"name\">Millennium Park</span> itself were used for the emergence of the Batpod from the bowels of <span class=\"name\">Lower Wacker Drive</span> as Batman tracks down the Joker. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/016.jpg\" alt=\"The Dark Knight filming location: South LaSalle Street, Chicago\"><figcaption>The Dark Knight film location: the confrontation between Batman and the Joker: South LaSalle Street, Chicago</figcaption></figure>\n<p>▶ The memorial service for the slain Police Commissioner, and the first confrontation between Batman and the Joker both take place on <span class=\"name\">South La Salle Street</span>, with its vista leading down to the <span class=\"name\">Chicago Board of Trade Building</span>  (which was the HQ of ‘Wayne Enterprises’ in <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a>).</p>\n<p>And that’s no CGI effect – the production really did flip over an 18-wheel truck in the heart of <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>’s prestigious financial district, after extensive tests to ensure the stunt wouldn’t cause structural damage. The iconic view down the LaSalle Street Canyon is also seen in <a href=\"https://www.movie-locations.com/people/d/depalmab.php\">Brian De Palma</a>’s <a href=\"https://www.movie-locations.com/movies/u/Untouchables.php\">The Untouchables</a> and gets seriously trashed by Decepticons in <a href=\"https://www.movie-locations.com/people/b/baym.php\">Michael Bay</a>’s <a href=\"https://www.movie-locations.com/movies/t/Transformers-Dark-Of-The-Moon.php\">Transformers: Dark Of The Moon</a>. <a href=\"#1st\">⏏</a></p>\n<p>The huge explosion, which – well, no spoilers – marks a major turn in the story was filmed at <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>’s long-deserted <span class=\"name\">Battersea Power Station</span>, on the south bank of the Thames. While its sister station, Bankside, has found enormous success as the Tate Modern gallery, the previously more famous <span class=\"name\">Battersea</span> stands an empty shell – though that’s allowed it to be a frequent film location – seen in <a href=\"https://www.movie-locations.com/movies/r/Richard-III-1995.php\">Richard III</a>, <span class=\"name\">1984</span> and more recently, <a href=\"https://www.movie-locations.com/people/r/ritchieg.php\">Guy Ritchie</a>’s <span class=\"name\">Rocknrolla</span> and <a href=\"https://www.movie-locations.com/people/g/gilliamt.php\">Terry Gilliam</a>’s <a href=\"https://www.movie-locations.com/movies/i/Imaginarium-Of-Dr-Parnassus.php\">The Imaginarium Of Dr Parnassus</a>.</p>\n<p>While locals whose houses overlooked the site held balcony parties to watch the spectacular explosion, the advance warning didn’t seem to have reached everyone. Emergency services were flooded with panicked calls reporting a terrorist attack on the beloved landmark. <a href=\"#1st\">⏏</a></p>\n<p>▶ ‘Gotham General Hospital’, blown up by the Joker, was the old Brach's Candy factory, which stood at <span class=\"name\">401 North Cicero Avenue</span>. If you’ve seen its demolition on <a onclick=\"window.open('http://www.youtube.com/watch?v=7nJTZzgBwnQ', 'explosion')\" href=\"#brach\">YouTube</a>, you’ll know that it’s no longer there. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/017.jpg\" alt=\"The Dark Knight film location: Lake Street, Chicago\"><figcaption>The Dark Knight film location: Bruce Wayne in the Lamborghini: Lake Street, Chicago</figcaption></figure>\n<p>▶ With the Tumbler out of the question, Bruce Wayne takes to the streets in his Lamborghini (demonstrating supreme confidence in the film, the car company provided the production with three cars – one of which was trashed). Several blocks of <span class=\"name\">Lake Street</span>, which runs east-west a block south of West Wacker Drive, from Upper Wacker Drive to State Street, were closed down for the scene.</p>\n<p>A straight run, beneath the photogenic ‘el’ tracks, you can see the same stretch of road used for the chase with <a href=\"https://www.movie-locations.com/people/m/mcavoyj.php\">James MacAvoy</a> and <a href=\"https://www.movie-locations.com/people/j/joliea.php\">Angelina Jolie</a> in <a href=\"https://www.movie-locations.com/movies/w/Wanted-2008.php\">Wanted</a>. <a href=\"#1st\">⏏</a></p>\n<p>▶ The bar, in which Harvey Dent/Two Face turns up to have a word with corrupt Detective Wuertz, after his nasty accident, is – appropriately – the <a href=\"http://twinanchorsribs.com\" target=\"_blank\">Twin Anchors</a>, \n        <span class=\"name\">1665 North Sedgwick Street</span> in <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>’s <span class=\"name\">Old Town</span>.\tCheck out the scars left on the bar top after repeated takes for the scene – what on earth was cut from the final film?\t</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/019.jpg\" alt=\"The Dark Knight film location: Twin Anchors, 1665 North Sedgwick Street, Chicago\"><figcaption>The Dark Knight film location: Harvey’s dents: bar at the Twin Anchors, 1665 North Sedgwick Street, Chicago</figcaption></figure>\n<p> Founded in 1932, it’s one of the oldest restaurant/bars in the city, and was  a favourite of <a href=\"https://www.movie-locations.com/people/s/sinatraf.php\">Frank Sinatra</a> when he was in town. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/020.jpg\" alt=\"The Dark Knight film location: Navy Pier, Chicago\"><figcaption>The Dark Knight film location: the evacuation of Gotham: Navy Pier, Chicago</figcaption></figure>\n<p>▶ As the Joker wreaks havoc throughout the city, the evacuation of panicky Gothamites onto ferries is at <a href=\"https://navypier.com\" target=\"_blank\">Navy Pier</a>, east of the Streeterville district. This 3,000 foot pier, built in 1916 when Lake Michigan was used for commercial shipping, fell into decline, until major renovations in 1976. The pier entrance is on Streeter Drive at <span class=\"name\">600 East Grand Avenue</span> near lake Shore Drive just north of the Chicago River. It previously featured as an ‘Atlantic City’ location in <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Martin Scorsese</a>’s <a href=\"https://www.movie-locations.com/movies/c/Color-Of-Money.php\">The Color of Money</a> and more recently in <a href=\"https://www.movie-locations.com/movies/d/Divergent.php\">Divergent</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0468569/021.jpg\" alt=\"The Dark Knight film location: Trump Tower, North Wabash Avenue, Chicago\"><figcaption>The Dark Knight film location: the climactic hand-to-hand face-off between Batman and the Joker: Trump Tower, North Wabash Avenue, Chicago</figcaption></figure>\n<p>▶ The climactic hand-to-hand face-off between Batman and the Joker is a conflation of two separate locations: the exterior is <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a>'s <span class=\"name\">Trump Tower</span>, <span class=\"name\">401 North Wabash Avenue</span>, which was under construction during filming. The completed tower, incidentally, is home to villainous Dylan Gould (<a href=\"https://www.movie-locations.com/people/d/dempseyp.php\">Patrick Dempsey</a>) in <a href=\"https://www.movie-locations.com/movies/t/Transformers-Dark-Of-The-Moon.php\">Transformers: Dark Of The Moon</a>. <a href=\"#1st\">⏏</a></p>\n<p>For the actual fight, the interior was re-created in <a href=\"https://www.movie-locations.com/places/england.php\">England</a>, in <span class=\"name\">Shed 2</span>, one of the two gigantic airship hangars at <span class=\"name\">Cardington</span>, a couple of miles southeast of Bedford in <a href=\"https://www.movie-locations.com/places/uk/beds.php\">Bedfordshire</a> (<span class=\"ital\">rail: Bedford, from London Euston or King’s Cross</span>),  now converted into a soundstage (part of <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a> was also filmed here).</p>\n<p>The completed <span class=\"name\">Trump Tower</span>, by the way, is used as the penthouse of villainous Dylan Gould in <a href=\"https://www.movie-locations.com/movies/t/Transformers-Dark-Of-The-Moon.php\">Transformers: Dark Of The Moon</a>.</p>",
+  "main_content_text": "Discover where The Dark Knight (2008) was filmed around Chicago, as well as in London and Bedfordshire in the UK, and briefly in Hong Kong.\n\nThe Dark Knight, Christopher Nolan’s follow-up to Batman Begins, expands Batman’s universe with plenty of real locations in Chicago, Hong Kong and London. Memories of Adam West and Cesar Romero’s Sixties hi-jinks are banished completely as the mood shifts from dark to downright grim.\n\nAs the tone changes, so ‘Gotham’ morphs from urban Gothic to sinister corporate sheen – and this time it’s mostly Chicago.\n\n▶ The opening robbery of ‘Gotham National Bank’ by the Joker (Heath Ledger), and his band of disposable clowns, is the old Chicago Post Office, 404 West Harrison – though the exterior seen is the northern corner at West Van Buren Street and Canal Street, where a fake extension was built on the adjoining vacant lot.\n\nThe vast and disused building, which also stood in for the exterior of ‘Gotham Police Department’, occupies two city blocks – with the Congress Parkway running straight through the middle. The convoy of school buses, in which the Joker makes his getaway, heads into the city on West Van Buren Street.\n\nThe post office building turns up on-screen again, as the ‘Department of Health and Human Services’, the front for the NEST headquarters in Transformers: Dark Of The Moon, a film which shares quite a few Chicago locations with The Dark Knight. ⏏\n\n▶ Batman rounds up not just the Scarecrow (a brief, but welcome, return by Cillian Murphy) but a host of other baddies and a few bogus Batmen, too, in the parking garage at 200 West Randolph Street (that’s the same garage which was the start of the Tumbler’s rooftop chase in Batman Begins). ⏏\n\n▶ It’s a sign of the change of tone from the previous film that the HQ of ‘Wayne Enterprises’ – which was the old 1930 art deco Chicago Board of Trade Building – is now the 1965 Richard J Daley Center, towering over Daley Plaza on Washington Street between Clark and Dearborn Streets. And, yes, of course, this is the plaza with the Picasso sculpture seen at the climax of The Blues Brothers.\n\nThe centre also houses the courtroom in which Harvey Dent (Aaron Eckhart) prosecutes the case against Falcone’s successor, Maroni (Eric Roberts). ⏏\n\n▶ The ‘Wayne Enterprises’ boardroom, though, is in another darkly gleaming monolith, the IBM Building, 330 North Wabash Avenue, a slab of black glass, on the north riverfront between Wabash and State Streets\n\nThe final work of architect Mies Van der Rohe – father of the minimalist glass block – the 1971 building supplied multiple locations, including the offices of Harvey Dent, the Mayor and the Police Commissioner. ⏏\n\nThere’s a brief flit across the Atlantic for the restaurant – naturally owned by Bruce Wayne (Christian Bale) – in which the multi-millionaire playboy, with prima ballerina in tow, discovers Rachel Dawes (Maggie Gyllenhaal) dining with Harvey Dent. It’s the venerable Criterion, 224 Piccadilly, W1, on the south side of Piccadilly Circus in the heart of London’s West End.\n\nThe 140-year-old institution, where Dr Watson first learns of Sherlock Holmes in Sir Arthur Conan Doyle’s A Study In Scarlet, and where the – real – Suffragettes held meetings over afternoon tea in the 1920s, closed down in 2015. It’s since reopened as Savini At Criterion, an offshoot of one of Milan’s most famous restaurants. The restaurant is also featured on-screen in Ridley Scott’s A Good Year, with Russell Crowe, and in 2010 thriller London Boulevard, with Colin Farrell. ⏏\n\n▶ The vast warehouse of Wayne Enterprises’ ‘Applied Science Division’, where Lucius Fox (Morgan Freeman) takes on the role of Batman’s Q, is the Convention Hall of the West Building, McCormick Place, 2301 South Indiana Avenue, the convention centre complex south of Chicago (Metra: McCormick Place; from Chicago Millennium Station). ⏏\n\n▶ Harvey Dent and Rachel Dawes turn up for an evening at the ballet, only to find the performance cancelled – since Bruce Wayne has taken off on a cruise with the entire corps de ballet. The theatre is naturally the legendary Chicago Theatre, 175 North State Street. The theatre is just about the only glimpse of Chi Town in Oscar-winning musical Chicago, (and even then buried under a mountain of CGI), but see its extravagant lobby as Al Capone’s hotel in Brian de Palma’s The Untouchables. ⏏\n\nNext, to Hong Kong for the meeting with crooked financial magnate Lau, at the IFC2 Building (2 International Finance Centre), 8 Finance Street; at 415m and 88 floors, it’s the tallest building in the city.\n\n▶ Acting on Lau’s information, Lt Gordon (Gary Oldman) is finally able to arrest Maroni as he’s enjoying a meal in marvelously oak-panelled The Berghoff, 17 West Adams Street between Dearborn and State Streets (CTA: Jackson or Monroe Stations; Blue and Red Lines)\n\nHaving occupied this site since 1905, the historic German restaurant is housed in one of the first buildings constructed in the Loop after the disastrous Chicago fire, and one of the city’s few remaining buildings boasting a cast-iron façade. After briefly closing in 2006, it’s reopened with a smart revamp and an expanded menu. ⏏\n\n▶ The fundraiser for Harvey Dent – “Any psychotic ex-boyfriends I should know about?” – crashed by the Joker, is held at Building 2 of Illinois Center Buildings, 111 East Wacker Drive – a complex of five office buildings and a couple of hotels, connected by an enclosed concourse lined with shops and restaurants (and another design by Mies van der Rohe), overlooking the Chicago River near the foot of the Michigan Avenue Bridge.\n\nAs there is no ‘Wayne Manor’ (it’s being rebuilt after the fire – remember?), the lobby of One Illinois Center, part of the same complex, was transformed into the main living area of Bruce Wayne’s glitzy new penthouse. The lobby was surrounded by green screens so that views over the city could be digitally added later. ⏏\n\n▶ Those views (over the Chicago River to the unmistakable twin ‘corncobs’ of Marina City) are from the the 39th floor of the 40-story Wyndham Grand (formerly Hotel 71), 71 East Wacker Drive, which is where the bedroom of Wayne’s penthouse was filmed. ⏏\n\n▶ Gone are the decorative towers of the old Jewelers Building, from which the caped crusader surveyed the city in Batman Begins. The Dark Knight now looks down from the severe black slab of Willis Tower, 233 South Wacker Drive – better known by its former name of Sears Tower – occupying the block surrounded by Franklin Street and Wacker Drive, Adams Street and Jackson Boulevard. The tower moved from ‘Gotham City’ to ‘Metropolis’ to supply the interior of the ‘Daily Planet’ office in Man Of Steel, but was back in Chicago in time to provide a safe mooring for the alien craft in Transformers: Age Of Extinction.\n\nYou can’t perch atop the building but – if you’ve seen Ferris Bueller’s Day Off – you’ll know that you can get fantastic views of Chicago from the Skydeck, 1353 feet above the city (entrance on Jackson Boulevard between South Wacker Drive and Franklin Street (CTA: Quincy Station). ⏏\n\n▶ And once again, as in Batman Begins, the first floor offices of the The Farmiloe Building, 28-36 St John Street, Clerkenwell, in London, were transformed into ‘Gotham City Police Station’. The Farmiloe is also used in The Dark Knight Rises, Christopher Nolan’s Inception and in David Cronenberg’s Eastern Promises. ⏏\n\nAfter mayhem at the memorial for the murdered police commissioner, the disco in which Batman pummels customers to get to Maroni is the huge (as in nine bars and a 4,000-square-foot dancefloor) Sound Bar, 226 West Ontario Street, at North Franklin Street (CTA: Chicago Station, Brown Line).\n\n▶ And the sinuously curving passageways of the newly remodelled entrance to the Metra station at Millennium Park itself were used for the emergence of the Batpod from the bowels of Lower Wacker Drive as Batman tracks down the Joker. ⏏\n\n▶ The memorial service for the slain Police Commissioner, and the first confrontation between Batman and the Joker both take place on South La Salle Street, with its vista leading down to the Chicago Board of Trade Building (which was the HQ of ‘Wayne Enterprises’ in Batman Begins).\n\nAnd that’s no CGI effect – the production really did flip over an 18-wheel truck in the heart of Chicago’s prestigious financial district, after extensive tests to ensure the stunt wouldn’t cause structural damage. The iconic view down the LaSalle Street Canyon is also seen in Brian De Palma’s The Untouchables and gets seriously trashed by Decepticons in Michael Bay’s Transformers: Dark Of The Moon. ⏏\n\nThe huge explosion, which – well, no spoilers – marks a major turn in the story was filmed at London’s long-deserted Battersea Power Station, on the south bank of the Thames. While its sister station, Bankside, has found enormous success as the Tate Modern gallery, the previously more famous Battersea stands an empty shell – though that’s allowed it to be a frequent film location – seen in Richard III, 1984 and more recently, Guy Ritchie’s Rocknrolla and Terry Gilliam’s The Imaginarium Of Dr Parnassus.\n\nWhile locals whose houses overlooked the site held balcony parties to watch the spectacular explosion, the advance warning didn’t seem to have reached everyone. Emergency services were flooded with panicked calls reporting a terrorist attack on the beloved landmark. ⏏\n\n▶ ‘Gotham General Hospital’, blown up by the Joker, was the old Brach's Candy factory, which stood at 401 North Cicero Avenue. If you’ve seen its demolition on YouTube, you’ll know that it’s no longer there. ⏏\n\n▶ With the Tumbler out of the question, Bruce Wayne takes to the streets in his Lamborghini (demonstrating supreme confidence in the film, the car company provided the production with three cars – one of which was trashed). Several blocks of Lake Street, which runs east-west a block south of West Wacker Drive, from Upper Wacker Drive to State Street, were closed down for the scene.\n\nA straight run, beneath the photogenic ‘el’ tracks, you can see the same stretch of road used for the chase with James MacAvoy and Angelina Jolie in Wanted. ⏏\n\n▶ The bar, in which Harvey Dent/Two Face turns up to have a word with corrupt Detective Wuertz, after his nasty accident, is – appropriately – the Twin Anchors, 1665 North Sedgwick Street in Chicago’s Old Town. Check out the scars left on the bar top after repeated takes for the scene – what on earth was cut from the final film?\n\nFounded in 1932, it’s one of the oldest restaurant/bars in the city, and was a favourite of Frank Sinatra when he was in town. ⏏\n\n▶ As the Joker wreaks havoc throughout the city, the evacuation of panicky Gothamites onto ferries is at Navy Pier, east of the Streeterville district. This 3,000 foot pier, built in 1916 when Lake Michigan was used for commercial shipping, fell into decline, until major renovations in 1976. The pier entrance is on Streeter Drive at 600 East Grand Avenue near lake Shore Drive just north of the Chicago River. It previously featured as an ‘Atlantic City’ location in Martin Scorsese’s The Color of Money and more recently in Divergent. ⏏\n\n▶ The climactic hand-to-hand face-off between Batman and the Joker is a conflation of two separate locations: the exterior is Chicago's Trump Tower, 401 North Wabash Avenue, which was under construction during filming. The completed tower, incidentally, is home to villainous Dylan Gould (Patrick Dempsey) in Transformers: Dark Of The Moon. ⏏\n\nFor the actual fight, the interior was re-created in England, in Shed 2, one of the two gigantic airship hangars at Cardington, a couple of miles southeast of Bedford in Bedfordshire (rail: Bedford, from London Euston or King’s Cross), now converted into a soundstage (part of Batman Begins was also filmed here).\n\nThe completed Trump Tower, by the way, is used as the penthouse of villainous Dylan Gould in Transformers: Dark Of The Moon.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: Harvey Dent, barman: the Twin Anchors, 1665 North Sedgwick Street, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/001.jpg",
+      "alt": "The Dark Knight filming location: the Twin Anchors, 1665 North Sedgwick Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover where The Dark Knight (2008) was filmed around Chicago, as well as in London and Bedfordshire in the UK, and briefly in Hong Kong."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Dark Knight, Christopher Nolan’s follow-up to Batman Begins, expands Batman’s universe with plenty of real locations in Chicago, Hong Kong and London. Memories of Adam West and Cesar Romero’s Sixties hi-jinks are banished completely as the mood shifts from dark to downright grim."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the tone changes, so ‘Gotham’ morphs from urban Gothic to sinister corporate sheen – and this time it’s mostly Chicago."
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: the Joker’s crew robs ‘Gotham National Bank’: Chicago Post Office Building, West Van Buren Street, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/003.jpg",
+      "alt": "The Dark Knight film location: Chicago Post Office Building, West Van Buren Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The opening robbery of ‘Gotham National Bank’ by the Joker (Heath Ledger), and his band of disposable clowns, is the old Chicago Post Office, 404 West Harrison – though the exterior seen is the northern corner at West Van Buren Street and Canal Street, where a fake extension was built on the adjoining vacant lot."
+    },
+    {
+      "type": "paragraph",
+      "text": "The vast and disused building, which also stood in for the exterior of ‘Gotham Police Department’, occupies two city blocks – with the Congress Parkway running straight through the middle. The convoy of school buses, in which the Joker makes his getaway, heads into the city on West Van Buren Street."
+    },
+    {
+      "type": "paragraph",
+      "text": "The post office building turns up on-screen again, as the ‘Department of Health and Human Services’, the front for the NEST headquarters in Transformers: Dark Of The Moon, a film which shares quite a few Chicago locations with The Dark Knight. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: taking down the Scarecrow: 200 West Randolph Street, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/004.jpg",
+      "alt": "The Dark Knight film location: 200 West Randolph Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Batman rounds up not just the Scarecrow (a brief, but welcome, return by Cillian Murphy) but a host of other baddies and a few bogus Batmen, too, in the parking garage at 200 West Randolph Street (that’s the same garage which was the start of the Tumbler’s rooftop chase in Batman Begins). ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: the HQ of ‘Wayne Enterprises’: Richard J Daley Center, Daley Plaza, Washington Street, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/005.jpg",
+      "alt": "The Dark Knight film location: Richard J Daley Center, Daley Plaza, Washington Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ It’s a sign of the change of tone from the previous film that the HQ of ‘Wayne Enterprises’ – which was the old 1930 art deco Chicago Board of Trade Building – is now the 1965 Richard J Daley Center, towering over Daley Plaza on Washington Street between Clark and Dearborn Streets. And, yes, of course, this is the plaza with the Picasso sculpture seen at the climax of The Blues Brothers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The centre also houses the courtroom in which Harvey Dent (Aaron Eckhart) prosecutes the case against Falcone’s successor, Maroni (Eric Roberts). ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: the offices of Harvey Dent, the Police Commissioner, and the Mayor plus the boardroom of ‘Wayne Enterprises’: IBM Building, 330 North Wabash Avenue, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/006.jpg",
+      "alt": "The Dark Knight film location: IBM Building, 330 North Wabash Avenue, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The ‘Wayne Enterprises’ boardroom, though, is in another darkly gleaming monolith, the IBM Building, 330 North Wabash Avenue, a slab of black glass, on the north riverfront between Wabash and State Streets"
+    },
+    {
+      "type": "paragraph",
+      "text": "The final work of architect Mies Van der Rohe – father of the minimalist glass block – the 1971 building supplied multiple locations, including the offices of Harvey Dent, the Mayor and the Police Commissioner. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: Rachel enjoys a meal with Harvey Dent: Criterion Restaurant, 224 Piccadilly, London W1",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/007.jpg",
+      "alt": "The Dark Knight film location: Criterion Restaurant, 224 Piccadilly, London W1"
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s a brief flit across the Atlantic for the restaurant – naturally owned by Bruce Wayne (Christian Bale) – in which the multi-millionaire playboy, with prima ballerina in tow, discovers Rachel Dawes (Maggie Gyllenhaal) dining with Harvey Dent. It’s the venerable Criterion, 224 Piccadilly, W1, on the south side of Piccadilly Circus in the heart of London’s West End."
+    },
+    {
+      "type": "paragraph",
+      "text": "The 140-year-old institution, where Dr Watson first learns of Sherlock Holmes in Sir Arthur Conan Doyle’s A Study In Scarlet, and where the – real – Suffragettes held meetings over afternoon tea in the 1920s, closed down in 2015. It’s since reopened as Savini At Criterion, an offshoot of one of Milan’s most famous restaurants. The restaurant is also featured on-screen in Ridley Scott’s A Good Year, with Russell Crowe, and in 2010 thriller London Boulevard, with Colin Farrell. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The vast warehouse of Wayne Enterprises’ ‘Applied Science Division’, where Lucius Fox (Morgan Freeman) takes on the role of Batman’s Q, is the Convention Hall of the West Building, McCormick Place, 2301 South Indiana Avenue, the convention centre complex south of Chicago (Metra: McCormick Place; from Chicago Millennium Station). ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: the ballet is cancelled: Chicago Theater, 175 North State Street, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/008.jpg",
+      "alt": "The Dark Knight film location: Chicago Theater, 175 North State Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Harvey Dent and Rachel Dawes turn up for an evening at the ballet, only to find the performance cancelled – since Bruce Wayne has taken off on a cruise with the entire corps de ballet. The theatre is naturally the legendary Chicago Theatre, 175 North State Street. The theatre is just about the only glimpse of Chi Town in Oscar-winning musical Chicago, (and even then buried under a mountain of CGI), but see its extravagant lobby as Al Capone’s hotel in Brian de Palma’s The Untouchables. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "Next, to Hong Kong for the meeting with crooked financial magnate Lau, at the IFC2 Building (2 International Finance Centre), 8 Finance Street; at 415m and 88 floors, it’s the tallest building in the city."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Acting on Lau’s information, Lt Gordon (Gary Oldman) is finally able to arrest Maroni as he’s enjoying a meal in marvelously oak-panelled The Berghoff, 17 West Adams Street between Dearborn and State Streets (CTA: Jackson or Monroe Stations; Blue and Red Lines)"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: arresting Gotham’s mob bosses: The Berghoff, 17 West Adams Street, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/010.jpg",
+      "alt": "The Dark Knight film location: The Berghoff, 17 West Adams Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "Having occupied this site since 1905, the historic German restaurant is housed in one of the first buildings constructed in the Loop after the disastrous Chicago fire, and one of the city’s few remaining buildings boasting a cast-iron façade. After briefly closing in 2006, it’s reopened with a smart revamp and an expanded menu. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: The Joker crashes Harvey Dent’s fundraiser: Illinois Center Buildings, 111 East Wacker Drive, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/011.jpg",
+      "alt": "The Dark Knight film location: Illinois Center Buildings, 111 East Wacker Drive, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The fundraiser for Harvey Dent – “Any psychotic ex-boyfriends I should know about?” – crashed by the Joker, is held at Building 2 of Illinois Center Buildings, 111 East Wacker Drive – a complex of five office buildings and a couple of hotels, connected by an enclosed concourse lined with shops and restaurants (and another design by Mies van der Rohe), overlooking the Chicago River near the foot of the Michigan Avenue Bridge."
+    },
+    {
+      "type": "paragraph",
+      "text": "As there is no ‘Wayne Manor’ (it’s being rebuilt after the fire – remember?), the lobby of One Illinois Center, part of the same complex, was transformed into the main living area of Bruce Wayne’s glitzy new penthouse. The lobby was surrounded by green screens so that views over the city could be digitally added later. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: Bruce Wayne’s penthouse: Hotel 71, 71 East Wacker Drive, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/012.jpg",
+      "alt": "The Dark Knight film location: Hotel 71, 71 East Wacker Drive, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Those views (over the Chicago River to the unmistakable twin ‘corncobs’ of Marina City) are from the the 39th floor of the 40-story Wyndham Grand (formerly Hotel 71), 71 East Wacker Drive, which is where the bedroom of Wayne’s penthouse was filmed. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: The Dark Knight surveys Gotham: Sears Tower, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/013.jpg",
+      "alt": "The Dark Knight film location: Sears Tower, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Gone are the decorative towers of the old Jewelers Building, from which the caped crusader surveyed the city in Batman Begins. The Dark Knight now looks down from the severe black slab of Willis Tower, 233 South Wacker Drive – better known by its former name of Sears Tower – occupying the block surrounded by Franklin Street and Wacker Drive, Adams Street and Jackson Boulevard. The tower moved from ‘Gotham City’ to ‘Metropolis’ to supply the interior of the ‘Daily Planet’ office in Man Of Steel, but was back in Chicago in time to provide a safe mooring for the alien craft in Transformers: Age Of Extinction."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can’t perch atop the building but – if you’ve seen Ferris Bueller’s Day Off – you’ll know that you can get fantastic views of Chicago from the Skydeck, 1353 feet above the city (entrance on Jackson Boulevard between South Wacker Drive and Franklin Street (CTA: Quincy Station). ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: the interior of ‘Gotham Police Station’: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/014.jpg",
+      "alt": "The Dark Knight film location: The Farmiloe Building, 28-36 St John Street, Clerkenwell, London EC1"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ And once again, as in Batman Begins, the first floor offices of the The Farmiloe Building, 28-36 St John Street, Clerkenwell, in London, were transformed into ‘Gotham City Police Station’. The Farmiloe is also used in The Dark Knight Rises, Christopher Nolan’s Inception and in David Cronenberg’s Eastern Promises. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "After mayhem at the memorial for the murdered police commissioner, the disco in which Batman pummels customers to get to Maroni is the huge (as in nine bars and a 4,000-square-foot dancefloor) Sound Bar, 226 West Ontario Street, at North Franklin Street (CTA: Chicago Station, Brown Line)."
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: the Batpod chase: Metra station, Millennium Park, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/015.jpg",
+      "alt": "The Dark Knight film location: LaSalle Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ And the sinuously curving passageways of the newly remodelled entrance to the Metra station at Millennium Park itself were used for the emergence of the Batpod from the bowels of Lower Wacker Drive as Batman tracks down the Joker. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: the confrontation between Batman and the Joker: South LaSalle Street, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/016.jpg",
+      "alt": "The Dark Knight filming location: South LaSalle Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The memorial service for the slain Police Commissioner, and the first confrontation between Batman and the Joker both take place on South La Salle Street, with its vista leading down to the Chicago Board of Trade Building (which was the HQ of ‘Wayne Enterprises’ in Batman Begins)."
+    },
+    {
+      "type": "paragraph",
+      "text": "And that’s no CGI effect – the production really did flip over an 18-wheel truck in the heart of Chicago’s prestigious financial district, after extensive tests to ensure the stunt wouldn’t cause structural damage. The iconic view down the LaSalle Street Canyon is also seen in Brian De Palma’s The Untouchables and gets seriously trashed by Decepticons in Michael Bay’s Transformers: Dark Of The Moon. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "The huge explosion, which – well, no spoilers – marks a major turn in the story was filmed at London’s long-deserted Battersea Power Station, on the south bank of the Thames. While its sister station, Bankside, has found enormous success as the Tate Modern gallery, the previously more famous Battersea stands an empty shell – though that’s allowed it to be a frequent film location – seen in Richard III, 1984 and more recently, Guy Ritchie’s Rocknrolla and Terry Gilliam’s The Imaginarium Of Dr Parnassus."
+    },
+    {
+      "type": "paragraph",
+      "text": "While locals whose houses overlooked the site held balcony parties to watch the spectacular explosion, the advance warning didn’t seem to have reached everyone. Emergency services were flooded with panicked calls reporting a terrorist attack on the beloved landmark. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ ‘Gotham General Hospital’, blown up by the Joker, was the old Brach's Candy factory, which stood at 401 North Cicero Avenue. If you’ve seen its demolition on YouTube, you’ll know that it’s no longer there. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: Bruce Wayne in the Lamborghini: Lake Street, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/017.jpg",
+      "alt": "The Dark Knight film location: Lake Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ With the Tumbler out of the question, Bruce Wayne takes to the streets in his Lamborghini (demonstrating supreme confidence in the film, the car company provided the production with three cars – one of which was trashed). Several blocks of Lake Street, which runs east-west a block south of West Wacker Drive, from Upper Wacker Drive to State Street, were closed down for the scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "A straight run, beneath the photogenic ‘el’ tracks, you can see the same stretch of road used for the chase with James MacAvoy and Angelina Jolie in Wanted. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The bar, in which Harvey Dent/Two Face turns up to have a word with corrupt Detective Wuertz, after his nasty accident, is – appropriately – the Twin Anchors, 1665 North Sedgwick Street in Chicago’s Old Town. Check out the scars left on the bar top after repeated takes for the scene – what on earth was cut from the final film?"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: Harvey’s dents: bar at the Twin Anchors, 1665 North Sedgwick Street, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/019.jpg",
+      "alt": "The Dark Knight film location: Twin Anchors, 1665 North Sedgwick Street, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "Founded in 1932, it’s one of the oldest restaurant/bars in the city, and was a favourite of Frank Sinatra when he was in town. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: the evacuation of Gotham: Navy Pier, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/020.jpg",
+      "alt": "The Dark Knight film location: Navy Pier, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ As the Joker wreaks havoc throughout the city, the evacuation of panicky Gothamites onto ferries is at Navy Pier, east of the Streeterville district. This 3,000 foot pier, built in 1916 when Lake Michigan was used for commercial shipping, fell into decline, until major renovations in 1976. The pier entrance is on Streeter Drive at 600 East Grand Avenue near lake Shore Drive just north of the Chicago River. It previously featured as an ‘Atlantic City’ location in Martin Scorsese’s The Color of Money and more recently in Divergent. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "The Dark Knight film location: the climactic hand-to-hand face-off between Batman and the Joker: Trump Tower, North Wabash Avenue, Chicago",
+      "src": "_assets/tt0468569%20-%20Dark-Knight/021.jpg",
+      "alt": "The Dark Knight film location: Trump Tower, North Wabash Avenue, Chicago"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The climactic hand-to-hand face-off between Batman and the Joker is a conflation of two separate locations: the exterior is Chicago's Trump Tower, 401 North Wabash Avenue, which was under construction during filming. The completed tower, incidentally, is home to villainous Dylan Gould (Patrick Dempsey) in Transformers: Dark Of The Moon. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the actual fight, the interior was re-created in England, in Shed 2, one of the two gigantic airship hangars at Cardington, a couple of miles southeast of Bedford in Bedfordshire (rail: Bedford, from London Euston or King’s Cross), now converted into a soundstage (part of Batman Begins was also filmed here)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The completed Trump Tower, by the way, is used as the penthouse of villainous Dylan Gould in Transformers: Dark Of The Moon."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Illinois | Chicago</h3>\n<p>Visit: Chicago</p>\n<p>Flights: O’Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666 (tel: 800.832.6352)</p>\n<p>Travel around: Chicago Transit Authority</p>\n<p>Visit: the Navy Pier, 600 East Grand Avenue, Chicago, IL 60611 (tel: 312.595.7437)</p>\n<p>Stay at: the Wyndham Grand, East Upper Wacker Drive, Chicago, IL 60601 (tel: 312.346.7100)</p>\n<p>Visit: the Chicago Theatre, 175 North State Street, Chicago, IL 60601 (tel: 800.745.3000)</p>\n<p>Visit: The Berghoff, 17 West Adams Street, Chicago, IL 60603 (tel: 312.427.3170)</p>\n<p>Drink at: the Twin Anchors Restaurant, 1665 North Sedgwick Street, Old Town, Chicago, IL 60614 (tel: 312.266.1616)</p>\n<p>Visit: the Sound Bar, 226 West Ontario Street, Chicago, IL 60654 (tel: 312.787.4480) (CTA: Chicago Station, Brown Line)</p>\n<p>Visit: the Willis Tower, 233 South Wacker Drive, Chicago, IL 60606</p>\n<p>Visit: McCormick Place, 2301 South Lake Shore Drive, Chicago, IL 60616 (Metra: McCormick Place; from Chicago Millennium Station)</p>\n</section>\n<section><h3>UK | London</h3>\n<p>Flights: Heathrow Airport; Gatwick Airport</p>\n<p>Visit: London</p>\n<p>Travelling: Transport For London</p>\n<p>Dine at: Savini At Criterion, 224 Piccadilly, London W1J 9HP (tube: Piccadilly, Piccadilly Line)</p>\n</section>\n<section><h3>Bedfordshire</h3>\n<p>Visit: Bedfordshire</p>\n</section>\n<section><h3>China</h3>\n<p>Visit: China</p>\n<p>Visit: Hong Kong</p>\n<p>Flights: Hong Kong International Airport, 1 Sky Plaza Road, Hong Kong (tel: 852.2181.8888)</p>\n</section>",
+  "visit_info_text": "Illinois | Chicago\nVisit: Chicago\nFlights: O’Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666 (tel: 800.832.6352)\nTravel around: Chicago Transit Authority\nVisit: the Navy Pier, 600 East Grand Avenue, Chicago, IL 60611 (tel: 312.595.7437)\nStay at: the Wyndham Grand, East Upper Wacker Drive, Chicago, IL 60601 (tel: 312.346.7100)\nVisit: the Chicago Theatre, 175 North State Street, Chicago, IL 60601 (tel: 800.745.3000)\nVisit: The Berghoff, 17 West Adams Street, Chicago, IL 60603 (tel: 312.427.3170)\nDrink at: the Twin Anchors Restaurant, 1665 North Sedgwick Street, Old Town, Chicago, IL 60614 (tel: 312.266.1616)\nVisit: the Sound Bar, 226 West Ontario Street, Chicago, IL 60654 (tel: 312.787.4480) (CTA: Chicago Station, Brown Line)\nVisit: the Willis Tower, 233 South Wacker Drive, Chicago, IL 60606\nVisit: McCormick Place, 2301 South Lake Shore Drive, Chicago, IL 60616 (Metra: McCormick Place; from Chicago Millennium Station)\nUK | London\nFlights: Heathrow Airport; Gatwick Airport\nVisit: London\nTravelling: Transport For London\nDine at: Savini At Criterion, 224 Piccadilly, London W1J 9HP (tube: Piccadilly, Piccadilly Line)\nBedfordshire\nVisit: Bedfordshire\nChina\nVisit: China\nVisit: Hong Kong\nFlights: Hong Kong International Airport, 1 Sky Plaza Road, Hong Kong (tel: 852.2181.8888)",
+  "visit_sections": [
+    {
+      "title": "Illinois | Chicago",
+      "items": [
+        "Visit: Chicago",
+        "Flights: O’Hare International Airport, 10000 West O'Hare Ave, Chicago, IL 60666 (tel: 800.832.6352)",
+        "Travel around: Chicago Transit Authority",
+        "Visit: the Navy Pier, 600 East Grand Avenue, Chicago, IL 60611 (tel: 312.595.7437)",
+        "Stay at: the Wyndham Grand, East Upper Wacker Drive, Chicago, IL 60601 (tel: 312.346.7100)",
+        "Visit: the Chicago Theatre, 175 North State Street, Chicago, IL 60601 (tel: 800.745.3000)",
+        "Visit: The Berghoff, 17 West Adams Street, Chicago, IL 60603 (tel: 312.427.3170)",
+        "Drink at: the Twin Anchors Restaurant, 1665 North Sedgwick Street, Old Town, Chicago, IL 60614 (tel: 312.266.1616)",
+        "Visit: the Sound Bar, 226 West Ontario Street, Chicago, IL 60654 (tel: 312.787.4480) (CTA: Chicago Station, Brown Line)",
+        "Visit: the Willis Tower, 233 South Wacker Drive, Chicago, IL 60606",
+        "Visit: McCormick Place, 2301 South Lake Shore Drive, Chicago, IL 60616 (Metra: McCormick Place; from Chicago Millennium Station)"
+      ]
+    },
+    {
+      "title": "UK | London",
+      "items": [
+        "Flights: Heathrow Airport; Gatwick Airport",
+        "Visit: London",
+        "Travelling: Transport For London",
+        "Dine at: Savini At Criterion, 224 Piccadilly, London W1J 9HP (tube: Piccadilly, Piccadilly Line)"
+      ]
+    },
+    {
+      "title": "Bedfordshire",
+      "items": [
+        "Visit: Bedfordshire"
+      ]
+    },
+    {
+      "title": "China",
+      "items": [
+        "Visit: China",
+        "Visit: Hong Kong",
+        "Flights: Hong Kong International Airport, 1 Sky Plaza Road, Hong Kong (tel: 852.2181.8888)"
+      ]
+    }
+  ]
+}

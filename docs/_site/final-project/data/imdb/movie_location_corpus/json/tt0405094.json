@@ -1,0 +1,238 @@
+{
+  "imdb_id": "tt0405094",
+  "shorthand": "Leben-Der-Anderen",
+  "title": "Das Leben Der Anderen (The Lives Of Others)",
+  "year": 2006,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0405094 - Leben-Der-Anderen.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0405094 - Leben-Der-Anderen.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0405094.json",
+  "source_url": "http://www.movie-locations.com/movies/l/Leben-Der-Anderen.php",
+  "page_title": "Das Leben Der Anderen (The Lives Of Others) | Film Locations",
+  "meta_description": "Film locations for Das Leben Der Anderen (The Lives Of Others) (2006), in Berlin, Germany.",
+  "meta_keywords": "Das Leben Der Anderen (The Lives Of Others) (2006), film locations, filming locations, tourism, travel, set-jetting, berlin, germany",
+  "og_title": "Filming Locations for Das Leben Der Anderen (The Lives Of Others) (2006), in Berlin, Germany.",
+  "og_description": "Travel guide to film locations for Das Leben Der Anderen (The Lives Of Others) (2006), in Berlin, Germany.",
+  "og_image": "http://www.movie-locations.com/movies/l/Leben-Der-Anderen.jpg",
+  "top250_rank": "94",
+  "movie_locations_title": "THE LIVES OF OTHERS",
+  "movie_locations_regions": "Germany",
+  "director": "Florian Henckel von Donnersmarck",
+  "cast": [
+    "Ulrich Mühe",
+    "Sebastian Koch",
+    "Martina Gedeck",
+    "Ulrich Tukur",
+    "Volkmar Kleinert",
+    "Thomas Thieme"
+  ],
+  "locations": [
+    "Germany"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0405094 - Leben-Der-Anderen/002.jpg",
+    "exists": true,
+    "alt": "The Lives Of Others poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0405094/poster.jpg",
+    "corpus_asset_src": "../assets/tt0405094/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0405094 - Leben-Der-Anderen/001.jpg",
+    "exists": true,
+    "alt": "The Lives Of Others filming location: Wedekindstrasse, Berlin",
+    "caption": "The Lives Of Others location: the bugged home of playwright Dreyman: Wedekindstrasse, Friedrichshain, Berlin",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0405094/001.jpg",
+    "corpus_asset_src": "../assets/tt0405094/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0405094 - Leben-Der-Anderen/001.jpg",
+      "exists": true,
+      "alt": "The Lives Of Others filming location: Wedekindstrasse, Berlin",
+      "caption": "The Lives Of Others location: the bugged home of playwright Dreyman: Wedekindstrasse, Friedrichshain, Berlin",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0405094/001.jpg",
+      "corpus_asset_src": "../assets/tt0405094/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0405094 - Leben-Der-Anderen/002.jpg",
+      "exists": true,
+      "alt": "The Lives Of Others poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0405094/002.jpg",
+      "corpus_asset_src": "../assets/tt0405094/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0405094 - Leben-Der-Anderen/003.jpg",
+      "exists": true,
+      "alt": "The Lives Of Others filming location: Hebbel Theatre, Stresemannstraße, Berlin",
+      "caption": "The Lives Of Others location: Dreyman's play is performed for the dignitaries: Hebbel Theatre, Stresemannstraße, Berlin",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0405094/003.jpg",
+      "corpus_asset_src": "../assets/tt0405094/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0405094 - Leben-Der-Anderen/004.jpg",
+      "exists": true,
+      "alt": "The Lives Of Others filming location: Wedekindstrasse, Berlin",
+      "caption": "The Lives Of Others location: the 'bar' across from Dreyman's apartment, where Wiesler meets Christa: Wedekindstrasse, Friedrichshain, Berlin",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0405094/004.jpg",
+      "corpus_asset_src": "../assets/tt0405094/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0405094 - Leben-Der-Anderen/005.jpg",
+      "exists": true,
+      "alt": "The Lives Of Others filming location: Stasi Museum, Ruschestraße, Lichtenberg, Berlin",
+      "caption": "The Lives Of Others location: Wiesler looks up the old files to discover the truth: Stasi Museum, Ruschestraße, Lichtenberg, Berlin",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0405094/005.jpg",
+      "corpus_asset_src": "../assets/tt0405094/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0405094 - Leben-Der-Anderen/006.jpg",
+      "exists": true,
+      "alt": "The Lives Of Others filming location: Karl Marx Bookstore, Karl-Marx-Allee, Berlin",
+      "caption": "The Lives Of Others location: Wiesler buys Dreyman's book: Karl Marx Bookstore, Karl-Marx-Allee, Berlin",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0405094/006.jpg",
+      "corpus_asset_src": "../assets/tt0405094/006.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0405094/001.jpg\" alt=\"The Lives Of Others filming location: Wedekindstrasse, Berlin\"><figcaption>The Lives Of Others location: the bugged home of playwright Dreyman: Wedekindstrasse, Friedrichshain, Berlin</figcaption></figure>\n<p>The 2007 Oscar winner for Best Foreign Language film is set in 1980s East Berlin, where celebrity playwright Georg Dreyman (<a href=\"https://www.movie-locations.com/people/k/kochs.php\">Sebastian Koch</a>) and his equally celebrated actress companion Christa-Maria Sieland (<a href=\"https://www.movie-locations.com/people/g/gedeckm.php\">Martina Gedeck</a>), become targets for clandestine observation by the state when the powerful Minister for Culture, Hempf (<a href=\"https://www.movie-locations.com/people/t/thiemet.php\">Thomas Thieme</a>), develops a crush on the performer.</p>\n<p>The conscientious Wiesler (<a href=\"https://www.movie-locations.com/people/m/muheu.php\">Ulrich Mühe</a>), an agent for the notorious Stasi secret police, is installed in the attic of the couple’s apartment block to monitor their private conversations, naively believing he’s protecting the GDR from enemies. As a witness to the most intimate moments of the couple, he gradually becomes aware of a new world of humanity.</p>\n<p>The film opens in the notorious Berlin-Hohenschonhausen prison, where Wiesler is demonstrating his interrogation techniques. Although the film uses as many real-life locations as is practical, this is not one of them.</p>\n<p>The director of Hohenschönhausen Prison, which is now the site of a memorial dedicated to the victims of Stasi oppression, refused to give director <a href=\"https://www.movie-locations.com/people/v/vondonnersmarckfh.php\">von Donnersmarck</a> permission to film. He objected to a Stasi man being presented as a hero, and when <a href=\"https://www.movie-locations.com/people/v/vondonnersmarckfh.php\">von Donnersmarck</a> responded by citing <a href=\"https://www.movie-locations.com/people/s/spielbergs.php\">Steven Spielberg</a>’s <a href=\"https://www.movie-locations.com/movies/s/Schindlers-List.php\">Schindler's List</a> as an example of a similar plot device, the director countered with \"That is exactly the difference. There was a Schindler. There was no Wiesler.”</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0405094/003.jpg\" alt=\"The Lives Of Others filming location: Hebbel Theatre, Stresemannstraße, Berlin\"><figcaption>The Lives Of Others location: Dreyman's play is performed for the dignitaries: Hebbel Theatre, Stresemannstraße, Berlin</figcaption></figure>\n<p>The wood-panelled theatre (presumably intended to be the similar but larger Volksbühne) in which the Head of Culture reveals his doubts about Dreyman to Minister Hempf is actually the <a href=\"http://english.hebbel-am-ufer.de/\" target=\"_blank\">Hebbel Theatre</a>, <span class=\"name\">Stresemannstraße 29.</span></p>\n<p>The 800-seat <a href=\"http://english.hebbel-am-ufer.de/\" target=\"_blank\">Hebbel</a> was built in 1908 in the Jugendstil (<span class=\"ital\">art nouveau</span> style), an early work by the well-known theater architect <span class=\"name\">Oskar Kaufmann</span>. It was the only theater in <span class=\"name\">Berlin</span> left relatively unscathed after WWII and actually reopened in August 1945. Along with two other theatres, it’s now part of Hebbel am Ufer (HAU).<br>\n      </p>\n<p>However, the party afterwards, at which the unpleasant Stalinist Hempf reveals his power, was filmed in the <span class=\"name\">Grüner Salon</span> (Green Salon) of the <a href=\"http://www.volksbuehne-berlin.de/\" target=\"_blank\">Volksbühne</a> (People's Theatre) at <span class=\"name\">Rosa-Luxemburg-Platz</span>, north of Alexanderplatz. The <a href=\"http://www.volksbuehne-berlin.de/\" target=\"_blank\">Volksbühne</a> was built in 1914, with its origin in the concept of Freie Volksbühne (Free People's Theater) to promote naturalist plays at prices affordable by ordinary working people. Like much of <span class=\"name\">Berlin</span>, the theatre was heavily damaged during WWII and rebuilt in the early Fifties.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0405094/004.jpg\" alt=\"The Lives Of Others filming location: Wedekindstrasse, Berlin\"><figcaption>The Lives Of Others location: the 'bar' across from Dreyman's apartment, where Wiesler meets Christa: Wedekindstrasse, Friedrichshain, Berlin</figcaption></figure>\n<p>Dreyman’s apartment, where Wiesler installs himself in the attic, is <span class=\"name\">21 Wedekindstrasse</span>, in the fashionably gentrified <span class=\"name\">Friedrichshain</span> district. Don’t expect to sit down for a relaxing drink in the ‘bar’ on the corner of <span class=\"name\">Marchlewskistraße</span> opposite, where Wiesler meets actress Christa. It’s actually a private company office.</p>\n<p>After the suicide of the blacklisted stage director Jerska (<a href=\"https://www.movie-locations.com/people/k/kleinertv.php\">Volkmar Kleinert</a>), Dreyman meets with dissident friends at the <span class=\"name\">Pankow Memorial</span> to discuss the possibility of publishing an anonymous article.</p>\n<p>More properly, it’s the <span class=\"name\">Soviet War Memorial</span> in <span class=\"name\">Schönholzer Heide</span> in <span class=\"name\">Pankow</span>, about five miles north of the city, where 13,200 of the 80,000 Soviet soldiers killed during the Battle of Berlin, are buried.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0405094/005.jpg\" alt=\"The Lives Of Others filming location: Stasi Museum, Ruschestraße, Lichtenberg, Berlin\"><figcaption>The Lives Of Others location: Wiesler looks up the old files to discover the truth: Stasi Museum, Ruschestraße, Lichtenberg, Berlin</figcaption></figure>\n<p>Unlike the prison, the Stasi HQ to which people are taken for questioning, and where Wiesler eventually consults the records for ‘Operation Lazlo’, is the real thing It’s now the <a href=\"http://www.stasimuseum.de/en/enindex.htm\" target=\"_blank\">Stasi Museum</a>, <span class=\"name\">Ruschestraße 103, Haus 1</span>, in the <span class=\"name\">Lichtenberg</span> district.</p>\n<p>The <a href=\"http://www.stasimuseum.de/en/enindex.htm\" target=\"_blank\">Museum</a> is located in House 1 of the headquarters of the former GDR Ministry for State Security (MfS). The building was erected in 1960-61 as the offices of <span class=\"name\">Erich Mielke</span>, who was Minister for State Security until the collapse of the GDR. In 1990, after the fall of the Berlin Wall, demonstrators took over the Stasi headquarters and in November of that year, the Research Centre and Memorial at Normannenstrasse was opened with an exhibition titled <span class=\"ital\">Against the Sleep of Reason</span>. <span class=\"name\">House 1</span> has been open to the public ever since, and you can see the offices of <span class=\"name\">Mielke</span> preserved in their original condition. </p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0405094/006.jpg\" alt=\"The Lives Of Others filming location: Karl Marx Bookstore, Karl-Marx-Allee, Berlin\"><figcaption>The Lives Of Others location: Wiesler buys Dreyman's book: Karl Marx Bookstore, Karl-Marx-Allee, Berlin</figcaption></figure>\n<p>Years after these events, the demoted Wiesler sees Dreyman’s book, <span class=\"ital\">Sonata For A Good Man</span>, on sale at the <a href=\"https://www.karlmarx-buchhandlung.com/\" target=\"_blank\">Karl Marx Bookstore</a>, <span class=\"name\">Karl-Marx-Allee 78</span>.</p>\n<p><span class=\"name\">Karl-Marx-Allee</span> was built, between 1952 and 1960, following the massive destruction of the city in WWII, in what was then Communist East Berlin. Running from Alexanderplatz to Frankfurter Tor, it remains an historical and architectural memorial to the Soviet era – borrowing much of its architectural style from the old Soviet model.</p>\n<p>Its original name, Grosse Frankfurter Strasse, was changed to Stalinalle in 1949 to celebrate the 70th birthday of the Soviet leader but in 1961, after the monstrous <span class=\"name\">Stalin</span> was officially condemned, the boulevard was again renamed, after Communist philosopher <span class=\"name\">Karl Marx</span>.</p>",
+  "main_content_text": "The 2007 Oscar winner for Best Foreign Language film is set in 1980s East Berlin, where celebrity playwright Georg Dreyman (Sebastian Koch) and his equally celebrated actress companion Christa-Maria Sieland (Martina Gedeck), become targets for clandestine observation by the state when the powerful Minister for Culture, Hempf (Thomas Thieme), develops a crush on the performer.\n\nThe conscientious Wiesler (Ulrich Mühe), an agent for the notorious Stasi secret police, is installed in the attic of the couple’s apartment block to monitor their private conversations, naively believing he’s protecting the GDR from enemies. As a witness to the most intimate moments of the couple, he gradually becomes aware of a new world of humanity.\n\nThe film opens in the notorious Berlin-Hohenschonhausen prison, where Wiesler is demonstrating his interrogation techniques. Although the film uses as many real-life locations as is practical, this is not one of them.\n\nThe director of Hohenschönhausen Prison, which is now the site of a memorial dedicated to the victims of Stasi oppression, refused to give director von Donnersmarck permission to film. He objected to a Stasi man being presented as a hero, and when von Donnersmarck responded by citing Steven Spielberg’s Schindler's List as an example of a similar plot device, the director countered with \"That is exactly the difference. There was a Schindler. There was no Wiesler.”\n\nThe wood-panelled theatre (presumably intended to be the similar but larger Volksbühne) in which the Head of Culture reveals his doubts about Dreyman to Minister Hempf is actually the Hebbel Theatre, Stresemannstraße 29.\n\nThe 800-seat Hebbel was built in 1908 in the Jugendstil (art nouveau style), an early work by the well-known theater architect Oskar Kaufmann. It was the only theater in Berlin left relatively unscathed after WWII and actually reopened in August 1945. Along with two other theatres, it’s now part of Hebbel am Ufer (HAU).\n\nHowever, the party afterwards, at which the unpleasant Stalinist Hempf reveals his power, was filmed in the Grüner Salon (Green Salon) of the Volksbühne (People's Theatre) at Rosa-Luxemburg-Platz, north of Alexanderplatz. The Volksbühne was built in 1914, with its origin in the concept of Freie Volksbühne (Free People's Theater) to promote naturalist plays at prices affordable by ordinary working people. Like much of Berlin, the theatre was heavily damaged during WWII and rebuilt in the early Fifties.\n\nDreyman’s apartment, where Wiesler installs himself in the attic, is 21 Wedekindstrasse, in the fashionably gentrified Friedrichshain district. Don’t expect to sit down for a relaxing drink in the ‘bar’ on the corner of Marchlewskistraße opposite, where Wiesler meets actress Christa. It’s actually a private company office.\n\nAfter the suicide of the blacklisted stage director Jerska (Volkmar Kleinert), Dreyman meets with dissident friends at the Pankow Memorial to discuss the possibility of publishing an anonymous article.\n\nMore properly, it’s the Soviet War Memorial in Schönholzer Heide in Pankow, about five miles north of the city, where 13,200 of the 80,000 Soviet soldiers killed during the Battle of Berlin, are buried.\n\nUnlike the prison, the Stasi HQ to which people are taken for questioning, and where Wiesler eventually consults the records for ‘Operation Lazlo’, is the real thing It’s now the Stasi Museum, Ruschestraße 103, Haus 1, in the Lichtenberg district.\n\nThe Museum is located in House 1 of the headquarters of the former GDR Ministry for State Security (MfS). The building was erected in 1960-61 as the offices of Erich Mielke, who was Minister for State Security until the collapse of the GDR. In 1990, after the fall of the Berlin Wall, demonstrators took over the Stasi headquarters and in November of that year, the Research Centre and Memorial at Normannenstrasse was opened with an exhibition titled Against the Sleep of Reason. House 1 has been open to the public ever since, and you can see the offices of Mielke preserved in their original condition.\n\nYears after these events, the demoted Wiesler sees Dreyman’s book, Sonata For A Good Man, on sale at the Karl Marx Bookstore, Karl-Marx-Allee 78.\n\nKarl-Marx-Allee was built, between 1952 and 1960, following the massive destruction of the city in WWII, in what was then Communist East Berlin. Running from Alexanderplatz to Frankfurter Tor, it remains an historical and architectural memorial to the Soviet era – borrowing much of its architectural style from the old Soviet model.\n\nIts original name, Grosse Frankfurter Strasse, was changed to Stalinalle in 1949 to celebrate the 70th birthday of the Soviet leader but in 1961, after the monstrous Stalin was officially condemned, the boulevard was again renamed, after Communist philosopher Karl Marx.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "The Lives Of Others location: the bugged home of playwright Dreyman: Wedekindstrasse, Friedrichshain, Berlin",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/001.jpg",
+      "alt": "The Lives Of Others filming location: Wedekindstrasse, Berlin"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 2007 Oscar winner for Best Foreign Language film is set in 1980s East Berlin, where celebrity playwright Georg Dreyman (Sebastian Koch) and his equally celebrated actress companion Christa-Maria Sieland (Martina Gedeck), become targets for clandestine observation by the state when the powerful Minister for Culture, Hempf (Thomas Thieme), develops a crush on the performer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The conscientious Wiesler (Ulrich Mühe), an agent for the notorious Stasi secret police, is installed in the attic of the couple’s apartment block to monitor their private conversations, naively believing he’s protecting the GDR from enemies. As a witness to the most intimate moments of the couple, he gradually becomes aware of a new world of humanity."
+    },
+    {
+      "type": "paragraph",
+      "text": "The film opens in the notorious Berlin-Hohenschonhausen prison, where Wiesler is demonstrating his interrogation techniques. Although the film uses as many real-life locations as is practical, this is not one of them."
+    },
+    {
+      "type": "paragraph",
+      "text": "The director of Hohenschönhausen Prison, which is now the site of a memorial dedicated to the victims of Stasi oppression, refused to give director von Donnersmarck permission to film. He objected to a Stasi man being presented as a hero, and when von Donnersmarck responded by citing Steven Spielberg’s Schindler's List as an example of a similar plot device, the director countered with \"That is exactly the difference. There was a Schindler. There was no Wiesler.”"
+    },
+    {
+      "type": "image",
+      "caption": "The Lives Of Others location: Dreyman's play is performed for the dignitaries: Hebbel Theatre, Stresemannstraße, Berlin",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/003.jpg",
+      "alt": "The Lives Of Others filming location: Hebbel Theatre, Stresemannstraße, Berlin"
+    },
+    {
+      "type": "paragraph",
+      "text": "The wood-panelled theatre (presumably intended to be the similar but larger Volksbühne) in which the Head of Culture reveals his doubts about Dreyman to Minister Hempf is actually the Hebbel Theatre, Stresemannstraße 29."
+    },
+    {
+      "type": "paragraph",
+      "text": "The 800-seat Hebbel was built in 1908 in the Jugendstil (art nouveau style), an early work by the well-known theater architect Oskar Kaufmann. It was the only theater in Berlin left relatively unscathed after WWII and actually reopened in August 1945. Along with two other theatres, it’s now part of Hebbel am Ufer (HAU)."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the party afterwards, at which the unpleasant Stalinist Hempf reveals his power, was filmed in the Grüner Salon (Green Salon) of the Volksbühne (People's Theatre) at Rosa-Luxemburg-Platz, north of Alexanderplatz. The Volksbühne was built in 1914, with its origin in the concept of Freie Volksbühne (Free People's Theater) to promote naturalist plays at prices affordable by ordinary working people. Like much of Berlin, the theatre was heavily damaged during WWII and rebuilt in the early Fifties."
+    },
+    {
+      "type": "image",
+      "caption": "The Lives Of Others location: the 'bar' across from Dreyman's apartment, where Wiesler meets Christa: Wedekindstrasse, Friedrichshain, Berlin",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/004.jpg",
+      "alt": "The Lives Of Others filming location: Wedekindstrasse, Berlin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dreyman’s apartment, where Wiesler installs himself in the attic, is 21 Wedekindstrasse, in the fashionably gentrified Friedrichshain district. Don’t expect to sit down for a relaxing drink in the ‘bar’ on the corner of Marchlewskistraße opposite, where Wiesler meets actress Christa. It’s actually a private company office."
+    },
+    {
+      "type": "paragraph",
+      "text": "After the suicide of the blacklisted stage director Jerska (Volkmar Kleinert), Dreyman meets with dissident friends at the Pankow Memorial to discuss the possibility of publishing an anonymous article."
+    },
+    {
+      "type": "paragraph",
+      "text": "More properly, it’s the Soviet War Memorial in Schönholzer Heide in Pankow, about five miles north of the city, where 13,200 of the 80,000 Soviet soldiers killed during the Battle of Berlin, are buried."
+    },
+    {
+      "type": "image",
+      "caption": "The Lives Of Others location: Wiesler looks up the old files to discover the truth: Stasi Museum, Ruschestraße, Lichtenberg, Berlin",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/005.jpg",
+      "alt": "The Lives Of Others filming location: Stasi Museum, Ruschestraße, Lichtenberg, Berlin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike the prison, the Stasi HQ to which people are taken for questioning, and where Wiesler eventually consults the records for ‘Operation Lazlo’, is the real thing It’s now the Stasi Museum, Ruschestraße 103, Haus 1, in the Lichtenberg district."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Museum is located in House 1 of the headquarters of the former GDR Ministry for State Security (MfS). The building was erected in 1960-61 as the offices of Erich Mielke, who was Minister for State Security until the collapse of the GDR. In 1990, after the fall of the Berlin Wall, demonstrators took over the Stasi headquarters and in November of that year, the Research Centre and Memorial at Normannenstrasse was opened with an exhibition titled Against the Sleep of Reason. House 1 has been open to the public ever since, and you can see the offices of Mielke preserved in their original condition."
+    },
+    {
+      "type": "image",
+      "caption": "The Lives Of Others location: Wiesler buys Dreyman's book: Karl Marx Bookstore, Karl-Marx-Allee, Berlin",
+      "src": "_assets/tt0405094%20-%20Leben-Der-Anderen/006.jpg",
+      "alt": "The Lives Of Others filming location: Karl Marx Bookstore, Karl-Marx-Allee, Berlin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Years after these events, the demoted Wiesler sees Dreyman’s book, Sonata For A Good Man, on sale at the Karl Marx Bookstore, Karl-Marx-Allee 78."
+    },
+    {
+      "type": "paragraph",
+      "text": "Karl-Marx-Allee was built, between 1952 and 1960, following the massive destruction of the city in WWII, in what was then Communist East Berlin. Running from Alexanderplatz to Frankfurter Tor, it remains an historical and architectural memorial to the Soviet era – borrowing much of its architectural style from the old Soviet model."
+    },
+    {
+      "type": "paragraph",
+      "text": "Its original name, Grosse Frankfurter Strasse, was changed to Stalinalle in 1949 to celebrate the 70th birthday of the Soviet leader but in 1961, after the monstrous Stalin was officially condemned, the boulevard was again renamed, after Communist philosopher Karl Marx."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Germany</h3>\n<p>Visit: Germany</p>\n<p>Visit: Berlin</p>\n<p>Flights: Berlin Tegel Airport, Zufahrt zum Flughafen Tegel, 13405 Berlin (tel: +49.30.60911150)</p>\n<p>Visit: the Hebbel Theatre, Stresemannstraße 29, 10963 Berlin (tel: +49 30 259 0040)</p>\n<p>Visit: the Karl Marx Bookstore, Karl-Marx-Allee 78, 10243 Berlin (tel: +49.30.297778925)</p>\n<p>Visit: the Soviet War Memorial, Schönholzer Heide, 13156 Berlin (rail: Berlin-Wilhelmsruh Station)</p>\n</section>",
+  "visit_info_text": "Germany\nVisit: Germany\nVisit: Berlin\nFlights: Berlin Tegel Airport, Zufahrt zum Flughafen Tegel, 13405 Berlin (tel: +49.30.60911150)\nVisit: the Hebbel Theatre, Stresemannstraße 29, 10963 Berlin (tel: +49 30 259 0040)\nVisit: the Karl Marx Bookstore, Karl-Marx-Allee 78, 10243 Berlin (tel: +49.30.297778925)\nVisit: the Soviet War Memorial, Schönholzer Heide, 13156 Berlin (rail: Berlin-Wilhelmsruh Station)",
+  "visit_sections": [
+    {
+      "title": "Germany",
+      "items": [
+        "Visit: Germany",
+        "Visit: Berlin",
+        "Flights: Berlin Tegel Airport, Zufahrt zum Flughafen Tegel, 13405 Berlin (tel: +49.30.60911150)",
+        "Visit: the Hebbel Theatre, Stresemannstraße 29, 10963 Berlin (tel: +49 30 259 0040)",
+        "Visit: the Karl Marx Bookstore, Karl-Marx-Allee 78, 10243 Berlin (tel: +49.30.297778925)",
+        "Visit: the Soviet War Memorial, Schönholzer Heide, 13156 Berlin (rail: Berlin-Wilhelmsruh Station)"
+      ]
+    }
+  ]
+}

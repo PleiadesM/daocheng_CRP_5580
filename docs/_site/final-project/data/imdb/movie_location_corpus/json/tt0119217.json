@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt0119217",
+  "shorthand": "Good-Will-Hunting",
+  "title": "Good Will Hunting",
+  "year": 1997,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0119217 - Good-Will-Hunting.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0119217 - Good-Will-Hunting.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0119217.json",
+  "source_url": "http://www.movie-locations.com/movies/g/Good-Will-Hunting.php",
+  "page_title": "Good Will Hunting | Film Locations",
+  "meta_description": "Filming locations for Gus van Sant's Oscar-winning Good Will Hunting, with Matt Damon and Robin Williams; in Boston and Toronto; including Woody's L Street Tavern in Boston and the Upfront Bar & Grill in Toronto",
+  "meta_keywords": "Good Will Hunting, film locations, tourism, travel, set-jetting, boston, woody's l street tavern, south side, toronto, ontario, upfront bar and grill, matt damon, robin williams, ben affleck, gus van sant, minnie driver",
+  "og_title": "Filming Locations for Good Will Hunting (1997)",
+  "og_description": "Travel guide to filming locations for Good Will Hunting (1997), with Matt Damon and Robin Williams; in Boston, Massachusetts, and Toronto, Ontario.",
+  "og_image": "http://www.movie-locations.com/movies/g/Good-Will-Hunting.jpg",
+  "top250_rank": "84",
+  "movie_locations_title": "GOOD WILL HUNTING",
+  "movie_locations_regions": "Boston, Massachusetts | Toronto, Ontario",
+  "director": "Gus Van Sant",
+  "cast": [
+    "Matt Damon",
+    "Robin Williams",
+    "Ben Affleck",
+    "Minnie Driver",
+    "Stellan Skarsgard",
+    "Cole Hauser"
+  ],
+  "locations": [
+    "Boston, Massachusetts;",
+    "Toronto, Ontario;"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0119217%20-%20Good-Will-Hunting/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119217 - Good-Will-Hunting/002.jpg",
+    "exists": true,
+    "alt": "Good Will Hunting poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119217/poster.jpg",
+    "corpus_asset_src": "../assets/tt0119217/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0119217%20-%20Good-Will-Hunting/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119217 - Good-Will-Hunting/001.jpg",
+    "exists": true,
+    "alt": "Good Will Hunting filming location: Woody's L Street Tavern, 658 East Eighth Street A, Boston",
+    "caption": "Good Will Hunting location: The South Boston bar: L Street Tavern, 658 East Eighth Street A, Boston",
+    "width": 630,
+    "height": 420,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119217/001.jpg",
+    "corpus_asset_src": "../assets/tt0119217/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0119217%20-%20Good-Will-Hunting/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119217 - Good-Will-Hunting/001.jpg",
+      "exists": true,
+      "alt": "Good Will Hunting filming location: Woody's L Street Tavern, 658 East Eighth Street A, Boston",
+      "caption": "Good Will Hunting location: The South Boston bar: L Street Tavern, 658 East Eighth Street A, Boston",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119217/001.jpg",
+      "corpus_asset_src": "../assets/tt0119217/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119217%20-%20Good-Will-Hunting/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119217 - Good-Will-Hunting/002.jpg",
+      "exists": true,
+      "alt": "Good Will Hunting poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119217/002.jpg",
+      "corpus_asset_src": "../assets/tt0119217/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119217%20-%20Good-Will-Hunting/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119217 - Good-Will-Hunting/003.jpg",
+      "exists": true,
+      "alt": "Good Will Hunting location: Bunker Hill Community College, Charlestown, Boston",
+      "caption": "Good Will Hunting location: The college of gruff shrink Sean Maguire: Bunker Hill Community College, Charlestown, Boston",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119217/003.jpg",
+      "corpus_asset_src": "../assets/tt0119217/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119217%20-%20Good-Will-Hunting/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119217 - Good-Will-Hunting/004.jpg",
+      "exists": true,
+      "alt": "Good Will Hunting location: Au Bon Pain, Harvard Square, Cambridge",
+      "caption": "Good Will Hunting location: Will tries to explain his gift to Skylar: Au Bon Pain, Harvard Square, Cambridge",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119217/004.jpg",
+      "corpus_asset_src": "../assets/tt0119217/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119217%20-%20Good-Will-Hunting/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119217 - Good-Will-Hunting/005.jpg",
+      "exists": true,
+      "alt": "Good Will Hunting filming location: the famous bench in Boston Public Garden, Boston",
+      "caption": "Good Will Hunting location: Maguire takes Will for a heart-to-heart: the famous bench in Boston Public Garden, Boston",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119217/005.jpg",
+      "corpus_asset_src": "../assets/tt0119217/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119217%20-%20Good-Will-Hunting/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119217 - Good-Will-Hunting/006.jpg",
+      "exists": true,
+      "alt": "Good Will Hunting location: Ontario Specialty Co, Church Street, Toronto",
+      "caption": "Good Will Hunting location: The magic store: Ontario Specialty Co, Church Street, Toronto",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119217/006.jpg",
+      "corpus_asset_src": "../assets/tt0119217/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119217%20-%20Good-Will-Hunting/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119217 - Good-Will-Hunting/007.jpg",
+      "exists": true,
+      "alt": "Good Will Hunting location: Upfront Bar & Grill, 106 Front Street East, Toronto",
+      "caption": "Good Will Hunting location: The ‘Harvard’ college bar interior: Upfront Bar & Grill, 106 Front Street East, Toronto",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119217/007.jpg",
+      "corpus_asset_src": "../assets/tt0119217/007.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0119217/001.jpg\" alt=\"Good Will Hunting filming location: Woody's L Street Tavern, 658 East Eighth Street A, Boston\"><figcaption>Good Will Hunting location: The South Boston bar: L Street Tavern, 658 East Eighth Street A, Boston</figcaption></figure>\n<p>If you’re struggling actors who can’t get good roles, why not write your own script, with a peach of a central role? You might just pick up a screenplay Oscar on the side. You wouldn’t believe it in the movies.</p>\n<p><a href=\"https://www.movie-locations.com/people/d/damonm.php\">Matt Damon</a> and <a href=\"https://www.movie-locations.com/people/a/affleckb.php\">Ben Affleck</a> took their script to <a href=\"https://www.movie-locations.com/people/s/smithk.php\">Kevin Smith</a>, who’d directed <a href=\"https://www.movie-locations.com/people/a/affleckb.php\">Affleck</a> in <a href=\"https://www.movie-locations.com/movies/c/Chasing-Amy.php\">Chasing Amy</a>, and who passed on directing, but produced the movie, with <a href=\"https://www.movie-locations.com/people/v/vansantg.php\">Gus Van Sant</a> in the director’s chair. The rest, as they say, is history.</p>\n<p>The film is set around <span class=\"name\">South Boston</span> and <span class=\"name\">Harvard Square</span> and, although the publicity made great play of the <a href=\"https://www.movie-locations.com/places/usa/mass.php\">Massachusetts</a> locales (<span class=\"name\">Boston</span> is the hometown of both <a href=\"https://www.movie-locations.com/people/d/damonm.php\">Damon</a> and <a href=\"https://www.movie-locations.com/people/a/affleckb.php\">Affleck</a>), financial concerns dictated that much of the movie was actually made in <span class=\"name\">Toronto</span>.</p>\n<p>Real <span class=\"name\">Boston</span> locations include the college, where stubbornly underachieving genius Will Hunting (<a href=\"https://www.movie-locations.com/people/d/damonm.php\">Damon</a>) works as janitor, which is <span class=\"name\">Massachusetts Institute of Technology, Cambridge</span> – the exterior is MIT’s <span class=\"name\">McLaurin Building</span>.</p>\n<p>The college of gruff shrink Sean Maguire (<a href=\"https://www.movie-locations.com/people/w/williamsr.php\">Robin Williams</a>) is the <span class=\"name\">Bunker Hill Community College, Rutherford Avenue, Charlestown</span>, while the college room of Skylar (<a href=\"https://www.movie-locations.com/people/d/driverm.php\">Minnie Driver</a>) is over the Charles River, <span class=\"name\">Dunster House, Harvard University, Cambridge</span>.</p>\n<p><span class=\"name\">Harvard Square</span> is the site of <span class=\"name\">Au Bon Pain, 27 Brattle Street</span>, where Will Hunting tries to explain his gift to Skylar, and also the now closed Tasty Café, where the two share a very messy pickle.</p>\n<p>Off Massachusetts Avenue was Harvard student hangout the Bow and Arrow Pub, now gone. But still serving up drinks is the working class bar where Will hangs out with Chuckie Sullivan (<a href=\"https://www.movie-locations.com/people/a/affleckb.php\">Ben Affleck</a>) and his buddies is the <span class=\"name\">L Street Tavern, 658 East Eighth Street A, Charles Baldwin Square</span> at L Street. Helpfully, there's a sign on the wall outside, proudly announcing the bar as a location in the Oscar-winning movie. The exterior has had a bit of a makeover since 1997.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119217/005.jpg\" alt=\"Good Will Hunting filming location: the famous bench in Boston Public Garden, Boston\"><figcaption>Good Will Hunting location: Maguire takes Will for a heart-to-heart: the famous bench in Boston Public Garden, Boston</figcaption></figure>\n<p>The park, to which Maguire takes Will for a heart-to-heart, is <span class=\"name\">Boston Public Garden, Arlington Street</span>, southwest of downtown. The bench is still there – just follow the lakeside path north from the western end of the bridge. It’s the third you’ll come across.</p>\n<p>North of the border in <a href=\"https://www.movie-locations.com/places/canada.php\">Canada</a>, the <span class=\"name\">University of Toronto</span> supplied many of the film’s interiors: <span class=\"name\">Knox College</span>; <span class=\"name\">Whitney Hall</span>; <span class=\"name\">St Michael’s College</span> and <span class=\"name\">McLennan Hall</span>; while the <span class=\"name\">Central Technical High School</span> was also used. Dorm interiors were filmed at <span class=\"name\">Wycliffe College, Hoskins Avenue</span>.</p>\n<p>In downtown <span class=\"name\">Toronto</span> are the <span class=\"name\">Ontario Specialty Co, 133 Church Street</span> at Queen Street, the toy store where Will demonstrates his magic trick to Skylar. The shop is transformed into a beauty parlour for the fake newsreel shots in Oscar-winning musical <a href=\"https://www.movie-locations.com/movies/c/Chicago.php\">Chicago</a> (which was filmed entirely in <span class=\"name\">Toronto</span>). </p>\n<p>And the <span class=\"name\">Crown Life Building, 120 Bloor Street East</span> becomes the glossy corporate environment he rejects.</p>\n<p>The interior of the college bar, where Will Hunting humiliates the history student, is the <span class=\"name\">Upfront Bar and Grill, 106 Front Street East</span>, downtown <span class=\"name\">Toronto</span>.</p>",
+  "main_content_text": "If you’re struggling actors who can’t get good roles, why not write your own script, with a peach of a central role? You might just pick up a screenplay Oscar on the side. You wouldn’t believe it in the movies.\n\nMatt Damon and Ben Affleck took their script to Kevin Smith, who’d directed Affleck in Chasing Amy, and who passed on directing, but produced the movie, with Gus Van Sant in the director’s chair. The rest, as they say, is history.\n\nThe film is set around South Boston and Harvard Square and, although the publicity made great play of the Massachusetts locales (Boston is the hometown of both Damon and Affleck), financial concerns dictated that much of the movie was actually made in Toronto.\n\nReal Boston locations include the college, where stubbornly underachieving genius Will Hunting (Damon) works as janitor, which is Massachusetts Institute of Technology, Cambridge – the exterior is MIT’s McLaurin Building.\n\nThe college of gruff shrink Sean Maguire (Robin Williams) is the Bunker Hill Community College, Rutherford Avenue, Charlestown, while the college room of Skylar (Minnie Driver) is over the Charles River, Dunster House, Harvard University, Cambridge.\n\nHarvard Square is the site of Au Bon Pain, 27 Brattle Street, where Will Hunting tries to explain his gift to Skylar, and also the now closed Tasty Café, where the two share a very messy pickle.\n\nOff Massachusetts Avenue was Harvard student hangout the Bow and Arrow Pub, now gone. But still serving up drinks is the working class bar where Will hangs out with Chuckie Sullivan (Ben Affleck) and his buddies is the L Street Tavern, 658 East Eighth Street A, Charles Baldwin Square at L Street. Helpfully, there's a sign on the wall outside, proudly announcing the bar as a location in the Oscar-winning movie. The exterior has had a bit of a makeover since 1997.\n\nThe park, to which Maguire takes Will for a heart-to-heart, is Boston Public Garden, Arlington Street, southwest of downtown. The bench is still there – just follow the lakeside path north from the western end of the bridge. It’s the third you’ll come across.\n\nNorth of the border in Canada, the University of Toronto supplied many of the film’s interiors: Knox College; Whitney Hall; St Michael’s College and McLennan Hall; while the Central Technical High School was also used. Dorm interiors were filmed at Wycliffe College, Hoskins Avenue.\n\nIn downtown Toronto are the Ontario Specialty Co, 133 Church Street at Queen Street, the toy store where Will demonstrates his magic trick to Skylar. The shop is transformed into a beauty parlour for the fake newsreel shots in Oscar-winning musical Chicago (which was filmed entirely in Toronto).\n\nAnd the Crown Life Building, 120 Bloor Street East becomes the glossy corporate environment he rejects.\n\nThe interior of the college bar, where Will Hunting humiliates the history student, is the Upfront Bar and Grill, 106 Front Street East, downtown Toronto.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Good Will Hunting location: The South Boston bar: L Street Tavern, 658 East Eighth Street A, Boston",
+      "src": "_assets/tt0119217%20-%20Good-Will-Hunting/001.jpg",
+      "alt": "Good Will Hunting filming location: Woody's L Street Tavern, 658 East Eighth Street A, Boston"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you’re struggling actors who can’t get good roles, why not write your own script, with a peach of a central role? You might just pick up a screenplay Oscar on the side. You wouldn’t believe it in the movies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Matt Damon and Ben Affleck took their script to Kevin Smith, who’d directed Affleck in Chasing Amy, and who passed on directing, but produced the movie, with Gus Van Sant in the director’s chair. The rest, as they say, is history."
+    },
+    {
+      "type": "paragraph",
+      "text": "The film is set around South Boston and Harvard Square and, although the publicity made great play of the Massachusetts locales (Boston is the hometown of both Damon and Affleck), financial concerns dictated that much of the movie was actually made in Toronto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Real Boston locations include the college, where stubbornly underachieving genius Will Hunting (Damon) works as janitor, which is Massachusetts Institute of Technology, Cambridge – the exterior is MIT’s McLaurin Building."
+    },
+    {
+      "type": "paragraph",
+      "text": "The college of gruff shrink Sean Maguire (Robin Williams) is the Bunker Hill Community College, Rutherford Avenue, Charlestown, while the college room of Skylar (Minnie Driver) is over the Charles River, Dunster House, Harvard University, Cambridge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Harvard Square is the site of Au Bon Pain, 27 Brattle Street, where Will Hunting tries to explain his gift to Skylar, and also the now closed Tasty Café, where the two share a very messy pickle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Off Massachusetts Avenue was Harvard student hangout the Bow and Arrow Pub, now gone. But still serving up drinks is the working class bar where Will hangs out with Chuckie Sullivan (Ben Affleck) and his buddies is the L Street Tavern, 658 East Eighth Street A, Charles Baldwin Square at L Street. Helpfully, there's a sign on the wall outside, proudly announcing the bar as a location in the Oscar-winning movie. The exterior has had a bit of a makeover since 1997."
+    },
+    {
+      "type": "image",
+      "caption": "Good Will Hunting location: Maguire takes Will for a heart-to-heart: the famous bench in Boston Public Garden, Boston",
+      "src": "_assets/tt0119217%20-%20Good-Will-Hunting/005.jpg",
+      "alt": "Good Will Hunting filming location: the famous bench in Boston Public Garden, Boston"
+    },
+    {
+      "type": "paragraph",
+      "text": "The park, to which Maguire takes Will for a heart-to-heart, is Boston Public Garden, Arlington Street, southwest of downtown. The bench is still there – just follow the lakeside path north from the western end of the bridge. It’s the third you’ll come across."
+    },
+    {
+      "type": "paragraph",
+      "text": "North of the border in Canada, the University of Toronto supplied many of the film’s interiors: Knox College; Whitney Hall; St Michael’s College and McLennan Hall; while the Central Technical High School was also used. Dorm interiors were filmed at Wycliffe College, Hoskins Avenue."
+    },
+    {
+      "type": "paragraph",
+      "text": "In downtown Toronto are the Ontario Specialty Co, 133 Church Street at Queen Street, the toy store where Will demonstrates his magic trick to Skylar. The shop is transformed into a beauty parlour for the fake newsreel shots in Oscar-winning musical Chicago (which was filmed entirely in Toronto)."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the Crown Life Building, 120 Bloor Street East becomes the glossy corporate environment he rejects."
+    },
+    {
+      "type": "paragraph",
+      "text": "The interior of the college bar, where Will Hunting humiliates the history student, is the Upfront Bar and Grill, 106 Front Street East, downtown Toronto."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Massachusetts | Boston</h3>\n<p>Visit: Massachusetts</p>\n<p>Visit: Boston</p>\n<p>Flights: Logan International Airport, 1 Harborside Drive, Boston, MA 02128 (tel: 800.235.6426)</p>\n<p>Travel around: MBTA (Massachusetts Bay Transportation Authority)</p>\n</section>\n<section><h3>Ontario | Toronto</h3>\n<p>Visit: Ontario</p>\n<p>Visit: Toronto</p>\n<p>Flights: Toronto Pearson International Airport, 6301 Silver Dart Drive, Mississauga, ON L5P 1B2 (tel: 416.247.7678)</p>\n</section>",
+  "visit_info_text": "Massachusetts | Boston\nVisit: Massachusetts\nVisit: Boston\nFlights: Logan International Airport, 1 Harborside Drive, Boston, MA 02128 (tel: 800.235.6426)\nTravel around: MBTA (Massachusetts Bay Transportation Authority)\nOntario | Toronto\nVisit: Ontario\nVisit: Toronto\nFlights: Toronto Pearson International Airport, 6301 Silver Dart Drive, Mississauga, ON L5P 1B2 (tel: 416.247.7678)",
+  "visit_sections": [
+    {
+      "title": "Massachusetts | Boston",
+      "items": [
+        "Visit: Massachusetts",
+        "Visit: Boston",
+        "Flights: Logan International Airport, 1 Harborside Drive, Boston, MA 02128 (tel: 800.235.6426)",
+        "Travel around: MBTA (Massachusetts Bay Transportation Authority)"
+      ]
+    },
+    {
+      "title": "Ontario | Toronto",
+      "items": [
+        "Visit: Ontario",
+        "Visit: Toronto",
+        "Flights: Toronto Pearson International Airport, 6301 Silver Dart Drive, Mississauga, ON L5P 1B2 (tel: 416.247.7678)"
+      ]
+    }
+  ]
+}

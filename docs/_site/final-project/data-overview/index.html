@@ -73,7 +73,7 @@
 
 
     <!-- This file is included in all layouts that support `custom_head` -->
-<link rel="stylesheet" href="/daocheng_CRP_5580/assets/css/custom.css?v=1778446577">
+<link rel="stylesheet" href="/daocheng_CRP_5580/assets/css/custom.css?v=1778902197">
 
   </head>
 
@@ -181,6 +181,24 @@
       
         <li>
           
+            <span class="nav__sub-title">Excercises</span>
+          
+
+          
+          <ul>
+            
+              <li><a href="/daocheng_CRP_5580/exercises/2b/">2b</a></li>
+            
+              <li><a href="/daocheng_CRP_5580/exercises/3a/">3a</a></li>
+            
+              <li><a href="/daocheng_CRP_5580/exercises/4a/">4a</a></li>
+            
+          </ul>
+          
+        </li>
+      
+        <li>
+          
             <span class="nav__sub-title">Quizzes</span>
           
 
@@ -268,7 +286,338 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        <p>Final Project Data Overview - here you will list the data you use and the location or source of that data.</p>
+        <p>Please visit the data directory on Github: <a href="https://github.com/PleiadesM/daocheng_CRP_5580/tree/main/docs/final-project/data">Click here</a>, and read the introduction below:</p>
+
+<h1 id="moviemap--data">MovieMap — Data</h1>
+
+<p>This directory holds every dataset used by the <em>MovieMap</em> scrollytelling site and
+its embedded Tableau dashboards. Each CSV here was either downloaded directly
+from a public open-data portal or scraped from a public web source and cleaned
+into a wide- or long-format table that Tableau can consume.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>data/
+├── sf_film/        San Francisco filming locations + Film SF impact reports
+├── hengdian/       Hengdian World Studios — attractions, productions, photos, shapefile
+└── imdb/           IMDb Top 250 metadata + a 91-movie location corpus
+</code></pre></div></div>
+
+<p>The site uses each dataset as follows:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Site section</th>
+      <th>Data used</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SF filming-locations map (Section 01)</td>
+      <td><code class="language-plaintext highlighter-rouge">sf_film/Film_Locations_in_San_Francisco_20260510.csv</code></td>
+    </tr>
+    <tr>
+      <td>SF film-economy dashboard (Section 01)</td>
+      <td>the seven other CSVs in <code class="language-plaintext highlighter-rouge">sf_film/</code></td>
+    </tr>
+    <tr>
+      <td>Hengdian theme-park map (Section 01)</td>
+      <td><code class="language-plaintext highlighter-rouge">hengdian/hengdian_attractions.csv</code> + <code class="language-plaintext highlighter-rouge">hengdian/shapefiles/</code></td>
+    </tr>
+    <tr>
+      <td>Hengdian productions (tooltip, Section 01)</td>
+      <td><code class="language-plaintext highlighter-rouge">hengdian/hengdian_productions.csv</code></td>
+    </tr>
+    <tr>
+      <td>IMDb genre / box-office dashboard (Section 02)</td>
+      <td><code class="language-plaintext highlighter-rouge">imdb/imdb_top250_clean.csv</code></td>
+    </tr>
+    <tr>
+      <td>3D Globe Explorer (Section 03)</td>
+      <td><code class="language-plaintext highlighter-rouge">imdb/movie_location_corpus/</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="sf_film--san-francisco"><code class="language-plaintext highlighter-rouge">sf_film/</code> — San Francisco</h2>
+
+<h3 id="film_locations_in_san_francisco_20260510csv-2214-rows"><code class="language-plaintext highlighter-rouge">Film_Locations_in_San_Francisco_20260510.csv</code> (2,214 rows)</h3>
+
+<p>Every permitted filming location in the City of San Francisco, with the
+production’s title, year, fun-fact note, and a <code class="language-plaintext highlighter-rouge">POINT(lng lat)</code> geocode.</p>
+
+<ul>
+  <li><strong>Source:</strong> DataSF — <em>Film Locations in San Francisco</em>
+<a href="https://data.sfgov.org/Culture-and-Recreation/Film-Locations-in-San-Francisco/yitu-d5am">https://data.sfgov.org/Culture-and-Recreation/Film-Locations-in-San-Francisco/yitu-d5am</a></li>
+  <li><strong>Snapshot date:</strong> 2026-05-10 (filename suffix)</li>
+  <li><strong>Grain:</strong> one (title × location) pair</li>
+</ul>
+
+<h3 id="film-sf-annual-impact-reports-six-csvs">Film SF annual impact reports (six CSVs)</h3>
+
+<p>Scraped from the four annual impact reports published by <strong>Film SF</strong>, the San
+Francisco Office of Economic and Workforce Development’s film commission, and
+broken out into one table per metric family. <code class="language-plaintext highlighter-rouge">fiscal_year</code> is the calendar year
+in which the fiscal year ends (so <code class="language-plaintext highlighter-rouge">2025</code> = FY24-25 = July 2024 – June 2025).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>File</th>
+      <th>Grain</th>
+      <th>Columns of note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">filming_statistics.csv</code> (4 rows)</td>
+      <td>one fiscal year</td>
+      <td>direct economic output, permit fees, shoot days, productions</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">funding.csv</code> (4 rows)</td>
+      <td>one fiscal year</td>
+      <td>permit fees, general fund, Grants for the Arts, total budget</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">productions_by_type.csv</code> (44 rows)</td>
+      <td>fiscal year × production type</td>
+      <td>productions, shoot days per type (WEB, FEATURE, TV SERIES, etc.)</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">jurisdictions.csv</code> (4 rows)</td>
+      <td>one fiscal year</td>
+      <td>shoot days by jurisdiction (Rec &amp; Parks, Presidio, GG NRA, SFO, …)</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">crew_hotel_sagaftra.csv</code> (12 rows)</td>
+      <td>fiscal year × category</td>
+      <td>crew hires, SF hotel nights, local SAG-AFTRA hires</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">notable_productions.csv</code> (64 rows)</td>
+      <td>one notable production</td>
+      <td>title, director, starring, network/studio</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Source documents:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Fiscal year</th>
+      <th>URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025</td>
+      <td><a href="https://media.api.sf.gov/documents/SF_Film_Annual_Report_FY24-25_Final.pdf">https://media.api.sf.gov/documents/SF_Film_Annual_Report_FY24-25_Final.pdf</a></td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td><a href="https://media.api.sf.gov/documents/SF_Film_Annual_Report_FY23-24_2.26.pdf">https://media.api.sf.gov/documents/SF_Film_Annual_Report_FY23-24_2.26.pdf</a></td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td><a href="https://www.sf.gov/sites/default/files/2024-01/Film%20SF%20Impact%20Report%20FY22_23.pdf">https://www.sf.gov/sites/default/files/2024-01/Film%20SF%20Impact%20Report%20FY22_23.pdf</a></td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="https://www.sf.gov/sites/default/files/2023-05/Film%20SF%20Annual%20Report%20FY21-22_1.pdf">https://www.sf.gov/sites/default/files/2023-05/Film%20SF%20Annual%20Report%20FY21-22_1.pdf</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Caveats:</strong></p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">direct_economic_output_usd</code> is blank for FY21-22; Film SF didn’t headline that
+metric until FY22-23.</li>
+  <li>2024’s <code class="language-plaintext highlighter-rouge">productions_by_type</code> shoot-day sum is 507 vs. the headline 506
+(rounding in the source).</li>
+  <li><code class="language-plaintext highlighter-rouge">california_film_commission</code> and <code class="language-plaintext highlighter-rouge">sfo</code> columns in <code class="language-plaintext highlighter-rouge">jurisdictions.csv</code> are
+blank for FY21-22 through FY23-24; they were added in the FY24-25 report.</li>
+</ul>
+
+<hr />
+
+<h2 id="hengdian--hengdian-world-studios"><code class="language-plaintext highlighter-rouge">hengdian/</code> — Hengdian World Studios</h2>
+
+<h3 id="hengdian_attractionscsv-7-rows"><code class="language-plaintext highlighter-rouge">hengdian_attractions.csv</code> (7 rows)</h3>
+
+<p>The seven major themed environments / studio sets that make up Hengdian World
+Studios, each tagged with the role it plays (scenic spot, shooting base, live
+show, etc.).</p>
+
+<h3 id="hengdian_productionscsv-30-rows"><code class="language-plaintext highlighter-rouge">hengdian_productions.csv</code> (30 rows)</h3>
+
+<p>Films and TV series filmed at Hengdian, with director, cast, box office (films
+only), Wikipedia URL, downloaded poster path, and a heuristic mapping to one or
+more of the seven attractions.</p>
+
+<ul>
+  <li><strong>Source:</strong> English Wikipedia — <em>Hengdian World Studios</em> and each production’s
+individual article. <a href="https://en.wikipedia.org/wiki/Hengdian_World_Studios">https://en.wikipedia.org/wiki/Hengdian_World_Studios</a></li>
+  <li>⚠️ <strong>Caveat on <code class="language-plaintext highlighter-rouge">filming_attractions</code>:</strong> Wikipedia does not publish a
+production-to-set mapping for Hengdian. The values in this column are
+<strong>heuristic matches</strong> generated by mapping each story’s historical era to the
+attraction whose architectural style recreates that era (e.g., Qing-dynasty
+palace dramas → <em>Palace of Ming and Qing Dynasties</em>; 1840s–1949 Shanghai
+settings → <em>Legend of Bund</em>). The <code class="language-plaintext highlighter-rouge">match_basis</code> column records the reasoning
+for each row. Two modern-set productions (<em>DOA: Dead or Alive</em>, <em>No Return</em>)
+are intentionally blank because they don’t map cleanly to any historical-era
+attraction.</li>
+</ul>
+
+<h3 id="hengdian_visitor_attendancecsv-9-rows"><code class="language-plaintext highlighter-rouge">hengdian_visitor_attendance.csv</code> (9 rows)</h3>
+
+<p>Annual visitor count to Hengdian World Studios, in millions, for 2011 – 2019.
+Source: Wikipedia. Later years are not currently reported on the article.</p>
+
+<h3 id="attraction_photoscsv--attraction_photos-12-photos"><code class="language-plaintext highlighter-rouge">attraction_photos.csv</code> + <code class="language-plaintext highlighter-rouge">attraction_photos/</code> (12 photos)</h3>
+
+<p>Wikimedia Commons photos of Hengdian attractions, with OSM ID, attraction name,
+local file path, original URL, license, and credit. All photos are licensed
+<strong>CC BY-SA 4.0</strong> (or compatible); see the <code class="language-plaintext highlighter-rouge">license</code> and <code class="language-plaintext highlighter-rouge">credit</code> columns.</p>
+
+<h3 id="posters-29-poster-images"><code class="language-plaintext highlighter-rouge">posters/</code> (29 poster images)</h3>
+
+<p>Poster images for the productions in <code class="language-plaintext highlighter-rouge">hengdian_productions.csv</code>, downloaded
+from each production’s English Wikipedia infobox. Used under fair use for
+non-commercial educational presentation. Two productions in
+<code class="language-plaintext highlighter-rouge">hengdian_productions.csv</code> are missing posters (Iron Road has no infobox image
+on Wikipedia; one other was unavailable at scrape time).</p>
+
+<h3 id="shapefiles--hengdianstudioshp--companions"><code class="language-plaintext highlighter-rouge">shapefiles/</code> — <code class="language-plaintext highlighter-rouge">HengdianStudio.shp</code> (+ companions)</h3>
+
+<p>A polygon shapefile of the seven Hengdian attractions used to render the theme
+parks on the Tableau map.</p>
+
+<ul>
+  <li><strong>Source:</strong> OpenStreetMap (Hengdian Studios features, exported via QGIS).</li>
+  <li><strong>Companion files:</strong> <code class="language-plaintext highlighter-rouge">.dbf</code> (attribute table), <code class="language-plaintext highlighter-rouge">.prj</code> (projection),
+<code class="language-plaintext highlighter-rouge">.shx</code> (index), <code class="language-plaintext highlighter-rouge">.cpg</code> (encoding), <code class="language-plaintext highlighter-rouge">.qgz</code> (QGIS project file used to author
+the export).</li>
+</ul>
+
+<hr />
+
+<h2 id="imdb--imdb-top-250"><code class="language-plaintext highlighter-rouge">imdb/</code> — IMDb Top 250</h2>
+
+<h3 id="imdb_top250_cleancsv-499-rows"><code class="language-plaintext highlighter-rouge">imdb_top250_clean.csv</code> (499 rows)</h3>
+
+<p>IMDb Top 250 metadata enriched with up to 11 filming-region tags per title and
+a worldwide box-office figure pulled from each film’s Wikipedia article.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Column group</th>
+      <th>Columns</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Identity</td>
+      <td><code class="language-plaintext highlighter-rouge">imdb_id</code>, <code class="language-plaintext highlighter-rouge">top250_rank</code>, <code class="language-plaintext highlighter-rouge">title</code>, <code class="language-plaintext highlighter-rouge">year</code></td>
+    </tr>
+    <tr>
+      <td>Reception</td>
+      <td><code class="language-plaintext highlighter-rouge">imdb_rating</code>, <code class="language-plaintext highlighter-rouge">votes</code></td>
+    </tr>
+    <tr>
+      <td>Production</td>
+      <td><code class="language-plaintext highlighter-rouge">runtime_minutes</code>, <code class="language-plaintext highlighter-rouge">genre</code>, <code class="language-plaintext highlighter-rouge">director</code>, <code class="language-plaintext highlighter-rouge">cast</code></td>
+    </tr>
+    <tr>
+      <td>Locations</td>
+      <td><code class="language-plaintext highlighter-rouge">region_1</code> … <code class="language-plaintext highlighter-rouge">region_11</code> (US state or country names)</td>
+    </tr>
+    <tr>
+      <td>Money</td>
+      <td><code class="language-plaintext highlighter-rouge">box_office_usd</code>, <code class="language-plaintext highlighter-rouge">box_office_raw</code>, <code class="language-plaintext highlighter-rouge">box_office_source</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>Source — Top 250 list and metadata:</strong> <a href="https://www.imdb.com/chart/top/">https://www.imdb.com/chart/top/</a></li>
+  <li><strong>Source — box office:</strong> linked Wikipedia article for each film
+(<code class="language-plaintext highlighter-rouge">box_office_source</code> column).</li>
+</ul>
+
+<h3 id="movie_location_corpus--filming-location-corpus-91-movies"><code class="language-plaintext highlighter-rouge">movie_location_corpus/</code> — filming-location corpus (91 movies)</h3>
+
+<p>A scraped corpus of detailed filming-location pages for 91 of the Top 250
+films, used by the 3D Globe Explorer.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Path</th>
+      <th>Contents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">corpus_index.csv</code> (91 rows)</td>
+      <td>one row per movie — IMDb ID, title, year, source URL, paths to cleaned HTML / JSON, director, locations, image count</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">corpus.jsonl</code></td>
+      <td>one JSON record per movie, mirroring the index</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">html/</code> (91 files)</td>
+      <td>a cleaned-up HTML rendering of each movie’s location page, used inside the explorer’s poster sidebar</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">json/</code> (91 files)</td>
+      <td>the same data in structured form</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">assets/</code> (one folder per IMDb ID)</td>
+      <td>locally cached poster + scene images</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>Source:</strong> <em>The Worldwide Guide to Movie Locations</em> — <a href="http://www.movie-locations.com/">http://www.movie-locations.com/</a>
+(specifically the per-movie pages linked from the Top 250 index).</li>
+</ul>
+
+<hr />
+
+<h2 id="reproducibility">Reproducibility</h2>
+
+<p>Most of the scraping and cleaning steps that produced these CSVs are in the
+project’s <code class="language-plaintext highlighter-rouge">from-scratch/</code> and <code class="language-plaintext highlighter-rouge">data_source/</code> directories at the repo root —
+notably <code class="language-plaintext highlighter-rouge">data_source/build_imdb_clean.py</code>, <code class="language-plaintext highlighter-rouge">data_source/hengdian/build_hengdian.py</code>,
+and <code class="language-plaintext highlighter-rouge">data_source/hengdian/match_attractions.py</code>. They use <code class="language-plaintext highlighter-rouge">requests</code> +
+<code class="language-plaintext highlighter-rouge">beautifulsoup4</code> and identify themselves with a polite User-Agent. Run dates
+are recorded in each CSV’s snapshot suffix where applicable.</p>
+
+<h2 id="licensing">Licensing</h2>
+
+<ul>
+  <li><strong>DataSF — Film Locations in San Francisco</strong>: public domain (CC0 / DataSF
+open data terms).</li>
+  <li><strong>Film SF annual reports</strong>: public records published by the City of San
+Francisco.</li>
+  <li><strong>Wikipedia / Wikimedia Commons content</strong>: CC BY-SA 3.0 / 4.0 unless noted
+otherwise. Photos retain individual author credits in
+<code class="language-plaintext highlighter-rouge">hengdian/attraction_photos.csv</code>.</li>
+  <li><strong>IMDb metadata and <em>Movie-Locations.com</em> content</strong>: used here under fair use
+for non-commercial educational presentation; ownership remains with the
+original publishers.</li>
+</ul>
+
+<p>For the project narrative, dashboards, and 3D globe that consume these
+datasets, see the parent repository.</p>
 
         
       </section>

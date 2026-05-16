@@ -1,0 +1,163 @@
+{
+  "imdb_id": "tt0120689",
+  "shorthand": "Green-Mile",
+  "title": "The Green Mile",
+  "year": 1999,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0120689 - Green-Mile.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0120689 - Green-Mile.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0120689.json",
+  "source_url": "http://www.movie-locations.com/movies/g/Green-Mile.php",
+  "page_title": "The Green Mile | Film Locations",
+  "meta_description": "Filming locations for The Green Mile (1999), in Tennessee and North Carolina.",
+  "meta_keywords": "The Green Mile, film locations, tourism, travel, set-jetting, tennessee, nashville, tennessee state penitentiary, flat top manor, moses cone park, blowing rock, north carolina, stephen king, frank darabont, tom hanks",
+  "og_title": "Filming Locations for The Green Mile (1999), in Tennessee and North Carolina.",
+  "og_description": "Travel guide to filming locations for The Green Mile (1999), in Tennessee and North Carolina.",
+  "og_image": "http://www.movie-locations.com/movies/g/Green-Mile.jpg",
+  "top250_rank": "31",
+  "movie_locations_title": "THE GREEN MILE",
+  "movie_locations_regions": "Tennessee | North Carolina",
+  "director": "Frank Darabont",
+  "cast": [
+    "Tom Hanks",
+    "Michael Clarke Duncan",
+    "David Morse",
+    "Doug Hutchison",
+    "Barry Pepper",
+    "Sam Rockwell",
+    "James Cromwell",
+    "Michael Jeter",
+    "Bonnie Hunt",
+    "Patricia Clarkson",
+    "Graham Greene",
+    "Dabbs Greer",
+    "Harry Dean Stanton",
+    "William Sadler",
+    "Gary Sinise",
+    "Jeffrey DeMunn",
+    "Bill McKinney"
+  ],
+  "locations": [
+    "Tennessee;",
+    "North Carolina"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0120689%20-%20Green-Mile/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120689 - Green-Mile/002.jpg",
+    "exists": true,
+    "alt": "The Green Mile poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120689/poster.jpg",
+    "corpus_asset_src": "../assets/tt0120689/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0120689%20-%20Green-Mile/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120689 - Green-Mile/001.jpg",
+    "exists": true,
+    "alt": "The Green Mile filming location: Tennessee State Penitentiary, Nashville",
+    "caption": "The Green Mile location: Cold Mountain Prison: Tennessee State Penitentiary, Nashville | Photograph: Erik Hollander",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120689/001.jpg",
+    "corpus_asset_src": "../assets/tt0120689/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0120689%20-%20Green-Mile/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120689 - Green-Mile/001.jpg",
+      "exists": true,
+      "alt": "The Green Mile filming location: Tennessee State Penitentiary, Nashville",
+      "caption": "The Green Mile location: Cold Mountain Prison: Tennessee State Penitentiary, Nashville | Photograph: Erik Hollander",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120689/001.jpg",
+      "corpus_asset_src": "../assets/tt0120689/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0120689%20-%20Green-Mile/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120689 - Green-Mile/002.jpg",
+      "exists": true,
+      "alt": "The Green Mile poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120689/002.jpg",
+      "corpus_asset_src": "../assets/tt0120689/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0120689%20-%20Green-Mile/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120689 - Green-Mile/003.jpg",
+      "exists": true,
+      "alt": "The Green Mile filming location: Flat Top Manor, Moses Cone Memorial Park, Blowing Rock",
+      "caption": "The Green Mile location: the ‘Georgia Pines’ nursing home: Flat Top Manor, Moses Cone Memorial Park, Blowing Rock | Photograph: North Carolina Division of Tourism",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120689/003.jpg",
+      "corpus_asset_src": "../assets/tt0120689/003.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0120689/001.jpg\" alt=\"The Green Mile filming location: Tennessee State Penitentiary, Nashville\"><figcaption>The Green Mile location: Cold Mountain Prison: Tennessee State Penitentiary, Nashville | Photograph: Erik Hollander</figcaption></figure>\n<p>Another <span class=\"name\">Stephen King</span> prison drama from <a href=\"https://www.movie-locations.com/people/d/darabontf.php\">Frank Darabont</a>, the director of <a href=\"https://www.movie-locations.com/movies/s/Shawshank-Redemption.php\">The Shawshank Redemption</a>, though it could hardly be more different.</p>\n<p>‘Georgia Pines’ the nursing home in which aged Paul Edgecomb (<a href=\"https://www.movie-locations.com/people/g/greerd.php\">Dabbs Greer</a>) tells the story of his time as a warder on Death Row at ‘Cold Mountain Penitentiary’, is <span class=\"name\">Flat Top Manor</span>, a 20-room mansion built in 1901 for <span class=\"name\">Moses Cone</span>, a prosperous textile entrepreneur. It’s in the <a href=\"http://www.blueridgeheritage.com/attractions-destinations/moses-cone-manor\" target=\"_blank\">Moses Cone Memorial Park</a> on the <a href=\"http://www.blueridgeheritage.com/attractions-destinations/blue-ridge-parkway\" target=\"_blank\">Blue Ridge Parkway</a> at <span class=\"name\">Blowing Rock</span>, between Asheville and Winston-Salem, <a href=\"https://www.movie-locations.com/places/usa/ncarolina.php\">North Carolina</a>. The Manor is now the home of the <a href=\"http://www.southernhighlandguild.org/pages/guild-shops/parkway-craft-center.php\" target=\"_blank\">Parkway Craft Center</a>, which features handmade crafts by regional artists.</p>\n<p>The rest of the film was made in <a href=\"https://www.movie-locations.com/places/usa/tennessee.php\">Tennessee</a>. The prison itself, though supposedly in ‘Louisiana’, is the old <span class=\"name\">Tennessee State Penitentiary, Cockrill Bend Boulevard</span> in <span class=\"name\">West Nashville</span>, which closed in 1992. The penitentiary was previously seen in <a href=\"https://www.movie-locations.com/people/b/beresfordb.php\">Bruce Beresford</a>’s 1996 <span class=\"name\">Last Dance</span>, with <a href=\"https://www.movie-locations.com/people/s/stones.php\">Sharon Stone</a>, and went on to appear in <a href=\"https://www.movie-locations.com/people/m/mangoldj.php\">James Mangold</a>’s <span class=\"name\">Walk The Line</span>, with <a href=\"https://www.movie-locations.com/people/p/phoenixj.php\">Joaquin Phoenix</a> as <span class=\"name\">Johnny Cash</span>. Due to the condition of the buildings, there’s no admission to the public.</p>\n<p>The spot where John Coffey (<a href=\"https://www.movie-locations.com/people/d/duncanmc.php\">Michael Clarke Duncan</a>) is discovered with the bodies of the two little girls is by the <span class=\"name\">Old Train Bridge</span> across <span class=\"name\">Caney Fork River</span>, alongside <span class=\"name\">I-40</span>, about 50 miles east of <span class=\"name\">Nashville</span>, at <span class=\"name\">Buffalo Valley</span>. </p>\n<p>30 miles south of <span class=\"name\">Nashville</span>, in the town of <span class=\"name\">College Grove</span>, you’ll find the church in which Edgecomb attends the funeral toward the end of the film, which is <span class=\"name\">College Grove United Methodist Church, 8568 Horton Hwy</span>. </p>\n<p>It’s another 30 miles south to find the graveyard, which is <span class=\"name\">Round Hill Cemetery</span>, on <span class=\"name\">Round Hill Road</span>, just to the northeast of <span class=\"name\">Belfast</span>, near Lewisburg.</p>\n<p>And I hate to be a killjoy but, no, there is no Mouseville in Tallahassee.</p>",
+  "main_content_text": "Another Stephen King prison drama from Frank Darabont, the director of The Shawshank Redemption, though it could hardly be more different.\n\n‘Georgia Pines’ the nursing home in which aged Paul Edgecomb (Dabbs Greer) tells the story of his time as a warder on Death Row at ‘Cold Mountain Penitentiary’, is Flat Top Manor, a 20-room mansion built in 1901 for Moses Cone, a prosperous textile entrepreneur. It’s in the Moses Cone Memorial Park on the Blue Ridge Parkway at Blowing Rock, between Asheville and Winston-Salem, North Carolina. The Manor is now the home of the Parkway Craft Center, which features handmade crafts by regional artists.\n\nThe rest of the film was made in Tennessee. The prison itself, though supposedly in ‘Louisiana’, is the old Tennessee State Penitentiary, Cockrill Bend Boulevard in West Nashville, which closed in 1992. The penitentiary was previously seen in Bruce Beresford’s 1996 Last Dance, with Sharon Stone, and went on to appear in James Mangold’s Walk The Line, with Joaquin Phoenix as Johnny Cash. Due to the condition of the buildings, there’s no admission to the public.\n\nThe spot where John Coffey (Michael Clarke Duncan) is discovered with the bodies of the two little girls is by the Old Train Bridge across Caney Fork River, alongside I-40, about 50 miles east of Nashville, at Buffalo Valley.\n\n30 miles south of Nashville, in the town of College Grove, you’ll find the church in which Edgecomb attends the funeral toward the end of the film, which is College Grove United Methodist Church, 8568 Horton Hwy.\n\nIt’s another 30 miles south to find the graveyard, which is Round Hill Cemetery, on Round Hill Road, just to the northeast of Belfast, near Lewisburg.\n\nAnd I hate to be a killjoy but, no, there is no Mouseville in Tallahassee.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "The Green Mile location: Cold Mountain Prison: Tennessee State Penitentiary, Nashville | Photograph: Erik Hollander",
+      "src": "_assets/tt0120689%20-%20Green-Mile/001.jpg",
+      "alt": "The Green Mile filming location: Tennessee State Penitentiary, Nashville"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another Stephen King prison drama from Frank Darabont, the director of The Shawshank Redemption, though it could hardly be more different."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Georgia Pines’ the nursing home in which aged Paul Edgecomb (Dabbs Greer) tells the story of his time as a warder on Death Row at ‘Cold Mountain Penitentiary’, is Flat Top Manor, a 20-room mansion built in 1901 for Moses Cone, a prosperous textile entrepreneur. It’s in the Moses Cone Memorial Park on the Blue Ridge Parkway at Blowing Rock, between Asheville and Winston-Salem, North Carolina. The Manor is now the home of the Parkway Craft Center, which features handmade crafts by regional artists."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rest of the film was made in Tennessee. The prison itself, though supposedly in ‘Louisiana’, is the old Tennessee State Penitentiary, Cockrill Bend Boulevard in West Nashville, which closed in 1992. The penitentiary was previously seen in Bruce Beresford’s 1996 Last Dance, with Sharon Stone, and went on to appear in James Mangold’s Walk The Line, with Joaquin Phoenix as Johnny Cash. Due to the condition of the buildings, there’s no admission to the public."
+    },
+    {
+      "type": "paragraph",
+      "text": "The spot where John Coffey (Michael Clarke Duncan) is discovered with the bodies of the two little girls is by the Old Train Bridge across Caney Fork River, alongside I-40, about 50 miles east of Nashville, at Buffalo Valley."
+    },
+    {
+      "type": "paragraph",
+      "text": "30 miles south of Nashville, in the town of College Grove, you’ll find the church in which Edgecomb attends the funeral toward the end of the film, which is College Grove United Methodist Church, 8568 Horton Hwy."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s another 30 miles south to find the graveyard, which is Round Hill Cemetery, on Round Hill Road, just to the northeast of Belfast, near Lewisburg."
+    },
+    {
+      "type": "paragraph",
+      "text": "And I hate to be a killjoy but, no, there is no Mouseville in Tallahassee."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Tennessee</h3>\n<p>Visit: Tennessee</p>\n<p>Visit: Nashville</p>\n<p>Flights: Nashville International Airport, 1 Terminal Drive, Nashville, TN 37214 (tel: 615.275.1675)</p>\n</section>\n<section><h3>North Carolina</h3>\n<p>Visit: North Carolina</p>\n<p>Visit: the Blue Ridge Parkway</p>\n<p>Visit: the Moses Cone Memorial Park, 667 Service Road, Blowing Rock, NC 28605 (tel: 828.295.7938)</p>\n</section>",
+  "visit_info_text": "Tennessee\nVisit: Tennessee\nVisit: Nashville\nFlights: Nashville International Airport, 1 Terminal Drive, Nashville, TN 37214 (tel: 615.275.1675)\nNorth Carolina\nVisit: North Carolina\nVisit: the Blue Ridge Parkway\nVisit: the Moses Cone Memorial Park, 667 Service Road, Blowing Rock, NC 28605 (tel: 828.295.7938)",
+  "visit_sections": [
+    {
+      "title": "Tennessee",
+      "items": [
+        "Visit: Tennessee",
+        "Visit: Nashville",
+        "Flights: Nashville International Airport, 1 Terminal Drive, Nashville, TN 37214 (tel: 615.275.1675)"
+      ]
+    },
+    {
+      "title": "North Carolina",
+      "items": [
+        "Visit: North Carolina",
+        "Visit: the Blue Ridge Parkway",
+        "Visit: the Moses Cone Memorial Park, 667 Service Road, Blowing Rock, NC 28605 (tel: 828.295.7938)"
+      ]
+    }
+  ]
+}

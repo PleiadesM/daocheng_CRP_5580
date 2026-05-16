@@ -1,0 +1,269 @@
+{
+  "imdb_id": "tt0082971",
+  "shorthand": "Raiders-Of-The-Lost-Ark",
+  "title": "Raiders Of The Lost Ark",
+  "year": 1981,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0082971 - Raiders-Of-The-Lost-Ark.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0082971 - Raiders-Of-The-Lost-Ark.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0082971.json",
+  "source_url": "http://www.movie-locations.com/movies/r/Raiders-Of-The-Lost-Ark.php",
+  "page_title": "Raiders Of The Lost Ark | Film Locations",
+  "meta_description": "Film locations for Steven Spielberg's Raiders Of The Lost Ark (1981), in Tunisia, Hawaii, California and The UK.",
+  "meta_keywords": "Raiders Of The Lost Ark (1981), film locations, filming locations, tourism, travel, set-jetting, indiana jones, kipu ranch, kauai, hawaii, tunisia, kairouan, tozeur, nefta, chott el jerid, sidi bouhlel, rickmansworth masonic school, hertfordshire, san francisco, city hall, california, steven spielberg, george lucas",
+  "og_title": "Filming Locations for 21 Steven Spielberg's Raiders Of The Lost Ark (1981), in Tunisia, Hawaii, California and The UK.",
+  "og_description": "Travel guide to film locations for Steven Spielberg's Raiders Of The Lost Ark (1981), in Tunisia, Hawaii, California and The UK.",
+  "og_image": "http://www.movie-locations.com/movies/r/Raiders-Of-The-Lost-Ark-City-Hall-steps.jpg",
+  "top250_rank": "85",
+  "movie_locations_title": "RAIDERS OF THE LOST ARK",
+  "movie_locations_regions": "Tunisia | Hawaii | California | Hertfordshire | France",
+  "director": "Steven Spielberg",
+  "cast": [
+    "Harrison Ford",
+    "Karen Allen",
+    "Paul Freeman",
+    "Denholm Elliott",
+    "Alfred Molina",
+    "John Rhys-Davies",
+    "George Harris",
+    "Anthony Higgins"
+  ],
+  "locations": [
+    "Tunisia;",
+    "Hawaii;",
+    "California;",
+    "Hertfordshire;",
+    "France"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0082971%20-%20Raiders-Of-The-Lost-Ark/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0082971 - Raiders-Of-The-Lost-Ark/001.jpg",
+    "exists": true,
+    "alt": "Raiders Of The Lost Ark poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0082971/poster.jpg",
+    "corpus_asset_src": "../assets/tt0082971/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0082971%20-%20Raiders-Of-The-Lost-Ark/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0082971 - Raiders-Of-The-Lost-Ark/001.jpg",
+    "exists": true,
+    "alt": "Raiders Of The Lost Ark poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0082971/001.jpg",
+    "corpus_asset_src": "../assets/tt0082971/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0082971%20-%20Raiders-Of-The-Lost-Ark/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0082971 - Raiders-Of-The-Lost-Ark/001.jpg",
+      "exists": true,
+      "alt": "Raiders Of The Lost Ark poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0082971/001.jpg",
+      "corpus_asset_src": "../assets/tt0082971/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0082971%20-%20Raiders-Of-The-Lost-Ark/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0082971 - Raiders-Of-The-Lost-Ark/002.jpg",
+      "exists": true,
+      "alt": "Raiders of the Lost Ark filming location: Kauai, Hawaii",
+      "caption": "Raiders of the Lost Ark location: the ‘Peruvian’ jungle: Kauai, Hawaii",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0082971/002.jpg",
+      "corpus_asset_src": "../assets/tt0082971/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0082971%20-%20Raiders-Of-The-Lost-Ark/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0082971 - Raiders-Of-The-Lost-Ark/003.jpg",
+      "exists": true,
+      "alt": "Raiders of the Lost Ark filming location: Rickmansworth Masonic School, Chorleywood Road, Rickmansworth, Hertfordshire",
+      "caption": "Raiders of the Lost Ark location: Indy teaches at ‘Marshall College’: Rickmansworth Masonic School, Chorleywood Road, Rickmansworth, Hertfordshire",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0082971/003.jpg",
+      "corpus_asset_src": "../assets/tt0082971/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0082971%20-%20Raiders-Of-The-Lost-Ark/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0082971 - Raiders-Of-The-Lost-Ark/004.jpg",
+      "exists": true,
+      "alt": "Raiders of the Lost Ark filming location: Kairouan, Tunisia",
+      "caption": "Raiders of the Lost Ark location: Indy in 1930’s ‘Cairo’: Kairouan, Tunisia",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0082971/004.jpg",
+      "corpus_asset_src": "../assets/tt0082971/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0082971%20-%20Raiders-Of-The-Lost-Ark/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0082971 - Raiders-Of-The-Lost-Ark/005.jpg",
+      "exists": true,
+      "alt": "Raiders of the Lost Ark filming location: La Pallice, France",
+      "caption": "Raiders of the Lost Ark location: Indy in 1930’s ‘Cairo’: La Pallice, France | Photograph: flickr / Thierry Llansades",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0082971/005.jpg",
+      "corpus_asset_src": "../assets/tt0082971/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0082971%20-%20Raiders-Of-The-Lost-Ark/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0082971 - Raiders-Of-The-Lost-Ark/006.jpg",
+      "exists": true,
+      "alt": "Raiders of the Lost Ark filming location: San Francisco City Hall, Polk Street, San Francisco",
+      "caption": "Raiders of the Lost Ark location: Indy and Marion left at the government building: San Francisco City Hall, Polk Street, San Francisco",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0082971/006.jpg",
+      "corpus_asset_src": "../assets/tt0082971/006.jpg"
+    }
+  ],
+  "main_content_html": "<p><a href=\"https://www.movie-locations.com/people/s/spielbergs.php\">Steven Spielberg</a> hit all the right notes with his homage to Saturday morning features. The film was based in the UK, which is why the studio sets, including Marion’s Raven Bar, the Peruvian temple and the Well of Souls, were built at the famous <span class=\"name\">Elstree Studios</span> in <a href=\"https://www.movie-locations.com/places/uk/herts.php\">Hertfordshire</a>.</p>\n<p>The opening set-up of Indiana Jones (<a href=\"https://www.movie-locations.com/people/f/fordh.php\">Harrison Ford</a>) in the ‘Peruvian’ jungle was filmed on the island of <span class=\"credit\">Kauai</span>, one of the islands of <a href=\"https://www.movie-locations.com/places/usa/hawaii.php\">Hawaii</a>, to which the director would return for <span class=\"name\">Jurassic Park</span>.</p>\n<p>The ‘temple’ location is on the <span class=\"name\">Huleia River</span>, on the <span class=\"name\">Kipu Ranch</span>, south from <span class=\"name\">Kaumualii Highway</span> on the east coast, just south of <span class=\"name\">Lihue</span>, the island’s main town. <span class=\"name\">Kipu</span> is a working cattle ranch, not generally open to the public, but you can take a tour with <a href=\"https://kiputours.com/\" target=\"_blank\">Kipu Ranch Adventures</a> which takes in the filming locations.</p>\n<p><span class=\"name\">Kauai</span> is the fourth largest, and one of the most northern, of the Hawaiian islands, but perhaps the most beautiful, a volcanic outcropping of sharp peaks and steep-sided valleys, cloaked in lush vegetation, which has earned it the well-earned name of The Garden Isle. <span class=\"name\">Kauai</span>’s luxuriant greenery is also seen in <span class=\"name\">South Pacific</span>, <span class=\"name\">Donovan’s Reef</span>, the 1976 version of <span class=\"name\">King Kong</span>, <span class=\"name\">Tropic Thunder</span> and <a href=\"https://www.movie-locations.com/movies/p/Pirates-Of-The-Caribbean-4.php\">Pirates Of The Caribbean: On Stranger Tides</a>.</p>\n<p>The Gothic exterior of ‘Marshall College’, where Indy teaches, is the 1927 <span class=\"name\">Conservatory of Music</span> building of the <span class=\"name\">University of the Pacific, 3601 Pacific Circle, Stockton</span>, <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> – seen again in <a href=\"https://www.movie-locations.com/movies/i/Indiana-Jones-And-The-Kingdom-Of-The-Crystal-Skull.php\">Indiana Jones And The Kingdom Of The Crystal Skull</a>.</p>\n<p>The classroom, from which Indy is summoned by Marcus Brody (<a href=\"https://www.movie-locations.com/people/e/elliottd.php\">Denholm Elliott</a>), is much closer to the studio. It’s <span class=\"name\">Rickmansworth Masonic School, Chorleywood Road</span> (A404) just a couple of minutes north of Rickmansworth Station (seen in <a href=\"https://www.movie-locations.com/movies/i/Indiana-Jones-And-The-Last-Crusade.php\">Indiana Jones and the Last Crusade</a> – though this time it was supposed to be ‘Barnett College’. Confusing).</p>\n<p>He meets with the Army Intelligence guys in the school’s <span class=\"name\">Great Hall</span>, where he’s informed of  the German archaeological dig at ‘Tanis’. The same hall was more recently featured in <a href=\"https://www.movie-locations.com/people/l/linklaterr.php\">Richard Linklater</a>’s <span class=\"name\">Me and Orson Welles</span>, with <a href=\"https://www.movie-locations.com/people/e/efronz.php\">Zak Efron</a>.</p>\n<p>Picking up old flame Marion Ravenwood (<a href=\"https://www.movie-locations.com/people/a/allenk.php\">Karen Allen</a>), Indy is soon heading off to Egypt. The production, though,  substitutes <a href=\"https://www.movie-locations.com/places/africa/tunisia.php\">Tunisia</a>, which would have been familiar to producer <a href=\"https://www.movie-locations.com/people/l/lucasg.php\">George Lucas</a> from the filming of <a href=\"https://www.movie-locations.com/movies/s/Star-Wars-4-A-New-Hope.php\">Star Wars</a>.</p>\n<p>1930s ‘Cairo’ is the holy city of <span class=\"name\">Kairouan</span>, in northern <a href=\"https://www.movie-locations.com/places/africa/tunisia.php\">Tunisia</a>. About 35 miles west of the coastal resort of Sousse, <span class=\"name\">Kairouan</span> is the fourth holiest city in Islam, home to the Great Mosque of Sidi-Uqba.</p>\n<p>Most of the scenes are filmed in the city’s <span class=\"name\">Medina</span>, around the <span class=\"name\">Avenue 5 Novembre</span>, the main tourist drag. It’s a little to the east, on <span class=\"name\">Place Zarrouk</span> near the Mosque of the Three Gates, that Indy famously shoots the impressive swordsman. In fact, there was supposed to have been an elaborate fight, but when <a href=\"https://www.movie-locations.com/people/f/fordh.php\">Ford</a> was stricken by a tummy bug, the scene was shortened, serendipitously giving the movie its biggest laugh.</p>\n<p>Believing Marion killed in the truck explosion, Indy drowns his sorrows in the ‘Marhala Bar’ – now a carpet shop at the southern end of <span class=\"name\">Avenue 7 Novembre</span>, near the gate, <span class=\"name\">Bab ech Chouhada</span>.</p>\n<p><span class=\"name\">Kairouan</span> is famous for its carpets. Organised tours generally include a carpet showroom in the itinerary, and you’ll be lucky to leave the city without having bought one.</p>\n<p>The ‘Tanis’ dig site was an enormous set built on location near <span class=\"name\">Tozeur</span>, east toward the Algerian border. The vast dry salt lake of <span class=\"name\">Chott El Jerid</span>, and the area around the oasis town of <span class=\"name\">Nefta</span> (pretty much the area used by <a href=\"https://www.movie-locations.com/people/l/lucasg.php\">George Lucas</a> for <a href=\"https://www.movie-locations.com/movies/s/Star-Wars-1-The-Phantom-Menace.php\">The Phantom Menace</a> and <a href=\"https://www.movie-locations.com/movies/s/Star-Wars-2-Attack-Of-The-Clones.php\">Attack Of The Clones</a>) stand in for the ‘Egyptian’ desert.</p>\n<p>Indy naturally finds the Ark, though it’s soon in the hands of the Nazis and shipped off to an island in the Mediterranean, ‘north of Crete’.</p>\n<p>The dock at which it’s unloaded is an ex-German base at <span class=\"name\">La Rochelle</span>, on the west coast of <a href=\"https://www.movie-locations.com/places/europe/france.php\">France</a> (the same submarine base seen in <a href=\"https://www.movie-locations.com/people/p/petersenw.php\">Wolfgang Petersen</a>’s <a href=\"https://www.movie-locations.com/movies/b/Das-Boot.php\">Das Boot</a>). The U Boat pens are situated in the town’s commercial port, known as <span class=\"name\">La Pallice</span> (I believe they’re not open to the public).</p>\n<p>The rocky passage through which the Ark is transported for the opening ritual Is back in <a href=\"https://www.movie-locations.com/places/africa/tunisia.php\">Tunisia</a>. It’s <span class=\"name\">Sidi Bouhlel</span> (known as <span class=\"name\">Star Wars Canyon</span> since several scenes for the original <a href=\"https://www.movie-locations.com/movies/s/Star-Wars-4-A-New-Hope.php\">Star Wars</a> were filmed here), a few miles northeast of <span class=\"name\">Tozeur</span> on the edge of the <span class=\"name\">Chott</span>. </p>\n<p>The climactic opening of the Ark was filmed on a soundstage back at <span class=\"name\">Elstree Studios</span>, and then it’s back in the USA, as Indy and Marion are fobbed off by government suits and the Ark is spirited away.</p>\n<p>The brief establishing shot of <span class=\"name\">Washington D.C.</span> is borrowed from another film, and the government office is, once again, <span class=\"name\">Rickmansworth Masonic School</span> in <a href=\"https://www.movie-locations.com/places/uk/herts.php\">Hertfordshire</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0082971/006.jpg\" alt=\"Raiders of the Lost Ark filming location: San Francisco City Hall, Polk Street, San Francisco\"><figcaption>Raiders of the Lost Ark location: Indy and Marion left at the government building: San Francisco City Hall, Polk Street, San Francisco</figcaption></figure>\n<p>Indie and Marion are left to plod down the steps of the grandiose lobby of <span class=\"name\">San Francisco City Hall, Polk Street</span> between McAllister and Grove Streets, which might be already familiar to you from <a href=\"https://www.movie-locations.com/movies/d/Dirty-Harry.php\">Dirty Harry</a>.</p>",
+  "main_content_text": "Steven Spielberg hit all the right notes with his homage to Saturday morning features. The film was based in the UK, which is why the studio sets, including Marion’s Raven Bar, the Peruvian temple and the Well of Souls, were built at the famous Elstree Studios in Hertfordshire.\n\nThe opening set-up of Indiana Jones (Harrison Ford) in the ‘Peruvian’ jungle was filmed on the island of Kauai, one of the islands of Hawaii, to which the director would return for Jurassic Park.\n\nThe ‘temple’ location is on the Huleia River, on the Kipu Ranch, south from Kaumualii Highway on the east coast, just south of Lihue, the island’s main town. Kipu is a working cattle ranch, not generally open to the public, but you can take a tour with Kipu Ranch Adventures which takes in the filming locations.\n\nKauai is the fourth largest, and one of the most northern, of the Hawaiian islands, but perhaps the most beautiful, a volcanic outcropping of sharp peaks and steep-sided valleys, cloaked in lush vegetation, which has earned it the well-earned name of The Garden Isle. Kauai’s luxuriant greenery is also seen in South Pacific, Donovan’s Reef, the 1976 version of King Kong, Tropic Thunder and Pirates Of The Caribbean: On Stranger Tides.\n\nThe Gothic exterior of ‘Marshall College’, where Indy teaches, is the 1927 Conservatory of Music building of the University of the Pacific, 3601 Pacific Circle, Stockton, California – seen again in Indiana Jones And The Kingdom Of The Crystal Skull.\n\nThe classroom, from which Indy is summoned by Marcus Brody (Denholm Elliott), is much closer to the studio. It’s Rickmansworth Masonic School, Chorleywood Road (A404) just a couple of minutes north of Rickmansworth Station (seen in Indiana Jones and the Last Crusade – though this time it was supposed to be ‘Barnett College’. Confusing).\n\nHe meets with the Army Intelligence guys in the school’s Great Hall, where he’s informed of the German archaeological dig at ‘Tanis’. The same hall was more recently featured in Richard Linklater’s Me and Orson Welles, with Zak Efron.\n\nPicking up old flame Marion Ravenwood (Karen Allen), Indy is soon heading off to Egypt. The production, though, substitutes Tunisia, which would have been familiar to producer George Lucas from the filming of Star Wars.\n\n1930s ‘Cairo’ is the holy city of Kairouan, in northern Tunisia. About 35 miles west of the coastal resort of Sousse, Kairouan is the fourth holiest city in Islam, home to the Great Mosque of Sidi-Uqba.\n\nMost of the scenes are filmed in the city’s Medina, around the Avenue 5 Novembre, the main tourist drag. It’s a little to the east, on Place Zarrouk near the Mosque of the Three Gates, that Indy famously shoots the impressive swordsman. In fact, there was supposed to have been an elaborate fight, but when Ford was stricken by a tummy bug, the scene was shortened, serendipitously giving the movie its biggest laugh.\n\nBelieving Marion killed in the truck explosion, Indy drowns his sorrows in the ‘Marhala Bar’ – now a carpet shop at the southern end of Avenue 7 Novembre, near the gate, Bab ech Chouhada.\n\nKairouan is famous for its carpets. Organised tours generally include a carpet showroom in the itinerary, and you’ll be lucky to leave the city without having bought one.\n\nThe ‘Tanis’ dig site was an enormous set built on location near Tozeur, east toward the Algerian border. The vast dry salt lake of Chott El Jerid, and the area around the oasis town of Nefta (pretty much the area used by George Lucas for The Phantom Menace and Attack Of The Clones) stand in for the ‘Egyptian’ desert.\n\nIndy naturally finds the Ark, though it’s soon in the hands of the Nazis and shipped off to an island in the Mediterranean, ‘north of Crete’.\n\nThe dock at which it’s unloaded is an ex-German base at La Rochelle, on the west coast of France (the same submarine base seen in Wolfgang Petersen’s Das Boot). The U Boat pens are situated in the town’s commercial port, known as La Pallice (I believe they’re not open to the public).\n\nThe rocky passage through which the Ark is transported for the opening ritual Is back in Tunisia. It’s Sidi Bouhlel (known as Star Wars Canyon since several scenes for the original Star Wars were filmed here), a few miles northeast of Tozeur on the edge of the Chott.\n\nThe climactic opening of the Ark was filmed on a soundstage back at Elstree Studios, and then it’s back in the USA, as Indy and Marion are fobbed off by government suits and the Ark is spirited away.\n\nThe brief establishing shot of Washington D.C. is borrowed from another film, and the government office is, once again, Rickmansworth Masonic School in Hertfordshire.\n\nIndie and Marion are left to plod down the steps of the grandiose lobby of San Francisco City Hall, Polk Street between McAllister and Grove Streets, which might be already familiar to you from Dirty Harry.",
+  "main_sections": [
+    {
+      "type": "paragraph",
+      "text": "Steven Spielberg hit all the right notes with his homage to Saturday morning features. The film was based in the UK, which is why the studio sets, including Marion’s Raven Bar, the Peruvian temple and the Well of Souls, were built at the famous Elstree Studios in Hertfordshire."
+    },
+    {
+      "type": "paragraph",
+      "text": "The opening set-up of Indiana Jones (Harrison Ford) in the ‘Peruvian’ jungle was filmed on the island of Kauai, one of the islands of Hawaii, to which the director would return for Jurassic Park."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘temple’ location is on the Huleia River, on the Kipu Ranch, south from Kaumualii Highway on the east coast, just south of Lihue, the island’s main town. Kipu is a working cattle ranch, not generally open to the public, but you can take a tour with Kipu Ranch Adventures which takes in the filming locations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kauai is the fourth largest, and one of the most northern, of the Hawaiian islands, but perhaps the most beautiful, a volcanic outcropping of sharp peaks and steep-sided valleys, cloaked in lush vegetation, which has earned it the well-earned name of The Garden Isle. Kauai’s luxuriant greenery is also seen in South Pacific, Donovan’s Reef, the 1976 version of King Kong, Tropic Thunder and Pirates Of The Caribbean: On Stranger Tides."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Gothic exterior of ‘Marshall College’, where Indy teaches, is the 1927 Conservatory of Music building of the University of the Pacific, 3601 Pacific Circle, Stockton, California – seen again in Indiana Jones And The Kingdom Of The Crystal Skull."
+    },
+    {
+      "type": "paragraph",
+      "text": "The classroom, from which Indy is summoned by Marcus Brody (Denholm Elliott), is much closer to the studio. It’s Rickmansworth Masonic School, Chorleywood Road (A404) just a couple of minutes north of Rickmansworth Station (seen in Indiana Jones and the Last Crusade – though this time it was supposed to be ‘Barnett College’. Confusing)."
+    },
+    {
+      "type": "paragraph",
+      "text": "He meets with the Army Intelligence guys in the school’s Great Hall, where he’s informed of the German archaeological dig at ‘Tanis’. The same hall was more recently featured in Richard Linklater’s Me and Orson Welles, with Zak Efron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Picking up old flame Marion Ravenwood (Karen Allen), Indy is soon heading off to Egypt. The production, though, substitutes Tunisia, which would have been familiar to producer George Lucas from the filming of Star Wars."
+    },
+    {
+      "type": "paragraph",
+      "text": "1930s ‘Cairo’ is the holy city of Kairouan, in northern Tunisia. About 35 miles west of the coastal resort of Sousse, Kairouan is the fourth holiest city in Islam, home to the Great Mosque of Sidi-Uqba."
+    },
+    {
+      "type": "paragraph",
+      "text": "Most of the scenes are filmed in the city’s Medina, around the Avenue 5 Novembre, the main tourist drag. It’s a little to the east, on Place Zarrouk near the Mosque of the Three Gates, that Indy famously shoots the impressive swordsman. In fact, there was supposed to have been an elaborate fight, but when Ford was stricken by a tummy bug, the scene was shortened, serendipitously giving the movie its biggest laugh."
+    },
+    {
+      "type": "paragraph",
+      "text": "Believing Marion killed in the truck explosion, Indy drowns his sorrows in the ‘Marhala Bar’ – now a carpet shop at the southern end of Avenue 7 Novembre, near the gate, Bab ech Chouhada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kairouan is famous for its carpets. Organised tours generally include a carpet showroom in the itinerary, and you’ll be lucky to leave the city without having bought one."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Tanis’ dig site was an enormous set built on location near Tozeur, east toward the Algerian border. The vast dry salt lake of Chott El Jerid, and the area around the oasis town of Nefta (pretty much the area used by George Lucas for The Phantom Menace and Attack Of The Clones) stand in for the ‘Egyptian’ desert."
+    },
+    {
+      "type": "paragraph",
+      "text": "Indy naturally finds the Ark, though it’s soon in the hands of the Nazis and shipped off to an island in the Mediterranean, ‘north of Crete’."
+    },
+    {
+      "type": "paragraph",
+      "text": "The dock at which it’s unloaded is an ex-German base at La Rochelle, on the west coast of France (the same submarine base seen in Wolfgang Petersen’s Das Boot). The U Boat pens are situated in the town’s commercial port, known as La Pallice (I believe they’re not open to the public)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rocky passage through which the Ark is transported for the opening ritual Is back in Tunisia. It’s Sidi Bouhlel (known as Star Wars Canyon since several scenes for the original Star Wars were filmed here), a few miles northeast of Tozeur on the edge of the Chott."
+    },
+    {
+      "type": "paragraph",
+      "text": "The climactic opening of the Ark was filmed on a soundstage back at Elstree Studios, and then it’s back in the USA, as Indy and Marion are fobbed off by government suits and the Ark is spirited away."
+    },
+    {
+      "type": "paragraph",
+      "text": "The brief establishing shot of Washington D.C. is borrowed from another film, and the government office is, once again, Rickmansworth Masonic School in Hertfordshire."
+    },
+    {
+      "type": "image",
+      "caption": "Raiders of the Lost Ark location: Indy and Marion left at the government building: San Francisco City Hall, Polk Street, San Francisco",
+      "src": "_assets/tt0082971%20-%20Raiders-Of-The-Lost-Ark/006.jpg",
+      "alt": "Raiders of the Lost Ark filming location: San Francisco City Hall, Polk Street, San Francisco"
+    },
+    {
+      "type": "paragraph",
+      "text": "Indie and Marion are left to plod down the steps of the grandiose lobby of San Francisco City Hall, Polk Street between McAllister and Grove Streets, which might be already familiar to you from Dirty Harry."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Tunisia</h3>\n<p>Visit: Tunisia</p>\n<p>Visit: Kairouan</p>\n</section>\n<section><h3>Hawaii</h3>\n<p>Visit: Hawaii</p>\n<p>Visit: Kauai</p>\n<p>Flights: Lihue Airport, 3901 Mokulele Loop, Lihue, HI 96766 (tel: 808.274.3800)</p>\n<p>Visit: Kipu Ranch Adventures, Lihue HI 96766 (tel: 808.246.9288)</p>\n</section>\n<section><h3>California</h3>\n<p>Visit: California</p>\n<p>Visit: Stockton</p>\n</section>\n<section><h3>California | San Francisco</h3>\n<p>Visit: San Francisco</p>\n<p>Flights: San Francisco International Airport, San Francisco, CA 94128 (tel: 650.821.8211)</p>\n<p>Travel around: BART (Bay Area Rapid Transit)</p>\n<p>Visit: San Francisco City Hall</p>\n</section>\n<section><h3>UK | Hertfordshire</h3>\n<p>Visit: Hertfordshire</p>\n</section>\n<section><h3>France</h3>\n<p>Visit: France</p>\n</section>",
+  "visit_info_text": "Tunisia\nVisit: Tunisia\nVisit: Kairouan\nHawaii\nVisit: Hawaii\nVisit: Kauai\nFlights: Lihue Airport, 3901 Mokulele Loop, Lihue, HI 96766 (tel: 808.274.3800)\nVisit: Kipu Ranch Adventures, Lihue HI 96766 (tel: 808.246.9288)\nCalifornia\nVisit: California\nVisit: Stockton\nCalifornia | San Francisco\nVisit: San Francisco\nFlights: San Francisco International Airport, San Francisco, CA 94128 (tel: 650.821.8211)\nTravel around: BART (Bay Area Rapid Transit)\nVisit: San Francisco City Hall\nUK | Hertfordshire\nVisit: Hertfordshire\nFrance\nVisit: France",
+  "visit_sections": [
+    {
+      "title": "Tunisia",
+      "items": [
+        "Visit: Tunisia",
+        "Visit: Kairouan"
+      ]
+    },
+    {
+      "title": "Hawaii",
+      "items": [
+        "Visit: Hawaii",
+        "Visit: Kauai",
+        "Flights: Lihue Airport, 3901 Mokulele Loop, Lihue, HI 96766 (tel: 808.274.3800)",
+        "Visit: Kipu Ranch Adventures, Lihue HI 96766 (tel: 808.246.9288)"
+      ]
+    },
+    {
+      "title": "California",
+      "items": [
+        "Visit: California",
+        "Visit: Stockton"
+      ]
+    },
+    {
+      "title": "California | San Francisco",
+      "items": [
+        "Visit: San Francisco",
+        "Flights: San Francisco International Airport, San Francisco, CA 94128 (tel: 650.821.8211)",
+        "Travel around: BART (Bay Area Rapid Transit)",
+        "Visit: San Francisco City Hall"
+      ]
+    },
+    {
+      "title": "UK | Hertfordshire",
+      "items": [
+        "Visit: Hertfordshire"
+      ]
+    },
+    {
+      "title": "France",
+      "items": [
+        "Visit: France"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,777 @@
+{
+  "imdb_id": "tt0119488",
+  "shorthand": "LA-Confidential",
+  "title": "L.A. Confidential",
+  "year": 1997,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0119488 - LA-Confidential.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0119488 - LA-Confidential.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0119488.json",
+  "source_url": "http://www.movie-locations.com/movies/l/LA-Confidential.php",
+  "page_title": "L.A. Confidential | Film Locations",
+  "meta_description": "Discover the film locations for Curtis Hanson's L.A. Confidential, with Russell Crowe, Kevin Spacey and Guy Pearce, around Los Angeles, including the Lovell Health House; the Formosa Restaurant; the Crossroads of the World; Bob's Frolic Room; Gramercy Place; LA City Hall and Boardner's Bar: with interactive map.",
+  "meta_keywords": "L.A. Confidential filming locations, filming locations, travel, tourism, set-jetting, los angeles, hollywood, crossroads of the world, lovell health house, los feliz, boardner's bar, cherokee",
+  "og_title": "Filming Locations for Curtis Hanson's L.A. Confidential (1997), with Russell Crowe, Kevin Spacey and Guy Pearce, around Los Angeles: with interactive map",
+  "og_description": "Discover the film locations for Curtis Hanson's L.A. Confidential, with Russell Crowe, Kevin Spacey and Guy Pearce, around Los Angeles, including the Lovell Health House; the Formosa Restaurant; the Crossroads of the World; Bob's Frolic Room; Gramercy Place; LA City Hall and Boardner's Bar: with interactive map.",
+  "og_image": "http://www.movie-locations.com/movies/l/la-confidential-meta.jpg",
+  "top250_rank": "194",
+  "movie_locations_title": "L.A. CONFIDENTIAL",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Curtis Hanson",
+  "cast": [
+    "Russell Crowe",
+    "Guy Pearce",
+    "Kevin Spacey",
+    "Kim Basinger",
+    "James Cromwell",
+    "Danny DeVito",
+    "David Strathairn",
+    "Simon Baker",
+    "Ron Rifkin",
+    "Robert Barry Fleming",
+    "Tomas Arana"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0119488%20-%20LA-Confidential/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/002.jpg",
+    "exists": true,
+    "alt": "L.A. Confidential poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/poster.jpg",
+    "corpus_asset_src": "../assets/tt0119488/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0119488%20-%20LA-Confidential/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/001.jpg",
+    "exists": true,
+    "alt": "L.A. Confidential film location: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles",
+    "caption": "L.A. Confidential film location: Sid Hudgens’ ‘Hush Hush’ office: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/001.jpg",
+    "corpus_asset_src": "../assets/tt0119488/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/001.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles",
+      "caption": "L.A. Confidential film location: Sid Hudgens’ ‘Hush Hush’ office: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/001.jpg",
+      "corpus_asset_src": "../assets/tt0119488/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/002.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/002.jpg",
+      "corpus_asset_src": "../assets/tt0119488/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/003.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Los Angeles City Hall, North Spring Street, Downtown Los Angeles",
+      "caption": "L.A. Confidential film location: the police HQ: Los Angeles City Hall, North Spring Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/003.jpg",
+      "corpus_asset_src": "../assets/tt0119488/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/004.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Pacific Electric Building, South Main Street, Downtown Los Angeles",
+      "caption": "L.A. Confidential film location: the police HQ offices and corridors: Pacific Electric Building, South Main Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/004.jpg",
+      "corpus_asset_src": "../assets/tt0119488/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/005.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Old Venice Police Station, Venice Boulevard, Venice",
+      "caption": "L.A. Confidential film location: the police HQ lobby and front desk: Old Venice Police Station, Venice Boulevard, Venice",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/005.jpg",
+      "corpus_asset_src": "../assets/tt0119488/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/006.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Lincoln Heights Jail, North Avenue 19, Lincoln Heights",
+      "caption": "L.A. Confidential film location: the police HQ cells: Lincoln Heights Jail, North Avenue 19, Lincoln Heights",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/006.jpg",
+      "corpus_asset_src": "../assets/tt0119488/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/007.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles",
+      "caption": "L.A. Confidential film location: Sid Hudgens’ ‘Hush Hush’ office: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/007.jpg",
+      "corpus_asset_src": "../assets/tt0119488/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/008.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Lovell Health House, Los Feliz, Los Angeles",
+      "caption": "L.A. Confidential film location: Bud first sees Lynn Bracken at the liquor store: Ramon’s Cane Shop, South Cochran Avenue, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/008.jpg",
+      "corpus_asset_src": "../assets/tt0119488/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/009.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Gramercy Place at Hollywood Boulevard, Hollywood, Los Angeles",
+      "caption": "L.A. Confidential film location: The movie premiere pot bust: Gramercy Place at Hollywood Boulevard, Hollywood, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/009.jpg",
+      "corpus_asset_src": "../assets/tt0119488/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/010.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Boardner’s, North Cherokee Avenue, Hollywood",
+      "caption": "L.A. Confidential film location: Bud White gets back his badge and gun: Boardner’s Bar, North Cherokee Avenue, Hollywood",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/010.jpg",
+      "corpus_asset_src": "../assets/tt0119488/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/011.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Boardner’s, North Cherokee Avenue, Hollywood",
+      "caption": "L.A. Confidential film location: Bud White gets back his badge and gun: Boardner’s Bar, North Cherokee Avenue, Hollywood | Photograph: Mal Davis",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/011.jpg",
+      "corpus_asset_src": "../assets/tt0119488/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/012.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: J&J Sandwich Shop, East 6th Street, Downtown Los Angeles",
+      "caption": "L.A. Confidential film location: the 'Nite Owl Coffee House': J&J Sandwich Shop, East 6th Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/012.jpg",
+      "corpus_asset_src": "../assets/tt0119488/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/013.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: J&J Sandwich Shop, East 6th Street, Downtown Los Angeles",
+      "caption": "L.A. Confidential film location: the massacre at the coffee house: J&J Sandwich Shop, East 6th Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/013.jpg",
+      "corpus_asset_src": "../assets/tt0119488/013.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/014.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/014.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Lovell Health House, Los Feliz, Los Angeles",
+      "caption": "L.A. Confidential film location: The stylish home of pimp Pierce Patchett: Lovell Health House, Los Feliz, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/014.jpg",
+      "corpus_asset_src": "../assets/tt0119488/014.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/015.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/015.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Wilcox Avenue, Rossmore District, Midtown Los Angeles",
+      "caption": "L.A. Confidential film location: the classy home of Veronica Lake-lookalike Lynn Bracken: Wilcox Avenue, Rossmore District, Midtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/015.jpg",
+      "corpus_asset_src": "../assets/tt0119488/015.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/016.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/016.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Bellevue Avenue, Echo Park, Los Angeles",
+      "caption": "L.A. Confidential film location: Vincennes and Exley get info from the boxer Bidwell: Bellevue Avenue, Echo Park, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/016.jpg",
+      "corpus_asset_src": "../assets/tt0119488/016.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/017.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/017.jpg",
+      "exists": true,
+      "alt": "LA Confidential filming location: Sowden House Franklin Avenue, Los Feliz, Los Angeles",
+      "caption": "LA Confidential location: Pierce Pratchett's debauched party: the Sowden House Franklin Avenue, Los Feliz, Los Angeles",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/017.jpg",
+      "corpus_asset_src": "../assets/tt0119488/017.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/018.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/018.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles",
+      "caption": "L.A. Confidential film location: Jack Vincennes stops off for a drink: Bob’s Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/018.jpg",
+      "corpus_asset_src": "../assets/tt0119488/018.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/019.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/019.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles",
+      "caption": "L.A. Confidential film location: Vincennes has a crisis of conscience: Bob’s Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/019.jpg",
+      "corpus_asset_src": "../assets/tt0119488/019.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/020.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/020.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Hollywood Center Motel, Sunset Boulevard, Hollywood, Los Angeles",
+      "caption": "L.A. Confidential film location: Vincennes finds the body of the murdered actor: Hollywood Center Motel, Sunset Boulevard, Hollywood, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/020.jpg",
+      "corpus_asset_src": "../assets/tt0119488/020.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/021.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/021.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles",
+      "caption": "L.A. Confidential film location: Oops! – that's the ‘real’ Lana Turner: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/021.jpg",
+      "corpus_asset_src": "../assets/tt0119488/021.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/022.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/022.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles",
+      "caption": "L.A. Confidential film location: Oops! – that's the ‘real’ Lana Turner: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/022.jpg",
+      "corpus_asset_src": "../assets/tt0119488/022.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/023.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/023.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Berkshire Drive, South Pasadena",
+      "caption": "L.A. Confidential film location: Captain Smith's bungalow: Berkshire Drive, South Pasadena | Photograph: Google Streetview",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/023.jpg",
+      "corpus_asset_src": "../assets/tt0119488/023.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/024.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/024.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Pacific Electric Building, Sixth Street, Downtown Los Angeles",
+      "caption": "L.A. Confidential film location: Bud White encourages the DA to cooperate by dangling him out of the window: Pacific Electric Building, Sixth Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/024.jpg",
+      "corpus_asset_src": "../assets/tt0119488/024.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/025.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0119488 - LA-Confidential/025.jpg",
+      "exists": true,
+      "alt": "L.A. Confidential film location: Los Angeles City Hall, North Spring Street, Downtown Los Angeles",
+      "caption": "L.A. Confidential film location: the police HQ: Los Angeles City Hall, North Spring Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0119488/025.jpg",
+      "corpus_asset_src": "../assets/tt0119488/025.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0119488/001.jpg\" alt=\"L.A. Confidential film location: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles\"><figcaption>L.A. Confidential film location: Sid Hudgens’ ‘Hush Hush’ office: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles</figcaption></figure>\n<p>Discover the many and beguiling film locations for <a href=\"https://www.movie-locations.com/people/h/hansonc.php\">Curtis Hanson</a>'s classic neo-noir around <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, including the Lovell Health House; the Formosa Restaurant; the Crossroads of the World; Bob's Frolic Room; Gramercy Place; LA City Hall and Boardner's Bar. Now find out exactly where. <a href=\"#01th\">▶ With  map of locations at end of entry</a>.</p>\n<p><span class=\"name\">James Ellroy</span>’s 1990 novel, <span class=\"ital\">L.A. Confidential</span>, was inspired by several real life events, including the gang warfare for control of the city’s rackets which erupted after mob boss <span class=\"name\">Mickey Cohen</span> was jailed, and ‘Bloody Christmas’ – the notorious reprisal beatings of a bunch of Hispanic prisoners by LAPD cops.</p>\n<p>Along with <a href=\"https://www.movie-locations.com/people/m/mannm.php\">Michael Mann</a>’s <a href=\"https://www.movie-locations.com/movies/h/Heat.php\">Heat</a>, <a href=\"https://www.movie-locations.com/people/h/hansonc.php\">Curtis Hanson</a>’s Fifties-set adaptation shows the city of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> at its most darkly stylish and, although it’s a period piece, was shot almost entirely on real locations around the city.</p>\n<p>Only the decrepit ‘Victory Motel’, the unofficial ‘enhanced interrogation’ base of corrupt police Captain Dudley Smith (<a href=\"https://www.movie-locations.com/people/c/cromwellj.php\">James Cromwell</a>) and site of the final shoot-out, is a purpose-built set, constructed in <span class=\"name\">Baldwin Hills</span> near Culver City, among the area's characteristic ‘nodding donkey’ oil wells.</p>\n<p>Beneath the Hills lies the Inglewood Oil Field, discovered in 1924 beneath <span class=\"name\">South</span> <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, and the 18th-largest oil field in <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>. There are other oilfields in the city (including one beneath Beverly Hills) but these wells are often well hidden or disguised. Only around <span class=\"name\">Baldwin Hills</span> can you see acres of what are correctly called pumpjacks, looking like pterodactyls gently feeding their young, bringing up the fuel to keep <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>’s relentless traffic moving.</p>\n<p>Apart from the dozens of locations, there’s plenty of plot and numerous characters, centred around three very different LAPD officers: short-tempered, bull-headed Bud White (<a href=\"https://www.movie-locations.com/people/c/crower.php\">Russell Crowe</a>) who displays a righteous fury when it comes to battered women; straight-as-a-die rookie Ed Exley (<a href=\"https://www.movie-locations.com/people/p/pearceg.php\">Guy Pearce</a>), trying to live up to the awesome reputation of his not-so-straight detective father; and fame-hungry Jack Vincennes (<a href=\"https://www.movie-locations.com/people/s/spaceyk.php\">Kevin Spacey</a>) – dubiously claiming to be the guy who arrested <a href=\"https://www.movie-locations.com/people/m/mitchumr.php\">Robert Mitchum</a> – coasting along on the glamour of being advisor to TV series <span class=\"ital\">Badge Of Honor</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/003.jpg\" alt=\"L.A. Confidential film location: Los Angeles City Hall, North Spring Street, Downtown Los Angeles\"><figcaption>L.A. Confidential film location: the police HQ: Los Angeles City Hall, North Spring Street, Downtown Los Angeles</figcaption></figure>\n<p>This fictitious TV show is obviously based on <span class=\"ital\">Dragnet</span> and similarly uses <a href=\"https://www.lacity.org/for-visitors\" target=\"_blank\">Los Angeles City Hall</a>, as seen on the LAPD badge, as its logo. The familiar pyramid-topped highrise, out of which the film’s cops appear to operate, can be seen at <span class=\"name\">200 North Spring Street, Downtown</span>. If you've picture ID, you can take a trip up the the Observation Deck on the 27th Floor to get a panoramic view over the city.     </p>\n<p>The film doesn't use the interior of <a href=\"https://www.lacity.org/for-visitors\" target=\"_blank\">City Hall</a> for the police HQ (though its Council Chamber is seen later in the film). In fact, the movie’s cop station is a mix of three separate locations.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/004.jpg\" alt=\"L.A. Confidential film location: Pacific Electric Building, South Main Street, Downtown Los Angeles\"><figcaption>L.A. Confidential film location: the police HQ offices and corridors: Pacific Electric Building, South Main Street, Downtown Los Angeles</figcaption></figure>\n<p>Most of the offices and corridors are those of the once-disused <span class=\"name\">Pacific Electric Building, 610 South Main Street</span> at 6th Street, <span class=\"name\">Downtown</span> <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>, the former home of <span class=\"name\">Henry E Huntington</span>'s trolley line which served Southern California for more than fifty years with its famous red cars.</p>\n<p>The massive brick building has stood empty since 1989 when the former owners moved out, but is now being redeveloped as <span class=\"name\">PE Lofts</span> – luxury apartments, of course. The mosaic-tiled hallways, glass doors and transoms have featured in many films including <a href=\"https://www.movie-locations.com/people/f/fincherd.php\">David Fincher</a>’s <a href=\"https://www.movie-locations.com/movies/s/Seven-1995.php\">Se7en</a>, <a href=\"https://www.movie-locations.com/people/w/wooj.php\">John Woo</a>’s <a href=\"https://www.movie-locations.com/movies/f/Face-Off.php\">Face/Off</a>, <a href=\"https://www.movie-locations.com/people/r/raimis.php\">Sam Raimi</a>’s <a href=\"https://www.movie-locations.com/movies/s/Spider-Man.php\">Spider-Man</a> and <a href=\"https://www.movie-locations.com/people/s/soderberghs.php\">Steven Soderbergh</a>’s <a href=\"https://www.movie-locations.com/movies/t/Traffic-2000.php\">Traffic</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/005.jpg\" alt=\"L.A. Confidential film location: Old Venice Police Station, Venice Boulevard, Venice\"><figcaption>L.A. Confidential film location: the police HQ lobby and front desk: Old Venice Police Station, Venice Boulevard, Venice</figcaption></figure>\n<p>The cop station’s lobby and front desk are those of the <span class=\"name\">Old Venice Police Station Division 14, 685 Venice Boulevard</span>.  Now housing <a href=\"http://sparcinla.org/\" target=\"_blank\">SPARC</a>, the <a href=\"http://sparcinla.org/\" target=\"_blank\">Social and Public Art Resource Center</a>, devoted to <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>’s excellent tradition of multi-ethnic murals, the building was previously famous for supplying the exterior of ‘Anderson Police Precinct’ for <a href=\"https://www.movie-locations.com/people/c/carpenterj.php\">John Carpenter</a>’s 1976 <a href=\"https://www.movie-locations.com/movies/a/Assault-On-Precinct-13-1976.php\">Assault On Precinct 13</a>. According to the ever-excellent <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>-based site  <a href=\"http://www.iamnotastalker.com/\" target=\"_blank\">iamnotastalker.com</a>, the disused police station has a long history as a movie location.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/006.jpg\" alt=\"L.A. Confidential film location: Lincoln Heights Jail, North Avenue 19, Lincoln Heights\"><figcaption>L.A. Confidential film location: the police HQ cells: Lincoln Heights Jail, North Avenue 19, Lincoln Heights</figcaption></figure>\n<p>Lastly, the jail cells are another familiar location – the disused <span class=\"name\">Lincoln Heights Jail, 401 North Avenue 19, Lincoln Heights</span>, whose credits reach back to <a href=\"https://www.movie-locations.com/people/c/cukorg.php\">George Cukor</a>’s 1954 <a href=\"https://www.movie-locations.com/movies/s/Star-Is-Born-1954.php\">A Star Is Born</a> and include <a href=\"https://www.movie-locations.com/people/c/cravenw.php\">Wes Craven</a>’s original <a href=\"https://www.movie-locations.com/movies/n/Nightmare-On-Elm-Street-1984.php\">A Nightmare On Elm Street</a> among many others.</p>\n<p>The scene-setting is narrated by Sid Hudgens (<a href=\"https://www.movie-locations.com/people/d/devitod.php\">Danny DeVito</a>), editor and seemingly sole reporter for gossip rag <span class=\"ital\">Hush Hush</span> – “Off the record, on the QT and very Hush Hush!”.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/007.jpg\" alt=\"L.A. Confidential film location: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles\"><figcaption>L.A. Confidential film location: Sid Hudgens’ ‘Hush Hush’ office: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles</figcaption></figure>\n<p>Sleazy he may be but his office is in the impeccably stylish <span class=\"name\">Crossroads of the World, 6671 Sunset Boulevard</span> in Hollywood, a glorious Thirties outdoor shopping mall disguised as a sleek ocean liner, complete with portholes, gliding into a European port. Its graceful spire capped with a ceaselessly revolving globe, the Crossroads now does house offices and was seen as the workplace of Diana Murphy (<a href=\"https://www.movie-locations.com/people/m/moored.php\">Demi Moore</a>) in <a href=\"https://www.movie-locations.com/people/l/lynea.php\">Adrian Lyne</a>’s 1993 <span class=\"name\">Indecent Proposal</span>.</p>\n<p>It’s Christmas Eve and Bud White energetically takes on a a case of domestic abuse, ripping the Santa Claus decorations from the roof of <span class=\"name\">4216 Rose Avenue</span> in <span class=\"name\">Long Beach</span> to the far south of <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>, a modest bungalow at the time of filming but since prettied up with multiple gable ends.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/008.jpg\" alt=\"L.A. Confidential film location: Lovell Health House, Los Feliz, Los Angeles\"><figcaption>L.A. Confidential film location: Bud first sees Lynn Bracken at the liquor store: Ramon’s Cane Shop, South Cochran Avenue, Los Angeles</figcaption></figure>\n<p>Calling into ’Nick’s Liquor Store’ for some seasonal cheer, White is taken aback by Veronica-Lake lookalike Lynn Bracken (<a href=\"https://www.movie-locations.com/people/b/basingerk.php\">Kim Basinger</a>), who’s stocking up for ‘a helluva party’. This ‘liquor store’ is <span class=\"name\">Ramon’s Cane Shop, 1277 South Cochran Avenue</span>, south of South San Vicente Boulevard, <span class=\"name\">Midtown</span>, across from <span class=\"name\">Cochran Avenue Baptist Church</span>.</p>\n<p>It’s outside the store that one of the main plot lines is set in motion when Bud – investigating a woman who appears to be nursing a broken nose – first encounters millionaire businessman Pierce Pratchett (<a href=\"https://www.movie-locations.com/people/s/strathairnd.php\">David Strathairn</a>) and his ex-cop bodyguard ‘Buzz’ Meeks. In classic film noir tradition, Lynn explains to White “It’s not what it seems.”</p>\n<p>Part of the all-encompassing web of low-level corruption is the unhealthy relationship between Jack Vincennes and sleazemeister Hudgens. The journo tips off the cop about a little illicit weed usage, Vincennes makes the arrest and Hudgens is immediately on hand for that exclusive photo op.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/009.jpg\" alt=\"L.A. Confidential film location: Gramercy Place at Hollywood Boulevard, Hollywood, Los Angeles\"><figcaption>L.A. Confidential film location: The movie premiere pot bust: Gramercy Place at Hollywood Boulevard, Hollywood, Los Angeles</figcaption></figure>\n<p>In this case, it’s ‘The Movie Premiere Pot Bust’, a gift to <span class=\"ital\">Hush Hush</span> as hapless actor Matt Reynolds (<a href=\"https://www.movie-locations.com/people/b/bakersimon.php\">Simon Baker</a>) is hauled from the bungalow at <span class=\"name\">1714 North Gramercy Place</span>, west of Western Avenue just off <span class=\"name\">Hollywood Boulevard</span>, with the impressive-looking ‘El Cortez’ theatre hosting the launch of 1951 sci-fi <span class=\"name\">When Worlds Collide</span> providing a suitably dramatic backdrop for the press photos.</p>\n<p>Don’t bother trying to book seats at ‘El Cortez’. The imposing deco building is nothing more than the abandoned bank building at <span class=\"name\">5620 Hollywood Boulevard</span>, decked out with a remarkably convincing cinema marquee.</p>\n<p>In Reynolds' bungalow Vincennes discovers the card of the dubious ‘Fleur De Lis’ organisation (motto: “Whatever you desire”), which turns out to play a fundamental role in the city’s subculture.</p>\n<p>Back at LAPD HQ, the the publication of press photos of the ‘Bloody Christmas’ beatings leads to a mighty furore which sees Bud White suspended for not snitching on his colleagues and the cooperative Ed Exley promoted for the opposite reason.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/010.jpg\" alt=\"L.A. Confidential film location: Boardner’s, North Cherokee Avenue, Hollywood\"><figcaption>L.A. Confidential film location: Bud White gets back his badge and gun: Boardner’s Bar, North Cherokee Avenue, Hollywood</figcaption></figure>\n<p>Captain Smith, ever on the lookout for strongarm backup, however, has a use for the heavyweight Bud White. As a result, he finds himself quickly reinstated. The bar in which Smith hands back White his badge and gun is <a href=\"http://boardners.com/\" target=\"_blank\">Boardner’s</a>, <span class=\"name\">1652 North Cherokee Avenue</span> just off Hollywood Boulevard.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/011.jpg\" alt=\"L.A. Confidential film location: Boardner’s, North Cherokee Avenue, Hollywood\"><figcaption>L.A. Confidential film location: Bud White gets back his badge and gun: Boardner’s Bar, North Cherokee Avenue, Hollywood | Photograph: Mal Davis</figcaption></figure>\n<p><a href=\"http://boardners.com/\" target=\"_blank\">Boardner’s</a> is a great little bar with a fascinating history dating back to the Thirties – and it’s my favourite bar in Hollywood. It’s also seen in <a href=\"https://www.movie-locations.com/people/b/burtont.php\">Tim Burton</a>’s <a href=\"https://www.movie-locations.com/movies/e/Ed-Wood.php\">Ed Wood</a> and in <span class=\"name\">Hollywood Homicide</span>, with <a href=\"https://www.movie-locations.com/people/f/fordh.php\">Harrison Ford</a> and <a href=\"https://www.movie-locations.com/people/h/hartnettj.php\">Josh Hartnett</a>.</p>\n<p>When I visited, the bar celebrated its cinematic connection with a range of movie-themed cocktails such as a <span class=\"ital\">Blade Runner</span> (Bulleit Rye Whiskey, ginger beer and lime juice) or a <span class=\"ital\">Big Lebowski</span> (Stoli Vanilla, Kahlua and cream served over ice), but I guess this changes.</p>\n<p>When Mickey Cohen’s henchmen start dropping like flies, there’s clearly something sinister going down. Two of his goons are gunned down somewhere “near Sunset”. Well, quite a long way from Sunset, actually. They’re outside <span class=\"name\">4439 Victoria Park Drive</span>, south of Mid-Wilshire and, if you’re on a location trip, this is only a couple of minutes away from the Lambert family home from <a href=\"https://www.movie-locations.com/people/w/wanj.php\">James Wan</a>’s 2010 <a href=\"https://www.movie-locations.com/movies/i/Insidious.php\">Insidious</a>.</p>\n<p>There’s more bloodshed as Exley takes a homicide call and discovers the owner and six customers of the ’Nite Owl Coffee Shop’ bloodily murdered in a supposed robbery.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/012.jpg\" alt=\"L.A. Confidential film location: J&amp;J Sandwich Shop, East 6th Street, Downtown Los Angeles\"><figcaption>L.A. Confidential film location: the 'Nite Owl Coffee House': J&amp;J Sandwich Shop, East 6th Street, Downtown Los Angeles</figcaption></figure>\n<p>The ‘Nite Owl Cafe’ was the <span class=\"name\">J&amp;J Sandwich Shop, 119 East 6th Street</span>, <span class=\"name\">Downtown</span> <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>, and its interior was still instantly recognisable when I visited to take these photos in 2018. The bad news is, it has recently closed. Let's hope new owners retain the original interior.</p>\n<p>This is a busy stretch of Sixth Street – next door to <span class=\"name\">J&amp;J</span> is ‘Wild Bill’s tattoo parlour from <a href=\"https://www.movie-locations.com/movies/s/Seven-1995.php\">Se7en</a>, and the barbershop in which Detectives Somerset (<a href=\"https://www.movie-locations.com/people/f/freemanm.php\">Morgan Freeman</a>) and Mills (<a href=\"https://www.movie-locations.com/people/p/pittb.php\">Brad Pitt</a>) wait for their contact to drop off the records in the same movie.</p>\n<p>Opposite stands Cole’s, seen in <a href=\"https://www.movie-locations.com/movies/f/Forrest-Gump.php\">Forrest Gump</a>, which is housed in the basement of – yes, the Pacific Electric Building. And it’s on this stretch of Sixth Street, too, that there’s an incendiary attempt to free kingpin Alex Montel (<a href=\"https://www.movie-locations.com/people/m/martinezo.php\">Olivier Martinez</a>) from the police convoy in <a href=\"https://www.movie-locations.com/people/g/grayfg.php\">F Gary Gray</a>'s 2003 <a href=\"https://www.movie-locations.com/movies/s/SWAT.php\">S.W.A.T.</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/013.jpg\" alt=\"L.A. Confidential film location: J&amp;J Sandwich Shop, East 6th Street, Downtown Los Angeles\"><figcaption>L.A. Confidential film location: the massacre at the coffee house: J&amp;J Sandwich Shop, East 6th Street, Downtown Los Angeles</figcaption></figure>\n<p>Since the Nite Owl victims include not only Bud White’s disgraced ex-partner but also Rita Hayworth lookalike Susan Lefferts – the woman with the bandaged face from outside the liquor store – suspicions are justifiably raised.</p>\n<p>Following up a lead from the liquor store, Bud White is soon calling at the sleek terraced home of Pierce Patchett, which is architect <span class=\"name\">Richard Neutra</span>’s <span class=\"name\">Lovell House</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/014.jpg\" alt=\"L.A. Confidential film location: Lovell Health House, Los Feliz, Los Angeles\"><figcaption>L.A. Confidential film location: The stylish home of pimp Pierce Patchett: Lovell Health House, Los Feliz, Los Angeles</figcaption></figure>\n<p>Looking amazingly modern, <span class=\"name\">Neutra</span>’s masterpiece was built in 1929 for physician and staunch vegetarian <span class=\"name\">Philip Lovell</span> (it’s also known as the <span class=\"name\">Lovell Health House</span>), a private residence at <span class=\"name\">4616 Dundee Drive, Los Feliz</span>, below the <a href=\"http://griffithobservatory.org/\" target=\"_blank\">Griffith Observatory</a>, which you can clearly see on the skyline.</p>\n<p>In 2010, the house became home to Hal Fields (<a href=\"https://www.movie-locations.com/people/p/plummerc.php\">Christopher Plummer</a>) and his son Oliver (<a href=\"https://www.movie-locations.com/people/m/mcgregore.php\">Ewan McGregor</a>) in <span class=\"name\">Mike Mills</span>' drama <span class=\"name\">Beginners</span>.</p>\n<p>Behind the respectable façade, Pratchett is the high-class pimp running ‘Fleur De Lis’, an organisation which specialises in supplying lookalikes of famous movie stars to wealthy clients.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/015.jpg\" alt=\"L.A. Confidential film location: Wilcox Avenue, Rossmore District, Midtown Los Angeles\"><figcaption>L.A. Confidential film location: the classy home of Veronica Lake-lookalike Lynn Bracken: Wilcox Avenue, Rossmore District, Midtown Los Angeles</figcaption></figure>\n<p>Via Pratchett, White finally manages to trace Lynn Bracken to her swanky home, <span class=\"name\">501 Wilcox Avenue</span>,  in the <span class=\"name\">Rossmore</span> district of <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>. Bracken's luxurious 1927 house, alongside the Wilshire Country Club, indicates just how profitable Pratchett's racket it.</p>\n<p>With pressure on to clear up the ‘Nite Owl Massacre’, three young black guys predictably end up in the frame. Eager to track them down, Vincennes and Exley offer a bogus promise to extract information from young boxer Leonard Bidwell (<a href=\"https://www.movie-locations.com/people/f/flemingrb.php\">Robert Barry Fleming</a>) as he hammers the punchball outside his house at <span class=\"name\">1255 Bellevue Avenue</span> at East Kensington Road, in the <span class=\"name\">Echo Park</span> district.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/016.jpg\" alt=\"L.A. Confidential film location: Bellevue Avenue, Echo Park, Los Angeles\"><figcaption>L.A. Confidential film location: Vincennes and Exley get info from the boxer Bidwell: Bellevue Avenue, Echo Park, Los Angeles</figcaption></figure>\n<p>Watch the film closely and you’ll probably recognise Bob’s Market opposite, which became 'Toretto's' in the first <a href=\"https://www.movie-locations.com/movies/f/Fast-And-The-Furious.php\">Fast and the Furious</a> movie.</p>\n<p>In custody the three suspects are clearly hiding something, but it’s not what the cops are expecting. They’re holding captive and sexually abusing a woman a house on ‘Avalon Street, South Central”.</p>\n<p>The house, from which she’s immediately rescued, is actually <span class=\"name\">496 East Avenue 28</span> on the southern junction of Montecito Street in <span class=\"name\">Lincoln Heights</span>, northeast of <span class=\"name\">Downtown</span>.</p>\n<p>It's while the team is freeing her that all three suspects astonishingly manage to escape from police custody.</p>\n<p>Tracked to the home of their dealer, Roland Navarette (supposedly on Downtown’s now-redeveloped ‘Bunker Hill’), they die in a hail of gunfire at <span class=\"name\">2618 San Marino Street</span> near the intersection of Olympic Boulevard and Hoover Street, west of Macarthur Park.</p>\n<p>Ed Exley is hailed as hero of the hour, awarded the Medal of Honor and the force closes the case, satisfied that justice has been done.</p>\n<p>But bad stuff just keeps on happening. When an <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a> councilman is approached with a series of photos showing him enjoying the pleasure of Lynn Bracken/Veronica Lake’s company, he suddenly decides to change his vote on a real estate deal to favour none other than Pearce Pratchett.</p>\n<p>The property debate really is held in <span class=\"name\">City Hall Council Chamber</span>, which you may remember from <a href=\"https://www.movie-locations.com/people/p/polanskir.php\">Roman Polanski</a>’s <a href=\"https://www.movie-locations.com/movies/c/Chinatown.php\">Chinatown</a>, and which obviously doesn’t mind being the centre of civic corruption onscreen – in period movies, of course.</p>\n<p>There seem to be no depth’s to Pratchett’s depravity – at one of his decadent parties, he seems happy to be offering a <span class=\"name\">Shirley Temple</span> lookalike – but he does maintain impeccable taste in architecture.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/017.jpg\" alt=\"LA Confidential filming location: Sowden House Franklin Avenue, Los Feliz, Los Angeles\"><figcaption>LA Confidential location: Pierce Pratchett's debauched party: the Sowden House Franklin Avenue, Los Feliz, Los Angeles</figcaption></figure>\n<p>The backdrop to these debauched shenanigans is the 1926 <span class=\"name\">Sowden House, 5121 Franklin Avenue</span>, between Western and Normandie Avenues, in <span class=\"name\">Los Feliz</span>, east of <span class=\"name\">Hollywood</span>.</p>\n<p>This astonishing design is the work of <span class=\"name\">Lloyd Wright</span> (son of innovative architect <span class=\"name\">Frank Lloyd Wright</span>) and you can see again it as the home of Ava Gardner (<a href=\"https://www.movie-locations.com/people/b/beckinsalek.php\">Kate Beckinsale</a>) in <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Martin Scorsese</a>'s <span class=\"name\">Howard Hughes</span> biopic <a href=\"https://www.movie-locations.com/movies/a/Aviator.php\">The Aviator</a>.</p>\n<p>Back in Tinseltown, Hudgens and Vincennes are plotting to set up naive young Matt once again, this time for an assignation with ‘secret swish’ District Attorney Loew (<a href=\"https://www.movie-locations.com/people/r/rifkinr.php\">Ron Rifkin</a>) on the promise of a role in <span class=\"ital\">Badge of Honor</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/018.jpg\" alt=\"L.A. Confidential film location: Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles\"><figcaption>L.A. Confidential film location: Jack Vincennes stops off for a drink: Bob’s Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles</figcaption></figure>\n<p>This finally is a step too far even for Vincennes who has a crisis of conscience as he nurses a drink in <a href=\"https://www.facebook.com/pages/Frolic-Room/115571781802821\" target=\"_blank\">Bob’s Frolic Room</a>, <span class=\"name\">6245 Hollywood Boulevard</span>, a surviving small Thirties neon-fronted dive bar alongside the <a href=\"https://www.hollywoodpantages.com/\" target=\"_blank\">Pantages Theater</a>. It's a small, lively and often busy little dive bar, its walls decorated with stylish <span class=\"name\">Al Hirschfield</span> cartoons of Hollywood greats.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/019.jpg\" alt=\"L.A. Confidential film location: Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles\"><figcaption>L.A. Confidential film location: Vincennes has a crisis of conscience: Bob’s Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles</figcaption></figure>\n<p>Opened as a speakeasy in 1934 – allegedly by one <span class=\"name\">Freddy Frolic</span> (hmmm...) – the bar stakes out its cool credentials with a portrait of one-time regular, writer <span class=\"name\">Charles Bukowski</span>, hanging above the cash register. It's in front of the <a href=\"https://www.facebook.com/pages/Frolic-Room/115571781802821\" target=\"_blank\">Frolic</a> that Rick Dalton (<a href=\"https://www.movie-locations.com/people/d/dicapriol.php\">Leonardo DiCaprio</a>) gets one too many drunk driving tickets in <a href=\"https://www.movie-locations.com/people/t/tarantinoq.php\">Quentin Tarantino</a>'s <a href=\"https://www.movie-locations.com/movies/o/Once-Upon-A-Time-In-Hollywood.php\">Once Upon A Time In Hollywood</a> and it's from outside the bar that 'Shannon' is stolen in <a href=\"https://www.movie-locations.com/people/s/senad.php\">Dominic Sena</a>'s 2000 remake of <a href=\"https://www.movie-locations.com/movies/g/Gone-In-60-Seconds-2000.php\">Gone In 60 Seconds</a>, with <a href=\"https://www.movie-locations.com/people/c/cagen.php\">Nicolas Cage</a>.</p>\n<p>Leaving Hudgens’ $50 payola as a generous tip for the bartender, Vincennes sets off to warn the actor.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/020.jpg\" alt=\"L.A. Confidential film location: Hollywood Center Motel, Sunset Boulevard, Hollywood, Los Angeles\"><figcaption>L.A. Confidential film location: Vincennes finds the body of the murdered actor: Hollywood Center Motel, Sunset Boulevard, Hollywood, Los Angeles</figcaption></figure>\n<p>He’s too late, finding Reynolds dead in a pool of blood inside room 203 of the <span class=\"name\">Hollywood Center Motel, 6720 Sunset Boulevard</span>. An original 20s motel, enlarged in the 1950s, the decrepit <span class=\"name\">Hollywood Center</span> seems more a place to look at than stay and, indeed, as of 2018, it does seem to be closed down. Let’s hope it gets returned to its period glory and doesn’t get bulldozed to make way for one more anonymous concrete box.</p>\n<p>Yet another body is discovered when Bud White decides to pay a visit to Mrs Lefferts – mother of the murdered Rita Hayworth lookalike – only to discover that the smell emanating from her crawl space comes from the mortal remains of Pratchett’s bodyguard, Meeks. Mrs Lefferts' house is <span class=\"name\">1704 Morton Avenue</span>, northeast of <span class=\"name\">Echo Park</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/021.jpg\" alt=\"L.A. Confidential film location: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles\"><figcaption>L.A. Confidential film location: Oops! – that's the ‘real’ Lana Turner: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles</figcaption></figure>\n<p>By now everyone suspects everyone else and Exley recruits the aid of Vincennes to tail Bud White to the <span class=\"name\">Formosa Cafe</span> in <span class=\"name\">West Hollywood</span>. White is extracting information from tough guy Johnny Stompanato and it’s here that he and Exley later have an embarrassing confrontation with Stompanato and – oops! – the <span class=\"ital\">real</span> Lana Turner.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/022.jpg\" alt=\"L.A. Confidential film location: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles\"><figcaption>L.A. Confidential film location: Oops! – that's the ‘real’ Lana Turner: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles</figcaption></figure>\n<p>A Chinese restaurant and bar housed in an old railroad car and festooned with celebrity photos, the <a href=\"https://theformosacafe.com/\" target=\"_blank\">Formosa Cafe</a>, <span class=\"name\">7156 Santa Monica Boulevard</span> at Formosa Avenue, was a regular hangout for the likes of <a href=\"https://www.movie-locations.com/people/b/bogarth.php\">Humphrey Bogart</a>, <a href=\"https://www.movie-locations.com/people/m/monroem.php\">Marilyn Monroe</a> and <a href=\"https://www.movie-locations.com/people/g/gablec.php\">Clark Gable</a>, among others since it stood just over the road from the old Goldwyn Studios, known as ‘The Lot’, and functioned as something of an unofficial staff canteen.</p>\n<p>A few years ago, the restaurant closed and came close to being demolished. A campaign to save it as a historic site resulted in the premises being bought with a view to renovation and reopening. In April 2018, it stood in a sorry state of disrepair but I'm happy to report it's back with a vengeance and better than ever. I checked it out recently and was impressed by its rejuvenation. And yes, the frieze of celeb photos remains.</p>\n<p>You can see the <a href=\"https://theformosacafe.com/\" target=\"_blank\">Formosa</a> again in <a href=\"https://www.movie-locations.com/people/d/darabontf.php\">Frank Darabont</a>’s 2001 Hollywood blacklist drama <a href=\"https://www.movie-locations.com/movies/m/Majestic.php\">The Majestic</a>, with <a href=\"https://www.movie-locations.com/people/c/carreyj.php\">Jim Carrey</a> and <a href=\"https://www.movie-locations.com/people/l/landaum.php\">Martin Landau</a>. </p>\n<p>The real <span class=\"name\">Johnny Stompanato</span>, by the way, was the underworld hood stabbed to death in the bedroom of <span class=\"name\">Lana Turner</span>’s Beverly Hills mansion in 1958 – allegedly by the actress’s daughter, <span class=\"name\">Cheryl Crane</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/023.jpg\" alt=\"L.A. Confidential film location: Berkshire Drive, South Pasadena\"><figcaption>L.A. Confidential film location: Captain Smith's bungalow: Berkshire Drive, South Pasadena | Photograph: Google Streetview</figcaption></figure>\n<p>Putting the pieces together – though unfortunately not quite enough of them – Jack Vincennes visits Dudley Smith in the middle of the night at his craftsman bungalow, <span class=\"name\">5668 Berkshire Drive</span>, just south of Kendall Avenue in <span class=\"name\">South Pasadena</span>. Big mistake. Fatal, in fact.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/024.jpg\" alt=\"L.A. Confidential film location: Pacific Electric Building, Sixth Street, Downtown Los Angeles\"><figcaption>L.A. Confidential film location: Bud White encourages the DA to cooperate by dangling him out of the window: Pacific Electric Building, Sixth Street, Downtown Los Angeles</figcaption></figure>\n<p>With Vincennes out of the picture, Exley has no choice but to settle his differences and team up with Bud White. Together they put pressure on the corrupt DA Loew. The top-floor window, from which the terrified man is dangled by Bud White as an incentive to cooperate, is once again the <span class=\"name\">Pacific Electric Building</span>, on the <span class=\"name\">Sixth Street</span> side – coincidentally, directly overlooking the location for the ‘Nite Owl Coffee Shop’.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0119488/025.jpg\" alt=\"L.A. Confidential film location: Los Angeles City Hall, North Spring Street, Downtown Los Angeles\"><figcaption>L.A. Confidential film location: the police HQ: Los Angeles City Hall, North Spring Street, Downtown Los Angeles</figcaption></figure>\n<p>With the DA onside, the convoluted conspiracy can finally be unpicked, though not without that noisy shoot out at the ‘Victory Motel’ and a substantial increase in the body count.</p>\n<p>There’s a resolution of sorts, with Bud White and Lynn Bracken taking their leave of Ed Exley and driving away from the steps of the grand ceremonial entrance of <span class=\"name\">LA City Hall</span> on <span class=\"name\">North Spring Street</span>.</p>",
+  "main_content_text": "Discover the many and beguiling film locations for Curtis Hanson's classic neo-noir around Los Angeles, including the Lovell Health House; the Formosa Restaurant; the Crossroads of the World; Bob's Frolic Room; Gramercy Place; LA City Hall and Boardner's Bar. Now find out exactly where. ▶ With map of locations at end of entry.\n\nJames Ellroy’s 1990 novel, L.A. Confidential, was inspired by several real life events, including the gang warfare for control of the city’s rackets which erupted after mob boss Mickey Cohen was jailed, and ‘Bloody Christmas’ – the notorious reprisal beatings of a bunch of Hispanic prisoners by LAPD cops.\n\nAlong with Michael Mann’s Heat, Curtis Hanson’s Fifties-set adaptation shows the city of Los Angeles at its most darkly stylish and, although it’s a period piece, was shot almost entirely on real locations around the city.\n\nOnly the decrepit ‘Victory Motel’, the unofficial ‘enhanced interrogation’ base of corrupt police Captain Dudley Smith (James Cromwell) and site of the final shoot-out, is a purpose-built set, constructed in Baldwin Hills near Culver City, among the area's characteristic ‘nodding donkey’ oil wells.\n\nBeneath the Hills lies the Inglewood Oil Field, discovered in 1924 beneath South Los Angeles, and the 18th-largest oil field in California. There are other oilfields in the city (including one beneath Beverly Hills) but these wells are often well hidden or disguised. Only around Baldwin Hills can you see acres of what are correctly called pumpjacks, looking like pterodactyls gently feeding their young, bringing up the fuel to keep LA’s relentless traffic moving.\n\nApart from the dozens of locations, there’s plenty of plot and numerous characters, centred around three very different LAPD officers: short-tempered, bull-headed Bud White (Russell Crowe) who displays a righteous fury when it comes to battered women; straight-as-a-die rookie Ed Exley (Guy Pearce), trying to live up to the awesome reputation of his not-so-straight detective father; and fame-hungry Jack Vincennes (Kevin Spacey) – dubiously claiming to be the guy who arrested Robert Mitchum – coasting along on the glamour of being advisor to TV series Badge Of Honor.\n\nThis fictitious TV show is obviously based on Dragnet and similarly uses Los Angeles City Hall, as seen on the LAPD badge, as its logo. The familiar pyramid-topped highrise, out of which the film’s cops appear to operate, can be seen at 200 North Spring Street, Downtown. If you've picture ID, you can take a trip up the the Observation Deck on the 27th Floor to get a panoramic view over the city.\n\nThe film doesn't use the interior of City Hall for the police HQ (though its Council Chamber is seen later in the film). In fact, the movie’s cop station is a mix of three separate locations.\n\nMost of the offices and corridors are those of the once-disused Pacific Electric Building, 610 South Main Street at 6th Street, Downtown LA, the former home of Henry E Huntington's trolley line which served Southern California for more than fifty years with its famous red cars.\n\nThe massive brick building has stood empty since 1989 when the former owners moved out, but is now being redeveloped as PE Lofts – luxury apartments, of course. The mosaic-tiled hallways, glass doors and transoms have featured in many films including David Fincher’s Se7en, John Woo’s Face/Off, Sam Raimi’s Spider-Man and Steven Soderbergh’s Traffic.\n\nThe cop station’s lobby and front desk are those of the Old Venice Police Station Division 14, 685 Venice Boulevard. Now housing SPARC, the Social and Public Art Resource Center, devoted to Los Angeles’s excellent tradition of multi-ethnic murals, the building was previously famous for supplying the exterior of ‘Anderson Police Precinct’ for John Carpenter’s 1976 Assault On Precinct 13. According to the ever-excellent LA-based site iamnotastalker.com, the disused police station has a long history as a movie location.\n\nLastly, the jail cells are another familiar location – the disused Lincoln Heights Jail, 401 North Avenue 19, Lincoln Heights, whose credits reach back to George Cukor’s 1954 A Star Is Born and include Wes Craven’s original A Nightmare On Elm Street among many others.\n\nThe scene-setting is narrated by Sid Hudgens (Danny DeVito), editor and seemingly sole reporter for gossip rag Hush Hush – “Off the record, on the QT and very Hush Hush!”.\n\nSleazy he may be but his office is in the impeccably stylish Crossroads of the World, 6671 Sunset Boulevard in Hollywood, a glorious Thirties outdoor shopping mall disguised as a sleek ocean liner, complete with portholes, gliding into a European port. Its graceful spire capped with a ceaselessly revolving globe, the Crossroads now does house offices and was seen as the workplace of Diana Murphy (Demi Moore) in Adrian Lyne’s 1993 Indecent Proposal.\n\nIt’s Christmas Eve and Bud White energetically takes on a a case of domestic abuse, ripping the Santa Claus decorations from the roof of 4216 Rose Avenue in Long Beach to the far south of LA, a modest bungalow at the time of filming but since prettied up with multiple gable ends.\n\nCalling into ’Nick’s Liquor Store’ for some seasonal cheer, White is taken aback by Veronica-Lake lookalike Lynn Bracken (Kim Basinger), who’s stocking up for ‘a helluva party’. This ‘liquor store’ is Ramon’s Cane Shop, 1277 South Cochran Avenue, south of South San Vicente Boulevard, Midtown, across from Cochran Avenue Baptist Church.\n\nIt’s outside the store that one of the main plot lines is set in motion when Bud – investigating a woman who appears to be nursing a broken nose – first encounters millionaire businessman Pierce Pratchett (David Strathairn) and his ex-cop bodyguard ‘Buzz’ Meeks. In classic film noir tradition, Lynn explains to White “It’s not what it seems.”\n\nPart of the all-encompassing web of low-level corruption is the unhealthy relationship between Jack Vincennes and sleazemeister Hudgens. The journo tips off the cop about a little illicit weed usage, Vincennes makes the arrest and Hudgens is immediately on hand for that exclusive photo op.\n\nIn this case, it’s ‘The Movie Premiere Pot Bust’, a gift to Hush Hush as hapless actor Matt Reynolds (Simon Baker) is hauled from the bungalow at 1714 North Gramercy Place, west of Western Avenue just off Hollywood Boulevard, with the impressive-looking ‘El Cortez’ theatre hosting the launch of 1951 sci-fi When Worlds Collide providing a suitably dramatic backdrop for the press photos.\n\nDon’t bother trying to book seats at ‘El Cortez’. The imposing deco building is nothing more than the abandoned bank building at 5620 Hollywood Boulevard, decked out with a remarkably convincing cinema marquee.\n\nIn Reynolds' bungalow Vincennes discovers the card of the dubious ‘Fleur De Lis’ organisation (motto: “Whatever you desire”), which turns out to play a fundamental role in the city’s subculture.\n\nBack at LAPD HQ, the the publication of press photos of the ‘Bloody Christmas’ beatings leads to a mighty furore which sees Bud White suspended for not snitching on his colleagues and the cooperative Ed Exley promoted for the opposite reason.\n\nCaptain Smith, ever on the lookout for strongarm backup, however, has a use for the heavyweight Bud White. As a result, he finds himself quickly reinstated. The bar in which Smith hands back White his badge and gun is Boardner’s, 1652 North Cherokee Avenue just off Hollywood Boulevard.\n\nBoardner’s is a great little bar with a fascinating history dating back to the Thirties – and it’s my favourite bar in Hollywood. It’s also seen in Tim Burton’s Ed Wood and in Hollywood Homicide, with Harrison Ford and Josh Hartnett.\n\nWhen I visited, the bar celebrated its cinematic connection with a range of movie-themed cocktails such as a Blade Runner (Bulleit Rye Whiskey, ginger beer and lime juice) or a Big Lebowski (Stoli Vanilla, Kahlua and cream served over ice), but I guess this changes.\n\nWhen Mickey Cohen’s henchmen start dropping like flies, there’s clearly something sinister going down. Two of his goons are gunned down somewhere “near Sunset”. Well, quite a long way from Sunset, actually. They’re outside 4439 Victoria Park Drive, south of Mid-Wilshire and, if you’re on a location trip, this is only a couple of minutes away from the Lambert family home from James Wan’s 2010 Insidious.\n\nThere’s more bloodshed as Exley takes a homicide call and discovers the owner and six customers of the ’Nite Owl Coffee Shop’ bloodily murdered in a supposed robbery.\n\nThe ‘Nite Owl Cafe’ was the J&J Sandwich Shop, 119 East 6th Street, Downtown LA, and its interior was still instantly recognisable when I visited to take these photos in 2018. The bad news is, it has recently closed. Let's hope new owners retain the original interior.\n\nThis is a busy stretch of Sixth Street – next door to J&J is ‘Wild Bill’s tattoo parlour from Se7en, and the barbershop in which Detectives Somerset (Morgan Freeman) and Mills (Brad Pitt) wait for their contact to drop off the records in the same movie.\n\nOpposite stands Cole’s, seen in Forrest Gump, which is housed in the basement of – yes, the Pacific Electric Building. And it’s on this stretch of Sixth Street, too, that there’s an incendiary attempt to free kingpin Alex Montel (Olivier Martinez) from the police convoy in F Gary Gray's 2003 S.W.A.T.\n\nSince the Nite Owl victims include not only Bud White’s disgraced ex-partner but also Rita Hayworth lookalike Susan Lefferts – the woman with the bandaged face from outside the liquor store – suspicions are justifiably raised.\n\nFollowing up a lead from the liquor store, Bud White is soon calling at the sleek terraced home of Pierce Patchett, which is architect Richard Neutra’s Lovell House.\n\nLooking amazingly modern, Neutra’s masterpiece was built in 1929 for physician and staunch vegetarian Philip Lovell (it’s also known as the Lovell Health House), a private residence at 4616 Dundee Drive, Los Feliz, below the Griffith Observatory, which you can clearly see on the skyline.\n\nIn 2010, the house became home to Hal Fields (Christopher Plummer) and his son Oliver (Ewan McGregor) in Mike Mills' drama Beginners.\n\nBehind the respectable façade, Pratchett is the high-class pimp running ‘Fleur De Lis’, an organisation which specialises in supplying lookalikes of famous movie stars to wealthy clients.\n\nVia Pratchett, White finally manages to trace Lynn Bracken to her swanky home, 501 Wilcox Avenue, in the Rossmore district of LA. Bracken's luxurious 1927 house, alongside the Wilshire Country Club, indicates just how profitable Pratchett's racket it.\n\nWith pressure on to clear up the ‘Nite Owl Massacre’, three young black guys predictably end up in the frame. Eager to track them down, Vincennes and Exley offer a bogus promise to extract information from young boxer Leonard Bidwell (Robert Barry Fleming) as he hammers the punchball outside his house at 1255 Bellevue Avenue at East Kensington Road, in the Echo Park district.\n\nWatch the film closely and you’ll probably recognise Bob’s Market opposite, which became 'Toretto's' in the first Fast and the Furious movie.\n\nIn custody the three suspects are clearly hiding something, but it’s not what the cops are expecting. They’re holding captive and sexually abusing a woman a house on ‘Avalon Street, South Central”.\n\nThe house, from which she’s immediately rescued, is actually 496 East Avenue 28 on the southern junction of Montecito Street in Lincoln Heights, northeast of Downtown.\n\nIt's while the team is freeing her that all three suspects astonishingly manage to escape from police custody.\n\nTracked to the home of their dealer, Roland Navarette (supposedly on Downtown’s now-redeveloped ‘Bunker Hill’), they die in a hail of gunfire at 2618 San Marino Street near the intersection of Olympic Boulevard and Hoover Street, west of Macarthur Park.\n\nEd Exley is hailed as hero of the hour, awarded the Medal of Honor and the force closes the case, satisfied that justice has been done.\n\nBut bad stuff just keeps on happening. When an LA councilman is approached with a series of photos showing him enjoying the pleasure of Lynn Bracken/Veronica Lake’s company, he suddenly decides to change his vote on a real estate deal to favour none other than Pearce Pratchett.\n\nThe property debate really is held in City Hall Council Chamber, which you may remember from Roman Polanski’s Chinatown, and which obviously doesn’t mind being the centre of civic corruption onscreen – in period movies, of course.\n\nThere seem to be no depth’s to Pratchett’s depravity – at one of his decadent parties, he seems happy to be offering a Shirley Temple lookalike – but he does maintain impeccable taste in architecture.\n\nThe backdrop to these debauched shenanigans is the 1926 Sowden House, 5121 Franklin Avenue, between Western and Normandie Avenues, in Los Feliz, east of Hollywood.\n\nThis astonishing design is the work of Lloyd Wright (son of innovative architect Frank Lloyd Wright) and you can see again it as the home of Ava Gardner (Kate Beckinsale) in Martin Scorsese's Howard Hughes biopic The Aviator.\n\nBack in Tinseltown, Hudgens and Vincennes are plotting to set up naive young Matt once again, this time for an assignation with ‘secret swish’ District Attorney Loew (Ron Rifkin) on the promise of a role in Badge of Honor.\n\nThis finally is a step too far even for Vincennes who has a crisis of conscience as he nurses a drink in Bob’s Frolic Room, 6245 Hollywood Boulevard, a surviving small Thirties neon-fronted dive bar alongside the Pantages Theater. It's a small, lively and often busy little dive bar, its walls decorated with stylish Al Hirschfield cartoons of Hollywood greats.\n\nOpened as a speakeasy in 1934 – allegedly by one Freddy Frolic (hmmm...) – the bar stakes out its cool credentials with a portrait of one-time regular, writer Charles Bukowski, hanging above the cash register. It's in front of the Frolic that Rick Dalton (Leonardo DiCaprio) gets one too many drunk driving tickets in Quentin Tarantino's Once Upon A Time In Hollywood and it's from outside the bar that 'Shannon' is stolen in Dominic Sena's 2000 remake of Gone In 60 Seconds, with Nicolas Cage.\n\nLeaving Hudgens’ $50 payola as a generous tip for the bartender, Vincennes sets off to warn the actor.\n\nHe’s too late, finding Reynolds dead in a pool of blood inside room 203 of the Hollywood Center Motel, 6720 Sunset Boulevard. An original 20s motel, enlarged in the 1950s, the decrepit Hollywood Center seems more a place to look at than stay and, indeed, as of 2018, it does seem to be closed down. Let’s hope it gets returned to its period glory and doesn’t get bulldozed to make way for one more anonymous concrete box.\n\nYet another body is discovered when Bud White decides to pay a visit to Mrs Lefferts – mother of the murdered Rita Hayworth lookalike – only to discover that the smell emanating from her crawl space comes from the mortal remains of Pratchett’s bodyguard, Meeks. Mrs Lefferts' house is 1704 Morton Avenue, northeast of Echo Park.\n\nBy now everyone suspects everyone else and Exley recruits the aid of Vincennes to tail Bud White to the Formosa Cafe in West Hollywood. White is extracting information from tough guy Johnny Stompanato and it’s here that he and Exley later have an embarrassing confrontation with Stompanato and – oops! – the real Lana Turner.\n\nA Chinese restaurant and bar housed in an old railroad car and festooned with celebrity photos, the Formosa Cafe, 7156 Santa Monica Boulevard at Formosa Avenue, was a regular hangout for the likes of Humphrey Bogart, Marilyn Monroe and Clark Gable, among others since it stood just over the road from the old Goldwyn Studios, known as ‘The Lot’, and functioned as something of an unofficial staff canteen.\n\nA few years ago, the restaurant closed and came close to being demolished. A campaign to save it as a historic site resulted in the premises being bought with a view to renovation and reopening. In April 2018, it stood in a sorry state of disrepair but I'm happy to report it's back with a vengeance and better than ever. I checked it out recently and was impressed by its rejuvenation. And yes, the frieze of celeb photos remains.\n\nYou can see the Formosa again in Frank Darabont’s 2001 Hollywood blacklist drama The Majestic, with Jim Carrey and Martin Landau.\n\nThe real Johnny Stompanato, by the way, was the underworld hood stabbed to death in the bedroom of Lana Turner’s Beverly Hills mansion in 1958 – allegedly by the actress’s daughter, Cheryl Crane.\n\nPutting the pieces together – though unfortunately not quite enough of them – Jack Vincennes visits Dudley Smith in the middle of the night at his craftsman bungalow, 5668 Berkshire Drive, just south of Kendall Avenue in South Pasadena. Big mistake. Fatal, in fact.\n\nWith Vincennes out of the picture, Exley has no choice but to settle his differences and team up with Bud White. Together they put pressure on the corrupt DA Loew. The top-floor window, from which the terrified man is dangled by Bud White as an incentive to cooperate, is once again the Pacific Electric Building, on the Sixth Street side – coincidentally, directly overlooking the location for the ‘Nite Owl Coffee Shop’.\n\nWith the DA onside, the convoluted conspiracy can finally be unpicked, though not without that noisy shoot out at the ‘Victory Motel’ and a substantial increase in the body count.\n\nThere’s a resolution of sorts, with Bud White and Lynn Bracken taking their leave of Ed Exley and driving away from the steps of the grand ceremonial entrance of LA City Hall on North Spring Street.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Sid Hudgens’ ‘Hush Hush’ office: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/001.jpg",
+      "alt": "L.A. Confidential film location: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover the many and beguiling film locations for Curtis Hanson's classic neo-noir around Los Angeles, including the Lovell Health House; the Formosa Restaurant; the Crossroads of the World; Bob's Frolic Room; Gramercy Place; LA City Hall and Boardner's Bar. Now find out exactly where. ▶ With map of locations at end of entry."
+    },
+    {
+      "type": "paragraph",
+      "text": "James Ellroy’s 1990 novel, L.A. Confidential, was inspired by several real life events, including the gang warfare for control of the city’s rackets which erupted after mob boss Mickey Cohen was jailed, and ‘Bloody Christmas’ – the notorious reprisal beatings of a bunch of Hispanic prisoners by LAPD cops."
+    },
+    {
+      "type": "paragraph",
+      "text": "Along with Michael Mann’s Heat, Curtis Hanson’s Fifties-set adaptation shows the city of Los Angeles at its most darkly stylish and, although it’s a period piece, was shot almost entirely on real locations around the city."
+    },
+    {
+      "type": "paragraph",
+      "text": "Only the decrepit ‘Victory Motel’, the unofficial ‘enhanced interrogation’ base of corrupt police Captain Dudley Smith (James Cromwell) and site of the final shoot-out, is a purpose-built set, constructed in Baldwin Hills near Culver City, among the area's characteristic ‘nodding donkey’ oil wells."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beneath the Hills lies the Inglewood Oil Field, discovered in 1924 beneath South Los Angeles, and the 18th-largest oil field in California. There are other oilfields in the city (including one beneath Beverly Hills) but these wells are often well hidden or disguised. Only around Baldwin Hills can you see acres of what are correctly called pumpjacks, looking like pterodactyls gently feeding their young, bringing up the fuel to keep LA’s relentless traffic moving."
+    },
+    {
+      "type": "paragraph",
+      "text": "Apart from the dozens of locations, there’s plenty of plot and numerous characters, centred around three very different LAPD officers: short-tempered, bull-headed Bud White (Russell Crowe) who displays a righteous fury when it comes to battered women; straight-as-a-die rookie Ed Exley (Guy Pearce), trying to live up to the awesome reputation of his not-so-straight detective father; and fame-hungry Jack Vincennes (Kevin Spacey) – dubiously claiming to be the guy who arrested Robert Mitchum – coasting along on the glamour of being advisor to TV series Badge Of Honor."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: the police HQ: Los Angeles City Hall, North Spring Street, Downtown Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/003.jpg",
+      "alt": "L.A. Confidential film location: Los Angeles City Hall, North Spring Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "This fictitious TV show is obviously based on Dragnet and similarly uses Los Angeles City Hall, as seen on the LAPD badge, as its logo. The familiar pyramid-topped highrise, out of which the film’s cops appear to operate, can be seen at 200 North Spring Street, Downtown. If you've picture ID, you can take a trip up the the Observation Deck on the 27th Floor to get a panoramic view over the city."
+    },
+    {
+      "type": "paragraph",
+      "text": "The film doesn't use the interior of City Hall for the police HQ (though its Council Chamber is seen later in the film). In fact, the movie’s cop station is a mix of three separate locations."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: the police HQ offices and corridors: Pacific Electric Building, South Main Street, Downtown Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/004.jpg",
+      "alt": "L.A. Confidential film location: Pacific Electric Building, South Main Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most of the offices and corridors are those of the once-disused Pacific Electric Building, 610 South Main Street at 6th Street, Downtown LA, the former home of Henry E Huntington's trolley line which served Southern California for more than fifty years with its famous red cars."
+    },
+    {
+      "type": "paragraph",
+      "text": "The massive brick building has stood empty since 1989 when the former owners moved out, but is now being redeveloped as PE Lofts – luxury apartments, of course. The mosaic-tiled hallways, glass doors and transoms have featured in many films including David Fincher’s Se7en, John Woo’s Face/Off, Sam Raimi’s Spider-Man and Steven Soderbergh’s Traffic."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: the police HQ lobby and front desk: Old Venice Police Station, Venice Boulevard, Venice",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/005.jpg",
+      "alt": "L.A. Confidential film location: Old Venice Police Station, Venice Boulevard, Venice"
+    },
+    {
+      "type": "paragraph",
+      "text": "The cop station’s lobby and front desk are those of the Old Venice Police Station Division 14, 685 Venice Boulevard. Now housing SPARC, the Social and Public Art Resource Center, devoted to Los Angeles’s excellent tradition of multi-ethnic murals, the building was previously famous for supplying the exterior of ‘Anderson Police Precinct’ for John Carpenter’s 1976 Assault On Precinct 13. According to the ever-excellent LA-based site iamnotastalker.com, the disused police station has a long history as a movie location."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: the police HQ cells: Lincoln Heights Jail, North Avenue 19, Lincoln Heights",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/006.jpg",
+      "alt": "L.A. Confidential film location: Lincoln Heights Jail, North Avenue 19, Lincoln Heights"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, the jail cells are another familiar location – the disused Lincoln Heights Jail, 401 North Avenue 19, Lincoln Heights, whose credits reach back to George Cukor’s 1954 A Star Is Born and include Wes Craven’s original A Nightmare On Elm Street among many others."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scene-setting is narrated by Sid Hudgens (Danny DeVito), editor and seemingly sole reporter for gossip rag Hush Hush – “Off the record, on the QT and very Hush Hush!”."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Sid Hudgens’ ‘Hush Hush’ office: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/007.jpg",
+      "alt": "L.A. Confidential film location: Crossroads of the World, Sunset Boulevard, Hollywood, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sleazy he may be but his office is in the impeccably stylish Crossroads of the World, 6671 Sunset Boulevard in Hollywood, a glorious Thirties outdoor shopping mall disguised as a sleek ocean liner, complete with portholes, gliding into a European port. Its graceful spire capped with a ceaselessly revolving globe, the Crossroads now does house offices and was seen as the workplace of Diana Murphy (Demi Moore) in Adrian Lyne’s 1993 Indecent Proposal."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s Christmas Eve and Bud White energetically takes on a a case of domestic abuse, ripping the Santa Claus decorations from the roof of 4216 Rose Avenue in Long Beach to the far south of LA, a modest bungalow at the time of filming but since prettied up with multiple gable ends."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Bud first sees Lynn Bracken at the liquor store: Ramon’s Cane Shop, South Cochran Avenue, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/008.jpg",
+      "alt": "L.A. Confidential film location: Lovell Health House, Los Feliz, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calling into ’Nick’s Liquor Store’ for some seasonal cheer, White is taken aback by Veronica-Lake lookalike Lynn Bracken (Kim Basinger), who’s stocking up for ‘a helluva party’. This ‘liquor store’ is Ramon’s Cane Shop, 1277 South Cochran Avenue, south of South San Vicente Boulevard, Midtown, across from Cochran Avenue Baptist Church."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s outside the store that one of the main plot lines is set in motion when Bud – investigating a woman who appears to be nursing a broken nose – first encounters millionaire businessman Pierce Pratchett (David Strathairn) and his ex-cop bodyguard ‘Buzz’ Meeks. In classic film noir tradition, Lynn explains to White “It’s not what it seems.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part of the all-encompassing web of low-level corruption is the unhealthy relationship between Jack Vincennes and sleazemeister Hudgens. The journo tips off the cop about a little illicit weed usage, Vincennes makes the arrest and Hudgens is immediately on hand for that exclusive photo op."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: The movie premiere pot bust: Gramercy Place at Hollywood Boulevard, Hollywood, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/009.jpg",
+      "alt": "L.A. Confidential film location: Gramercy Place at Hollywood Boulevard, Hollywood, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, it’s ‘The Movie Premiere Pot Bust’, a gift to Hush Hush as hapless actor Matt Reynolds (Simon Baker) is hauled from the bungalow at 1714 North Gramercy Place, west of Western Avenue just off Hollywood Boulevard, with the impressive-looking ‘El Cortez’ theatre hosting the launch of 1951 sci-fi When Worlds Collide providing a suitably dramatic backdrop for the press photos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t bother trying to book seats at ‘El Cortez’. The imposing deco building is nothing more than the abandoned bank building at 5620 Hollywood Boulevard, decked out with a remarkably convincing cinema marquee."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Reynolds' bungalow Vincennes discovers the card of the dubious ‘Fleur De Lis’ organisation (motto: “Whatever you desire”), which turns out to play a fundamental role in the city’s subculture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Back at LAPD HQ, the the publication of press photos of the ‘Bloody Christmas’ beatings leads to a mighty furore which sees Bud White suspended for not snitching on his colleagues and the cooperative Ed Exley promoted for the opposite reason."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Bud White gets back his badge and gun: Boardner’s Bar, North Cherokee Avenue, Hollywood",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/010.jpg",
+      "alt": "L.A. Confidential film location: Boardner’s, North Cherokee Avenue, Hollywood"
+    },
+    {
+      "type": "paragraph",
+      "text": "Captain Smith, ever on the lookout for strongarm backup, however, has a use for the heavyweight Bud White. As a result, he finds himself quickly reinstated. The bar in which Smith hands back White his badge and gun is Boardner’s, 1652 North Cherokee Avenue just off Hollywood Boulevard."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Bud White gets back his badge and gun: Boardner’s Bar, North Cherokee Avenue, Hollywood | Photograph: Mal Davis",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/011.jpg",
+      "alt": "L.A. Confidential film location: Boardner’s, North Cherokee Avenue, Hollywood"
+    },
+    {
+      "type": "paragraph",
+      "text": "Boardner’s is a great little bar with a fascinating history dating back to the Thirties – and it’s my favourite bar in Hollywood. It’s also seen in Tim Burton’s Ed Wood and in Hollywood Homicide, with Harrison Ford and Josh Hartnett."
+    },
+    {
+      "type": "paragraph",
+      "text": "When I visited, the bar celebrated its cinematic connection with a range of movie-themed cocktails such as a Blade Runner (Bulleit Rye Whiskey, ginger beer and lime juice) or a Big Lebowski (Stoli Vanilla, Kahlua and cream served over ice), but I guess this changes."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Mickey Cohen’s henchmen start dropping like flies, there’s clearly something sinister going down. Two of his goons are gunned down somewhere “near Sunset”. Well, quite a long way from Sunset, actually. They’re outside 4439 Victoria Park Drive, south of Mid-Wilshire and, if you’re on a location trip, this is only a couple of minutes away from the Lambert family home from James Wan’s 2010 Insidious."
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s more bloodshed as Exley takes a homicide call and discovers the owner and six customers of the ’Nite Owl Coffee Shop’ bloodily murdered in a supposed robbery."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: the 'Nite Owl Coffee House': J&J Sandwich Shop, East 6th Street, Downtown Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/012.jpg",
+      "alt": "L.A. Confidential film location: J&J Sandwich Shop, East 6th Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Nite Owl Cafe’ was the J&J Sandwich Shop, 119 East 6th Street, Downtown LA, and its interior was still instantly recognisable when I visited to take these photos in 2018. The bad news is, it has recently closed. Let's hope new owners retain the original interior."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a busy stretch of Sixth Street – next door to J&J is ‘Wild Bill’s tattoo parlour from Se7en, and the barbershop in which Detectives Somerset (Morgan Freeman) and Mills (Brad Pitt) wait for their contact to drop off the records in the same movie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opposite stands Cole’s, seen in Forrest Gump, which is housed in the basement of – yes, the Pacific Electric Building. And it’s on this stretch of Sixth Street, too, that there’s an incendiary attempt to free kingpin Alex Montel (Olivier Martinez) from the police convoy in F Gary Gray's 2003 S.W.A.T."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: the massacre at the coffee house: J&J Sandwich Shop, East 6th Street, Downtown Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/013.jpg",
+      "alt": "L.A. Confidential film location: J&J Sandwich Shop, East 6th Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the Nite Owl victims include not only Bud White’s disgraced ex-partner but also Rita Hayworth lookalike Susan Lefferts – the woman with the bandaged face from outside the liquor store – suspicions are justifiably raised."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following up a lead from the liquor store, Bud White is soon calling at the sleek terraced home of Pierce Patchett, which is architect Richard Neutra’s Lovell House."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: The stylish home of pimp Pierce Patchett: Lovell Health House, Los Feliz, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/014.jpg",
+      "alt": "L.A. Confidential film location: Lovell Health House, Los Feliz, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Looking amazingly modern, Neutra’s masterpiece was built in 1929 for physician and staunch vegetarian Philip Lovell (it’s also known as the Lovell Health House), a private residence at 4616 Dundee Drive, Los Feliz, below the Griffith Observatory, which you can clearly see on the skyline."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2010, the house became home to Hal Fields (Christopher Plummer) and his son Oliver (Ewan McGregor) in Mike Mills' drama Beginners."
+    },
+    {
+      "type": "paragraph",
+      "text": "Behind the respectable façade, Pratchett is the high-class pimp running ‘Fleur De Lis’, an organisation which specialises in supplying lookalikes of famous movie stars to wealthy clients."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: the classy home of Veronica Lake-lookalike Lynn Bracken: Wilcox Avenue, Rossmore District, Midtown Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/015.jpg",
+      "alt": "L.A. Confidential film location: Wilcox Avenue, Rossmore District, Midtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Via Pratchett, White finally manages to trace Lynn Bracken to her swanky home, 501 Wilcox Avenue, in the Rossmore district of LA. Bracken's luxurious 1927 house, alongside the Wilshire Country Club, indicates just how profitable Pratchett's racket it."
+    },
+    {
+      "type": "paragraph",
+      "text": "With pressure on to clear up the ‘Nite Owl Massacre’, three young black guys predictably end up in the frame. Eager to track them down, Vincennes and Exley offer a bogus promise to extract information from young boxer Leonard Bidwell (Robert Barry Fleming) as he hammers the punchball outside his house at 1255 Bellevue Avenue at East Kensington Road, in the Echo Park district."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Vincennes and Exley get info from the boxer Bidwell: Bellevue Avenue, Echo Park, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/016.jpg",
+      "alt": "L.A. Confidential film location: Bellevue Avenue, Echo Park, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Watch the film closely and you’ll probably recognise Bob’s Market opposite, which became 'Toretto's' in the first Fast and the Furious movie."
+    },
+    {
+      "type": "paragraph",
+      "text": "In custody the three suspects are clearly hiding something, but it’s not what the cops are expecting. They’re holding captive and sexually abusing a woman a house on ‘Avalon Street, South Central”."
+    },
+    {
+      "type": "paragraph",
+      "text": "The house, from which she’s immediately rescued, is actually 496 East Avenue 28 on the southern junction of Montecito Street in Lincoln Heights, northeast of Downtown."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's while the team is freeing her that all three suspects astonishingly manage to escape from police custody."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tracked to the home of their dealer, Roland Navarette (supposedly on Downtown’s now-redeveloped ‘Bunker Hill’), they die in a hail of gunfire at 2618 San Marino Street near the intersection of Olympic Boulevard and Hoover Street, west of Macarthur Park."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ed Exley is hailed as hero of the hour, awarded the Medal of Honor and the force closes the case, satisfied that justice has been done."
+    },
+    {
+      "type": "paragraph",
+      "text": "But bad stuff just keeps on happening. When an LA councilman is approached with a series of photos showing him enjoying the pleasure of Lynn Bracken/Veronica Lake’s company, he suddenly decides to change his vote on a real estate deal to favour none other than Pearce Pratchett."
+    },
+    {
+      "type": "paragraph",
+      "text": "The property debate really is held in City Hall Council Chamber, which you may remember from Roman Polanski’s Chinatown, and which obviously doesn’t mind being the centre of civic corruption onscreen – in period movies, of course."
+    },
+    {
+      "type": "paragraph",
+      "text": "There seem to be no depth’s to Pratchett’s depravity – at one of his decadent parties, he seems happy to be offering a Shirley Temple lookalike – but he does maintain impeccable taste in architecture."
+    },
+    {
+      "type": "image",
+      "caption": "LA Confidential location: Pierce Pratchett's debauched party: the Sowden House Franklin Avenue, Los Feliz, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/017.jpg",
+      "alt": "LA Confidential filming location: Sowden House Franklin Avenue, Los Feliz, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The backdrop to these debauched shenanigans is the 1926 Sowden House, 5121 Franklin Avenue, between Western and Normandie Avenues, in Los Feliz, east of Hollywood."
+    },
+    {
+      "type": "paragraph",
+      "text": "This astonishing design is the work of Lloyd Wright (son of innovative architect Frank Lloyd Wright) and you can see again it as the home of Ava Gardner (Kate Beckinsale) in Martin Scorsese's Howard Hughes biopic The Aviator."
+    },
+    {
+      "type": "paragraph",
+      "text": "Back in Tinseltown, Hudgens and Vincennes are plotting to set up naive young Matt once again, this time for an assignation with ‘secret swish’ District Attorney Loew (Ron Rifkin) on the promise of a role in Badge of Honor."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Jack Vincennes stops off for a drink: Bob’s Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/018.jpg",
+      "alt": "L.A. Confidential film location: Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "This finally is a step too far even for Vincennes who has a crisis of conscience as he nurses a drink in Bob’s Frolic Room, 6245 Hollywood Boulevard, a surviving small Thirties neon-fronted dive bar alongside the Pantages Theater. It's a small, lively and often busy little dive bar, its walls decorated with stylish Al Hirschfield cartoons of Hollywood greats."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Vincennes has a crisis of conscience: Bob’s Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/019.jpg",
+      "alt": "L.A. Confidential film location: Frolic Room, Hollywood Boulevard, Hollywood, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opened as a speakeasy in 1934 – allegedly by one Freddy Frolic (hmmm...) – the bar stakes out its cool credentials with a portrait of one-time regular, writer Charles Bukowski, hanging above the cash register. It's in front of the Frolic that Rick Dalton (Leonardo DiCaprio) gets one too many drunk driving tickets in Quentin Tarantino's Once Upon A Time In Hollywood and it's from outside the bar that 'Shannon' is stolen in Dominic Sena's 2000 remake of Gone In 60 Seconds, with Nicolas Cage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leaving Hudgens’ $50 payola as a generous tip for the bartender, Vincennes sets off to warn the actor."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Vincennes finds the body of the murdered actor: Hollywood Center Motel, Sunset Boulevard, Hollywood, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/020.jpg",
+      "alt": "L.A. Confidential film location: Hollywood Center Motel, Sunset Boulevard, Hollywood, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "He’s too late, finding Reynolds dead in a pool of blood inside room 203 of the Hollywood Center Motel, 6720 Sunset Boulevard. An original 20s motel, enlarged in the 1950s, the decrepit Hollywood Center seems more a place to look at than stay and, indeed, as of 2018, it does seem to be closed down. Let’s hope it gets returned to its period glory and doesn’t get bulldozed to make way for one more anonymous concrete box."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yet another body is discovered when Bud White decides to pay a visit to Mrs Lefferts – mother of the murdered Rita Hayworth lookalike – only to discover that the smell emanating from her crawl space comes from the mortal remains of Pratchett’s bodyguard, Meeks. Mrs Lefferts' house is 1704 Morton Avenue, northeast of Echo Park."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Oops! – that's the ‘real’ Lana Turner: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/021.jpg",
+      "alt": "L.A. Confidential film location: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "By now everyone suspects everyone else and Exley recruits the aid of Vincennes to tail Bud White to the Formosa Cafe in West Hollywood. White is extracting information from tough guy Johnny Stompanato and it’s here that he and Exley later have an embarrassing confrontation with Stompanato and – oops! – the real Lana Turner."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Oops! – that's the ‘real’ Lana Turner: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/022.jpg",
+      "alt": "L.A. Confidential film location: Formosa Cafe, Santa Monica Boulevard, Hollywood, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Chinese restaurant and bar housed in an old railroad car and festooned with celebrity photos, the Formosa Cafe, 7156 Santa Monica Boulevard at Formosa Avenue, was a regular hangout for the likes of Humphrey Bogart, Marilyn Monroe and Clark Gable, among others since it stood just over the road from the old Goldwyn Studios, known as ‘The Lot’, and functioned as something of an unofficial staff canteen."
+    },
+    {
+      "type": "paragraph",
+      "text": "A few years ago, the restaurant closed and came close to being demolished. A campaign to save it as a historic site resulted in the premises being bought with a view to renovation and reopening. In April 2018, it stood in a sorry state of disrepair but I'm happy to report it's back with a vengeance and better than ever. I checked it out recently and was impressed by its rejuvenation. And yes, the frieze of celeb photos remains."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can see the Formosa again in Frank Darabont’s 2001 Hollywood blacklist drama The Majestic, with Jim Carrey and Martin Landau."
+    },
+    {
+      "type": "paragraph",
+      "text": "The real Johnny Stompanato, by the way, was the underworld hood stabbed to death in the bedroom of Lana Turner’s Beverly Hills mansion in 1958 – allegedly by the actress’s daughter, Cheryl Crane."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Captain Smith's bungalow: Berkshire Drive, South Pasadena | Photograph: Google Streetview",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/023.jpg",
+      "alt": "L.A. Confidential film location: Berkshire Drive, South Pasadena"
+    },
+    {
+      "type": "paragraph",
+      "text": "Putting the pieces together – though unfortunately not quite enough of them – Jack Vincennes visits Dudley Smith in the middle of the night at his craftsman bungalow, 5668 Berkshire Drive, just south of Kendall Avenue in South Pasadena. Big mistake. Fatal, in fact."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: Bud White encourages the DA to cooperate by dangling him out of the window: Pacific Electric Building, Sixth Street, Downtown Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/024.jpg",
+      "alt": "L.A. Confidential film location: Pacific Electric Building, Sixth Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "With Vincennes out of the picture, Exley has no choice but to settle his differences and team up with Bud White. Together they put pressure on the corrupt DA Loew. The top-floor window, from which the terrified man is dangled by Bud White as an incentive to cooperate, is once again the Pacific Electric Building, on the Sixth Street side – coincidentally, directly overlooking the location for the ‘Nite Owl Coffee Shop’."
+    },
+    {
+      "type": "image",
+      "caption": "L.A. Confidential film location: the police HQ: Los Angeles City Hall, North Spring Street, Downtown Los Angeles",
+      "src": "_assets/tt0119488%20-%20LA-Confidential/025.jpg",
+      "alt": "L.A. Confidential film location: Los Angeles City Hall, North Spring Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "With the DA onside, the convoluted conspiracy can finally be unpicked, though not without that noisy shoot out at the ‘Victory Motel’ and a substantial increase in the body count."
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s a resolution of sorts, with Bud White and Lynn Bracken taking their leave of Ed Exley and driving away from the steps of the grand ceremonial entrance of LA City Hall on North Spring Street."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Drink at: Boardner’s by La Belle, 1652 North Cherokee Avenue, Hollywood, Los Angeles, CA 90028 (tel: 323.462.9621)</p>\n<p>Dine at: the Formosa Cafe, 7156 Santa Monica Boulevard, West Hollywood, Los Angeles, CA 90046 (tel: 323.850.1014)</p>\n<p>Drink at: Bob's Frolic Room, 6245 Hollywood Boulevard, Los Angeles, CA 90028 (tel: 323.462.5890)</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nDrink at: Boardner’s by La Belle, 1652 North Cherokee Avenue, Hollywood, Los Angeles, CA 90028 (tel: 323.462.9621)\nDine at: the Formosa Cafe, 7156 Santa Monica Boulevard, West Hollywood, Los Angeles, CA 90046 (tel: 323.850.1014)\nDrink at: Bob's Frolic Room, 6245 Hollywood Boulevard, Los Angeles, CA 90028 (tel: 323.462.5890)",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Drink at: Boardner’s by La Belle, 1652 North Cherokee Avenue, Hollywood, Los Angeles, CA 90028 (tel: 323.462.9621)",
+        "Dine at: the Formosa Cafe, 7156 Santa Monica Boulevard, West Hollywood, Los Angeles, CA 90046 (tel: 323.850.1014)",
+        "Drink at: Bob's Frolic Room, 6245 Hollywood Boulevard, Los Angeles, CA 90028 (tel: 323.462.5890)"
+      ]
+    }
+  ]
+}

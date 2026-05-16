@@ -1,0 +1,165 @@
+{
+  "imdb_id": "tt0120586",
+  "shorthand": "American-History-X",
+  "title": "American History X",
+  "year": 1998,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0120586 - American-History-X.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0120586 - American-History-X.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0120586.json",
+  "source_url": "http://www.movie-locations.com/movies/a/American-History-X.php",
+  "page_title": "American History X film locations (1998)",
+  "meta_description": "Visit the film locations for American History X, with Ed Norton, around Los Angeles, including the Vinyard house, Venice High School and Johnie's Coffee Shop on Wilshire Boulevard.",
+  "meta_keywords": "American History X, film locations, tourism, travel, set-jetting, los angeles, venice beach, meade place, venice high school, johnie's coffee shop, wilshire boulevard",
+  "og_title": "Filming Locations for American History X (1998)",
+  "og_description": "Visit the filming locations for American History X (1998), around Los Angeles, including Johnie's Coffee Shop in Midtown and Venice High School.",
+  "og_image": "http://www.movie-locations.com/movies/a/American-History-X-Meade-Place.jpg",
+  "top250_rank": "52",
+  "movie_locations_title": "AMERICAN HISTORY X",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Tony Kaye",
+  "cast": [
+    "Edward Norton",
+    "Edward Furlong",
+    "Stacy Keach",
+    "Avery Brooks",
+    "Beverly d'Angelo",
+    "Fairuza Balk",
+    "Ethan Suplee",
+    "Elliott Gould"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0120586%20-%20American-History-X/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120586 - American-History-X/002.jpg",
+    "exists": true,
+    "alt": "American History X poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120586/poster.jpg",
+    "corpus_asset_src": "../assets/tt0120586/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0120586%20-%20American-History-X/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120586 - American-History-X/001.jpg",
+    "exists": true,
+    "alt": "American History X location: Johnie's, Wilshire Boulevard, midtown Los Angeles",
+    "caption": "American History X location: the Vinyard family home, in Venice: Meade Place, Venice, Los Angeles",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120586/001.jpg",
+    "corpus_asset_src": "../assets/tt0120586/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0120586%20-%20American-History-X/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120586 - American-History-X/001.jpg",
+      "exists": true,
+      "alt": "American History X location: Johnie's, Wilshire Boulevard, midtown Los Angeles",
+      "caption": "American History X location: the Vinyard family home, in Venice: Meade Place, Venice, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120586/001.jpg",
+      "corpus_asset_src": "../assets/tt0120586/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0120586%20-%20American-History-X/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120586 - American-History-X/002.jpg",
+      "exists": true,
+      "alt": "American History X poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120586/002.jpg",
+      "corpus_asset_src": "../assets/tt0120586/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0120586%20-%20American-History-X/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120586 - American-History-X/003.jpg",
+      "exists": true,
+      "alt": "American History X location: Venice High School, Venice Boulevard, Venice Beach, Los Angeles",
+      "caption": "American History X location: Tragic climax at the high school: Venice High School, Venice Boulevard, Venice Beach, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120586/003.jpg",
+      "corpus_asset_src": "../assets/tt0120586/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0120586%20-%20American-History-X/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0120586 - American-History-X/004.jpg",
+      "exists": true,
+      "alt": "American History X location: Johnie's, Wilshire Boulevard, midtown Los Angeles",
+      "caption": "American History X location: Stopping off for a last coffee: Johnies, Wilshire Boulevard, midtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0120586/004.jpg",
+      "corpus_asset_src": "../assets/tt0120586/004.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0120586/001.jpg\" alt=\"American History X location: Johnie's, Wilshire Boulevard, midtown Los Angeles\"><figcaption>American History X location: the Vinyard family home, in Venice: Meade Place, Venice, Los Angeles</figcaption></figure>\n<p>Controversy when <a href=\"https://www.movie-locations.com/people/n/nortone.php\">Ed Norton</a> allegedly re-edited the film to increase his role, and director <a href=\"https://www.movie-locations.com/people/k/kayet.php\">Tony Kaye</a> all but disowned the film. But it's undeniably <a href=\"https://www.movie-locations.com/people/n/nortone.php\">Norton</a>'s fiercely intelligent performance that makes the movie.</p>\n<p>Derek Vinyard (<a href=\"https://www.movie-locations.com/people/n/nortone.php\">Norton</a>) finds his White Supremacist past hard to shake off and, when his younger brother Daniel (<a href=\"https://www.movie-locations.com/people/f/furlonge.php\">Edward Furlong</a>) heads down the same racist path, tragedy follows.</p>\n<p>The neighbourhood of the Vinyard family is <span class=\"name\">Venice Beach</span>, <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>’ Bohemian beachfront community increasingly troubled by gang-related problems. The home is <span class=\"name\">2206 Meade Place</span>, just off Venice Boulevard, and only a few minutes away from the Dude’s abode in <a href=\"https://www.movie-locations.com/movies/b/Big-Lebowski.php\">The Big Lebowski</a> (as ever, please remember this is a private home and respect the current residents).</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0120586/003.jpg\" alt=\"American History X location: Venice High School, Venice Boulevard, Venice Beach, Los Angeles\"><figcaption>American History X location: Tragic climax at the high school: Venice High School, Venice Boulevard, Venice Beach, Los Angeles</figcaption></figure>\n<p>Daniel Vinyard’s ‘Venice Beach High’ is <span class=\"name\">Venice High School, 13000 Venice Boulevard</span>, Venice (which was seen previously in happier circumstances as 'Rydell High' in <a href=\"https://www.movie-locations.com/movies/g/Grease.php\">Grease</a>).</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0120586/004.jpg\" alt=\"American History X location: Johnie's, Wilshire Boulevard, midtown Los Angeles\"><figcaption>American History X location: Stopping off for a last coffee: Johnies, Wilshire Boulevard, midtown Los Angeles</figcaption></figure>\n<p>Oddly, for inhabitants of <span class=\"name\">Venice Beach</span>, Derek and Daniel stop off, on the way to Venice High, at <span class=\"name\">Johnie's Coffee Shop, 6101 Wilshire Boulevard</span> at Fairfax Avenue, opposite the golden cylinder of the old May and Co department store in midtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>. Johnie's closed down in 2000 and is now, unbelievably, yet one more <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> landmark in need of conservation. </p>\n<p>This streamlined, Googie-style Fifties coffee shop, which started life as Romeo’s Times Square, is where <a href=\"https://www.movie-locations.com/people/e/edwardsa.php\">Anthony Edwards</a> receives news of the impending apocalypse in the underrated thriller <span class=\"name\">Miracle Mile</span>, and features in both <a href=\"https://www.movie-locations.com/movies/b/Big-Lebowski.php\">The Big Lebowski</a> and <a href=\"https://www.movie-locations.com/movies/r/Reservoir-Dogs.php\">Reservoir Dogs</a>.</p>",
+  "main_content_text": "Controversy when Ed Norton allegedly re-edited the film to increase his role, and director Tony Kaye all but disowned the film. But it's undeniably Norton's fiercely intelligent performance that makes the movie.\n\nDerek Vinyard (Norton) finds his White Supremacist past hard to shake off and, when his younger brother Daniel (Edward Furlong) heads down the same racist path, tragedy follows.\n\nThe neighbourhood of the Vinyard family is Venice Beach, Los Angeles’ Bohemian beachfront community increasingly troubled by gang-related problems. The home is 2206 Meade Place, just off Venice Boulevard, and only a few minutes away from the Dude’s abode in The Big Lebowski (as ever, please remember this is a private home and respect the current residents).\n\nDaniel Vinyard’s ‘Venice Beach High’ is Venice High School, 13000 Venice Boulevard, Venice (which was seen previously in happier circumstances as 'Rydell High' in Grease).\n\nOddly, for inhabitants of Venice Beach, Derek and Daniel stop off, on the way to Venice High, at Johnie's Coffee Shop, 6101 Wilshire Boulevard at Fairfax Avenue, opposite the golden cylinder of the old May and Co department store in midtown Los Angeles. Johnie's closed down in 2000 and is now, unbelievably, yet one more Los Angeles landmark in need of conservation.\n\nThis streamlined, Googie-style Fifties coffee shop, which started life as Romeo’s Times Square, is where Anthony Edwards receives news of the impending apocalypse in the underrated thriller Miracle Mile, and features in both The Big Lebowski and Reservoir Dogs.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "American History X location: the Vinyard family home, in Venice: Meade Place, Venice, Los Angeles",
+      "src": "_assets/tt0120586%20-%20American-History-X/001.jpg",
+      "alt": "American History X location: Johnie's, Wilshire Boulevard, midtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Controversy when Ed Norton allegedly re-edited the film to increase his role, and director Tony Kaye all but disowned the film. But it's undeniably Norton's fiercely intelligent performance that makes the movie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Derek Vinyard (Norton) finds his White Supremacist past hard to shake off and, when his younger brother Daniel (Edward Furlong) heads down the same racist path, tragedy follows."
+    },
+    {
+      "type": "paragraph",
+      "text": "The neighbourhood of the Vinyard family is Venice Beach, Los Angeles’ Bohemian beachfront community increasingly troubled by gang-related problems. The home is 2206 Meade Place, just off Venice Boulevard, and only a few minutes away from the Dude’s abode in The Big Lebowski (as ever, please remember this is a private home and respect the current residents)."
+    },
+    {
+      "type": "image",
+      "caption": "American History X location: Tragic climax at the high school: Venice High School, Venice Boulevard, Venice Beach, Los Angeles",
+      "src": "_assets/tt0120586%20-%20American-History-X/003.jpg",
+      "alt": "American History X location: Venice High School, Venice Boulevard, Venice Beach, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Daniel Vinyard’s ‘Venice Beach High’ is Venice High School, 13000 Venice Boulevard, Venice (which was seen previously in happier circumstances as 'Rydell High' in Grease)."
+    },
+    {
+      "type": "image",
+      "caption": "American History X location: Stopping off for a last coffee: Johnies, Wilshire Boulevard, midtown Los Angeles",
+      "src": "_assets/tt0120586%20-%20American-History-X/004.jpg",
+      "alt": "American History X location: Johnie's, Wilshire Boulevard, midtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oddly, for inhabitants of Venice Beach, Derek and Daniel stop off, on the way to Venice High, at Johnie's Coffee Shop, 6101 Wilshire Boulevard at Fairfax Avenue, opposite the golden cylinder of the old May and Co department store in midtown Los Angeles. Johnie's closed down in 2000 and is now, unbelievably, yet one more Los Angeles landmark in need of conservation."
+    },
+    {
+      "type": "paragraph",
+      "text": "This streamlined, Googie-style Fifties coffee shop, which started life as Romeo’s Times Square, is where Anthony Edwards receives news of the impending apocalypse in the underrated thriller Miracle Mile, and features in both The Big Lebowski and Reservoir Dogs."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro"
+      ]
+    }
+  ]
+}

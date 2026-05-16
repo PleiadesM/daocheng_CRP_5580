@@ -1,0 +1,437 @@
+{
+  "imdb_id": "tt0112641",
+  "shorthand": "Casino-1995",
+  "title": "Casino",
+  "year": 1997,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0112641 - Casino-1995.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0112641 - Casino-1995.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0112641.json",
+  "source_url": "http://www.movie-locations.com/movies/c/Casino-1995.php",
+  "page_title": "Casino | Film Locations",
+  "meta_description": "Discover the film locations for Martin Scorsese's Casino (1995), around Las Vegas and Nevada.",
+  "meta_keywords": "Casino (1995), film locations, filming locations, tourism, travel, set-jetting, las vegas, nevada, stardust, riviera, scorsese, de niro",
+  "og_title": "Film Locations for Casino (1995), in Las Vegas and Nevada.",
+  "og_description": "Discover the film locations for Martin Scorsese's Casino (1995), around Las Vegas and Nevada.",
+  "og_image": "http://www.movie-locations.com/movies/c/casino-meta.jpg",
+  "top250_rank": "195",
+  "movie_locations_title": "CASINO",
+  "movie_locations_regions": "Nevada",
+  "director": "Martin Scorsese",
+  "cast": [
+    "Robert De Niro",
+    "Sharon Stone",
+    "Joe Pesci",
+    "Don Rickles",
+    "James Woods",
+    "Alan King",
+    "Kevin Pollak",
+    "LQ Jones",
+    "Dick Smothers",
+    "Frank Vincent",
+    "Paul Herman",
+    "Frankie Avalon"
+  ],
+  "locations": [
+    "Nevada"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0112641%20-%20Casino-1995/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112641 - Casino-1995/002.jpg",
+    "exists": true,
+    "alt": "Casino poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112641/poster.jpg",
+    "corpus_asset_src": "../assets/tt0112641/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0112641%20-%20Casino-1995/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112641 - Casino-1995/001.jpg",
+    "exists": true,
+    "alt": "Casino filming location: La Concha, Neon Museum, Las Vegas",
+    "caption": "Casino film location: Ginger and Nicky's affair: La Concha, Neon Museum, Las Vegas | Photograph: wikimedia / Jeremy Thompson",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112641/001.jpg",
+    "corpus_asset_src": "../assets/tt0112641/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0112641%20-%20Casino-1995/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112641 - Casino-1995/001.jpg",
+      "exists": true,
+      "alt": "Casino filming location: La Concha, Neon Museum, Las Vegas",
+      "caption": "Casino film location: Ginger and Nicky's affair: La Concha, Neon Museum, Las Vegas | Photograph: wikimedia / Jeremy Thompson",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112641/001.jpg",
+      "corpus_asset_src": "../assets/tt0112641/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0112641%20-%20Casino-1995/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112641 - Casino-1995/002.jpg",
+      "exists": true,
+      "alt": "Casino poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112641/002.jpg",
+      "corpus_asset_src": "../assets/tt0112641/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0112641%20-%20Casino-1995/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112641 - Casino-1995/003.jpg",
+      "exists": true,
+      "alt": "Casino filming location: Fireside Lounge, Peppermill, South Las Vegas Boulevard, Las Vegas",
+      "caption": "Casino film location: Ginger and Ace set out the limits of their relationship: Fireside Lounge, Peppermill, South Las Vegas Boulevard, Las Vegas | Photograph: Wikimedia / JR Ramos",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112641/003.jpg",
+      "corpus_asset_src": "../assets/tt0112641/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0112641%20-%20Casino-1995/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112641 - Casino-1995/004.jpg",
+      "exists": true,
+      "alt": "Casino filming location: Oscar's Steakhouse, Plaza Hotel & Casino, Las Vegas",
+      "caption": "Casino film location: Ginger and Ace's ill-fated reconciliation dinner: Oscar's Steakhouse, Plaza Hotel & Casino, Las Vegas | Photograph: iStock / Terry Kelly",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112641/004.jpg",
+      "corpus_asset_src": "../assets/tt0112641/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0112641%20-%20Casino-1995/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0112641 - Casino-1995/005.jpg",
+      "exists": true,
+      "alt": "Casino filming location: La Concha, Las Vegas",
+      "caption": "Casino film location: Ginger and Nicky's affair: La Concha, as it was in Las Vegas, 1998",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0112641/005.jpg",
+      "corpus_asset_src": "../assets/tt0112641/005.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0112641/001.jpg\" alt=\"Casino filming location: La Concha, Neon Museum, Las Vegas\"><figcaption>Casino film location: Ginger and Nicky's affair: La Concha, Neon Museum, Las Vegas | Photograph: wikimedia / Jeremy Thompson</figcaption></figure>\n<p>Based on <span class=\"name\">Nicholas Pileggi</span>’s non-fiction account of the fall of the old-school mob control of <a href=\"http://www.visitlasvegas.com.au/\" target=\"_blank\">Las Vegas</a> casinos in the 1970s and the takeover by faceless corporations, <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Martin Scorsese</a>’s epic suffered a little by coming hard on the heels of the peerless <a href=\"https://www.movie-locations.com/movies/g/Goodfellas.php\">Goodfellas</a> with a similar style and some of the same cast members.</p>\n<p>The centre of the real story was the Stardust Hotel &amp; Casino (which was still thriving in 1995 when the film was made). To avoid legal complications it was fictionalised as the ‘Tangiers’ – though frequent bursts of <span class=\"name\">Hoagy Carmichael</span>’s<span class=\"ital\"> Stardust</span> on the soundtrack provide a cheeky clue.</p>\n<p><span class=\"name\">Vegas</span> has a breathtakingly fast turnover and the Stardust (the place at which I stayed on my first visit to the city in 1987) closed for good in 2006, and was imploded in 2007.</p>\n<p>For the most part, the Riviera Casino, which stood at <span class=\"name\">2901 Las Vegas Boulevard South</span>, stands in for the 'Tangiers'.</p>\n<p>It wasn’t possible to close down the Riviera, so the production had to cope with filming through the night for six weeks, while the ceaseless activity of the <span class=\"name\">Vegas</span> punters was at its quietest.</p>\n<p>The crew was given access to the hotel's penthouse, restaurants, kitchen, casino, ballroom, La Cage Showroom and also the holy-of-holies – the Counting Room.</p>\n<p>The Riviera had opened in 1955 as the first of the high-rise complexes that went on to dominate the Strip – before that, Strip resorts were still pretty much traditional roadside motor courts. In 2015, the Riviera closed its doors and in its turn was finally demolished in 2016.</p>\n<p>The Riviera was extremely film-friendly, seen also in the original 1960 <a href=\"https://www.movie-locations.com/movies/o/Oceans-Eleven-1960.php\">Ocean's 11</a>, Bond movie <a href=\"https://www.movie-locations.com/movies/d/Diamonds-Are-Forever.php\">Diamonds Are Forever</a>, <a href=\"https://www.movie-locations.com/movies/a/Austin-Powers-International-Man-Of-Mystery.php\">Austin Powers: International Man Of Mystery</a>, <a href=\"https://www.movie-locations.com/people/l/limand.php\">Doug Liman</a>’s <a href=\"https://www.movie-locations.com/movies/g/Go.php\">Go</a>, <a href=\"https://www.movie-locations.com/movies/h/Hangover.php\">The Hangover</a> and <a href=\"https://www.movie-locations.com/movies/0/21.php\">21</a> among many other productions.</p>\n<p>The Tangiers’ glittering entrance was that of the Landmark Hotel, <span class=\"name\">Convention Center Drive</span> and Paradise Road, which was instantly recognisable by its 31-floor tower, inspired by Seattle’s Space Needle. The frontage was extended – and the 70s Strip recreated – digitally.</p>\n<p>And, yes, the Landmark too was demolished shortly after the filming of <span class=\"name\">Casino</span>. Its spectacular demise was filmed for <a href=\"https://www.movie-locations.com/people/b/burtont.php\">Tim Burton</a>’s <span class=\"name\">Mars Attacks!</span>, where it becomes the ‘Galaxy’, brought down by those pesky little aliens.</p>\n<p>Not every trace of the ‘Tangier’ has disappeared, yet. The <span class=\"name\">Jubilee! Theatre</span> of <a href=\"https://www.caesars.com/ballys-las-vegas\" target=\"_blank\">Bally's Las Vegas</a>, <span class=\"name\">3645 Las Vegas Boulevard South</span>, was used for the ‘weighing in’ of the showgirls from Paris’s <span class=\"name\">Femme Fatale</span> review, as well as the <span class=\"ital\">Aces High</span> TV show. That’s also Bally’s penthouse, seen as the Senator (<a href=\"https://www.movie-locations.com/people/s/smothersd.php\">Dick Smothers</a>) enjoys the Tangiers’ complementary perks.</p>\n<p>Bankrolled by the <a href=\"https://www.movie-locations.com/places/usa/chicago.php\">Chicago</a> mob, the 'Tangiers' is put into the charge of ‘Ace’ Rothstein (<a href=\"https://www.movie-locations.com/people/d/deniror.php\">Robert De Niro</a>), a methodical and meticulous gambler, based on the real <span class=\"name\">‘Lefty’ Rosenthal</span>, with a keen eye for spotting weaknesses and scams. But when his childhood friend Nicky Santoro (<a href=\"https://www.movie-locations.com/people/p/pescij.php\">Joe Pesci</a>) is installed to add ruthless muscle to his expertise, the seeds of tragedy are planted.</p>\n<p>The story is told in flashback from the moment there’s an explosive attempt on Ace’s life. In reality, the bombing of <span class=\"name\">Rosenthal</span>’s car took place in front of the old Tony Roma's restaurant at 620 East Sahara Avenue (which has been a Hustler Hollywood lingerie store since 2016). The film uses the southwest entrance of <a href=\"https://www.mainstreetcasino.com/\" target=\"_blank\">Main Street Station</a>, <span class=\"name\">200 North Main Street, Downtown Las Vegas</span>, as a stand-in, with the California Hotel and Casino in the background. No, it’s not a railway station, it’s another themed casino and hotel.     </p>\n<p>As Ace’s voiceover spells out the intricate details of skimming money from the Casino’s Count Room, the cash is being whisked back to the mob bosses via ‘Kansas City’.</p>\n<p>Since the film stays almost entirely in <a href=\"https://www.movie-locations.com/places/usa/nevada.php\">Nevada</a>, <a href=\"http://hnd.aero/\" target=\"_blank\">Henderson Executive Airport</a>, <span class=\"name\">3500 Executive Terminal Drive, Henderson</span>, just to the south of <span class=\"name\">Vegas</span>, stands in for ‘Kansas City Airport’. It's now used as a 'relief airport' for McCarran International.</p>\n<p>Likewise, ‘San Marino Italian Grocery’, the innocuous ‘Kansas City’ produce market where the money is handed over, is <span class=\"name\">EXPawn, 3010 South Valley View Boulevard</span>, at Meade Avenue, a few blocks west of the Strip. The premises has been slightly remodelled since appearing in the film.</p>\n<p>When the casino’s squeaky-clean front man Philip Green (<a href=\"https://www.movie-locations.com/people/p/pollakk.php\">Kevin Pollak</a>) is introduced, there the brief glimpse of an enticing-looking motel swimming pool graced with below-the-waterline circular windows.</p>\n<p>Don’t get excited – it was real but, again, it’s gone. It was the aptly-named Glass Pool Inn, which stood at <span class=\"name\">4613 South Las Vegas Boulevard</span>.</p>\n<p>The city's main air terminal, <a href=\"https://www.mccarran.com\" target=\"_blank\">Las Vegas McCarran International Airport</a>, <span class=\"name\">5757 Wayne Newton Boulevard</span>, appears as itself throughout the film, though it now looks a little different since getting a major makeover in 2018.     </p>\n<p>Things start to get complicated once Ace falls headlong for Ginger (<a href=\"https://www.movie-locations.com/people/s/stones.php\">Sharon Stone</a>), a tough Vegas cookie who doesn’t return the same passion but is nevertheless happy to enter into an ‘understanding’.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0112641/003.jpg\" alt=\"Casino filming location: Fireside Lounge, Peppermill, South Las Vegas Boulevard, Las Vegas\"><figcaption>Casino film location: Ginger and Ace set out the limits of their relationship: Fireside Lounge, Peppermill, South Las Vegas Boulevard, Las Vegas | Photograph: Wikimedia / JR Ramos</figcaption></figure>\n<p>The practical parameters of their relationship are set out as they sit by the firepit at the heart of the Fireside Lounge in <a href=\"http://www.peppermilllasvegas.com/\" target=\"_blank\">Peppermill Restaurant</a>, <span class=\"name\">2985 South Las Vegas Boulevard</span>. Ace gives her a little money to go powder her nose, and Ginger takes it.     </p>\n<p>She also hesitantly concedes to Ace’s businesslike marriage proposal and the two move into a huge bungalow full of Bulgari bling and chinchilla, at <span class=\"name\">3515 Cochise Lane</span>, a couple of miles east of the Strip and, oddly, right in the heart of the <a href=\"http://lasvegasnational.com/\" target=\"_blank\">Las Vegas National Golf Course</a>.</p>\n<p>Unfortunately, this is where Nicky happens to be playing when the feds' plane, which is keeping him under surveillance, runs out of fuel and is forced to land on the course. A slight embarrassment to Ace who happens to be in the back garden pleading his case to the gambling commission.</p>\n<p>Despite the technicality of not having a gaming licence, Ace’s expertise turns around the casino’s fortunes and he finds his success rewarded with a Certificate of Appreciation.</p>\n<p>‘Vegas Valley Country Club’, where Phil Green presents him with the award, is the <a href=\"https://hartlandmansionlasvegas.com/\" target=\"_blank\">Hartland Mansion</a>, <span class=\"name\">1044 South 6th Street</span> at Park Paseo. And, yes, it does have that great big indoor pool.     </p>\n<p>If you've been on a winning streak and you’re in the mood, the <a href=\"https://hartlandmansionlasvegas.com/\" target=\"_blank\">Hartland Mansion</a> hosts parties, corporate events and, of course, weddings.</p>\n<p>Enforcer Nicky, when he’s not reducing people to a bloody pulp, has his human side. He watches his young son play Little League at school, <span class=\"name\">Our Lady of Las Vegas Catholic School, 3046 Alta Drive</span>, but things don't go so well when Nicky finds himself entered into the notorious ‘Black Book’ and barred from every casino in the city.</p>\n<p>In order to meet with him, Ace needs to travel out to the <span class=\"name\">Idle Spurs</span>, <span class=\"name\">1650 East Quartz Avenue, Sandy Valley</span>, which in the film claims to be ’60 miles to Vegas’, though it’s really about 40 miles southwest of <span class=\"name\">Vegas</span>, almost at the border with <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>.</p>\n<p>Despite the setback, Nicky is unstoppable and, with his crew, is soon using his insider knowledge to carry out robberies on hotels and shops.</p>\n<p>He’s so successful, he opens up his own jewellery store, ‘Gold Rush’, which was <span class=\"name\">1201 South Las Vegas Boulevard</span>, a tiny strip mall on <span class=\"name\">Park Paseo</span>. The premises has since been redeveloped into <a href=\"https://www.ochacuisine.com/\" target=\"_blank\">Ocha</a> Thai-Chinese restaurant.</p>\n<p>Nicky also moves into the legitimate restaurant business, opening ‘The Leaning Tower’, which he entrusts to his younger brother Dominick.</p>\n<p>The restaurant seen in the film is <a href=\"http://pieroscuisine.com/\" target=\"_blank\">Piero’s Restaurant</a>, <span class=\"name\">355 Convention Center Drive</span>, off Paradise Road, close to the <a href=\"https://www.lvcva.com/\" target=\"_blank\">Las Vegas Convention Center</a>.<br>\n     </p>\n<p>Although Nicky dutifully continues to pay off the bosses, it’s not necessarily the full amount they might expect.</p>\n<p>‘All American Gas’, the ‘Chicago’ truck stop café used by Nicky as the drop for the boss’s share, stood on the western corner of <span class=\"name\">Fremont Street at South 10th Street</span>. It’s been totally revamped and absorbed into the famous <a href=\"http://atomic.vegas/\" target=\"_blank\">Atomic Liquors</a>, <span class=\"name\">917 Fremont Street</span>, alongside.     </p>\n<p>And the <a href=\"http://atomic.vegas/\" target=\"_blank\">Atomic</a> itself is where it all goes a bit <a href=\"https://www.movie-locations.com/movies/g/Goodfellas.php\">Goodfellas</a> as Nicky uses a fountain pen to demonstrate his no-nonsense attitude to anyone who disrespects Ace, before giving the victim a good kicking.</p>\n<p>The oldest (free-standing) bar in <a href=\"http://www.visitlasvegas.com.au/\" target=\"_blank\">Las Vegas</a>, <a href=\"http://atomic.vegas/\" target=\"_blank\">Atomic Liquors</a> opened in 1952, when it was a popular spot from which to watch nuclear blasts from the nearby Atomic Test Site. It's also featured in <a href=\"https://www.movie-locations.com/people/p/phillipst.php\">Todd Phillips</a>’ 2009 <a href=\"https://www.movie-locations.com/movies/h/Hangover.php\">The Hangover</a>.</p>\n<p>Although Ginger is canny enough to keep her share of the spoils in the ‘Vegas Valley Savings &amp; Loan’, Nicky spies on her as she’s drawing out a bit of petty cash for her no-good, on-off boyfriend Lester Diamond (<a href=\"https://www.movie-locations.com/people/w/woodsj.php\">James Woods</a>) and dutifully reports back to Ace.</p>\n<p>The ‘bank’ is actually the <span class=\"name\">Blum Medical Marijuana Dispensary, 1130 East Desert Inn Road</span>, off Maryland Parkway just south of the Las Vegas Country Club.</p>\n<p>It’s not easy to pull the wool over Ace’s eyes and he’s soon on the case, confronting Ginger and Lester in the <a href=\"https://www.facebook.com/pages/Salvadoreno-Restaurant/121304031217145\" target=\"_blank\">Salvadoreno Restaurant</a>, <span class=\"name\">720 North Main Street</span>, before making Ginger watch as his goons beat up Lester in the carpark of the <a href=\"https://www.facebook.com/pages/Regency-Motel/113521902013942\" target=\"_blank\">Regency Motel</a>, alongside the eaterie at <span class=\"name\">700 North Main Street</span>.</p>\n<p>Nicky’s crazily reckless tactics were bound to attract the scrutiny of the law and he soon finds himself being questioned over every crime in the Vegas area. He angrily fends off the press as he exits the <span class=\"name\">Foley Federal Building and Courthouse, 300 Las Vegas Boulevard South</span>.</p>\n<p>This is the beginning of the end. Everything starts to fall apart once an FBI bug in the Piscano grocery picks up far more about the shenanigans in Vegas than the forces of law and order could ever have expected.</p>\n<p>Ace is denied his gambling licence but, rather than sensibly lying low and running the business behind an innocuous job title, he fights back by choosing to launch his own TV show – ‘Aces High’. This is not the way mob bosses work.</p>\n<p>They’re quick to send a warning. Andy Stone (<a href=\"https://www.movie-locations.com/people/k/kingalan.php\">Alan King</a>) passes on the politely worded but unmistakably ominous threat to Ace as they sit parked in the lot of Mighty Mart – now <span class=\"name\">Bells Market, 515 East Oakey Boulevard</span>, north of the Strip.</p>\n<p>The stubborn Ace is not about to back down and counters by claiming that it’s Nicky who should take some time off.</p>\n<p>This suggestion inevitably gets back to his old friend and the two have a tense meeting in the middle of the featureless <span class=\"name\">Jean Dry Lake Bed</span>, east of I-15, several miles south of <span class=\"name\">Las Vegas</span>.</p>\n<p>As the friendship of Ace and Nicky reaches breaking point, Ace and Ginger's marriage also falls apart, with just about everybody making the worst decisions they possibly could.</p>\n<p>Ginger leaves for <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a> and Lester, but is eventually obliged to return. A reconciliation dinner goes horribly wrong as the fastidious Ace insists on cataloguing every penny she spent with Lester.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0112641/004.jpg\" alt=\"Casino filming location: Oscar's Steakhouse, Plaza Hotel &amp; Casino, Las Vegas\"><figcaption>Casino film location: Ginger and Ace's ill-fated reconciliation dinner: Oscar's Steakhouse, Plaza Hotel &amp; Casino, Las Vegas | Photograph: iStock / Terry Kelly</figcaption></figure>\n<p>They’re in the striking glass ‘goldfish bowl’ of <a href=\"http://www.oscarslv.com/\" target=\"_blank\">Oscar's Steakhouse</a>, part of the <a href=\"https://www.plazahotelcasino.com/\" target=\"_blank\">Plaza Hotel &amp; Casino</a>, <span class=\"name\">1 South Main Street</span>, with its wonderful view down <span class=\"name\">Fremont Street</span> (now the flashy <a href=\"https://vegasexperience.com/\" target=\"_blank\">Fremont Street Experience</a>). Believe it or not, before the glass roof was added, this raised structure was once the hotel's swimming pool.     </p>\n<p>The ‘Oscar’ in the restaurant’s name is<span class=\"name\"> Oscar Goodman</span>, who was the attorney for the real-life characters, and has a cameo in the film as the lawyer handling Ace and Ginger’s divorce proceedings.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0112641/005.jpg\" alt=\"Casino filming location: La Concha, Las Vegas\"><figcaption>Casino film location: Ginger and Nicky's affair: La Concha, as it was in Las Vegas, 1998</figcaption></figure>\n<p>As bad decisions go, the worst comes when Ginger turns to Nicky for a shoulder to cry on, and the two begin an affair of their own.</p>\n<p>The crazy, wavy-roofed motel, where they enjoy a brief fling, was La Concha, which stood at <span class=\"name\">2955 Las Vegas Boulevard South</span>. Although it's now gone, that wonderful lobby has been preserved and moved to become the <span class=\"name\">Visitor Center</span> of <a href=\"https://www.neonmuseum.org/\" target=\"_blank\">Las Vegas Neon Museum</a>, <span class=\"name\">770 North Las Vegas Boulevard</span>.</p>\n<p>Increasingly drunk and erratic, Ginger withdraws her money and jewellery from the Valley bank but is soon pulled over and arrested by cops on <span class=\"name\">South 3rd Street</span> near East Utah Avenue. Again, much has been redeveloped, but you can recognise the <span class=\"name\">Star Motel</span> which still stands in the background.</p>\n<p>Evidence is mounting up and as the arrests begin, the mob decides to rub out any loose ends. Nothing personal, it’s just business.</p>\n<p>Even the loyal and efficient Andy Stone is callously gunned down in front of, since closed, Ruth’s Chris Steak House, which stood at <span class=\"name\">3900 Paradise Road</span>.</p>\n<p>The film remains within the environs of Vegas. Even the exotic-looking ‘Costa Rica’ hideaway, to which John Nance is tracked down and executed, is a luxurious three-bedroom home tucked away behind gates at <span class=\"name\">5795 South Lamb Boulevard</span>, in the <span class=\"name\">Paradise</span> area to the south of the city.</p>\n<p>There’s a moment close to pathos for Nicky as he’s forced to watch his kid brother Dominick beaten to death before he goes on to meet the same fate. The seemingly endless ‘Indiana’ cornfield was created from scratch at the <span class=\"name\">Rocking K Arena</span>, <span class=\"name\">6500 Rio Vista Street</span>, northwest of <span class=\"name\">Vegas</span>.</p>\n<p>Ginger herself succumbs to a ‘hot’ OD in the corridor of a rundown ‘Los Angeles’ motel. This was the Cabana Suites of the El Cortez Hotel, <span class=\"name\">651 East Ogden Avenue</span> at North 7th Street, <span class=\"name\">Las Vegas</span>. The hotel was a little seedy perhaps in the Nineties, but it’s since been given a very smart designer makeover.</p>\n<p>Ace, one of the few survivors, retires to his home in ‘San Diego’. In fact, this is one of the houses which stood on the old Desert Inn property, which has since been redeveloped to become the <a href=\"https://www.wynnlasvegas.com/\" target=\"_blank\">Wynn Las Vegas</a>, <span class=\"name\">3131 South Las Vegas Boulevard</span> at East Desert Inn Road.</p>\n<p>The film ends with a non-too flattering montage of the new <span class=\"name\">Vegas</span> and its themed casinos, including:</p>\n<p>The giant lion of the <a href=\"https://mgmgrand.mgmresorts.com/\" target=\"_blank\">MGM Grand</a>, <span class=\"name\">3799 South Las Vegas Boulevard</span>.</p>\n<p>The pirate ships of <a href=\"https://www.treasureisland.com/\" target=\"_blank\">Treasure Island</a>, <span class=\"name\">3300 South Las Vegas Boulevard</span>.</p>\n<p>The fairy tale castle of <a href=\"https://www.excalibur.com/\" target=\"_blank\">Excalibur</a>, <span class=\"name\">3850 South Las Vegas Boulevard</span>.</p>\n<p>The volcano of <a href=\"https://www.mirage.com/\" target=\"_blank\">El Mirage</a>, <span class=\"name\">3400 South Las Vegas Boulevard</span>.</p>\n<p>And the sphinx and pyramid of <a href=\"https://www.luxor.com\" target=\"_blank\">Luxor</a>, <span class=\"name\">3900 South Las Vegas Boulevard</span>.</p>\n<p>How long will this incarnation survive? It's <a href=\"http://www.visitlasvegas.com.au/\" target=\"_blank\">Las Vegas</a>. Who knows?</p>",
+  "main_content_text": "Based on Nicholas Pileggi’s non-fiction account of the fall of the old-school mob control of Las Vegas casinos in the 1970s and the takeover by faceless corporations, Martin Scorsese’s epic suffered a little by coming hard on the heels of the peerless Goodfellas with a similar style and some of the same cast members.\n\nThe centre of the real story was the Stardust Hotel & Casino (which was still thriving in 1995 when the film was made). To avoid legal complications it was fictionalised as the ‘Tangiers’ – though frequent bursts of Hoagy Carmichael’s Stardust on the soundtrack provide a cheeky clue.\n\nVegas has a breathtakingly fast turnover and the Stardust (the place at which I stayed on my first visit to the city in 1987) closed for good in 2006, and was imploded in 2007.\n\nFor the most part, the Riviera Casino, which stood at 2901 Las Vegas Boulevard South, stands in for the 'Tangiers'.\n\nIt wasn’t possible to close down the Riviera, so the production had to cope with filming through the night for six weeks, while the ceaseless activity of the Vegas punters was at its quietest.\n\nThe crew was given access to the hotel's penthouse, restaurants, kitchen, casino, ballroom, La Cage Showroom and also the holy-of-holies – the Counting Room.\n\nThe Riviera had opened in 1955 as the first of the high-rise complexes that went on to dominate the Strip – before that, Strip resorts were still pretty much traditional roadside motor courts. In 2015, the Riviera closed its doors and in its turn was finally demolished in 2016.\n\nThe Riviera was extremely film-friendly, seen also in the original 1960 Ocean's 11, Bond movie Diamonds Are Forever, Austin Powers: International Man Of Mystery, Doug Liman’s Go, The Hangover and 21 among many other productions.\n\nThe Tangiers’ glittering entrance was that of the Landmark Hotel, Convention Center Drive and Paradise Road, which was instantly recognisable by its 31-floor tower, inspired by Seattle’s Space Needle. The frontage was extended – and the 70s Strip recreated – digitally.\n\nAnd, yes, the Landmark too was demolished shortly after the filming of Casino. Its spectacular demise was filmed for Tim Burton’s Mars Attacks!, where it becomes the ‘Galaxy’, brought down by those pesky little aliens.\n\nNot every trace of the ‘Tangier’ has disappeared, yet. The Jubilee! Theatre of Bally's Las Vegas, 3645 Las Vegas Boulevard South, was used for the ‘weighing in’ of the showgirls from Paris’s Femme Fatale review, as well as the Aces High TV show. That’s also Bally’s penthouse, seen as the Senator (Dick Smothers) enjoys the Tangiers’ complementary perks.\n\nBankrolled by the Chicago mob, the 'Tangiers' is put into the charge of ‘Ace’ Rothstein (Robert De Niro), a methodical and meticulous gambler, based on the real ‘Lefty’ Rosenthal, with a keen eye for spotting weaknesses and scams. But when his childhood friend Nicky Santoro (Joe Pesci) is installed to add ruthless muscle to his expertise, the seeds of tragedy are planted.\n\nThe story is told in flashback from the moment there’s an explosive attempt on Ace’s life. In reality, the bombing of Rosenthal’s car took place in front of the old Tony Roma's restaurant at 620 East Sahara Avenue (which has been a Hustler Hollywood lingerie store since 2016). The film uses the southwest entrance of Main Street Station, 200 North Main Street, Downtown Las Vegas, as a stand-in, with the California Hotel and Casino in the background. No, it’s not a railway station, it’s another themed casino and hotel.\n\nAs Ace’s voiceover spells out the intricate details of skimming money from the Casino’s Count Room, the cash is being whisked back to the mob bosses via ‘Kansas City’.\n\nSince the film stays almost entirely in Nevada, Henderson Executive Airport, 3500 Executive Terminal Drive, Henderson, just to the south of Vegas, stands in for ‘Kansas City Airport’. It's now used as a 'relief airport' for McCarran International.\n\nLikewise, ‘San Marino Italian Grocery’, the innocuous ‘Kansas City’ produce market where the money is handed over, is EXPawn, 3010 South Valley View Boulevard, at Meade Avenue, a few blocks west of the Strip. The premises has been slightly remodelled since appearing in the film.\n\nWhen the casino’s squeaky-clean front man Philip Green (Kevin Pollak) is introduced, there the brief glimpse of an enticing-looking motel swimming pool graced with below-the-waterline circular windows.\n\nDon’t get excited – it was real but, again, it’s gone. It was the aptly-named Glass Pool Inn, which stood at 4613 South Las Vegas Boulevard.\n\nThe city's main air terminal, Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, appears as itself throughout the film, though it now looks a little different since getting a major makeover in 2018.\n\nThings start to get complicated once Ace falls headlong for Ginger (Sharon Stone), a tough Vegas cookie who doesn’t return the same passion but is nevertheless happy to enter into an ‘understanding’.\n\nThe practical parameters of their relationship are set out as they sit by the firepit at the heart of the Fireside Lounge in Peppermill Restaurant, 2985 South Las Vegas Boulevard. Ace gives her a little money to go powder her nose, and Ginger takes it.\n\nShe also hesitantly concedes to Ace’s businesslike marriage proposal and the two move into a huge bungalow full of Bulgari bling and chinchilla, at 3515 Cochise Lane, a couple of miles east of the Strip and, oddly, right in the heart of the Las Vegas National Golf Course.\n\nUnfortunately, this is where Nicky happens to be playing when the feds' plane, which is keeping him under surveillance, runs out of fuel and is forced to land on the course. A slight embarrassment to Ace who happens to be in the back garden pleading his case to the gambling commission.\n\nDespite the technicality of not having a gaming licence, Ace’s expertise turns around the casino’s fortunes and he finds his success rewarded with a Certificate of Appreciation.\n\n‘Vegas Valley Country Club’, where Phil Green presents him with the award, is the Hartland Mansion, 1044 South 6th Street at Park Paseo. And, yes, it does have that great big indoor pool.\n\nIf you've been on a winning streak and you’re in the mood, the Hartland Mansion hosts parties, corporate events and, of course, weddings.\n\nEnforcer Nicky, when he’s not reducing people to a bloody pulp, has his human side. He watches his young son play Little League at school, Our Lady of Las Vegas Catholic School, 3046 Alta Drive, but things don't go so well when Nicky finds himself entered into the notorious ‘Black Book’ and barred from every casino in the city.\n\nIn order to meet with him, Ace needs to travel out to the Idle Spurs, 1650 East Quartz Avenue, Sandy Valley, which in the film claims to be ’60 miles to Vegas’, though it’s really about 40 miles southwest of Vegas, almost at the border with California.\n\nDespite the setback, Nicky is unstoppable and, with his crew, is soon using his insider knowledge to carry out robberies on hotels and shops.\n\nHe’s so successful, he opens up his own jewellery store, ‘Gold Rush’, which was 1201 South Las Vegas Boulevard, a tiny strip mall on Park Paseo. The premises has since been redeveloped into Ocha Thai-Chinese restaurant.\n\nNicky also moves into the legitimate restaurant business, opening ‘The Leaning Tower’, which he entrusts to his younger brother Dominick.\n\nThe restaurant seen in the film is Piero’s Restaurant, 355 Convention Center Drive, off Paradise Road, close to the Las Vegas Convention Center.\n\nAlthough Nicky dutifully continues to pay off the bosses, it’s not necessarily the full amount they might expect.\n\n‘All American Gas’, the ‘Chicago’ truck stop café used by Nicky as the drop for the boss’s share, stood on the western corner of Fremont Street at South 10th Street. It’s been totally revamped and absorbed into the famous Atomic Liquors, 917 Fremont Street, alongside.\n\nAnd the Atomic itself is where it all goes a bit Goodfellas as Nicky uses a fountain pen to demonstrate his no-nonsense attitude to anyone who disrespects Ace, before giving the victim a good kicking.\n\nThe oldest (free-standing) bar in Las Vegas, Atomic Liquors opened in 1952, when it was a popular spot from which to watch nuclear blasts from the nearby Atomic Test Site. It's also featured in Todd Phillips’ 2009 The Hangover.\n\nAlthough Ginger is canny enough to keep her share of the spoils in the ‘Vegas Valley Savings & Loan’, Nicky spies on her as she’s drawing out a bit of petty cash for her no-good, on-off boyfriend Lester Diamond (James Woods) and dutifully reports back to Ace.\n\nThe ‘bank’ is actually the Blum Medical Marijuana Dispensary, 1130 East Desert Inn Road, off Maryland Parkway just south of the Las Vegas Country Club.\n\nIt’s not easy to pull the wool over Ace’s eyes and he’s soon on the case, confronting Ginger and Lester in the Salvadoreno Restaurant, 720 North Main Street, before making Ginger watch as his goons beat up Lester in the carpark of the Regency Motel, alongside the eaterie at 700 North Main Street.\n\nNicky’s crazily reckless tactics were bound to attract the scrutiny of the law and he soon finds himself being questioned over every crime in the Vegas area. He angrily fends off the press as he exits the Foley Federal Building and Courthouse, 300 Las Vegas Boulevard South.\n\nThis is the beginning of the end. Everything starts to fall apart once an FBI bug in the Piscano grocery picks up far more about the shenanigans in Vegas than the forces of law and order could ever have expected.\n\nAce is denied his gambling licence but, rather than sensibly lying low and running the business behind an innocuous job title, he fights back by choosing to launch his own TV show – ‘Aces High’. This is not the way mob bosses work.\n\nThey’re quick to send a warning. Andy Stone (Alan King) passes on the politely worded but unmistakably ominous threat to Ace as they sit parked in the lot of Mighty Mart – now Bells Market, 515 East Oakey Boulevard, north of the Strip.\n\nThe stubborn Ace is not about to back down and counters by claiming that it’s Nicky who should take some time off.\n\nThis suggestion inevitably gets back to his old friend and the two have a tense meeting in the middle of the featureless Jean Dry Lake Bed, east of I-15, several miles south of Las Vegas.\n\nAs the friendship of Ace and Nicky reaches breaking point, Ace and Ginger's marriage also falls apart, with just about everybody making the worst decisions they possibly could.\n\nGinger leaves for LA and Lester, but is eventually obliged to return. A reconciliation dinner goes horribly wrong as the fastidious Ace insists on cataloguing every penny she spent with Lester.\n\nThey’re in the striking glass ‘goldfish bowl’ of Oscar's Steakhouse, part of the Plaza Hotel & Casino, 1 South Main Street, with its wonderful view down Fremont Street (now the flashy Fremont Street Experience). Believe it or not, before the glass roof was added, this raised structure was once the hotel's swimming pool.\n\nThe ‘Oscar’ in the restaurant’s name is Oscar Goodman, who was the attorney for the real-life characters, and has a cameo in the film as the lawyer handling Ace and Ginger’s divorce proceedings.\n\nAs bad decisions go, the worst comes when Ginger turns to Nicky for a shoulder to cry on, and the two begin an affair of their own.\n\nThe crazy, wavy-roofed motel, where they enjoy a brief fling, was La Concha, which stood at 2955 Las Vegas Boulevard South. Although it's now gone, that wonderful lobby has been preserved and moved to become the Visitor Center of Las Vegas Neon Museum, 770 North Las Vegas Boulevard.\n\nIncreasingly drunk and erratic, Ginger withdraws her money and jewellery from the Valley bank but is soon pulled over and arrested by cops on South 3rd Street near East Utah Avenue. Again, much has been redeveloped, but you can recognise the Star Motel which still stands in the background.\n\nEvidence is mounting up and as the arrests begin, the mob decides to rub out any loose ends. Nothing personal, it’s just business.\n\nEven the loyal and efficient Andy Stone is callously gunned down in front of, since closed, Ruth’s Chris Steak House, which stood at 3900 Paradise Road.\n\nThe film remains within the environs of Vegas. Even the exotic-looking ‘Costa Rica’ hideaway, to which John Nance is tracked down and executed, is a luxurious three-bedroom home tucked away behind gates at 5795 South Lamb Boulevard, in the Paradise area to the south of the city.\n\nThere’s a moment close to pathos for Nicky as he’s forced to watch his kid brother Dominick beaten to death before he goes on to meet the same fate. The seemingly endless ‘Indiana’ cornfield was created from scratch at the Rocking K Arena, 6500 Rio Vista Street, northwest of Vegas.\n\nGinger herself succumbs to a ‘hot’ OD in the corridor of a rundown ‘Los Angeles’ motel. This was the Cabana Suites of the El Cortez Hotel, 651 East Ogden Avenue at North 7th Street, Las Vegas. The hotel was a little seedy perhaps in the Nineties, but it’s since been given a very smart designer makeover.\n\nAce, one of the few survivors, retires to his home in ‘San Diego’. In fact, this is one of the houses which stood on the old Desert Inn property, which has since been redeveloped to become the Wynn Las Vegas, 3131 South Las Vegas Boulevard at East Desert Inn Road.\n\nThe film ends with a non-too flattering montage of the new Vegas and its themed casinos, including:\n\nThe giant lion of the MGM Grand, 3799 South Las Vegas Boulevard.\n\nThe pirate ships of Treasure Island, 3300 South Las Vegas Boulevard.\n\nThe fairy tale castle of Excalibur, 3850 South Las Vegas Boulevard.\n\nThe volcano of El Mirage, 3400 South Las Vegas Boulevard.\n\nAnd the sphinx and pyramid of Luxor, 3900 South Las Vegas Boulevard.\n\nHow long will this incarnation survive? It's Las Vegas. Who knows?",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Casino film location: Ginger and Nicky's affair: La Concha, Neon Museum, Las Vegas | Photograph: wikimedia / Jeremy Thompson",
+      "src": "_assets/tt0112641%20-%20Casino-1995/001.jpg",
+      "alt": "Casino filming location: La Concha, Neon Museum, Las Vegas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on Nicholas Pileggi’s non-fiction account of the fall of the old-school mob control of Las Vegas casinos in the 1970s and the takeover by faceless corporations, Martin Scorsese’s epic suffered a little by coming hard on the heels of the peerless Goodfellas with a similar style and some of the same cast members."
+    },
+    {
+      "type": "paragraph",
+      "text": "The centre of the real story was the Stardust Hotel & Casino (which was still thriving in 1995 when the film was made). To avoid legal complications it was fictionalised as the ‘Tangiers’ – though frequent bursts of Hoagy Carmichael’s Stardust on the soundtrack provide a cheeky clue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vegas has a breathtakingly fast turnover and the Stardust (the place at which I stayed on my first visit to the city in 1987) closed for good in 2006, and was imploded in 2007."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the most part, the Riviera Casino, which stood at 2901 Las Vegas Boulevard South, stands in for the 'Tangiers'."
+    },
+    {
+      "type": "paragraph",
+      "text": "It wasn’t possible to close down the Riviera, so the production had to cope with filming through the night for six weeks, while the ceaseless activity of the Vegas punters was at its quietest."
+    },
+    {
+      "type": "paragraph",
+      "text": "The crew was given access to the hotel's penthouse, restaurants, kitchen, casino, ballroom, La Cage Showroom and also the holy-of-holies – the Counting Room."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Riviera had opened in 1955 as the first of the high-rise complexes that went on to dominate the Strip – before that, Strip resorts were still pretty much traditional roadside motor courts. In 2015, the Riviera closed its doors and in its turn was finally demolished in 2016."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Riviera was extremely film-friendly, seen also in the original 1960 Ocean's 11, Bond movie Diamonds Are Forever, Austin Powers: International Man Of Mystery, Doug Liman’s Go, The Hangover and 21 among many other productions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Tangiers’ glittering entrance was that of the Landmark Hotel, Convention Center Drive and Paradise Road, which was instantly recognisable by its 31-floor tower, inspired by Seattle’s Space Needle. The frontage was extended – and the 70s Strip recreated – digitally."
+    },
+    {
+      "type": "paragraph",
+      "text": "And, yes, the Landmark too was demolished shortly after the filming of Casino. Its spectacular demise was filmed for Tim Burton’s Mars Attacks!, where it becomes the ‘Galaxy’, brought down by those pesky little aliens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every trace of the ‘Tangier’ has disappeared, yet. The Jubilee! Theatre of Bally's Las Vegas, 3645 Las Vegas Boulevard South, was used for the ‘weighing in’ of the showgirls from Paris’s Femme Fatale review, as well as the Aces High TV show. That’s also Bally’s penthouse, seen as the Senator (Dick Smothers) enjoys the Tangiers’ complementary perks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bankrolled by the Chicago mob, the 'Tangiers' is put into the charge of ‘Ace’ Rothstein (Robert De Niro), a methodical and meticulous gambler, based on the real ‘Lefty’ Rosenthal, with a keen eye for spotting weaknesses and scams. But when his childhood friend Nicky Santoro (Joe Pesci) is installed to add ruthless muscle to his expertise, the seeds of tragedy are planted."
+    },
+    {
+      "type": "paragraph",
+      "text": "The story is told in flashback from the moment there’s an explosive attempt on Ace’s life. In reality, the bombing of Rosenthal’s car took place in front of the old Tony Roma's restaurant at 620 East Sahara Avenue (which has been a Hustler Hollywood lingerie store since 2016). The film uses the southwest entrance of Main Street Station, 200 North Main Street, Downtown Las Vegas, as a stand-in, with the California Hotel and Casino in the background. No, it’s not a railway station, it’s another themed casino and hotel."
+    },
+    {
+      "type": "paragraph",
+      "text": "As Ace’s voiceover spells out the intricate details of skimming money from the Casino’s Count Room, the cash is being whisked back to the mob bosses via ‘Kansas City’."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the film stays almost entirely in Nevada, Henderson Executive Airport, 3500 Executive Terminal Drive, Henderson, just to the south of Vegas, stands in for ‘Kansas City Airport’. It's now used as a 'relief airport' for McCarran International."
+    },
+    {
+      "type": "paragraph",
+      "text": "Likewise, ‘San Marino Italian Grocery’, the innocuous ‘Kansas City’ produce market where the money is handed over, is EXPawn, 3010 South Valley View Boulevard, at Meade Avenue, a few blocks west of the Strip. The premises has been slightly remodelled since appearing in the film."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the casino’s squeaky-clean front man Philip Green (Kevin Pollak) is introduced, there the brief glimpse of an enticing-looking motel swimming pool graced with below-the-waterline circular windows."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don’t get excited – it was real but, again, it’s gone. It was the aptly-named Glass Pool Inn, which stood at 4613 South Las Vegas Boulevard."
+    },
+    {
+      "type": "paragraph",
+      "text": "The city's main air terminal, Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, appears as itself throughout the film, though it now looks a little different since getting a major makeover in 2018."
+    },
+    {
+      "type": "paragraph",
+      "text": "Things start to get complicated once Ace falls headlong for Ginger (Sharon Stone), a tough Vegas cookie who doesn’t return the same passion but is nevertheless happy to enter into an ‘understanding’."
+    },
+    {
+      "type": "image",
+      "caption": "Casino film location: Ginger and Ace set out the limits of their relationship: Fireside Lounge, Peppermill, South Las Vegas Boulevard, Las Vegas | Photograph: Wikimedia / JR Ramos",
+      "src": "_assets/tt0112641%20-%20Casino-1995/003.jpg",
+      "alt": "Casino filming location: Fireside Lounge, Peppermill, South Las Vegas Boulevard, Las Vegas"
+    },
+    {
+      "type": "paragraph",
+      "text": "The practical parameters of their relationship are set out as they sit by the firepit at the heart of the Fireside Lounge in Peppermill Restaurant, 2985 South Las Vegas Boulevard. Ace gives her a little money to go powder her nose, and Ginger takes it."
+    },
+    {
+      "type": "paragraph",
+      "text": "She also hesitantly concedes to Ace’s businesslike marriage proposal and the two move into a huge bungalow full of Bulgari bling and chinchilla, at 3515 Cochise Lane, a couple of miles east of the Strip and, oddly, right in the heart of the Las Vegas National Golf Course."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unfortunately, this is where Nicky happens to be playing when the feds' plane, which is keeping him under surveillance, runs out of fuel and is forced to land on the course. A slight embarrassment to Ace who happens to be in the back garden pleading his case to the gambling commission."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the technicality of not having a gaming licence, Ace’s expertise turns around the casino’s fortunes and he finds his success rewarded with a Certificate of Appreciation."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Vegas Valley Country Club’, where Phil Green presents him with the award, is the Hartland Mansion, 1044 South 6th Street at Park Paseo. And, yes, it does have that great big indoor pool."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you've been on a winning streak and you’re in the mood, the Hartland Mansion hosts parties, corporate events and, of course, weddings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Enforcer Nicky, when he’s not reducing people to a bloody pulp, has his human side. He watches his young son play Little League at school, Our Lady of Las Vegas Catholic School, 3046 Alta Drive, but things don't go so well when Nicky finds himself entered into the notorious ‘Black Book’ and barred from every casino in the city."
+    },
+    {
+      "type": "paragraph",
+      "text": "In order to meet with him, Ace needs to travel out to the Idle Spurs, 1650 East Quartz Avenue, Sandy Valley, which in the film claims to be ’60 miles to Vegas’, though it’s really about 40 miles southwest of Vegas, almost at the border with California."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the setback, Nicky is unstoppable and, with his crew, is soon using his insider knowledge to carry out robberies on hotels and shops."
+    },
+    {
+      "type": "paragraph",
+      "text": "He’s so successful, he opens up his own jewellery store, ‘Gold Rush’, which was 1201 South Las Vegas Boulevard, a tiny strip mall on Park Paseo. The premises has since been redeveloped into Ocha Thai-Chinese restaurant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nicky also moves into the legitimate restaurant business, opening ‘The Leaning Tower’, which he entrusts to his younger brother Dominick."
+    },
+    {
+      "type": "paragraph",
+      "text": "The restaurant seen in the film is Piero’s Restaurant, 355 Convention Center Drive, off Paradise Road, close to the Las Vegas Convention Center."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although Nicky dutifully continues to pay off the bosses, it’s not necessarily the full amount they might expect."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘All American Gas’, the ‘Chicago’ truck stop café used by Nicky as the drop for the boss’s share, stood on the western corner of Fremont Street at South 10th Street. It’s been totally revamped and absorbed into the famous Atomic Liquors, 917 Fremont Street, alongside."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the Atomic itself is where it all goes a bit Goodfellas as Nicky uses a fountain pen to demonstrate his no-nonsense attitude to anyone who disrespects Ace, before giving the victim a good kicking."
+    },
+    {
+      "type": "paragraph",
+      "text": "The oldest (free-standing) bar in Las Vegas, Atomic Liquors opened in 1952, when it was a popular spot from which to watch nuclear blasts from the nearby Atomic Test Site. It's also featured in Todd Phillips’ 2009 The Hangover."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although Ginger is canny enough to keep her share of the spoils in the ‘Vegas Valley Savings & Loan’, Nicky spies on her as she’s drawing out a bit of petty cash for her no-good, on-off boyfriend Lester Diamond (James Woods) and dutifully reports back to Ace."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘bank’ is actually the Blum Medical Marijuana Dispensary, 1130 East Desert Inn Road, off Maryland Parkway just south of the Las Vegas Country Club."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s not easy to pull the wool over Ace’s eyes and he’s soon on the case, confronting Ginger and Lester in the Salvadoreno Restaurant, 720 North Main Street, before making Ginger watch as his goons beat up Lester in the carpark of the Regency Motel, alongside the eaterie at 700 North Main Street."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nicky’s crazily reckless tactics were bound to attract the scrutiny of the law and he soon finds himself being questioned over every crime in the Vegas area. He angrily fends off the press as he exits the Foley Federal Building and Courthouse, 300 Las Vegas Boulevard South."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the beginning of the end. Everything starts to fall apart once an FBI bug in the Piscano grocery picks up far more about the shenanigans in Vegas than the forces of law and order could ever have expected."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ace is denied his gambling licence but, rather than sensibly lying low and running the business behind an innocuous job title, he fights back by choosing to launch his own TV show – ‘Aces High’. This is not the way mob bosses work."
+    },
+    {
+      "type": "paragraph",
+      "text": "They’re quick to send a warning. Andy Stone (Alan King) passes on the politely worded but unmistakably ominous threat to Ace as they sit parked in the lot of Mighty Mart – now Bells Market, 515 East Oakey Boulevard, north of the Strip."
+    },
+    {
+      "type": "paragraph",
+      "text": "The stubborn Ace is not about to back down and counters by claiming that it’s Nicky who should take some time off."
+    },
+    {
+      "type": "paragraph",
+      "text": "This suggestion inevitably gets back to his old friend and the two have a tense meeting in the middle of the featureless Jean Dry Lake Bed, east of I-15, several miles south of Las Vegas."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the friendship of Ace and Nicky reaches breaking point, Ace and Ginger's marriage also falls apart, with just about everybody making the worst decisions they possibly could."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ginger leaves for LA and Lester, but is eventually obliged to return. A reconciliation dinner goes horribly wrong as the fastidious Ace insists on cataloguing every penny she spent with Lester."
+    },
+    {
+      "type": "image",
+      "caption": "Casino film location: Ginger and Ace's ill-fated reconciliation dinner: Oscar's Steakhouse, Plaza Hotel & Casino, Las Vegas | Photograph: iStock / Terry Kelly",
+      "src": "_assets/tt0112641%20-%20Casino-1995/004.jpg",
+      "alt": "Casino filming location: Oscar's Steakhouse, Plaza Hotel & Casino, Las Vegas"
+    },
+    {
+      "type": "paragraph",
+      "text": "They’re in the striking glass ‘goldfish bowl’ of Oscar's Steakhouse, part of the Plaza Hotel & Casino, 1 South Main Street, with its wonderful view down Fremont Street (now the flashy Fremont Street Experience). Believe it or not, before the glass roof was added, this raised structure was once the hotel's swimming pool."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Oscar’ in the restaurant’s name is Oscar Goodman, who was the attorney for the real-life characters, and has a cameo in the film as the lawyer handling Ace and Ginger’s divorce proceedings."
+    },
+    {
+      "type": "image",
+      "caption": "Casino film location: Ginger and Nicky's affair: La Concha, as it was in Las Vegas, 1998",
+      "src": "_assets/tt0112641%20-%20Casino-1995/005.jpg",
+      "alt": "Casino filming location: La Concha, Las Vegas"
+    },
+    {
+      "type": "paragraph",
+      "text": "As bad decisions go, the worst comes when Ginger turns to Nicky for a shoulder to cry on, and the two begin an affair of their own."
+    },
+    {
+      "type": "paragraph",
+      "text": "The crazy, wavy-roofed motel, where they enjoy a brief fling, was La Concha, which stood at 2955 Las Vegas Boulevard South. Although it's now gone, that wonderful lobby has been preserved and moved to become the Visitor Center of Las Vegas Neon Museum, 770 North Las Vegas Boulevard."
+    },
+    {
+      "type": "paragraph",
+      "text": "Increasingly drunk and erratic, Ginger withdraws her money and jewellery from the Valley bank but is soon pulled over and arrested by cops on South 3rd Street near East Utah Avenue. Again, much has been redeveloped, but you can recognise the Star Motel which still stands in the background."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evidence is mounting up and as the arrests begin, the mob decides to rub out any loose ends. Nothing personal, it’s just business."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even the loyal and efficient Andy Stone is callously gunned down in front of, since closed, Ruth’s Chris Steak House, which stood at 3900 Paradise Road."
+    },
+    {
+      "type": "paragraph",
+      "text": "The film remains within the environs of Vegas. Even the exotic-looking ‘Costa Rica’ hideaway, to which John Nance is tracked down and executed, is a luxurious three-bedroom home tucked away behind gates at 5795 South Lamb Boulevard, in the Paradise area to the south of the city."
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s a moment close to pathos for Nicky as he’s forced to watch his kid brother Dominick beaten to death before he goes on to meet the same fate. The seemingly endless ‘Indiana’ cornfield was created from scratch at the Rocking K Arena, 6500 Rio Vista Street, northwest of Vegas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ginger herself succumbs to a ‘hot’ OD in the corridor of a rundown ‘Los Angeles’ motel. This was the Cabana Suites of the El Cortez Hotel, 651 East Ogden Avenue at North 7th Street, Las Vegas. The hotel was a little seedy perhaps in the Nineties, but it’s since been given a very smart designer makeover."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ace, one of the few survivors, retires to his home in ‘San Diego’. In fact, this is one of the houses which stood on the old Desert Inn property, which has since been redeveloped to become the Wynn Las Vegas, 3131 South Las Vegas Boulevard at East Desert Inn Road."
+    },
+    {
+      "type": "paragraph",
+      "text": "The film ends with a non-too flattering montage of the new Vegas and its themed casinos, including:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The giant lion of the MGM Grand, 3799 South Las Vegas Boulevard."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pirate ships of Treasure Island, 3300 South Las Vegas Boulevard."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fairy tale castle of Excalibur, 3850 South Las Vegas Boulevard."
+    },
+    {
+      "type": "paragraph",
+      "text": "The volcano of El Mirage, 3400 South Las Vegas Boulevard."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the sphinx and pyramid of Luxor, 3900 South Las Vegas Boulevard."
+    },
+    {
+      "type": "paragraph",
+      "text": "How long will this incarnation survive? It's Las Vegas. Who knows?"
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Nevada</h3>\n<p>Visit: Nevada</p>\n<p>Visit: Las Vegas</p>\n<p>Flights: Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, Las Vegas, NV 89119 (tel: 702.261.5211)</p>\n<p>Visit: Bally's Las Vegas, 3645 Las Vegas Boulevard South, Las Vegas, NV 89109 (tel: 702.967.4111)</p>\n<p>Visit: Main Street Station Casino Brewery Hotel, 200 North Main Street, Las Vegas, NV 89101 (tel: 702.387.1896)</p>\n<p>Visit: the Peppermill Restaurant, 2985 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.735.7635)</p>\n<p>Visit: Piero’s Restaurant, 355 Convention Center Drive, Las Vegas, NV 89109 (tel: 702.369.2305)</p>\n<p>Visit: the Las Vegas Neon Museum, 770 North Las Vegas Boulevard, Las Vegas, NV 89101 (tel: 702.387.6366)</p>\n<p>Visit: Atomic Liquors, 917 Fremont Street, Las Vegas, NV 89101 (tel: 702.982.3000)</p>\n<p>Visit: Oscar's Steakhouse, part of the Plaza Hotel &amp; Casino</p>\n<p>Visit: the Plaza Hotel &amp; Casino, 1 South Main Street, Las Vegas, NV 89101 (tel: 702.386.2110)</p>\n<p>Book an event at: the Hartland Mansion, 1044 South 6th St, Las Vegas, NV 89104 (tel: 888.608.6981)</p>\n<p>Visit: the MGM Grand, 3799 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 877.880.0880)</p>\n<p>Visit: Treasure Island, 3300 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.894.7111)</p>\n<p>Visit: Excalibur, 3850 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.597.7449)</p>\n<p>Visit: El Mirage, 3400 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.791.7111)</p>\n<p>Visit: Luxor, 3900 South Las Vegas Boulevard, Las Vegas, NV 89119 (tel: 702.262.4000)</p>\n</section>",
+  "visit_info_text": "Nevada\nVisit: Nevada\nVisit: Las Vegas\nFlights: Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, Las Vegas, NV 89119 (tel: 702.261.5211)\nVisit: Bally's Las Vegas, 3645 Las Vegas Boulevard South, Las Vegas, NV 89109 (tel: 702.967.4111)\nVisit: Main Street Station Casino Brewery Hotel, 200 North Main Street, Las Vegas, NV 89101 (tel: 702.387.1896)\nVisit: the Peppermill Restaurant, 2985 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.735.7635)\nVisit: Piero’s Restaurant, 355 Convention Center Drive, Las Vegas, NV 89109 (tel: 702.369.2305)\nVisit: the Las Vegas Neon Museum, 770 North Las Vegas Boulevard, Las Vegas, NV 89101 (tel: 702.387.6366)\nVisit: Atomic Liquors, 917 Fremont Street, Las Vegas, NV 89101 (tel: 702.982.3000)\nVisit: Oscar's Steakhouse, part of the Plaza Hotel & Casino\nVisit: the Plaza Hotel & Casino, 1 South Main Street, Las Vegas, NV 89101 (tel: 702.386.2110)\nBook an event at: the Hartland Mansion, 1044 South 6th St, Las Vegas, NV 89104 (tel: 888.608.6981)\nVisit: the MGM Grand, 3799 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 877.880.0880)\nVisit: Treasure Island, 3300 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.894.7111)\nVisit: Excalibur, 3850 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.597.7449)\nVisit: El Mirage, 3400 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.791.7111)\nVisit: Luxor, 3900 South Las Vegas Boulevard, Las Vegas, NV 89119 (tel: 702.262.4000)",
+  "visit_sections": [
+    {
+      "title": "Nevada",
+      "items": [
+        "Visit: Nevada",
+        "Visit: Las Vegas",
+        "Flights: Las Vegas McCarran International Airport, 5757 Wayne Newton Boulevard, Las Vegas, NV 89119 (tel: 702.261.5211)",
+        "Visit: Bally's Las Vegas, 3645 Las Vegas Boulevard South, Las Vegas, NV 89109 (tel: 702.967.4111)",
+        "Visit: Main Street Station Casino Brewery Hotel, 200 North Main Street, Las Vegas, NV 89101 (tel: 702.387.1896)",
+        "Visit: the Peppermill Restaurant, 2985 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.735.7635)",
+        "Visit: Piero’s Restaurant, 355 Convention Center Drive, Las Vegas, NV 89109 (tel: 702.369.2305)",
+        "Visit: the Las Vegas Neon Museum, 770 North Las Vegas Boulevard, Las Vegas, NV 89101 (tel: 702.387.6366)",
+        "Visit: Atomic Liquors, 917 Fremont Street, Las Vegas, NV 89101 (tel: 702.982.3000)",
+        "Visit: Oscar's Steakhouse, part of the Plaza Hotel & Casino",
+        "Visit: the Plaza Hotel & Casino, 1 South Main Street, Las Vegas, NV 89101 (tel: 702.386.2110)",
+        "Book an event at: the Hartland Mansion, 1044 South 6th St, Las Vegas, NV 89104 (tel: 888.608.6981)",
+        "Visit: the MGM Grand, 3799 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 877.880.0880)",
+        "Visit: Treasure Island, 3300 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.894.7111)",
+        "Visit: Excalibur, 3850 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.597.7449)",
+        "Visit: El Mirage, 3400 South Las Vegas Boulevard, Las Vegas, NV 89109 (tel: 702.791.7111)",
+        "Visit: Luxor, 3900 South Las Vegas Boulevard, Las Vegas, NV 89119 (tel: 702.262.4000)"
+      ]
+    }
+  ]
+}
