@@ -13,13 +13,13 @@ feature_row:
   - image_path: /assets/images/assignmentsFeature.jpg
     title: "Mini Project"
     excerpt: "Ars and Culture Economy: Iowa and the United States, 2001–2023."
-    url: "assignments/miniproject.md"
+    url: "assignments/miniproject/"
     btn_label: "View Mini Project"
     btn_class: "btn--primary"
   - image_path: /assets/images/finalProjectFeature.jpg
     title: "Final Project"
     excerpt: "Filmimng Location Maps"
-    url: "final-project/"
+    url: "final-project/dashboards/"
     btn_label: "View Final Project"
     btn_class: "btn--primary"
 
