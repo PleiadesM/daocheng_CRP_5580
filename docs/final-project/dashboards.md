@@ -5,8 +5,8 @@ permalink: /final-project/dashboards/
 
 Besides the dashboard below, I also wrote the data as a whole webpage for a final data storytelling, which is lived here: [Where Do the Stories Happen?](https://moviemap-tdjfc.ondigitalocean.app/)
 
-<div class="tableau-embed-wrapper" style="position: relative; margin: 1.5em 0;">
-  <div class="tableauPlaceholder" id="viz1778920881884" style="position: relative;">
+<div class="tableau-embed-wrapper" style="position: relative; margin: 1.5em 0; background-color: #fffff8;">
+  <div class="tableauPlaceholder" id="viz1778920881884" style="position: relative; background-color: #fffff8;">
     <noscript>
       <a href="#">
         <img
