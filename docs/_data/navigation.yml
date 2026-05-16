@@ -16,6 +16,14 @@ sidebar:
         url: /tasks/2a-pdf/
       - title: "2a QGIS JPG"
         url: /tasks/2a-jpg/
+  - title: "Excercises"
+    children:
+      - title: "2b"
+        url: /exercises/2b/
+      - title: "3a"
+        url: /exercises/3a/
+      - title: "4a"
+        url: /exercises/4a/
   - title: "Quizzes"
     children:
       - title: "Quiz 1"
