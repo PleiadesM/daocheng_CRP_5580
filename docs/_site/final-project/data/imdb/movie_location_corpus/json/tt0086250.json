@@ -1,0 +1,220 @@
+{
+  "imdb_id": "tt0086250",
+  "shorthand": "Scarface-1983",
+  "title": "Scarface",
+  "year": 1983,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0086250 - Scarface-1983.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0086250 - Scarface-1983.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0086250.json",
+  "source_url": "http://www.movie-locations.com/movies/s/Scarface-1983.php",
+  "page_title": "Scarface | Film Locations",
+  "meta_description": "Film locations for Scarface (1983), in California, Florida and New York.",
+  "meta_keywords": "Scarface (1983), film locations, filming locations, tourism, travel, set-jetting, miami, florida, new york, johnny rocket, al pacino, tony montana, brian de palma,",
+  "og_title": "Filming Locations for Scarface (1983), in California, Florida and New York.",
+  "og_description": "Travel guide to filming locations for Scarface (1983), in California, Florida and New York.",
+  "og_image": "http://www.movie-locations.com/movies/s/Scarface-Johnny-Rocket.jpg",
+  "top250_rank": "126",
+  "movie_locations_title": "SCARFACE",
+  "movie_locations_regions": "Los Angeles, California | Florida | New York",
+  "director": "Brian de Palma",
+  "cast": [
+    "Al Pacino",
+    "Steven Bauer",
+    "Michelle Pfeiffer",
+    "F Murray Abraham",
+    "Robert Loggia",
+    "Mark Margolis",
+    "Mary Elisabeth Mastrantonio"
+  ],
+  "locations": [
+    "Los Angeles, California;",
+    "Florida;",
+    "New York"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0086250%20-%20Scarface-1983/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086250 - Scarface-1983/002.jpg",
+    "exists": true,
+    "alt": "Scarface poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086250/poster.jpg",
+    "corpus_asset_src": "../assets/tt0086250/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0086250%20-%20Scarface-1983/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086250 - Scarface-1983/001.jpg",
+    "exists": true,
+    "alt": "Scarface film location: Johnny Rocket's, 728 Ocean Drive, Miami Beach, Florida",
+    "caption": "Scarface film location: the \"chainsaw hotel\" as it was: Johnny Rocket's, 728 Ocean Drive, Miami Beach, Florida",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086250/001.jpg",
+    "corpus_asset_src": "../assets/tt0086250/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0086250%20-%20Scarface-1983/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086250 - Scarface-1983/001.jpg",
+      "exists": true,
+      "alt": "Scarface film location: Johnny Rocket's, 728 Ocean Drive, Miami Beach, Florida",
+      "caption": "Scarface film location: the \"chainsaw hotel\" as it was: Johnny Rocket's, 728 Ocean Drive, Miami Beach, Florida",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086250/001.jpg",
+      "corpus_asset_src": "../assets/tt0086250/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086250%20-%20Scarface-1983/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086250 - Scarface-1983/002.jpg",
+      "exists": true,
+      "alt": "Scarface poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086250/002.jpg",
+      "corpus_asset_src": "../assets/tt0086250/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086250%20-%20Scarface-1983/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086250 - Scarface-1983/003.jpg",
+      "exists": true,
+      "alt": "Scarface film location: 728 Ocean Drive, Miami Beach, Florida",
+      "caption": "Scarface film location: the \"chainsaw hotel\" today: 728 Ocean Drive, Miami Beach, Florida",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086250/003.jpg",
+      "corpus_asset_src": "../assets/tt0086250/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086250%20-%20Scarface-1983/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086250 - Scarface-1983/004.jpg",
+      "exists": true,
+      "alt": "Scarface film location: Fontainebleau Hilton Resort and Spa, Miami, Florida",
+      "caption": "Scarface film location: Tony Montana and Manny Ray chill out: Fontainebleau Hilton Resort and Spa, Miami, Florida",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086250/004.jpg",
+      "corpus_asset_src": "../assets/tt0086250/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086250%20-%20Scarface-1983/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086250 - Scarface-1983/005.jpg",
+      "exists": true,
+      "alt": "Scarface film location: Tudor City Place, East 41st Street, New York",
+      "caption": "Scarface film location: the bomb attempt: Tudor City Place, East 41st Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086250/005.jpg",
+      "corpus_asset_src": "../assets/tt0086250/005.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0086250/001.jpg\" alt=\"Scarface film location: Johnny Rocket's, 728 Ocean Drive, Miami Beach, Florida\"><figcaption>Scarface film location: the \"chainsaw hotel\" as it was: Johnny Rocket's, 728 Ocean Drive, Miami Beach, Florida</figcaption></figure>\n<p>Another one of those movies where the critics got it totally wrong. Trashed on its first release, <a href=\"https://www.movie-locations.com/people/d/depalmab.php\">Brian de Palma</a>'s updating of the old gangster story – it's basically <span class=\"ital\">Richard III</span> with coke, scripted by <a href=\"https://www.movie-locations.com/people/s/stoneo.php\">Oliver Stone</a> – is now regarded as a classic.</p>\n<p>When Cuban leader <span class=\"name\">Fidel Castro</span> opened up the harbour at Mariel in May 1980 to allow 125,000 Cubans to join relatives in the US, he took the opportunity to export some of the country’s toughest criminals. Smalltime thug Tony Montana (<a href=\"https://www.movie-locations.com/people/p/pacinoa.php\">Al Pacino</a>) grabs the opportunity to make it as a big-time drug lord.</p>\n<p>Set in Miami and Bolivia, the movie’s locations are mostly divided between <a href=\"https://www.movie-locations.com/places/usa/florida.php\">Florida</a> and <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>.</p>\n<p>The ‘Florida’ internment camp, where Montana wins his freedom by killing a Castro agent, was constructed under the knot of freeway interchanges at the intersection of <span class=\"name\">I-10</span>, the Santa Monica freeway, and <span class=\"name\">I-110</span>, the Harbor Freeway, downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> behind the <a href=\"http://www.lacclink.com/\" target=\"_blank\">New Los Angeles Convention Center</a>.</p>\n<p>Miami’s ‘Little Havana’ district, where Montana starts out working at the ‘El Paraiso’ lunch stand, was recreated at <span class=\"name\">Little Tokyo</span> in downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>Montana’s arrival in the art deco district of <span class=\"name\">Miami Beach</span> is impossible to fake, though, and was shot on <span class=\"name\">Ocean Drive at 13th Street</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086250/003.jpg\" alt=\"Scarface film location: 728 Ocean Drive, Miami Beach, Florida\"><figcaption>Scarface film location: the \"chainsaw hotel\" today: 728 Ocean Drive, Miami Beach, Florida</figcaption></figure>\n<p>The ‘Sun Ray Apartments’, where Montana’s brother is dismembered by chainsaw, is <span class=\"name\">728 Ocean Drive</span> between the Beacon and Colony hotels near 7th Street. The 1953 classic building was Johnny Rocket's when I had the chance to visit a few years ago. It's since been graced with a plaque commemorating the scene and although much of the rear of the building was demolished to become a CVS pharmacy, the frontage has thankfully been preserved.</p>\n<p>The movie’s two estates, one supposedly in ‘Bolivia’, one in ‘Florida’, are both in the town of <span class=\"name\">Montecito</span>, on the <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> coast a few miles east of <span class=\"name\">Santa Barbara</span>.</p>\n<p>Sosa’s ‘South American’ estate, where Omar (<a href=\"https://www.movie-locations.com/people/a/abrahamfm.php\">F Murray Abraham</a>) is ousted, is <span class=\"name\">Casa Bienvenida, Park Lane</span> at East Valley Road, a rococo Italianate villa designed by architect <span class=\"name\">Addison Mizner</span> for  magnate <span class=\"name\">Alfred E Dieterich</span>.</p>\n<p>Montana’s own ‘Coral Gables’ estate is <span class=\"name\">El Fureidis</span> (‘Little Paradise’), <span class=\"name\">631 Para Grande Lane</span>, a Mediterranean villa set in 10 acres of grounds, built for <span class=\"name\">Waldron Gillespie</span>, a wealthy upstate New Yorker, by <span class=\"name\">Bertram Goodhue</span>. Neither estate is open to the public.</p>\n<p>The luxury hotel grounds, where Montana and pal Manny Ray (<a href=\"https://www.movie-locations.com/people/b/bauers.php\">Steven Bauer</a>) ogle women, are of the <a href=\"https://fontainebleau.com\" target=\"_blank\">Fontainebleau Miami Beach</a>, <span class=\"name\">4441 Collins Avenue</span>. The hotel was famously seen in <a href=\"https://www.movie-locations.com/movies/g/Goldfinger.php\">Goldfinger</a>, and featured in <a href=\"https://www.movie-locations.com/movies/b/Bodyguard.php\">The Bodyguard</a>, with <a href=\"https://www.movie-locations.com/people/h/houstonw.php\">Whitney Houston</a> and <a href=\"https://www.movie-locations.com/people/c/costnerk.php\">Kevin Costner</a>.</p>\n<p>In <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>, the Gothic apartment block of the intended bomb victim is <span class=\"name\">5 Tudor City Place</span> at East 41st Street, which was home to <a href=\"https://www.movie-locations.com/people/h/hankst.php\">Tom Hanks</a> in <span class=\"name\">Splash!</span> and to Norman Osborn in both <a href=\"https://www.movie-locations.com/movies/s/Spider-Man.php\">Spider-Man</a> and <a href=\"https://www.movie-locations.com/movies/s/Spider-Man-2.php\">Spider-Man</a><a href=\"https://www.movie-locations.com/movies/s/Spider-Man.php\"> 2</a>.</p>",
+  "main_content_text": "Another one of those movies where the critics got it totally wrong. Trashed on its first release, Brian de Palma's updating of the old gangster story – it's basically Richard III with coke, scripted by Oliver Stone – is now regarded as a classic.\n\nWhen Cuban leader Fidel Castro opened up the harbour at Mariel in May 1980 to allow 125,000 Cubans to join relatives in the US, he took the opportunity to export some of the country’s toughest criminals. Smalltime thug Tony Montana (Al Pacino) grabs the opportunity to make it as a big-time drug lord.\n\nSet in Miami and Bolivia, the movie’s locations are mostly divided between Florida and California.\n\nThe ‘Florida’ internment camp, where Montana wins his freedom by killing a Castro agent, was constructed under the knot of freeway interchanges at the intersection of I-10, the Santa Monica freeway, and I-110, the Harbor Freeway, downtown Los Angeles behind the New Los Angeles Convention Center.\n\nMiami’s ‘Little Havana’ district, where Montana starts out working at the ‘El Paraiso’ lunch stand, was recreated at Little Tokyo in downtown Los Angeles.\n\nMontana’s arrival in the art deco district of Miami Beach is impossible to fake, though, and was shot on Ocean Drive at 13th Street.\n\nThe ‘Sun Ray Apartments’, where Montana’s brother is dismembered by chainsaw, is 728 Ocean Drive between the Beacon and Colony hotels near 7th Street. The 1953 classic building was Johnny Rocket's when I had the chance to visit a few years ago. It's since been graced with a plaque commemorating the scene and although much of the rear of the building was demolished to become a CVS pharmacy, the frontage has thankfully been preserved.\n\nThe movie’s two estates, one supposedly in ‘Bolivia’, one in ‘Florida’, are both in the town of Montecito, on the California coast a few miles east of Santa Barbara.\n\nSosa’s ‘South American’ estate, where Omar (F Murray Abraham) is ousted, is Casa Bienvenida, Park Lane at East Valley Road, a rococo Italianate villa designed by architect Addison Mizner for magnate Alfred E Dieterich.\n\nMontana’s own ‘Coral Gables’ estate is El Fureidis (‘Little Paradise’), 631 Para Grande Lane, a Mediterranean villa set in 10 acres of grounds, built for Waldron Gillespie, a wealthy upstate New Yorker, by Bertram Goodhue. Neither estate is open to the public.\n\nThe luxury hotel grounds, where Montana and pal Manny Ray (Steven Bauer) ogle women, are of the Fontainebleau Miami Beach, 4441 Collins Avenue. The hotel was famously seen in Goldfinger, and featured in The Bodyguard, with Whitney Houston and Kevin Costner.\n\nIn New York, the Gothic apartment block of the intended bomb victim is 5 Tudor City Place at East 41st Street, which was home to Tom Hanks in Splash! and to Norman Osborn in both Spider-Man and Spider-Man 2.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Scarface film location: the \"chainsaw hotel\" as it was: Johnny Rocket's, 728 Ocean Drive, Miami Beach, Florida",
+      "src": "_assets/tt0086250%20-%20Scarface-1983/001.jpg",
+      "alt": "Scarface film location: Johnny Rocket's, 728 Ocean Drive, Miami Beach, Florida"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another one of those movies where the critics got it totally wrong. Trashed on its first release, Brian de Palma's updating of the old gangster story – it's basically Richard III with coke, scripted by Oliver Stone – is now regarded as a classic."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Cuban leader Fidel Castro opened up the harbour at Mariel in May 1980 to allow 125,000 Cubans to join relatives in the US, he took the opportunity to export some of the country’s toughest criminals. Smalltime thug Tony Montana (Al Pacino) grabs the opportunity to make it as a big-time drug lord."
+    },
+    {
+      "type": "paragraph",
+      "text": "Set in Miami and Bolivia, the movie’s locations are mostly divided between Florida and California."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Florida’ internment camp, where Montana wins his freedom by killing a Castro agent, was constructed under the knot of freeway interchanges at the intersection of I-10, the Santa Monica freeway, and I-110, the Harbor Freeway, downtown Los Angeles behind the New Los Angeles Convention Center."
+    },
+    {
+      "type": "paragraph",
+      "text": "Miami’s ‘Little Havana’ district, where Montana starts out working at the ‘El Paraiso’ lunch stand, was recreated at Little Tokyo in downtown Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Montana’s arrival in the art deco district of Miami Beach is impossible to fake, though, and was shot on Ocean Drive at 13th Street."
+    },
+    {
+      "type": "image",
+      "caption": "Scarface film location: the \"chainsaw hotel\" today: 728 Ocean Drive, Miami Beach, Florida",
+      "src": "_assets/tt0086250%20-%20Scarface-1983/003.jpg",
+      "alt": "Scarface film location: 728 Ocean Drive, Miami Beach, Florida"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Sun Ray Apartments’, where Montana’s brother is dismembered by chainsaw, is 728 Ocean Drive between the Beacon and Colony hotels near 7th Street. The 1953 classic building was Johnny Rocket's when I had the chance to visit a few years ago. It's since been graced with a plaque commemorating the scene and although much of the rear of the building was demolished to become a CVS pharmacy, the frontage has thankfully been preserved."
+    },
+    {
+      "type": "paragraph",
+      "text": "The movie’s two estates, one supposedly in ‘Bolivia’, one in ‘Florida’, are both in the town of Montecito, on the California coast a few miles east of Santa Barbara."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sosa’s ‘South American’ estate, where Omar (F Murray Abraham) is ousted, is Casa Bienvenida, Park Lane at East Valley Road, a rococo Italianate villa designed by architect Addison Mizner for magnate Alfred E Dieterich."
+    },
+    {
+      "type": "paragraph",
+      "text": "Montana’s own ‘Coral Gables’ estate is El Fureidis (‘Little Paradise’), 631 Para Grande Lane, a Mediterranean villa set in 10 acres of grounds, built for Waldron Gillespie, a wealthy upstate New Yorker, by Bertram Goodhue. Neither estate is open to the public."
+    },
+    {
+      "type": "paragraph",
+      "text": "The luxury hotel grounds, where Montana and pal Manny Ray (Steven Bauer) ogle women, are of the Fontainebleau Miami Beach, 4441 Collins Avenue. The hotel was famously seen in Goldfinger, and featured in The Bodyguard, with Whitney Houston and Kevin Costner."
+    },
+    {
+      "type": "paragraph",
+      "text": "In New York, the Gothic apartment block of the intended bomb victim is 5 Tudor City Place at East 41st Street, which was home to Tom Hanks in Splash! and to Norman Osborn in both Spider-Man and Spider-Man 2."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California</h3>\n<p>Visit: California</p>\n</section>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n</section>\n<section><h3>Florida</h3>\n<p>Visit: Florida</p>\n<p>Visit: Miami &amp; The Beaches</p>\n<p>Flights: Miami International Airport, 2100 NW 42nd Avenue , Miami, FL 33126 (tel: 305.876.7000)</p>\n<p>Stay at: the Fontainebleau Miami Beach, 4441 Collins Ave, Miami Beach, FL 33140 (tel: 305.538.2000)</p>\n<p>Visit: Johnny Rocket’s, 728 Ocean Drive, Miami Beach, FL 33139 (tel: 305.531.6258)</p>\n</section>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n</section>",
+  "visit_info_text": "California\nVisit: California\nCalifornia | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nFlorida\nVisit: Florida\nVisit: Miami & The Beaches\nFlights: Miami International Airport, 2100 NW 42nd Avenue , Miami, FL 33126 (tel: 305.876.7000)\nStay at: the Fontainebleau Miami Beach, 4441 Collins Ave, Miami Beach, FL 33140 (tel: 305.538.2000)\nVisit: Johnny Rocket’s, 728 Ocean Drive, Miami Beach, FL 33139 (tel: 305.531.6258)\nNew York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA",
+  "visit_sections": [
+    {
+      "title": "California",
+      "items": [
+        "Visit: California"
+      ]
+    },
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro"
+      ]
+    },
+    {
+      "title": "Florida",
+      "items": [
+        "Visit: Florida",
+        "Visit: Miami & The Beaches",
+        "Flights: Miami International Airport, 2100 NW 42nd Avenue , Miami, FL 33126 (tel: 305.876.7000)",
+        "Stay at: the Fontainebleau Miami Beach, 4441 Collins Ave, Miami Beach, FL 33140 (tel: 305.538.2000)",
+        "Visit: Johnny Rocket’s, 728 Ocean Drive, Miami Beach, FL 33139 (tel: 305.531.6258)"
+      ]
+    },
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA"
+      ]
+    }
+  ]
+}

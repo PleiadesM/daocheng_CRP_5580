@@ -1,0 +1,466 @@
+{
+  "imdb_id": "tt0099685",
+  "shorthand": "Goodfellas",
+  "title": "Goodfellas",
+  "year": 1990,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0099685 - Goodfellas.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0099685 - Goodfellas.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0099685.json",
+  "source_url": "http://www.movie-locations.com/movies/g/Goodfellas.php",
+  "page_title": "Where was Martin Scorsese's Goodfellas filmed?",
+  "meta_description": "Discover the film locations for Martin Scorsese's Goodfellas in New York and New Jersey; including Astoria, Maspeth and Woodside in Queens, and Staten Island",
+  "meta_keywords": "Goodfellas, film locations, martin scorsese, robert de niro, new york, queens, new jersey, astoria, maspeth, woodside, airline diner",
+  "og_title": "Discover the film locations for Martin Scorsese's classic Goodfellas (1990) around Brooklyn, Queens, Manhattan, Staten Island, Long Island and New Jersey.",
+  "og_description": "Discover the film locations for Martin Scorsese's classic Goodfellas (1990) around Brooklyn, Queens, Manhattan, Staten Island, Long Island and New Jersey.",
+  "og_image": "http://www.movie-locations.com/movies/g/goodfellas-meta.jpg",
+  "top250_rank": "24",
+  "movie_locations_title": "GOODFELLAS",
+  "movie_locations_regions": "New York | New Jersey",
+  "director": "Martin Scorsese",
+  "cast": [
+    "Ray Liotta",
+    "Robert de Niro",
+    "Joe Pesci",
+    "Lorraine Bracco",
+    "Paul Sorvino",
+    "Frank Vincent",
+    "Frank Sivero",
+    "Kevin Corrigan",
+    "Samuel L Jackson",
+    "Christopher Serrone",
+    "Beau Starr",
+    "Paul Herman",
+    "Tobin Bell"
+  ],
+  "locations": [
+    "New York;",
+    "New Jersey"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0099685%20-%20Goodfellas/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/002.jpg",
+    "exists": true,
+    "alt": "Goodfellas poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/poster.jpg",
+    "corpus_asset_src": "../assets/tt0099685/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0099685%20-%20Goodfellas/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/001.jpg",
+    "exists": true,
+    "alt": "Goodfellas filming location: 32nd Street, Astoria, Queens",
+    "caption": "Goodfellas filming location: young Henry Hill's home: 32nd Street, Astoria, Queens",
+    "width": 630,
+    "height": 420,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/001.jpg",
+    "corpus_asset_src": "../assets/tt0099685/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0099685%20-%20Goodfellas/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/001.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: 32nd Street, Astoria, Queens",
+      "caption": "Goodfellas filming location: young Henry Hill's home: 32nd Street, Astoria, Queens",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/001.jpg",
+      "corpus_asset_src": "../assets/tt0099685/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/002.jpg",
+      "exists": true,
+      "alt": "Goodfellas poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/002.jpg",
+      "corpus_asset_src": "../assets/tt0099685/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/003.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: Jackson Hole Diner, Astoria Boulevard, Queens",
+      "caption": "Goodfellas filming location: The diner near the airport: Jackson Hole Diner, Astoria Boulevard, Queens",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/003.jpg",
+      "corpus_asset_src": "../assets/tt0099685/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/004.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: Salerno’s Restaurant (now the Tropicana), Hillside Avenue, Richmond Hill, Queens",
+      "caption": "Goodfellas location: The disastrous double date: Salerno’s Restaurant (since closed), Hillside Avenue, Richmond Hill, Queens",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/004.jpg",
+      "corpus_asset_src": "../assets/tt0099685/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/005.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: Salerno’s Restaurant (now the Tropicana), Hillside Avenue, Richmond Hill, Queens",
+      "caption": "Goodfellas location:the site of Salerno’s Restaurant now, Hillside Avenue, Richmond Hill, Queens | Photograph: Google Maps",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/005.jpg",
+      "corpus_asset_src": "../assets/tt0099685/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/006.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: The old Copacabana: 10 East 60th Street, New York",
+      "caption": "Goodfellas filming location: The old Copacabana: 10 East 60th Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/006.jpg",
+      "corpus_asset_src": "../assets/tt0099685/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/007.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: Sogdiana Restaurant, Grand Avenue, Maspeth, Queens",
+      "caption": "Goodfellas filming location: Henry Hill’s ‘Suite Lounge’: Sogdiana Restaurant (now gone), Grand Avenue, Maspeth, Queens",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/007.jpg",
+      "corpus_asset_src": "../assets/tt0099685/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/008.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: Neir's Tavern, 78th Street, Woodhaven",
+      "caption": "Goodfellas filming location: Jimmy Conway plans, and celebrates, the great Lufthansa heist: Neir's Tavern, 78th Street, Woodhaven",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/008.jpg",
+      "corpus_asset_src": "../assets/tt0099685/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/009.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: Neir's Tavern, 78th Street, Woodhaven",
+      "caption": "Goodfellas filming location: Jimmy Conway plans, and celebrates, the great Lufthansa heist: Neir's Tavern, 78th Street, Woodhaven",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/009.jpg",
+      "corpus_asset_src": "../assets/tt0099685/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/010.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: 78th Street, Woodhaven",
+      "caption": "Goodfellas filming location: Henry realises that Jimmy is becoming dangerous: 78th Street, Woodhaven",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/010.jpg",
+      "corpus_asset_src": "../assets/tt0099685/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/011.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: Long Island Railroad tracks on Babbage Street, Richmond Hills, Queens",
+      "caption": "Goodfellas location: bodies in the Cadillac: Long Island Railroad tracks on Babbage Street, Richmond Hills, Queens",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/011.jpg",
+      "corpus_asset_src": "../assets/tt0099685/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/012.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: Goodfellas Diner (Clinton Diner), Maspeth Boulevard, Queens",
+      "caption": "Goodfellas filming location: hearing that Tommy has been whacked: Goodfellas Diner, Maspeth Avenue, Maspeth, Queens",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/012.jpg",
+      "corpus_asset_src": "../assets/tt0099685/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/013.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: Goodfellas Diner (Clinton Diner), Maspeth Boulevard, Queens",
+      "caption": "Goodfellas filming location: hearing that Tommy has been whacked: Goodfellas Diner, Maspeth Avenue, Maspeth, Queens",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/013.jpg",
+      "corpus_asset_src": "../assets/tt0099685/013.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0099685%20-%20Goodfellas/014.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0099685 - Goodfellas/014.jpg",
+      "exists": true,
+      "alt": "Goodfellas filming location: 80th Street, Bay Ridge, Brooklyn",
+      "caption": "Goodfellas filming location: Tommy is taken to be 'made': 80th Street, Bay Ridge, Brooklyn",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0099685/014.jpg",
+      "corpus_asset_src": "../assets/tt0099685/014.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0099685/001.jpg\" alt=\"Goodfellas filming location: 32nd Street, Astoria, Queens\"><figcaption>Goodfellas filming location: young Henry Hill's home: 32nd Street, Astoria, Queens</figcaption></figure>\n<p>“As far back as I can remember, I always wanted to be a gangster” – after one of the greatest openings ever to a movie,  <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Martin Scorsese</a>’s hard-eyed look at the career of wiseguy <span class=\"name\">Henry Hill</span> roars off with frantic energy and a relentless soundtrack alternating schmaltzy ballads and pounding rock.</p>\n<p>The film is shot entirely on location around <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York City</a>, the borough of <span class=\"name\">Queens</span> and <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a>, though not always where it claims to be.</p>\n<p>▶ The ‘Brooklyn’ home of young Henry (<a href=\"https://www.movie-locations.com/people/s/serronec.php\">Christopher Serrone</a>), where he enviously watches the sharp-suited wiseguys from his bedroom window, is <span class=\"name\">24-09 32nd Street</span>, just south of 24th Avenue, <span class=\"name\">Astoria</span>, in <span class=\"name\">Queens</span>.</p>\n<p>In the years since 1990, an awful lot of the locations have closed down or even been demolished. One such is the building opposite the Hill family home, which housed the ‘Pitkin Ave Cab Co’ run by Tuddy Cicero, where Henry gets his first job parking Cadillacs. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0099685/003.jpg\" alt=\"Goodfellas filming location: Jackson Hole Diner, Astoria Boulevard, Queens\"><figcaption>Goodfellas filming location: The diner near the airport: Jackson Hole Diner, Astoria Boulevard, Queens</figcaption></figure>\n<p>▶ The ‘Idlewild Airport’ scenes used the cargo buildings of <span class=\"name\">Kennedy Airport</span>. Idlewild became <span class=\"name\">Kennedy Airport</span> in 1963, but it's near to <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>'s other main airport, <span class=\"name\">LaGuardia</span>, that you’ll find the ‘Airline Diner’, where the grown-up Hill (<a href=\"https://www.movie-locations.com/people/l/liottar.php\">Ray Liotta</a>) and pal Tommy DeVito (<a href=\"https://www.movie-locations.com/people/p/pescij.php\">Joe Pesci</a>) steal a truck.</p>\n<p>It’s now part of the Jackson Hole franchise. Confusingly, but thankfully, it keeps the famous old neon ‘Airline’ sign. You can grab a burger in the classic pink and chrome interior of the <a href=\"http://jacksonholeburgers.com/astoria-blvd-location/\" target=\"_blank\">Jackson Hole Diner</a>, <span class=\"name\">69-35 Astoria Boulevard</span> at 70th Street in <span class=\"name\">Astoria Heights</span>, <span class=\"name\">Queens</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ The kitschy ‘Bamboo Lounge’, where Hill’s narration introduces the local characters and Tommy does his scary “funny guy” turn was the Hawaii Kai Restaurant, which was stood at <span class=\"name\">1638 Broadway</span> at 50th Street in <span class=\"name\">Midtown Manhattan</span>. The sign was still hanging outside long after the restaurant closed, but like the glorious South Seas decor, it’s now only a memory. <a href=\"#1st\">⏏</a></p>\n<p>▶ The exterior of the lounge was an Italian restaurant called Collaro’s, <span class=\"name\">2758 Coney Island Avenue</span> just south of  Avenue Y, near <span class=\"name\">Sheepshead Bay</span> in <span class=\"name\">Brooklyn</span>. It’s since been replaced by a Nissan dealership. <a href=\"#1st\">⏏</a></p>\n<p>As they sit in the car waiting for the doomed restaurant to go up in flames, Tommy talks a reluctant Henry into accompanying him on a double date.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0099685/004.jpg\" alt=\"Goodfellas filming location: Salerno’s Restaurant (now the Tropicana), Hillside Avenue, Richmond Hill, Queens\"><figcaption>Goodfellas location: The disastrous double date: Salerno’s Restaurant (since closed), Hillside Avenue, Richmond Hill, Queens</figcaption></figure>\n<p>▶ Karen (<a href=\"https://www.movie-locations.com/people/b/braccol.php\">Lorraine Bracco</a>) is distinctly unimpressed with Hill on the foursome’s first evening at the since-closed Salerno’s Restaurant, <span class=\"name\">117-11 Hillside Avenue</span> at Myrtle Avenue, <span class=\"name\">Richmond Hill</span>, <span class=\"name\">Queens</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0099685/005.jpg\" alt=\"Goodfellas filming location: Salerno’s Restaurant (now the Tropicana), Hillside Avenue, Richmond Hill, Queens\"><figcaption>Goodfellas location:the site of Salerno’s Restaurant now, Hillside Avenue, Richmond Hill, Queens | Photograph: Google Maps</figcaption></figure>\n<p>I believe it later became an Indian restaurant but now seems to be vacant and looks like it may be turned into apartments. The old Salerno’s can also be glimpsed in <span class=\"name\">Righteous Kill</span>, with <a href=\"https://www.movie-locations.com/people/d/deniror.php\">Robert de Niro</a> and <a href=\"https://www.movie-locations.com/people/p/pacinoa.php\">Al Pacino</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0099685/006.jpg\" alt=\"Goodfellas filming location: The old Copacabana: 10 East 60th Street, New York\"><figcaption>Goodfellas filming location: The old Copacabana: 10 East 60th Street, New York</figcaption></figure>\n<p>▶ But Hill goes on to make a little more of an impression, whisking Karen through the kitchen entrance of the old Copacabana Nightclub, <span class=\"name\">10 East 60th Street</span> at Fifth Avenue in <span class=\"name\">Manhattan</span>. It’s long since closed, but you can still see the entrance used for the electrifying tracking shot. The nightclub was formerly featured in <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Scorsese</a>’s <a href=\"https://www.movie-locations.com/movies/r/Raging-Bull.php\">Raging Bull</a>, and in <a href=\"https://www.movie-locations.com/people/d/depalmab.php\">Brian De Palma</a>’s <a href=\"https://www.movie-locations.com/movies/c/Carlitos-Way.php\">Carlito’s Way</a>.</p>\n<p>The Copacabana closed in 1992 and the premises is now occupied by Greek restaurant <a href=\"http://avrany.com/madison/\" target=\"_blank\">Avra Madison</a>, <span class=\"name\">14 East 60th Street</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ After his first big airport job, Hill relaxes with Karen at the <a href=\"http://www.catalinabeachclub.com\" target=\"_blank\">Catalina Beach Club</a>, <span class=\"name\">2041 Park Street</span> in <span class=\"name\">Atlantic Beach</span> on <span class=\"name\">Long Island</span>’s southwest coast. The pair go on to get married. <a href=\"#1st\">⏏</a></p>\n<p>▶ There’s no shortage of financial gifts at the reception, held at Oriental Manor, <span class=\"name\">1818 86th Street</span>, in <span class=\"name\">Bensonhurst</span>, <span class=\"name\">Brooklyn</span>. The Manor closed in 2007, and the premises is now department store, <span class=\"name\">American Place</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ Hill’s ‘Suite Lounge’, where Billy Batts (<a href=\"https://www.movie-locations.com/people/v/vincentf.php\">Frank Vincent</a>) gets stomped into a bloody pulp after crossing Tommy, to the gentle hippie strains of Donovan’s <span class=\"ital\">Atlantis</span>, was Lido Cabaret (formerly the Spartan Restaurant), <span class=\"name\">73-20 Grand Avenue</span> at 73rd Place, <span class=\"name\">Maspeth</span>, <span class=\"name\">Queens</span>. Although it was still recognisable a few years ago, the building has since been demolished to be replaced by shops and offices. <a href=\"#1st\">⏏</a></p>\n<p>▶ Hill is not a guy to miss out on any of the pleasures afforded his position, including keeping a girlfriend on the side. After Friday night at the Copacabana, he takes his new sweetheart to apartment block <span class=\"name\">The Warrenton, 109-20 71st Road</span> at Queens Boulevard, <span class=\"name\">Forest Hills</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ There’s no ‘Florida’, of course – the ‘Tampa’ zoo, where Hill accompanies the coldly ruthless Jimmy Conway (<a href=\"https://www.movie-locations.com/people/d/deniror.php\">Robert de Niro</a>) as they threaten to feed a debtor to the lions, is <a href=\"http://prospectparkzoo.com\" target=\"_blank\">Prospect Park Zoo</a>, \t<span class=\"name\">450 Flatbush Avenue</span> in <span class=\"name\">Brooklyn</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ After a stint in jail, Henry branches out on his own into a spot of dealing. He and Karen move into a home of glorious eye-swivelling, gold-plated vulgarity at <span class=\"name\">1080 Inwood Terrace</span>, on the corner of Deerwood Road in <span class=\"name\">Fort Lee</span>, <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a>, just over the George Washington Bridge from Manhattan. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0099685/008.jpg\" alt=\"Goodfellas filming location: Neir's Tavern, 78th Street, Woodhaven\"><figcaption>Goodfellas filming location: Jimmy Conway plans, and celebrates, the great Lufthansa heist: Neir's Tavern, 78th Street, Woodhaven</figcaption></figure>\n<p>▶ Jimmy Conway hangs out at <a href=\"http://neirstavern.com\" target=\"_blank\">Neir’s Tavern</a>, <span class=\"name\">87-48 78th Street</span> at 88th Avenue, in <span class=\"name\">Woodhaven</span>, where the ambitious Lufthansa heist is planned.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0099685/009.jpg\" alt=\"Goodfellas filming location: Neir's Tavern, 78th Street, Woodhaven\"><figcaption>Goodfellas filming location: Jimmy Conway plans, and celebrates, the great Lufthansa heist: Neir's Tavern, 78th Street, Woodhaven</figcaption></figure>\n<p>One of the oldest, if not the oldest, bars in <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a>, <a href=\"http://neirstavern.com\" target=\"_blank\">Neir’s</a> opened in 1829 as the Old Blue Pump House, a popular stop for the nearby Union Course Race Track.</p>\n<p>Later becoming the Old Abbey and then Neir’s Social Hall (after being purchased around the turn of the century by <span class=\"name\">Louis Neir</span>), it's now a superb friendly neighbourhood bar which proudly celebrates its <span class=\"name\">Goodfellas</span> connection.</p>\n<p>The tavern has more recently been featured in <a href=\"https://www.movie-locations.com/people/r/ratnerb.php\">Brett Ratner</a>’s 2011 <span class=\"name\">Tower Heist</span>, with <a href=\"https://www.movie-locations.com/people/s/stillerb.php\">Ben Stiller</a> and <a href=\"https://www.movie-locations.com/people/m/murphye.php\">Eddie Murphy</a>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0099685/010.jpg\" alt=\"Goodfellas filming location: 78th Street, Woodhaven\"><figcaption>Goodfellas filming location: Henry realises that Jimmy is becoming dangerous: 78th Street, Woodhaven</figcaption></figure>\n<p>It’s in <a href=\"http://neirstavern.com\" target=\"_blank\">Neir’s</a> that Jimmy flips out at the post-heist party when he discovers that his co-conspirators have been splashing out their new-found cash, which is not good news. As they walk along <span class=\"name\">78th Street</span> toward the bar, Henry realises that Jimmy is planning to get rid of all of his problems.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0099685/011.jpg\" alt=\"Goodfellas filming location: Long Island Railroad tracks on Babbage Street, Richmond Hills, Queens\"><figcaption>Goodfellas location: bodies in the Cadillac: Long Island Railroad tracks on Babbage Street, Richmond Hills, Queens</figcaption></figure>\n<p>▶ As Jimmy cuts the links between himself and the airline robbery, bodies start to turn up all over. Kids discover the bloody couple in a pink Cadillac under the trestle of the Long Island Railroad tracks on <span class=\"name\">Babbage Street</span> – which is right alongside Salerno’s restaurant in <span class=\"name\">Richmond Hills</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ Down in the <span class=\"name\">Meatpacking District</span>, the body of Frankie Carbone (<a href=\"https://www.movie-locations.com/people/s/siverof.php\">Frank Sivero</a>) is discovered deep frozen in a refrigerated meat truck on <span class=\"name\">Washington Street at Little West 12th Street</span>. Gentrification has seen the street transformed into a row of upscale restaurants. <a href=\"#1st\">⏏</a></p>\n<p>▶ Henry and Jimmy meet up in the ‘Sherwood Diner’ to wait for the news of Tommy, who’s to become a ‘Made Man’. The Sherwood is a real diner on Rockaway Turnpike in Lawrence, where the events actually happened, but the film uses what was the Clinton Diner, which was sensibly renamed <span class=\"name\">Goodfellas Diner</span>, <span class=\"name\">56-26 Maspeth Avenue, Maspeth</span> in <span class=\"name\">Queens</span>. The diner was damaged by a fire just a few days before my visit in June 2018 and was boarded up as you can see. There were plans for it to reopen but, as of 2026, according to Google Maps, nothing seems to have changed but the proliferation of graffiti.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0099685/013.jpg\" alt=\"Goodfellas filming location: Goodfellas Diner (Clinton Diner), Maspeth Boulevard, Queens\"><figcaption>Goodfellas filming location: hearing that Tommy has been whacked: Goodfellas Diner, Maspeth Avenue, Maspeth, Queens</figcaption></figure>\n<p>The news for Jimmy turned out not to be good, either, and it was outside this diner that he took out his rage on a payphone. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0099685/014.jpg\" alt=\"Goodfellas filming location: 80th Street, Bay Ridge, Brooklyn\"><figcaption>Goodfellas filming location: Tommy is taken to be 'made': 80th Street, Bay Ridge, Brooklyn</figcaption></figure>\n<p>▶ The rather florid house with the sunken garage alongside, where Tommy discovers too late that he’s been set up, is <span class=\"name\">5 80th Street</span>, at Shore Road, in <span class=\"name\">Bay Ridge, Brooklyn</span>. It's only a few blocks from Tony Manero's home from <a href=\"https://www.movie-locations.com/movies/s/Saturday-Night-Fever.php\">Saturday Night Fever</a>. <a href=\"#1st\">⏏</a></p>\n<p>▶ Increasingly slipping into coke-addled paranoia, Henry delivers unwanted guns to Jimmy at his house, <span class=\"name\">94-24 220th Street</span> at 94th Road, <span class=\"name\">Jamaica</span>, in <span class=\"name\">Queens</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ The shopping mall where Hill makes a jittery phone call about being followed by a ’copter, is <span class=\"name\">Pergament Mall</span>, <span class=\"name\">Richmond Avenue, Staten Island</span>, which is pretty much still recognisable. <a href=\"#1st\">⏏</a></p>\n<p>It turns out that the ’copter is not a symptom of Hill’s paranoia after all as he finds himself busted.</p>\n<p>▶ The restaurant kitchen where he goes to plead for help from Paulie Cicero (<a href=\"https://www.movie-locations.com/people/s/sorvinop.php\">Paul Sorvino</a>) was Martin’s Bar &amp; Grill, <span class=\"name\">228 West Houston Street</span> at Varick Street in the <span class=\"name\">West Village</span>. There are no more of Paulie’s sausages being served up here – it’s now a branch of <span class=\"name\">Subway</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ Karen’s edgy meeting with the increasingly paranoid Jimmy Conway was filmed on <span class=\"name\">Smith Street</span> at <span class=\"name\">9th Street</span>, alongside the Gowanus Canal, under the elevated railway F Line in Brooklyn’s dodgy <span class=\"name\">Red Hook</span> district. <a href=\"#1st\">⏏</a></p>\n<p>▶ Henry Hill’s trial, where he finally informs on Jimmy and boss Paulie, was filmed in <span class=\"name\">New York County Courthouse, 60 Centre Street</span>. <a href=\"#1st\">⏏</a></p>",
+  "main_content_text": "“As far back as I can remember, I always wanted to be a gangster” – after one of the greatest openings ever to a movie, Martin Scorsese’s hard-eyed look at the career of wiseguy Henry Hill roars off with frantic energy and a relentless soundtrack alternating schmaltzy ballads and pounding rock.\n\nThe film is shot entirely on location around New York City, the borough of Queens and New Jersey, though not always where it claims to be.\n\n▶ The ‘Brooklyn’ home of young Henry (Christopher Serrone), where he enviously watches the sharp-suited wiseguys from his bedroom window, is 24-09 32nd Street, just south of 24th Avenue, Astoria, in Queens.\n\nIn the years since 1990, an awful lot of the locations have closed down or even been demolished. One such is the building opposite the Hill family home, which housed the ‘Pitkin Ave Cab Co’ run by Tuddy Cicero, where Henry gets his first job parking Cadillacs. ⏏\n\n▶ The ‘Idlewild Airport’ scenes used the cargo buildings of Kennedy Airport. Idlewild became Kennedy Airport in 1963, but it's near to New York's other main airport, LaGuardia, that you’ll find the ‘Airline Diner’, where the grown-up Hill (Ray Liotta) and pal Tommy DeVito (Joe Pesci) steal a truck.\n\nIt’s now part of the Jackson Hole franchise. Confusingly, but thankfully, it keeps the famous old neon ‘Airline’ sign. You can grab a burger in the classic pink and chrome interior of the Jackson Hole Diner, 69-35 Astoria Boulevard at 70th Street in Astoria Heights, Queens. ⏏\n\n▶ The kitschy ‘Bamboo Lounge’, where Hill’s narration introduces the local characters and Tommy does his scary “funny guy” turn was the Hawaii Kai Restaurant, which was stood at 1638 Broadway at 50th Street in Midtown Manhattan. The sign was still hanging outside long after the restaurant closed, but like the glorious South Seas decor, it’s now only a memory. ⏏\n\n▶ The exterior of the lounge was an Italian restaurant called Collaro’s, 2758 Coney Island Avenue just south of Avenue Y, near Sheepshead Bay in Brooklyn. It’s since been replaced by a Nissan dealership. ⏏\n\nAs they sit in the car waiting for the doomed restaurant to go up in flames, Tommy talks a reluctant Henry into accompanying him on a double date.\n\n▶ Karen (Lorraine Bracco) is distinctly unimpressed with Hill on the foursome’s first evening at the since-closed Salerno’s Restaurant, 117-11 Hillside Avenue at Myrtle Avenue, Richmond Hill, Queens.\n\nI believe it later became an Indian restaurant but now seems to be vacant and looks like it may be turned into apartments. The old Salerno’s can also be glimpsed in Righteous Kill, with Robert de Niro and Al Pacino. ⏏\n\n▶ But Hill goes on to make a little more of an impression, whisking Karen through the kitchen entrance of the old Copacabana Nightclub, 10 East 60th Street at Fifth Avenue in Manhattan. It’s long since closed, but you can still see the entrance used for the electrifying tracking shot. The nightclub was formerly featured in Scorsese’s Raging Bull, and in Brian De Palma’s Carlito’s Way.\n\nThe Copacabana closed in 1992 and the premises is now occupied by Greek restaurant Avra Madison, 14 East 60th Street. ⏏\n\n▶ After his first big airport job, Hill relaxes with Karen at the Catalina Beach Club, 2041 Park Street in Atlantic Beach on Long Island’s southwest coast. The pair go on to get married. ⏏\n\n▶ There’s no shortage of financial gifts at the reception, held at Oriental Manor, 1818 86th Street, in Bensonhurst, Brooklyn. The Manor closed in 2007, and the premises is now department store, American Place. ⏏\n\n▶ Hill’s ‘Suite Lounge’, where Billy Batts (Frank Vincent) gets stomped into a bloody pulp after crossing Tommy, to the gentle hippie strains of Donovan’s Atlantis, was Lido Cabaret (formerly the Spartan Restaurant), 73-20 Grand Avenue at 73rd Place, Maspeth, Queens. Although it was still recognisable a few years ago, the building has since been demolished to be replaced by shops and offices. ⏏\n\n▶ Hill is not a guy to miss out on any of the pleasures afforded his position, including keeping a girlfriend on the side. After Friday night at the Copacabana, he takes his new sweetheart to apartment block The Warrenton, 109-20 71st Road at Queens Boulevard, Forest Hills. ⏏\n\n▶ There’s no ‘Florida’, of course – the ‘Tampa’ zoo, where Hill accompanies the coldly ruthless Jimmy Conway (Robert de Niro) as they threaten to feed a debtor to the lions, is Prospect Park Zoo, 450 Flatbush Avenue in Brooklyn. ⏏\n\n▶ After a stint in jail, Henry branches out on his own into a spot of dealing. He and Karen move into a home of glorious eye-swivelling, gold-plated vulgarity at 1080 Inwood Terrace, on the corner of Deerwood Road in Fort Lee, New Jersey, just over the George Washington Bridge from Manhattan. ⏏\n\n▶ Jimmy Conway hangs out at Neir’s Tavern, 87-48 78th Street at 88th Avenue, in Woodhaven, where the ambitious Lufthansa heist is planned.\n\nOne of the oldest, if not the oldest, bars in New York, Neir’s opened in 1829 as the Old Blue Pump House, a popular stop for the nearby Union Course Race Track.\n\nLater becoming the Old Abbey and then Neir’s Social Hall (after being purchased around the turn of the century by Louis Neir), it's now a superb friendly neighbourhood bar which proudly celebrates its Goodfellas connection.\n\nThe tavern has more recently been featured in Brett Ratner’s 2011 Tower Heist, with Ben Stiller and Eddie Murphy. ⏏\n\nIt’s in Neir’s that Jimmy flips out at the post-heist party when he discovers that his co-conspirators have been splashing out their new-found cash, which is not good news. As they walk along 78th Street toward the bar, Henry realises that Jimmy is planning to get rid of all of his problems.\n\n▶ As Jimmy cuts the links between himself and the airline robbery, bodies start to turn up all over. Kids discover the bloody couple in a pink Cadillac under the trestle of the Long Island Railroad tracks on Babbage Street – which is right alongside Salerno’s restaurant in Richmond Hills. ⏏\n\n▶ Down in the Meatpacking District, the body of Frankie Carbone (Frank Sivero) is discovered deep frozen in a refrigerated meat truck on Washington Street at Little West 12th Street. Gentrification has seen the street transformed into a row of upscale restaurants. ⏏\n\n▶ Henry and Jimmy meet up in the ‘Sherwood Diner’ to wait for the news of Tommy, who’s to become a ‘Made Man’. The Sherwood is a real diner on Rockaway Turnpike in Lawrence, where the events actually happened, but the film uses what was the Clinton Diner, which was sensibly renamed Goodfellas Diner, 56-26 Maspeth Avenue, Maspeth in Queens. The diner was damaged by a fire just a few days before my visit in June 2018 and was boarded up as you can see. There were plans for it to reopen but, as of 2026, according to Google Maps, nothing seems to have changed but the proliferation of graffiti.\n\nThe news for Jimmy turned out not to be good, either, and it was outside this diner that he took out his rage on a payphone. ⏏\n\n▶ The rather florid house with the sunken garage alongside, where Tommy discovers too late that he’s been set up, is 5 80th Street, at Shore Road, in Bay Ridge, Brooklyn. It's only a few blocks from Tony Manero's home from Saturday Night Fever. ⏏\n\n▶ Increasingly slipping into coke-addled paranoia, Henry delivers unwanted guns to Jimmy at his house, 94-24 220th Street at 94th Road, Jamaica, in Queens. ⏏\n\n▶ The shopping mall where Hill makes a jittery phone call about being followed by a ’copter, is Pergament Mall, Richmond Avenue, Staten Island, which is pretty much still recognisable. ⏏\n\nIt turns out that the ’copter is not a symptom of Hill’s paranoia after all as he finds himself busted.\n\n▶ The restaurant kitchen where he goes to plead for help from Paulie Cicero (Paul Sorvino) was Martin’s Bar & Grill, 228 West Houston Street at Varick Street in the West Village. There are no more of Paulie’s sausages being served up here – it’s now a branch of Subway. ⏏\n\n▶ Karen’s edgy meeting with the increasingly paranoid Jimmy Conway was filmed on Smith Street at 9th Street, alongside the Gowanus Canal, under the elevated railway F Line in Brooklyn’s dodgy Red Hook district. ⏏\n\n▶ Henry Hill’s trial, where he finally informs on Jimmy and boss Paulie, was filmed in New York County Courthouse, 60 Centre Street. ⏏",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Goodfellas filming location: young Henry Hill's home: 32nd Street, Astoria, Queens",
+      "src": "_assets/tt0099685%20-%20Goodfellas/001.jpg",
+      "alt": "Goodfellas filming location: 32nd Street, Astoria, Queens"
+    },
+    {
+      "type": "paragraph",
+      "text": "“As far back as I can remember, I always wanted to be a gangster” – after one of the greatest openings ever to a movie, Martin Scorsese’s hard-eyed look at the career of wiseguy Henry Hill roars off with frantic energy and a relentless soundtrack alternating schmaltzy ballads and pounding rock."
+    },
+    {
+      "type": "paragraph",
+      "text": "The film is shot entirely on location around New York City, the borough of Queens and New Jersey, though not always where it claims to be."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The ‘Brooklyn’ home of young Henry (Christopher Serrone), where he enviously watches the sharp-suited wiseguys from his bedroom window, is 24-09 32nd Street, just south of 24th Avenue, Astoria, in Queens."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the years since 1990, an awful lot of the locations have closed down or even been demolished. One such is the building opposite the Hill family home, which housed the ‘Pitkin Ave Cab Co’ run by Tuddy Cicero, where Henry gets his first job parking Cadillacs. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Goodfellas filming location: The diner near the airport: Jackson Hole Diner, Astoria Boulevard, Queens",
+      "src": "_assets/tt0099685%20-%20Goodfellas/003.jpg",
+      "alt": "Goodfellas filming location: Jackson Hole Diner, Astoria Boulevard, Queens"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The ‘Idlewild Airport’ scenes used the cargo buildings of Kennedy Airport. Idlewild became Kennedy Airport in 1963, but it's near to New York's other main airport, LaGuardia, that you’ll find the ‘Airline Diner’, where the grown-up Hill (Ray Liotta) and pal Tommy DeVito (Joe Pesci) steal a truck."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s now part of the Jackson Hole franchise. Confusingly, but thankfully, it keeps the famous old neon ‘Airline’ sign. You can grab a burger in the classic pink and chrome interior of the Jackson Hole Diner, 69-35 Astoria Boulevard at 70th Street in Astoria Heights, Queens. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The kitschy ‘Bamboo Lounge’, where Hill’s narration introduces the local characters and Tommy does his scary “funny guy” turn was the Hawaii Kai Restaurant, which was stood at 1638 Broadway at 50th Street in Midtown Manhattan. The sign was still hanging outside long after the restaurant closed, but like the glorious South Seas decor, it’s now only a memory. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The exterior of the lounge was an Italian restaurant called Collaro’s, 2758 Coney Island Avenue just south of Avenue Y, near Sheepshead Bay in Brooklyn. It’s since been replaced by a Nissan dealership. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "As they sit in the car waiting for the doomed restaurant to go up in flames, Tommy talks a reluctant Henry into accompanying him on a double date."
+    },
+    {
+      "type": "image",
+      "caption": "Goodfellas location: The disastrous double date: Salerno’s Restaurant (since closed), Hillside Avenue, Richmond Hill, Queens",
+      "src": "_assets/tt0099685%20-%20Goodfellas/004.jpg",
+      "alt": "Goodfellas filming location: Salerno’s Restaurant (now the Tropicana), Hillside Avenue, Richmond Hill, Queens"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Karen (Lorraine Bracco) is distinctly unimpressed with Hill on the foursome’s first evening at the since-closed Salerno’s Restaurant, 117-11 Hillside Avenue at Myrtle Avenue, Richmond Hill, Queens."
+    },
+    {
+      "type": "image",
+      "caption": "Goodfellas location:the site of Salerno’s Restaurant now, Hillside Avenue, Richmond Hill, Queens | Photograph: Google Maps",
+      "src": "_assets/tt0099685%20-%20Goodfellas/005.jpg",
+      "alt": "Goodfellas filming location: Salerno’s Restaurant (now the Tropicana), Hillside Avenue, Richmond Hill, Queens"
+    },
+    {
+      "type": "paragraph",
+      "text": "I believe it later became an Indian restaurant but now seems to be vacant and looks like it may be turned into apartments. The old Salerno’s can also be glimpsed in Righteous Kill, with Robert de Niro and Al Pacino. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Goodfellas filming location: The old Copacabana: 10 East 60th Street, New York",
+      "src": "_assets/tt0099685%20-%20Goodfellas/006.jpg",
+      "alt": "Goodfellas filming location: The old Copacabana: 10 East 60th Street, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ But Hill goes on to make a little more of an impression, whisking Karen through the kitchen entrance of the old Copacabana Nightclub, 10 East 60th Street at Fifth Avenue in Manhattan. It’s long since closed, but you can still see the entrance used for the electrifying tracking shot. The nightclub was formerly featured in Scorsese’s Raging Bull, and in Brian De Palma’s Carlito’s Way."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Copacabana closed in 1992 and the premises is now occupied by Greek restaurant Avra Madison, 14 East 60th Street. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ After his first big airport job, Hill relaxes with Karen at the Catalina Beach Club, 2041 Park Street in Atlantic Beach on Long Island’s southwest coast. The pair go on to get married. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ There’s no shortage of financial gifts at the reception, held at Oriental Manor, 1818 86th Street, in Bensonhurst, Brooklyn. The Manor closed in 2007, and the premises is now department store, American Place. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Hill’s ‘Suite Lounge’, where Billy Batts (Frank Vincent) gets stomped into a bloody pulp after crossing Tommy, to the gentle hippie strains of Donovan’s Atlantis, was Lido Cabaret (formerly the Spartan Restaurant), 73-20 Grand Avenue at 73rd Place, Maspeth, Queens. Although it was still recognisable a few years ago, the building has since been demolished to be replaced by shops and offices. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Hill is not a guy to miss out on any of the pleasures afforded his position, including keeping a girlfriend on the side. After Friday night at the Copacabana, he takes his new sweetheart to apartment block The Warrenton, 109-20 71st Road at Queens Boulevard, Forest Hills. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ There’s no ‘Florida’, of course – the ‘Tampa’ zoo, where Hill accompanies the coldly ruthless Jimmy Conway (Robert de Niro) as they threaten to feed a debtor to the lions, is Prospect Park Zoo, 450 Flatbush Avenue in Brooklyn. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ After a stint in jail, Henry branches out on his own into a spot of dealing. He and Karen move into a home of glorious eye-swivelling, gold-plated vulgarity at 1080 Inwood Terrace, on the corner of Deerwood Road in Fort Lee, New Jersey, just over the George Washington Bridge from Manhattan. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Goodfellas filming location: Jimmy Conway plans, and celebrates, the great Lufthansa heist: Neir's Tavern, 78th Street, Woodhaven",
+      "src": "_assets/tt0099685%20-%20Goodfellas/008.jpg",
+      "alt": "Goodfellas filming location: Neir's Tavern, 78th Street, Woodhaven"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Jimmy Conway hangs out at Neir’s Tavern, 87-48 78th Street at 88th Avenue, in Woodhaven, where the ambitious Lufthansa heist is planned."
+    },
+    {
+      "type": "image",
+      "caption": "Goodfellas filming location: Jimmy Conway plans, and celebrates, the great Lufthansa heist: Neir's Tavern, 78th Street, Woodhaven",
+      "src": "_assets/tt0099685%20-%20Goodfellas/009.jpg",
+      "alt": "Goodfellas filming location: Neir's Tavern, 78th Street, Woodhaven"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the oldest, if not the oldest, bars in New York, Neir’s opened in 1829 as the Old Blue Pump House, a popular stop for the nearby Union Course Race Track."
+    },
+    {
+      "type": "paragraph",
+      "text": "Later becoming the Old Abbey and then Neir’s Social Hall (after being purchased around the turn of the century by Louis Neir), it's now a superb friendly neighbourhood bar which proudly celebrates its Goodfellas connection."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tavern has more recently been featured in Brett Ratner’s 2011 Tower Heist, with Ben Stiller and Eddie Murphy. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Goodfellas filming location: Henry realises that Jimmy is becoming dangerous: 78th Street, Woodhaven",
+      "src": "_assets/tt0099685%20-%20Goodfellas/010.jpg",
+      "alt": "Goodfellas filming location: 78th Street, Woodhaven"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s in Neir’s that Jimmy flips out at the post-heist party when he discovers that his co-conspirators have been splashing out their new-found cash, which is not good news. As they walk along 78th Street toward the bar, Henry realises that Jimmy is planning to get rid of all of his problems."
+    },
+    {
+      "type": "image",
+      "caption": "Goodfellas location: bodies in the Cadillac: Long Island Railroad tracks on Babbage Street, Richmond Hills, Queens",
+      "src": "_assets/tt0099685%20-%20Goodfellas/011.jpg",
+      "alt": "Goodfellas filming location: Long Island Railroad tracks on Babbage Street, Richmond Hills, Queens"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ As Jimmy cuts the links between himself and the airline robbery, bodies start to turn up all over. Kids discover the bloody couple in a pink Cadillac under the trestle of the Long Island Railroad tracks on Babbage Street – which is right alongside Salerno’s restaurant in Richmond Hills. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Down in the Meatpacking District, the body of Frankie Carbone (Frank Sivero) is discovered deep frozen in a refrigerated meat truck on Washington Street at Little West 12th Street. Gentrification has seen the street transformed into a row of upscale restaurants. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Henry and Jimmy meet up in the ‘Sherwood Diner’ to wait for the news of Tommy, who’s to become a ‘Made Man’. The Sherwood is a real diner on Rockaway Turnpike in Lawrence, where the events actually happened, but the film uses what was the Clinton Diner, which was sensibly renamed Goodfellas Diner, 56-26 Maspeth Avenue, Maspeth in Queens. The diner was damaged by a fire just a few days before my visit in June 2018 and was boarded up as you can see. There were plans for it to reopen but, as of 2026, according to Google Maps, nothing seems to have changed but the proliferation of graffiti."
+    },
+    {
+      "type": "image",
+      "caption": "Goodfellas filming location: hearing that Tommy has been whacked: Goodfellas Diner, Maspeth Avenue, Maspeth, Queens",
+      "src": "_assets/tt0099685%20-%20Goodfellas/013.jpg",
+      "alt": "Goodfellas filming location: Goodfellas Diner (Clinton Diner), Maspeth Boulevard, Queens"
+    },
+    {
+      "type": "paragraph",
+      "text": "The news for Jimmy turned out not to be good, either, and it was outside this diner that he took out his rage on a payphone. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Goodfellas filming location: Tommy is taken to be 'made': 80th Street, Bay Ridge, Brooklyn",
+      "src": "_assets/tt0099685%20-%20Goodfellas/014.jpg",
+      "alt": "Goodfellas filming location: 80th Street, Bay Ridge, Brooklyn"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The rather florid house with the sunken garage alongside, where Tommy discovers too late that he’s been set up, is 5 80th Street, at Shore Road, in Bay Ridge, Brooklyn. It's only a few blocks from Tony Manero's home from Saturday Night Fever. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Increasingly slipping into coke-addled paranoia, Henry delivers unwanted guns to Jimmy at his house, 94-24 220th Street at 94th Road, Jamaica, in Queens. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The shopping mall where Hill makes a jittery phone call about being followed by a ’copter, is Pergament Mall, Richmond Avenue, Staten Island, which is pretty much still recognisable. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "It turns out that the ’copter is not a symptom of Hill’s paranoia after all as he finds himself busted."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The restaurant kitchen where he goes to plead for help from Paulie Cicero (Paul Sorvino) was Martin’s Bar & Grill, 228 West Houston Street at Varick Street in the West Village. There are no more of Paulie’s sausages being served up here – it’s now a branch of Subway. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Karen’s edgy meeting with the increasingly paranoid Jimmy Conway was filmed on Smith Street at 9th Street, alongside the Gowanus Canal, under the elevated railway F Line in Brooklyn’s dodgy Red Hook district. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Henry Hill’s trial, where he finally informs on Jimmy and boss Paulie, was filmed in New York County Courthouse, 60 Centre Street. ⏏"
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n<p>Visit: the Jackson Hole Diner, 69-35 Astoria Boulevard, Jackson Heights, NY 11370 (tel: 718.204.7070)</p>\n<p>Visit: Prospect Park Zoo, 450 Flatbush Avenue, Brooklyn, NY 11225 (tel: 718.399.7339)</p>\n<p>Visit: Neir’s Tavern, 87-48 78th Street, Woodhaven, NY 11421 (tel: 718.296.0600)</p>\n<p>Visit: Goodfellas Diner, 56-26 Maspeth Avenue, Maspeth, NY11378 (tel: 718.894.1566)</p>\n</section>\n<section><h3>New Jersey</h3>\n<p>Visit: New Jersey</p>\n<p>Visit: the Catalina Beach Club, 2041 Park Street, Atlantic Beach, NY 11509 (tel: 516.239.2150)</p>\n</section>",
+  "visit_info_text": "New York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nVisit: the Jackson Hole Diner, 69-35 Astoria Boulevard, Jackson Heights, NY 11370 (tel: 718.204.7070)\nVisit: Prospect Park Zoo, 450 Flatbush Avenue, Brooklyn, NY 11225 (tel: 718.399.7339)\nVisit: Neir’s Tavern, 87-48 78th Street, Woodhaven, NY 11421 (tel: 718.296.0600)\nVisit: Goodfellas Diner, 56-26 Maspeth Avenue, Maspeth, NY11378 (tel: 718.894.1566)\nNew Jersey\nVisit: New Jersey\nVisit: the Catalina Beach Club, 2041 Park Street, Atlantic Beach, NY 11509 (tel: 516.239.2150)",
+  "visit_sections": [
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA",
+        "Visit: the Jackson Hole Diner, 69-35 Astoria Boulevard, Jackson Heights, NY 11370 (tel: 718.204.7070)",
+        "Visit: Prospect Park Zoo, 450 Flatbush Avenue, Brooklyn, NY 11225 (tel: 718.399.7339)",
+        "Visit: Neir’s Tavern, 87-48 78th Street, Woodhaven, NY 11421 (tel: 718.296.0600)",
+        "Visit: Goodfellas Diner, 56-26 Maspeth Avenue, Maspeth, NY11378 (tel: 718.894.1566)"
+      ]
+    },
+    {
+      "title": "New Jersey",
+      "items": [
+        "Visit: New Jersey",
+        "Visit: the Catalina Beach Club, 2041 Park Street, Atlantic Beach, NY 11509 (tel: 516.239.2150)"
+      ]
+    }
+  ]
+}

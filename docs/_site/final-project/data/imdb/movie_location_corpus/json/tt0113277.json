@@ -1,0 +1,612 @@
+{
+  "imdb_id": "tt0113277",
+  "shorthand": "Heat",
+  "title": "Heat",
+  "year": 1995,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0113277 - Heat.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0113277 - Heat.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0113277.json",
+  "source_url": "http://www.movie-locations.com/movies/h/Heat.php",
+  "page_title": "Heat | Film Locations",
+  "meta_description": "Filming locations for Michael Mann's classic Heat (1995), around Los Angeles, including Los Angeles International Airport, Downtown LA, Downey, Santa Monica, Venice Beach, Beverly Hills, Redondo Beach and Burbank.",
+  "meta_keywords": "Heat, film locations, filming locations, travel, tourism, set-jetting, los angeles, hollywood, downtown, los angeles international airport, hilton hotel, lax, santa monica, blue room, burbank, bob's big boy, kate mantilini, beverly hills, redondo beach, marine redondo station",
+  "og_title": "Filming Locations for Michael Mann's Heat (1995), with Al Pacino and Robert De Niro, around Los Angeles",
+  "og_description": "Filming locations for Michael Mann's classic Heat (1995), around Los Angeles, including Los Angeles International Airport, Downtown LA, Downey, Santa Monica, Venice Beach, Beverly Hills, Redondo Beach and Burbank.",
+  "og_image": "http://www.movie-locations.com/movies/h/heat-meta.jpg",
+  "top250_rank": "130",
+  "movie_locations_title": "HEAT",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Michael Mann",
+  "cast": [
+    "Robert De Niro",
+    "Al Pacino",
+    "Val Kilmer",
+    "Amy Brenneman",
+    "Jon Voight",
+    "Tom Sizemore",
+    "Wes Studi",
+    "Mykelti Williamson",
+    "Diane Venora",
+    "Dennis Haysbert",
+    "Danny Trejo",
+    "Hank Azaria",
+    "Ted Levine",
+    "Kevin Gage",
+    "Natalie Portman",
+    "William Fichtner",
+    "Ashley Judd",
+    "Hazelle Goodman",
+    "Jeremy Piven",
+    "Xander Berkeley",
+    "Paul Herman",
+    "Bud Cort"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0113277%20-%20Heat/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/002.jpg",
+    "exists": true,
+    "alt": "Heat poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/poster.jpg",
+    "corpus_asset_src": "../assets/tt0113277/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0113277%20-%20Heat/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/001.jpg",
+    "exists": true,
+    "alt": "Heat filming location: Marine-Redondo Station, Metro Green Line, Los Angeles",
+    "caption": "Heat filming location: McCauley heads to the hospital: Marine-Redondo, Metro Green Line, Los Angeles",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/001.jpg",
+    "corpus_asset_src": "../assets/tt0113277/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0113277%20-%20Heat/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/001.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Marine-Redondo Station, Metro Green Line, Los Angeles",
+      "caption": "Heat filming location: McCauley heads to the hospital: Marine-Redondo, Metro Green Line, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/001.jpg",
+      "corpus_asset_src": "../assets/tt0113277/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/002.jpg",
+      "exists": true,
+      "alt": "Heat poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/002.jpg",
+      "corpus_asset_src": "../assets/tt0113277/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/003.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Venice Boulevard, Downtown Los Angeles",
+      "caption": "Heat filming location: the security truck robbery: Venice Boulevard, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/003.jpg",
+      "corpus_asset_src": "../assets/tt0113277/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/004.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Venice Boulevard, Downtown Los Angeles",
+      "caption": "Heat filming location: the security truck robbery: Venice Boulevard, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/004.jpg",
+      "corpus_asset_src": "../assets/tt0113277/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/005.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Broadway Deli, Third Street, Santa Monica, Los Angeles",
+      "caption": "Heat filming location: Amy Brenneman comes on to Robert de Niro: Broadway Deli, Third Street, Santa Monica, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/005.jpg",
+      "corpus_asset_src": "../assets/tt0113277/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/006.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Factory Place, Arts District, Downtown Los Angeles",
+      "caption": "Heat filming location: the aborted metals repository robbery: Factory Place, Arts District, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/006.jpg",
+      "corpus_asset_src": "../assets/tt0113277/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/007.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Factory Place, Arts District, Downtown Los Angeles",
+      "caption": "Heat filming location: Cheritto climbs the utility pole to deactivate the security system: Factory Place, Arts District, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/007.jpg",
+      "corpus_asset_src": "../assets/tt0113277/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/008.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Kate Mantilini, Wilshire Boulevard, Beverly Hills",
+      "caption": "Heat filming location: The confrontation between Hannah and McCauley: Kate Mantilini, Wilshire Boulevard, Beverly Hills",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/008.jpg",
+      "corpus_asset_src": "../assets/tt0113277/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/009.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Kate Mantilini, Wilshire Boulevard, Beverly Hills",
+      "caption": "Heat filming location: The confrontation between Hannah and McCauley: Kate Mantilini Restaurant (closed), Wilshire Boulevard, Beverly Hills | Photograph: Greg",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/009.jpg",
+      "corpus_asset_src": "../assets/tt0113277/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/010.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Kitchen, Bob's Big Boy, Riverside Drive, Burbank",
+      "caption": "Heat filming location: McCauley recruits Breedan: Bob's Big Boy, Riverside Drive, Burbank",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/010.jpg",
+      "corpus_asset_src": "../assets/tt0113277/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/011.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Bob's Big Boy, Riverside Drive, Burbank",
+      "caption": "Heat filming location: the restaurant's famous sign: Bob's Big Boy, Riverside Drive, Burbank",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/011.jpg",
+      "corpus_asset_src": "../assets/tt0113277/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/012.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Bob's Big Boy, Riverside Drive, Burbank",
+      "caption": "Heat filming location: McCauley points out Breedan: Bob's Big Boy, Riverside Drive, Burbank",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/012.jpg",
+      "corpus_asset_src": "../assets/tt0113277/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/013.jpg",
+      "exists": true,
+      "alt": "Heat filming location: South Flower Street, Downtown Los Angeles",
+      "caption": "Heat filming location: the big bank robbery: South Flower Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/013.jpg",
+      "corpus_asset_src": "../assets/tt0113277/013.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/014.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/014.jpg",
+      "exists": true,
+      "alt": "Heat filming location: West Fifth Street, Downtown Los Angeles",
+      "caption": "Heat filming location: the shoot-out: West Fifth Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/014.jpg",
+      "corpus_asset_src": "../assets/tt0113277/014.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/015.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/015.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Union Bank Plaza, Fourth Street, Downtown Los Angeles",
+      "caption": "Heat filming location: Cheritto takes a girl hostage: Union Bank Plaza, Fourth Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/015.jpg",
+      "corpus_asset_src": "../assets/tt0113277/015.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/016.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/016.jpg",
+      "exists": true,
+      "alt": "Heat filming location: The Blue Room, San Fernando Road, Burbank",
+      "caption": "Heat filming location: McCauley calls Nate: The Blue Room, San Fernando Road, Burbank",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/016.jpg",
+      "corpus_asset_src": "../assets/tt0113277/016.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/017.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/017.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Ocean Front Walk, Venice Beach",
+      "caption": "Heat filming location: Charlene is held in a safe house: Ocean Front Walk, Venice Beach",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/017.jpg",
+      "corpus_asset_src": "../assets/tt0113277/017.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/018.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/018.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Ocean Front Walk, Venice Beach",
+      "caption": "Heat filming location: Charlene warns off Shiherlis: Ocean Front Walk, Venice Beach",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/018.jpg",
+      "corpus_asset_src": "../assets/tt0113277/018.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/019.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/019.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles",
+      "caption": "Heat filming location: guests flee the fire alarm: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/019.jpg",
+      "corpus_asset_src": "../assets/tt0113277/019.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/020.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/020.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles",
+      "caption": "Heat filming location: McCauley infiltrates the hotel: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/020.jpg",
+      "corpus_asset_src": "../assets/tt0113277/020.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0113277%20-%20Heat/021.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0113277 - Heat/021.jpg",
+      "exists": true,
+      "alt": "Heat filming location: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles",
+      "caption": "Heat filming location: chased by Hanna, McCauley leaves Eady in the car: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0113277/021.jpg",
+      "corpus_asset_src": "../assets/tt0113277/021.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0113277/001.jpg\" alt=\"Heat filming location: Marine-Redondo Station, Metro Green Line, Los Angeles\"><figcaption>Heat filming location: McCauley heads to the hospital: Marine-Redondo, Metro Green Line, Los Angeles</figcaption></figure>\n<p>Discover where <span class=\"name\">Michael Mann</span>'s classic <span class=\"name\">Heat</span> (1995) was filmed, on eyecatching locations around <span class=\"name\">Los Angeles</span>, including <span class=\"name\">Los Angeles International Airport</span>, <span class=\"name\">Downtown LA</span>, <span class=\"name\">Downey</span>, <span class=\"name\">Santa Monica</span>, <span class=\"name\">Venice Beach</span>, <span class=\"name\">Beverly Hills</span>, <span class=\"name\">Redondo Beach</span> and <span class=\"name\">Burbank</span>.</p>\n<p><a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> itself is a vital part of <a href=\"https://www.movie-locations.com/people/m/mannm.php\">Michael Mann</a>'s crime drama/character study. Notice how even most of the interiors open onto panoramic views of the city from wide windows or balconies.</p>\n<p>The overground rail station, at which Neil McCauley (<a href=\"https://www.movie-locations.com/people/d/deniror.php\">Robert De Niro</a>) is seen arriving under the credits sequence, is <span class=\"name\">Marine-Redondo Station, 2406 Marine Avenue</span> in <span class=\"name\">Redondo Beach, South Bay</span>. It's the southern end of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>’ <span class=\"name\">Metro C Line</span> (formerly the Green Line), running east and west between Norwalk and Redondo Beach, curving south near the Los Angeles International Airport.</p>\n<p>It's as stylish as it appears onscreen and, in fact, <a href=\"https://www.movie-locations.com/people/m/mannm.php\">Michael Mann</a> liked this station he returned to it for the final scenes of <a href=\"https://www.movie-locations.com/movies/c/Collateral.php\">Collateral</a>.</p>\n<p>The hospital from which McCauley steals an ambulance, is <span class=\"name\">St Mary Medical Center, 1050 Linden Avenue</span> in <span class=\"name\">Long Beach</span> (seen also in the big-screen version of <a href=\"https://www.movie-locations.com/movies/x/X-Files-1998.php\">The X-Files</a>) and, while Chris Shiherlis (<a href=\"https://www.movie-locations.com/people/k/kilmerv.php\">Val Kilmer</a>) seems to be buying dynamite in ‘Arizona’, he’s no further away than <span class=\"name\">Whittier</span>, southeast of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/003.jpg\" alt=\"Heat filming location: Venice Boulevard, Downtown Los Angeles\"><figcaption>Heat filming location: the security truck robbery: Venice Boulevard, Downtown Los Angeles</figcaption></figure>\n<p>The bearer bonds robbery, where the security guards from the armoured truck are cold-bloodedly executed, takes place under the knot of elevated freeways behind the <a href=\"https://www.lacclink.com/\" target=\"_blank\">LA Convention Center</a>, south of <span class=\"name\">Downtown</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/004.jpg\" alt=\"Heat filming location: Venice Boulevard, Downtown Los Angeles\"><figcaption>Heat filming location: the security truck robbery: Venice Boulevard, Downtown Los Angeles</figcaption></figure>\n<p>It's on <span class=\"name\">Venice Boulevard</span> beneath the junction of the <span class=\"name\">Santa Monica Freeway  (I-10)</span> and the <span class=\"name\">Harbor Freeway (I-110)</span>, which I now learn from Google Maps is called the<span class=\"name\"> Dosan Ahn Chang Ho Interchange</span>, after an early leader of the Korean-American immigrant community. That's the rear of the <a href=\"https://www.lacclink.com/\" target=\"_blank\">Convention Center</a> and its carpark you can see in the background.</p>\n<p>In the fraught aftermath, loose cannon Waingro (<a href=\"https://www.movie-locations.com/people/g/gagek.php\">Kevin Gage</a>) is lucky to escape the wrath of McCauley during a confrontation at Johnie’s Broiler in <span class=\"name\">Downey</span>, south <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>. The classic 1958 restaurant, seen also in <a href=\"https://www.movie-locations.com/people/f/fincherd.php\">David Fincher</a>’s <a href=\"https://www.movie-locations.com/movies/g/Game.php\">The Game</a>, <a href=\"https://www.movie-locations.com/people/a/altmanr.php\">Robert Altman</a>’s <span class=\"name\">Short Cuts</span>, <span class=\"name\">One Hour Photo</span>, <a href=\"https://www.movie-locations.com/people/s/stillerb.php\">Ben Stiller</a>’s  <a href=\"https://www.movie-locations.com/movies/r/Reality-Bites.php\">Reality Bites</a> and <span class=\"name\">Tina Turner</span> biopic <a href=\"https://www.movie-locations.com/movies/w/Whats-Love-Got-To-Do-With-It.php\">What’s Love Got To Do With It</a>, closed down and was largely – and illegally – demolished. Amazingly, it’s back from the dead and has been rebuilt as <a href=\"http://www.bobsbigboybroiler.com/\" target=\"_blank\">Bob’s Big Boy Broiler</a>, <span class=\"name\">7447 Firestone Boulevard</span>, though there do seem to be a few differences.</p>\n<p>Now we come to a slew of locations which have closed down, starting with the bookshop where McCauley buys a book on metallurgy. It was Hennessey and Ingalls bookstore, which stood at <span class=\"name\">1254 Third Street Promenade</span> in <span class=\"name\">Santa Monica</span>.</p>\n<p>The restaurant, where Eady (<a href=\"https://www.movie-locations.com/people/b/brennemana.php\">Amy Brenneman</a>) comes on to McCauley while he’s studying ‘Stress Fractures in Titanium’, was the nearby Broadway Deli, <span class=\"name\">1457 Third Street</span> at Broadway at the pedestrianised <span class=\"name\">Third Street Promenade</span> in <span class=\"name\">Santa Monica</span> (not to be confused with the Broadway Bar and Grill on the opposite corner, which you might recognise as record store ‘Trax’ from <a href=\"https://www.movie-locations.com/movies/p/Pretty-In-Pink.php\">Pretty In Pink</a>). The deli is now <span class=\"name\">Lululemon Athletica</span>, a sports store.</p>\n<p>Not far away, on the <span class=\"name\">Santa Monica</span> sea front, was the Japanese restaurant staked out by driven cop Vincent Hanna (<a href=\"https://www.movie-locations.com/people/p/pacinoa.php\">Al Pacino</a>), which was Zen Zero,  <span class=\"name\">1535 Ocean Avenue</span>. The premises remains an upscale restaurant, <a href=\"http://theivyrestaurants.com/ivy-at-the-shore/ivy-at-the-shore.html\" target=\"_blank\">Ivy at the Shore</a>, now serving up Californian cuisine.</p>\n<p>Demolished and replaced by apartments, is the deserted drive-in, where Van Zant’s men set up a double cross. This was the Centinela Drive-In, which stood at <span class=\"name\">5700 West Centinela Avenue, Inglewood</span>.</p>\n<p>Acting on a tip-off, Hanna, accompanied by a SWAT team, stakes out a precious metals repository, which McCauley and his crew are planning to rob. One small slip gives away their presence away and McCauley hastily aborts the job and flees.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/006.jpg\" alt=\"Heat filming location: Factory Place, Arts District, Downtown Los Angeles\"><figcaption>Heat filming location: the aborted metals repository robbery: Factory Place, Arts District, Downtown Los Angeles</figcaption></figure>\n<p>The repository site can be found in the bleak industrial area east of Downtown, which is in the process of being redeveloped into the Arts District. Old warehouse buildings are now as likely to house a budding tech company or an animation studio.</p>\n<p>The building stood on <span class=\"name\">Factory Place</span>, a cul-de-sac running east from <span class=\"name\">South Alameda Street</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/007.jpg\" alt=\"Heat filming location: Factory Place, Arts District, Downtown Los Angeles\"><figcaption>Heat filming location: Cheritto climbs the utility pole to deactivate the security system: Factory Place, Arts District, Downtown Los Angeles</figcaption></figure>\n<p>There's been serious redevelopment and some buildings have already been demolished, including the one used as the 'repository', but the street is still instantly recognisable and the utility pole, which Cheritto (<a href=\"https://www.movie-locations.com/people/s/sizemoret.php\">Tom Sizemore</a>) climbs to deactivate the security system, remains.</p>\n<p>With a kind of odd professional respect, McCauley and Hanna meet up (the legendary first appearance of <a href=\"https://www.movie-locations.com/people/d/deniror.php\">de Niro</a> and <a href=\"https://www.movie-locations.com/people/p/pacinoa.php\">Al Pacino</a> on screen together) in upscale <span class=\"name\">Beverly Hills</span> restaurant Kate Mantilini, which stood for 27 years at <span class=\"name\">9101 Wilshire Boulevard</span> until being forced to close its doors in June 2014. As of 2023, the premises still seems to be lying empty and up for lease.</p>\n<p>Only a couple of blocks west of the Academy of Motion Picture Arts and Sciences HQ at 8949 Wilshire, the restaurant was a favourite with Academy members – and a certain amount of lobbying come Oscar time.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/010.jpg\" alt=\"Heat filming location: Kitchen, Bob's Big Boy, Riverside Drive, Burbank\"><figcaption>Heat filming location: McCauley recruits Breedan: Bob's Big Boy, Riverside Drive, Burbank</figcaption></figure>\n<p>Breedan (<a href=\"https://www.movie-locations.com/people/h/haysbertd.php\">Dennis Haysbert</a>) throws in his job as dishwasher, when he’s recruited by McCauley as a driver, in one of the few remaining original <a href=\"http://www.bobs.net\" target=\"_blank\">Bob’s Big Boy</a> burger bars, at <span class=\"name\">4211 West Riverside Drive</span> in <span class=\"name\">Burbank</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/011.jpg\" alt=\"Heat filming location: Bob's Big Boy, Riverside Drive, Burbank\"><figcaption>Heat filming location: the restaurant's famous sign: Bob's Big Boy, Riverside Drive, Burbank</figcaption></figure>\n<p>At its peak in 1989, there were over 240 Bob's locations throughout the  USA but, as of September 2023, that's down to four in <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> – as well as this one in Burbank and the one we've already seen in Downey, there are branches in Norco and Northridge.</p>\n<p>This Bob's was designed in 1949 by architect <span class=\"name\">Wayne McAllister</span> in a style now called Googie, described as \"incorporating the 1940s transitional design of Streamline Moderne while anticipating the freeform 50s coffee shop architecture\".</p>\n<p>Its towering sign (oddly not seen in the film) certainly remains eye-catching.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/012.jpg\" alt=\"Heat filming location: Bob's Big Boy, Riverside Drive, Burbank\"><figcaption>Heat filming location: McCauley points out Breedan: Bob's Big Boy, Riverside Drive, Burbank</figcaption></figure>\n<p>A brass plaque by one of the tables once commemorated the filming but I couldn't spot it on my most recent visit. Being close to the Warner Bros Studios, the likes of <a href=\"https://www.movie-locations.com/people/h/hopeb.php\">Bob Hope, </a><a href=\"https://www.movie-locations.com/people/r/rooneym.php\">Mickey Rooney</a>, <a href=\"https://www.movie-locations.com/people/r/reynoldsd.php\">Debbie Reynolds</a> and other celebs were once regulars. </p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/013.jpg\" alt=\"Heat filming location: South Flower Street, Downtown Los Angeles\"><figcaption>Heat filming location: the big bank robbery: South Flower Street, Downtown Los Angeles</figcaption></figure>\n<p>The ambitious bank job Macaulay's crew attempts is on <span class=\"name\">444 South Flower Street</span> at Fifth Street, <span class=\"name\">Downtown</span>, (you can see its geometric silver sculptures on the forecourt again in <a href=\"https://www.movie-locations.com/movies/f/Fight-Club.php\">Fight Club</a> and in <a href=\"https://www.movie-locations.com/people/f/friedkinw.php\">William Friedkin</a>’s <span class=\"name\">To Live and Die in LA</span>).     </p>\n<p>There's recently been some remodelling. I was a bit confused, thinking the sculptures had gone, but they've simply been glassed in to become part of the building's lobby – so no perfect match-up shots.</p>\n<p>I first saw this movie the night before I took off to the States in 1996 to get photos for my first book, the <span class=\"name\">Worldwide Guide to Movie Locations</span>. The next day, looking for a parking space in downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>, I swung into South Figueroa only to find myself by pure chance in the middle of the shoot-out location).</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/014.jpg\" alt=\"Heat filming location: West Fifth Street, Downtown Los Angeles\"><figcaption>Heat filming location: the shoot-out: West Fifth Street, Downtown Los Angeles</figcaption></figure>\n<p>Hanna and the police arrive on <span class=\"name\">West Fifth Street</span>, triggering the mother of all shoot-outs, which spills out onto the stretch of <span class=\"name\">West Fifth</span> stretching off toward <span class=\"name\">Figueroa Street</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/015.jpg\" alt=\"Heat filming location: Union Bank Plaza, Fourth Street, Downtown Los Angeles\"><figcaption>Heat filming location: Cheritto takes a girl hostage: Union Bank Plaza, Fourth Street, Downtown Los Angeles</figcaption></figure>\n<p>Cheritto takes off on foot and suddenly finds himself a block north on <span class=\"name\">Union Bank Plaza</span>, which must have involved lugging the loot he was carrying up an escalator to the landscaped space which is atop a parking garage on the northeast corner of <span class=\"name\">Fourth and Figueroa Streets.</span></p>\n<p>Here, among the circular planters and ornamental pools, he takes a little girl hostage and Hanna is forced to take him out with a risky headshot.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/016.jpg\" alt=\"Heat filming location: The Blue Room, San Fernando Road, Burbank\"><figcaption>Heat filming location: McCauley calls Nate: The Blue Room, San Fernando Road, Burbank</figcaption></figure>\n<p>McCaulay calls Nate (<a href=\"https://www.movie-locations.com/people/v/voightj.php\">Jon Voight</a>) to get the address of crooked businessman Van Zant (<a href=\"https://www.movie-locations.com/people/f/fichtnerw.php\">William Fichtner</a>), in <span class=\"name\">The Blue Room, 916 South San Fernando Road, Burbank</span>, a stylish bar which you can see more of in <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>'s <a href=\"https://www.movie-locations.com/movies/m/Memento.php\">Memento</a>.</p>\n<p>When Hanna's relationship starts falls apart, he moves into what was the Holiday Inn, now <a href=\"http://www.hotelangeleno.com/\" target=\"_blank\">Hotel Angeleno</a>, <span class=\"name\">170 North Church Lane</span>, overlooking the freeway in <span class=\"name\">Brentwood</span> (<a href=\"https://www.movie-locations.com/people/g/giamattip.php\">Paul Giamatti</a> drives past its circular tower at the beginning of <a href=\"https://www.movie-locations.com/movies/s/Sideways.php\">Sideways</a>).</p>\n<p>The net is closing in on the gang. The police hold Shiherlis' wife, Charlene (<a href=\"https://www.movie-locations.com/people/j/judda.php\">Ashley Judd</a>), in a safe house where they force her to lure him into a trap.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/017.jpg\" alt=\"Heat filming location: Ocean Front Walk, Venice Beach\"><figcaption>Heat filming location: Charlene is held in a safe house: Ocean Front Walk, Venice Beach</figcaption></figure>\n<p>This is a luxurious beachfront home, <span class=\"name\">117-119 Ocean Front Walk</span> in <span class=\"name\">Venice</span>, at the junction with <span class=\"name\">Navy Street</span>, down which Shiherlis' car slowly crawls.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/018.jpg\" alt=\"Heat filming location: Ocean Front Walk, Venice Beach\"><figcaption>Heat filming location: Charlene warns off Shiherlis: Ocean Front Walk, Venice Beach</figcaption></figure>\n<p>You can see the balcony from which Charlene discreetly warns off her husband on the corner of <span class=\"name\">Navy Street</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/019.jpg\" alt=\"Heat filming location: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles\"><figcaption>Heat filming location: guests flee the fire alarm: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles</figcaption></figure>\n<p>On the verge of getting out of the city and starting a new life, McCauley makes the fatal mistake of stopping off to settle the score with Waingro.</p>\n<p>The 'Airport Marriott', in which Waingro is lodging, is in reality the <a href=\"http://www3.hilton.com/en/hotels/california/hilton-los-angeles-airport-LAXAHHH/index.php\" target=\"_blank\">Hilton Los Angeles Airport</a>, <span class=\"name\">5711 West Century Boulevard</span>. Of the row of airport hotels here, the <a href=\"http://www3.hilton.com/en/hotels/california/hilton-los-angeles-airport-LAXAHHH/index.php\" target=\"_blank\">Hilton</a> with its sleek black glass tower block, is the one which fits <a href=\"https://www.movie-locations.com/people/m/mannm.php\">Mann</a>'s aesthetic perfectly.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/020.jpg\" alt=\"Heat filming location: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles\"><figcaption>Heat filming location: McCauley infiltrates the hotel: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles</figcaption></figure>\n<p>As Eady sits waiting in the car, McCauley sneaks in through the side entrance of on the <a href=\"http://www3.hilton.com/en/hotels/california/hilton-los-angeles-airport-LAXAHHH/index.php\" target=\"_blank\">Hilton</a> on the narrow service road leading north from from <span class=\"name\">West Century Boulevard</span>. The road can no longer be seen as in that aerial shot. It's now closely hemmed in by the two-storied Parking Spot Century.\t  </p>\n<p>Guests flee from the front entrance, and in the confusion McCauley lets himself into the lobby and finally deals with Waingro.</p>\n<p>Unfortunately for him, Hanna is close on his tail, catching up with him on that service road. McCauley is forced to live up to his cardinal rule – leaving everything behind in a heartbeat, including Eady.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0113277/021.jpg\" alt=\"Heat filming location: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles\"><figcaption>Heat filming location: chased by Hanna, McCauley leaves Eady in the car: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles</figcaption></figure>\n<p>No, you can't simply leap over a hedge onto the airport's runways. In fact, the road doesn't lead to <a href=\"http://www.lawa.org/\" target=\"_blank\">Los Angeles International Airport (LAX)</a> at all. </p>\n<p> It stands in the opposite direction, south across <span class=\"name\">West Century Boulevard</span>. But who cares? The runways are the perfect setting for the final confrontation  – back in the innocent days before airport security became such a big issue. </p>",
+  "main_content_text": "Discover where Michael Mann's classic Heat (1995) was filmed, on eyecatching locations around Los Angeles, including Los Angeles International Airport, Downtown LA, Downey, Santa Monica, Venice Beach, Beverly Hills, Redondo Beach and Burbank.\n\nLos Angeles itself is a vital part of Michael Mann's crime drama/character study. Notice how even most of the interiors open onto panoramic views of the city from wide windows or balconies.\n\nThe overground rail station, at which Neil McCauley (Robert De Niro) is seen arriving under the credits sequence, is Marine-Redondo Station, 2406 Marine Avenue in Redondo Beach, South Bay. It's the southern end of Los Angeles’ Metro C Line (formerly the Green Line), running east and west between Norwalk and Redondo Beach, curving south near the Los Angeles International Airport.\n\nIt's as stylish as it appears onscreen and, in fact, Michael Mann liked this station he returned to it for the final scenes of Collateral.\n\nThe hospital from which McCauley steals an ambulance, is St Mary Medical Center, 1050 Linden Avenue in Long Beach (seen also in the big-screen version of The X-Files) and, while Chris Shiherlis (Val Kilmer) seems to be buying dynamite in ‘Arizona’, he’s no further away than Whittier, southeast of Los Angeles.\n\nThe bearer bonds robbery, where the security guards from the armoured truck are cold-bloodedly executed, takes place under the knot of elevated freeways behind the LA Convention Center, south of Downtown.\n\nIt's on Venice Boulevard beneath the junction of the Santa Monica Freeway (I-10) and the Harbor Freeway (I-110), which I now learn from Google Maps is called the Dosan Ahn Chang Ho Interchange, after an early leader of the Korean-American immigrant community. That's the rear of the Convention Center and its carpark you can see in the background.\n\nIn the fraught aftermath, loose cannon Waingro (Kevin Gage) is lucky to escape the wrath of McCauley during a confrontation at Johnie’s Broiler in Downey, south LA. The classic 1958 restaurant, seen also in David Fincher’s The Game, Robert Altman’s Short Cuts, One Hour Photo, Ben Stiller’s Reality Bites and Tina Turner biopic What’s Love Got To Do With It, closed down and was largely – and illegally – demolished. Amazingly, it’s back from the dead and has been rebuilt as Bob’s Big Boy Broiler, 7447 Firestone Boulevard, though there do seem to be a few differences.\n\nNow we come to a slew of locations which have closed down, starting with the bookshop where McCauley buys a book on metallurgy. It was Hennessey and Ingalls bookstore, which stood at 1254 Third Street Promenade in Santa Monica.\n\nThe restaurant, where Eady (Amy Brenneman) comes on to McCauley while he’s studying ‘Stress Fractures in Titanium’, was the nearby Broadway Deli, 1457 Third Street at Broadway at the pedestrianised Third Street Promenade in Santa Monica (not to be confused with the Broadway Bar and Grill on the opposite corner, which you might recognise as record store ‘Trax’ from Pretty In Pink). The deli is now Lululemon Athletica, a sports store.\n\nNot far away, on the Santa Monica sea front, was the Japanese restaurant staked out by driven cop Vincent Hanna (Al Pacino), which was Zen Zero, 1535 Ocean Avenue. The premises remains an upscale restaurant, Ivy at the Shore, now serving up Californian cuisine.\n\nDemolished and replaced by apartments, is the deserted drive-in, where Van Zant’s men set up a double cross. This was the Centinela Drive-In, which stood at 5700 West Centinela Avenue, Inglewood.\n\nActing on a tip-off, Hanna, accompanied by a SWAT team, stakes out a precious metals repository, which McCauley and his crew are planning to rob. One small slip gives away their presence away and McCauley hastily aborts the job and flees.\n\nThe repository site can be found in the bleak industrial area east of Downtown, which is in the process of being redeveloped into the Arts District. Old warehouse buildings are now as likely to house a budding tech company or an animation studio.\n\nThe building stood on Factory Place, a cul-de-sac running east from South Alameda Street.\n\nThere's been serious redevelopment and some buildings have already been demolished, including the one used as the 'repository', but the street is still instantly recognisable and the utility pole, which Cheritto (Tom Sizemore) climbs to deactivate the security system, remains.\n\nWith a kind of odd professional respect, McCauley and Hanna meet up (the legendary first appearance of de Niro and Al Pacino on screen together) in upscale Beverly Hills restaurant Kate Mantilini, which stood for 27 years at 9101 Wilshire Boulevard until being forced to close its doors in June 2014. As of 2023, the premises still seems to be lying empty and up for lease.\n\nOnly a couple of blocks west of the Academy of Motion Picture Arts and Sciences HQ at 8949 Wilshire, the restaurant was a favourite with Academy members – and a certain amount of lobbying come Oscar time.\n\nBreedan (Dennis Haysbert) throws in his job as dishwasher, when he’s recruited by McCauley as a driver, in one of the few remaining original Bob’s Big Boy burger bars, at 4211 West Riverside Drive in Burbank.\n\nAt its peak in 1989, there were over 240 Bob's locations throughout the USA but, as of September 2023, that's down to four in California – as well as this one in Burbank and the one we've already seen in Downey, there are branches in Norco and Northridge.\n\nThis Bob's was designed in 1949 by architect Wayne McAllister in a style now called Googie, described as \"incorporating the 1940s transitional design of Streamline Moderne while anticipating the freeform 50s coffee shop architecture\".\n\nIts towering sign (oddly not seen in the film) certainly remains eye-catching.\n\nA brass plaque by one of the tables once commemorated the filming but I couldn't spot it on my most recent visit. Being close to the Warner Bros Studios, the likes of Bob Hope, Mickey Rooney, Debbie Reynolds and other celebs were once regulars.\n\nThe ambitious bank job Macaulay's crew attempts is on 444 South Flower Street at Fifth Street, Downtown, (you can see its geometric silver sculptures on the forecourt again in Fight Club and in William Friedkin’s To Live and Die in LA).\n\nThere's recently been some remodelling. I was a bit confused, thinking the sculptures had gone, but they've simply been glassed in to become part of the building's lobby – so no perfect match-up shots.\n\nI first saw this movie the night before I took off to the States in 1996 to get photos for my first book, the Worldwide Guide to Movie Locations. The next day, looking for a parking space in downtown Los Angeles, I swung into South Figueroa only to find myself by pure chance in the middle of the shoot-out location).\n\nHanna and the police arrive on West Fifth Street, triggering the mother of all shoot-outs, which spills out onto the stretch of West Fifth stretching off toward Figueroa Street.\n\nCheritto takes off on foot and suddenly finds himself a block north on Union Bank Plaza, which must have involved lugging the loot he was carrying up an escalator to the landscaped space which is atop a parking garage on the northeast corner of Fourth and Figueroa Streets.\n\nHere, among the circular planters and ornamental pools, he takes a little girl hostage and Hanna is forced to take him out with a risky headshot.\n\nMcCaulay calls Nate (Jon Voight) to get the address of crooked businessman Van Zant (William Fichtner), in The Blue Room, 916 South San Fernando Road, Burbank, a stylish bar which you can see more of in Christopher Nolan's Memento.\n\nWhen Hanna's relationship starts falls apart, he moves into what was the Holiday Inn, now Hotel Angeleno, 170 North Church Lane, overlooking the freeway in Brentwood (Paul Giamatti drives past its circular tower at the beginning of Sideways).\n\nThe net is closing in on the gang. The police hold Shiherlis' wife, Charlene (Ashley Judd), in a safe house where they force her to lure him into a trap.\n\nThis is a luxurious beachfront home, 117-119 Ocean Front Walk in Venice, at the junction with Navy Street, down which Shiherlis' car slowly crawls.\n\nYou can see the balcony from which Charlene discreetly warns off her husband on the corner of Navy Street.\n\nOn the verge of getting out of the city and starting a new life, McCauley makes the fatal mistake of stopping off to settle the score with Waingro.\n\nThe 'Airport Marriott', in which Waingro is lodging, is in reality the Hilton Los Angeles Airport, 5711 West Century Boulevard. Of the row of airport hotels here, the Hilton with its sleek black glass tower block, is the one which fits Mann's aesthetic perfectly.\n\nAs Eady sits waiting in the car, McCauley sneaks in through the side entrance of on the Hilton on the narrow service road leading north from from West Century Boulevard. The road can no longer be seen as in that aerial shot. It's now closely hemmed in by the two-storied Parking Spot Century.\n\nGuests flee from the front entrance, and in the confusion McCauley lets himself into the lobby and finally deals with Waingro.\n\nUnfortunately for him, Hanna is close on his tail, catching up with him on that service road. McCauley is forced to live up to his cardinal rule – leaving everything behind in a heartbeat, including Eady.\n\nNo, you can't simply leap over a hedge onto the airport's runways. In fact, the road doesn't lead to Los Angeles International Airport (LAX) at all.\n\nIt stands in the opposite direction, south across West Century Boulevard. But who cares? The runways are the perfect setting for the final confrontation – back in the innocent days before airport security became such a big issue.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Heat filming location: McCauley heads to the hospital: Marine-Redondo, Metro Green Line, Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/001.jpg",
+      "alt": "Heat filming location: Marine-Redondo Station, Metro Green Line, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover where Michael Mann's classic Heat (1995) was filmed, on eyecatching locations around Los Angeles, including Los Angeles International Airport, Downtown LA, Downey, Santa Monica, Venice Beach, Beverly Hills, Redondo Beach and Burbank."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Angeles itself is a vital part of Michael Mann's crime drama/character study. Notice how even most of the interiors open onto panoramic views of the city from wide windows or balconies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The overground rail station, at which Neil McCauley (Robert De Niro) is seen arriving under the credits sequence, is Marine-Redondo Station, 2406 Marine Avenue in Redondo Beach, South Bay. It's the southern end of Los Angeles’ Metro C Line (formerly the Green Line), running east and west between Norwalk and Redondo Beach, curving south near the Los Angeles International Airport."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's as stylish as it appears onscreen and, in fact, Michael Mann liked this station he returned to it for the final scenes of Collateral."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hospital from which McCauley steals an ambulance, is St Mary Medical Center, 1050 Linden Avenue in Long Beach (seen also in the big-screen version of The X-Files) and, while Chris Shiherlis (Val Kilmer) seems to be buying dynamite in ‘Arizona’, he’s no further away than Whittier, southeast of Los Angeles."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: the security truck robbery: Venice Boulevard, Downtown Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/003.jpg",
+      "alt": "Heat filming location: Venice Boulevard, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The bearer bonds robbery, where the security guards from the armoured truck are cold-bloodedly executed, takes place under the knot of elevated freeways behind the LA Convention Center, south of Downtown."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: the security truck robbery: Venice Boulevard, Downtown Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/004.jpg",
+      "alt": "Heat filming location: Venice Boulevard, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's on Venice Boulevard beneath the junction of the Santa Monica Freeway (I-10) and the Harbor Freeway (I-110), which I now learn from Google Maps is called the Dosan Ahn Chang Ho Interchange, after an early leader of the Korean-American immigrant community. That's the rear of the Convention Center and its carpark you can see in the background."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the fraught aftermath, loose cannon Waingro (Kevin Gage) is lucky to escape the wrath of McCauley during a confrontation at Johnie’s Broiler in Downey, south LA. The classic 1958 restaurant, seen also in David Fincher’s The Game, Robert Altman’s Short Cuts, One Hour Photo, Ben Stiller’s Reality Bites and Tina Turner biopic What’s Love Got To Do With It, closed down and was largely – and illegally – demolished. Amazingly, it’s back from the dead and has been rebuilt as Bob’s Big Boy Broiler, 7447 Firestone Boulevard, though there do seem to be a few differences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now we come to a slew of locations which have closed down, starting with the bookshop where McCauley buys a book on metallurgy. It was Hennessey and Ingalls bookstore, which stood at 1254 Third Street Promenade in Santa Monica."
+    },
+    {
+      "type": "paragraph",
+      "text": "The restaurant, where Eady (Amy Brenneman) comes on to McCauley while he’s studying ‘Stress Fractures in Titanium’, was the nearby Broadway Deli, 1457 Third Street at Broadway at the pedestrianised Third Street Promenade in Santa Monica (not to be confused with the Broadway Bar and Grill on the opposite corner, which you might recognise as record store ‘Trax’ from Pretty In Pink). The deli is now Lululemon Athletica, a sports store."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not far away, on the Santa Monica sea front, was the Japanese restaurant staked out by driven cop Vincent Hanna (Al Pacino), which was Zen Zero, 1535 Ocean Avenue. The premises remains an upscale restaurant, Ivy at the Shore, now serving up Californian cuisine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demolished and replaced by apartments, is the deserted drive-in, where Van Zant’s men set up a double cross. This was the Centinela Drive-In, which stood at 5700 West Centinela Avenue, Inglewood."
+    },
+    {
+      "type": "paragraph",
+      "text": "Acting on a tip-off, Hanna, accompanied by a SWAT team, stakes out a precious metals repository, which McCauley and his crew are planning to rob. One small slip gives away their presence away and McCauley hastily aborts the job and flees."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: the aborted metals repository robbery: Factory Place, Arts District, Downtown Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/006.jpg",
+      "alt": "Heat filming location: Factory Place, Arts District, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The repository site can be found in the bleak industrial area east of Downtown, which is in the process of being redeveloped into the Arts District. Old warehouse buildings are now as likely to house a budding tech company or an animation studio."
+    },
+    {
+      "type": "paragraph",
+      "text": "The building stood on Factory Place, a cul-de-sac running east from South Alameda Street."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: Cheritto climbs the utility pole to deactivate the security system: Factory Place, Arts District, Downtown Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/007.jpg",
+      "alt": "Heat filming location: Factory Place, Arts District, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "There's been serious redevelopment and some buildings have already been demolished, including the one used as the 'repository', but the street is still instantly recognisable and the utility pole, which Cheritto (Tom Sizemore) climbs to deactivate the security system, remains."
+    },
+    {
+      "type": "paragraph",
+      "text": "With a kind of odd professional respect, McCauley and Hanna meet up (the legendary first appearance of de Niro and Al Pacino on screen together) in upscale Beverly Hills restaurant Kate Mantilini, which stood for 27 years at 9101 Wilshire Boulevard until being forced to close its doors in June 2014. As of 2023, the premises still seems to be lying empty and up for lease."
+    },
+    {
+      "type": "paragraph",
+      "text": "Only a couple of blocks west of the Academy of Motion Picture Arts and Sciences HQ at 8949 Wilshire, the restaurant was a favourite with Academy members – and a certain amount of lobbying come Oscar time."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: McCauley recruits Breedan: Bob's Big Boy, Riverside Drive, Burbank",
+      "src": "_assets/tt0113277%20-%20Heat/010.jpg",
+      "alt": "Heat filming location: Kitchen, Bob's Big Boy, Riverside Drive, Burbank"
+    },
+    {
+      "type": "paragraph",
+      "text": "Breedan (Dennis Haysbert) throws in his job as dishwasher, when he’s recruited by McCauley as a driver, in one of the few remaining original Bob’s Big Boy burger bars, at 4211 West Riverside Drive in Burbank."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: the restaurant's famous sign: Bob's Big Boy, Riverside Drive, Burbank",
+      "src": "_assets/tt0113277%20-%20Heat/011.jpg",
+      "alt": "Heat filming location: Bob's Big Boy, Riverside Drive, Burbank"
+    },
+    {
+      "type": "paragraph",
+      "text": "At its peak in 1989, there were over 240 Bob's locations throughout the USA but, as of September 2023, that's down to four in California – as well as this one in Burbank and the one we've already seen in Downey, there are branches in Norco and Northridge."
+    },
+    {
+      "type": "paragraph",
+      "text": "This Bob's was designed in 1949 by architect Wayne McAllister in a style now called Googie, described as \"incorporating the 1940s transitional design of Streamline Moderne while anticipating the freeform 50s coffee shop architecture\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "Its towering sign (oddly not seen in the film) certainly remains eye-catching."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: McCauley points out Breedan: Bob's Big Boy, Riverside Drive, Burbank",
+      "src": "_assets/tt0113277%20-%20Heat/012.jpg",
+      "alt": "Heat filming location: Bob's Big Boy, Riverside Drive, Burbank"
+    },
+    {
+      "type": "paragraph",
+      "text": "A brass plaque by one of the tables once commemorated the filming but I couldn't spot it on my most recent visit. Being close to the Warner Bros Studios, the likes of Bob Hope, Mickey Rooney, Debbie Reynolds and other celebs were once regulars."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: the big bank robbery: South Flower Street, Downtown Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/013.jpg",
+      "alt": "Heat filming location: South Flower Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ambitious bank job Macaulay's crew attempts is on 444 South Flower Street at Fifth Street, Downtown, (you can see its geometric silver sculptures on the forecourt again in Fight Club and in William Friedkin’s To Live and Die in LA)."
+    },
+    {
+      "type": "paragraph",
+      "text": "There's recently been some remodelling. I was a bit confused, thinking the sculptures had gone, but they've simply been glassed in to become part of the building's lobby – so no perfect match-up shots."
+    },
+    {
+      "type": "paragraph",
+      "text": "I first saw this movie the night before I took off to the States in 1996 to get photos for my first book, the Worldwide Guide to Movie Locations. The next day, looking for a parking space in downtown Los Angeles, I swung into South Figueroa only to find myself by pure chance in the middle of the shoot-out location)."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: the shoot-out: West Fifth Street, Downtown Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/014.jpg",
+      "alt": "Heat filming location: West Fifth Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hanna and the police arrive on West Fifth Street, triggering the mother of all shoot-outs, which spills out onto the stretch of West Fifth stretching off toward Figueroa Street."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: Cheritto takes a girl hostage: Union Bank Plaza, Fourth Street, Downtown Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/015.jpg",
+      "alt": "Heat filming location: Union Bank Plaza, Fourth Street, Downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cheritto takes off on foot and suddenly finds himself a block north on Union Bank Plaza, which must have involved lugging the loot he was carrying up an escalator to the landscaped space which is atop a parking garage on the northeast corner of Fourth and Figueroa Streets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, among the circular planters and ornamental pools, he takes a little girl hostage and Hanna is forced to take him out with a risky headshot."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: McCauley calls Nate: The Blue Room, San Fernando Road, Burbank",
+      "src": "_assets/tt0113277%20-%20Heat/016.jpg",
+      "alt": "Heat filming location: The Blue Room, San Fernando Road, Burbank"
+    },
+    {
+      "type": "paragraph",
+      "text": "McCaulay calls Nate (Jon Voight) to get the address of crooked businessman Van Zant (William Fichtner), in The Blue Room, 916 South San Fernando Road, Burbank, a stylish bar which you can see more of in Christopher Nolan's Memento."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Hanna's relationship starts falls apart, he moves into what was the Holiday Inn, now Hotel Angeleno, 170 North Church Lane, overlooking the freeway in Brentwood (Paul Giamatti drives past its circular tower at the beginning of Sideways)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The net is closing in on the gang. The police hold Shiherlis' wife, Charlene (Ashley Judd), in a safe house where they force her to lure him into a trap."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: Charlene is held in a safe house: Ocean Front Walk, Venice Beach",
+      "src": "_assets/tt0113277%20-%20Heat/017.jpg",
+      "alt": "Heat filming location: Ocean Front Walk, Venice Beach"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a luxurious beachfront home, 117-119 Ocean Front Walk in Venice, at the junction with Navy Street, down which Shiherlis' car slowly crawls."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: Charlene warns off Shiherlis: Ocean Front Walk, Venice Beach",
+      "src": "_assets/tt0113277%20-%20Heat/018.jpg",
+      "alt": "Heat filming location: Ocean Front Walk, Venice Beach"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can see the balcony from which Charlene discreetly warns off her husband on the corner of Navy Street."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: guests flee the fire alarm: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/019.jpg",
+      "alt": "Heat filming location: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "On the verge of getting out of the city and starting a new life, McCauley makes the fatal mistake of stopping off to settle the score with Waingro."
+    },
+    {
+      "type": "paragraph",
+      "text": "The 'Airport Marriott', in which Waingro is lodging, is in reality the Hilton Los Angeles Airport, 5711 West Century Boulevard. Of the row of airport hotels here, the Hilton with its sleek black glass tower block, is the one which fits Mann's aesthetic perfectly."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: McCauley infiltrates the hotel: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/020.jpg",
+      "alt": "Heat filming location: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "As Eady sits waiting in the car, McCauley sneaks in through the side entrance of on the Hilton on the narrow service road leading north from from West Century Boulevard. The road can no longer be seen as in that aerial shot. It's now closely hemmed in by the two-storied Parking Spot Century."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guests flee from the front entrance, and in the confusion McCauley lets himself into the lobby and finally deals with Waingro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unfortunately for him, Hanna is close on his tail, catching up with him on that service road. McCauley is forced to live up to his cardinal rule – leaving everything behind in a heartbeat, including Eady."
+    },
+    {
+      "type": "image",
+      "caption": "Heat filming location: chased by Hanna, McCauley leaves Eady in the car: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles",
+      "src": "_assets/tt0113277%20-%20Heat/021.jpg",
+      "alt": "Heat filming location: Hilton Los Angeles Airport, West Century Boulevard, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "No, you can't simply leap over a hedge onto the airport's runways. In fact, the road doesn't lead to Los Angeles International Airport (LAX) at all."
+    },
+    {
+      "type": "paragraph",
+      "text": "It stands in the opposite direction, south across West Century Boulevard. But who cares? The runways are the perfect setting for the final confrontation – back in the innocent days before airport security became such a big issue."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Stay at: the Hilton Los Angeles Airport, 5711 West Century Boulevard, Los Angeles, CA 90045 (tel: 310.410.4000)</p>\n<p>Stay at: Hotel Angeleno, 170 North Church Lane, Brentwood, Los Angeles, CA 90049 (tel: 310.476.6411)</p>\n<p>Visit: Bob’s Big Boy Broiler, 7447 Firestone Boulevard, Downey, CA 90241 (tel: 562.928.2627)</p>\n<p>Visit: Bob’s Big Boy, 4211 West Riverside Drive, Burbank, CA 91505 (tel: 818.843.9334)</p>\n<p>Visit: the Blue Room, 916 South San Fernando Boulevard, Burbank, CA 91502 (tel: 323.849.2779)</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nStay at: the Hilton Los Angeles Airport, 5711 West Century Boulevard, Los Angeles, CA 90045 (tel: 310.410.4000)\nStay at: Hotel Angeleno, 170 North Church Lane, Brentwood, Los Angeles, CA 90049 (tel: 310.476.6411)\nVisit: Bob’s Big Boy Broiler, 7447 Firestone Boulevard, Downey, CA 90241 (tel: 562.928.2627)\nVisit: Bob’s Big Boy, 4211 West Riverside Drive, Burbank, CA 91505 (tel: 818.843.9334)\nVisit: the Blue Room, 916 South San Fernando Boulevard, Burbank, CA 91502 (tel: 323.849.2779)",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Stay at: the Hilton Los Angeles Airport, 5711 West Century Boulevard, Los Angeles, CA 90045 (tel: 310.410.4000)",
+        "Stay at: Hotel Angeleno, 170 North Church Lane, Brentwood, Los Angeles, CA 90049 (tel: 310.476.6411)",
+        "Visit: Bob’s Big Boy Broiler, 7447 Firestone Boulevard, Downey, CA 90241 (tel: 562.928.2627)",
+        "Visit: Bob’s Big Boy, 4211 West Riverside Drive, Burbank, CA 91505 (tel: 818.843.9334)",
+        "Visit: the Blue Room, 916 South San Fernando Boulevard, Burbank, CA 91502 (tel: 323.849.2779)"
+      ]
+    }
+  ]
+}

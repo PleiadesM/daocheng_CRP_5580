@@ -1,0 +1,374 @@
+{
+  "imdb_id": "tt0111161",
+  "shorthand": "Shawshank-Redemption",
+  "title": "The Shawshank Redemption",
+  "year": 1994,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0111161 - Shawshank-Redemption.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0111161 - Shawshank-Redemption.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0111161.json",
+  "source_url": "http://www.movie-locations.com/movies/s/Shawshank-Redemption.php",
+  "page_title": "The Shawshank Redemption | Film Locations",
+  "meta_description": "Film locations for Frank Darabont's The Shawshank Redemption (1994), with Tim Robbins and Morgan Freeman, around Mansfield, Ohio.",
+  "meta_keywords": "The Shawshank Redemption (1994), film locations, filming locations, tourism, travel, mansfield reformatory, haunted bissman building, malabar farm state park, ashland, upper sandusky, ohio, st croix, us virgin islands, frank darabont, stephen king, tim robbins, morgan freeman",
+  "og_title": "Filming Locations for Frank Darabont's The Shawshank Redemption (1994), with Tim Robbins and Morgan Freeman, around Mansfield, Ohio.",
+  "og_description": "Travel guide to filming locations for Frank Darabont's The Shawshank Redemption (1994), with Tim Robbins and Morgan Freeman, around Mansfield, Ohio.",
+  "og_image": "http://www.movie-locations.com/movies/s/Shawshank-Redemption-wall.jpg",
+  "top250_rank": "1",
+  "movie_locations_title": "THE SHAWSHANK REDEMPTION",
+  "movie_locations_regions": "Ohio | Virgin Islands",
+  "director": "Frank Darabont",
+  "cast": [
+    "Tim Robbins",
+    "Morgan Freeman",
+    "Bob Gunton",
+    "James Whitmore",
+    "Clancy Brown",
+    "William Sadler",
+    "Jeffrey DeMunn",
+    "David Proval"
+  ],
+  "locations": [
+    "Ohio;",
+    "Virgin Islands"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0111161%20-%20Shawshank-Redemption/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/002.jpg",
+    "exists": true,
+    "alt": "The Shawshank Redemption poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/poster.jpg",
+    "corpus_asset_src": "../assets/tt0111161/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0111161%20-%20Shawshank-Redemption/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/001.jpg",
+    "exists": true,
+    "alt": "The Shawshank Redemption filming location: Pleasant Valley Road, Mansfield, Ohio",
+    "caption": "The Shawshank Redemption filming location: Red keeps his promise to Andy: Pleasant Valley Road, Mansfield, Ohio",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/001.jpg",
+    "corpus_asset_src": "../assets/tt0111161/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/001.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption filming location: Pleasant Valley Road, Mansfield, Ohio",
+      "caption": "The Shawshank Redemption filming location: Red keeps his promise to Andy: Pleasant Valley Road, Mansfield, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/001.jpg",
+      "corpus_asset_src": "../assets/tt0111161/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/002.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/002.jpg",
+      "corpus_asset_src": "../assets/tt0111161/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/003.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption location: Ohio State Reformatory, Mansfield, Ohio",
+      "caption": "The Shawshank Redemption location: ‘Shawshank State Prison’: Ohio State Reformatory, Mansfield, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/003.jpg",
+      "corpus_asset_src": "../assets/tt0111161/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/004.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption filming location: Mansfield, Ohio",
+      "caption": "The Shawshank Redemption filming location: stickers identify locations on the Shawshank Trail: Shawshank Trail, Mansfield, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/004.jpg",
+      "corpus_asset_src": "../assets/tt0111161/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/005.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption filming location: Malabar Farm, Mansfield, Ohio",
+      "caption": "The Shawshank Redemption filming location: the house where Andy Dufresne’s wife is murdered: Malabar Farm State Park, Mansfield, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/005.jpg",
+      "corpus_asset_src": "../assets/tt0111161/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/006.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption filming location: Bissman Building, North Main Street, Ohio",
+      "caption": "The Shawshank Redemption filming location: the ‘Brewer’, the halfway house to which Brooks is sent: Bissman Building, North Main Street, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/006.jpg",
+      "corpus_asset_src": "../assets/tt0111161/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/007.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption filming location: Bissman Building, North Main Street, Ohio",
+      "caption": "The Shawshank Redemption filming location: the ‘Brewer’, the halfway house to which Brooks is sent: Bissman Building, North Main Street, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/007.jpg",
+      "corpus_asset_src": "../assets/tt0111161/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/008.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption filming location: Central Park, Mansfield, Ohio",
+      "caption": "The Shawshank Redemption filming location: Brooks looks for jake the crow as he feeds the pigeons: Central Park, Mansfield, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/008.jpg",
+      "corpus_asset_src": "../assets/tt0111161/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/009.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption filming location: Huntington Bank, West Main Street, Ashland, Ohio",
+      "caption": "The Shawshank Redemption filming location: ‘Randall Stephens’ withdraws his money from ‘Maine National Bank’: Huntington Bank, West Main Street, Ashland, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/009.jpg",
+      "corpus_asset_src": "../assets/tt0111161/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/010.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption filming location: Carrousel Antiques, West Main Street, Mansfield, Ohio",
+      "caption": "The Shawshank Redemption filming location: Red looks in the gunshop and contemplates breaking his parole: Carrousel Antiques, West Main Street, Mansfield, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/010.jpg",
+      "corpus_asset_src": "../assets/tt0111161/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/011.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption filming location: Pleasant Valley Road, Mansfield, Ohio",
+      "caption": "The Shawshank Redemption filming location: the oak tree at ‘Buxton’: Pleasant Valley Road, Mansfield, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/011.jpg",
+      "corpus_asset_src": "../assets/tt0111161/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0111161 - Shawshank-Redemption/012.jpg",
+      "exists": true,
+      "alt": "The Shawshank Redemption filming location: Orange Street, Ashland, Ohio",
+      "caption": "The Shawshank Redemption filming location: the ‘Trailways Bus Station’, where Red catches the bus to ‘Fort Hancock, Texas’: Orange Street, Ashland, Ohio",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0111161/012.jpg",
+      "corpus_asset_src": "../assets/tt0111161/012.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0111161/001.jpg\" alt=\"The Shawshank Redemption filming location: Pleasant Valley Road, Mansfield, Ohio\"><figcaption>The Shawshank Redemption filming location: Red keeps his promise to Andy: Pleasant Valley Road, Mansfield, Ohio</figcaption></figure>\n<p>One of those odd sleepers, a modest success on release, <span class=\"name\">Shawshank</span> went on to a phenomenally popular afterlife on video and DVD.</p>\n<p>Andy Dufresne (<a href=\"https://www.movie-locations.com/people/r/robbinst.php\">Tim Robbins</a>) bides his time during twenty years’ imprisonment for the murder of his wife in this adaptation of a <span class=\"name\">Stephen King</span> story. And being <span class=\"name\">Stephen King</span>, the setting is once again Maine, though you’ll find ‘Shawshank State Prison’ in <a href=\"https://www.movie-locations.com/places/usa/ohio.php\">Ohio</a>. It’s the forbiddingly Gothic <a href=\"http://www.mrps.org/\" target=\"_blank\">Mansfield Reformatory</a>, <span class=\"name\">100 Reformatory Road, Mansfield</span>, on US Route 30, about 80 miles southwest of Cleveland.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0111161/003.jpg\" alt=\"The Shawshank Redemption location: Ohio State Reformatory, Mansfield, Ohio\"><figcaption>The Shawshank Redemption location: ‘Shawshank State Prison’: Ohio State Reformatory, Mansfield, Ohio</figcaption></figure>\n<p>Built between 1886 and 1910, the reformatory remained in operation until 1990 and was scheduled for demolition when the film was made. In fact, much of the prison yard has now gone to make room for the adjacent Richland Correctional Institution, but the striking <span class=\"name\">Administration Building</span> lives on as a tourist attraction. Find it just north of downtown <span class=\"name\">Mansfield</span>, off South Olivesburg Road.</p>\n<p>Although some prison interiors were recreated in the studio, the office of the corrupt Governor Norton (<a href=\"https://www.movie-locations.com/people/g/guntonb.php\">Bob Gunton</a>) really is <a href=\"http://www.mrps.org/\" target=\"_blank\">Mansfield Reformatory</a>.</p>\n<p>Prison scenes for <a href=\"https://www.movie-locations.com/movies/a/Air-Force-One.php\">Air Force One</a>, <span class=\"name\">Harry and Walter Go To New York</span> and <span class=\"name\">Tango &amp; Cash</span> were also filmed in the reformatory.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0111161/004.jpg\" alt=\"The Shawshank Redemption filming location: Mansfield, Ohio\"><figcaption>The Shawshank Redemption filming location: stickers identify locations on the Shawshank Trail: Shawshank Trail, Mansfield, Ohio</figcaption></figure>\n<p><a href=\"http://www.mansfieldtourism.com/\" target=\"_blank\">Mansfield Tourism</a> has laid out  a helpful <a href=\"http://shawshanktrail.com/\" target=\"_blank\">Shawshank Trail</a> if you want to explore the film’s other locations in-Mansfield<span class=\"name\"></span> and the surrounding area. Stickers identify the key locations.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0111161/005.jpg\" alt=\"The Shawshank Redemption filming location: Malabar Farm, Mansfield, Ohio\"><figcaption>The Shawshank Redemption filming location: the house where Andy Dufresne’s wife is murdered: Malabar Farm State Park, Mansfield, Ohio</figcaption></figure>\n<p>The golf pro’s house, where Andy’s wife and her lover are murdered, is the <span class=\"name\">Pugh Cabin</span>, which you’ll find on the grounds of <a href=\"http://www.malabarfarm.org/\" target=\"_blank\">Malabar Farm State Park</a>, <span class=\"name\">4050 Bromfield Road</span>, south of <span class=\"name\">Lucas</span>, a few miles southeast of-Mansfield<span class=\"name\"></span> itself.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0111161/006.jpg\" alt=\"The Shawshank Redemption filming location: Bissman Building, North Main Street, Ohio\"><figcaption>The Shawshank Redemption filming location: the ‘Brewer’, the halfway house to which Brooks is sent: Bissman Building, North Main Street, Ohio</figcaption></figure>\n<p>About 40 miles west of Mansfield, in the town of <span class=\"name\">Upper Sandusky</span>, Andy’s trial is held at <span class=\"name\">Wyandot Courthouse, 109 South Sandusky Avenue</span>.</p>\n<p>Incidentally, <span class=\"name\">228 South 8th Street</span>, also in <span class=\"name\">Upper Sandusky</span>, served as the woodwork shop of ‘Shawshank Prison’.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0111161/007.jpg\" alt=\"The Shawshank Redemption filming location: Bissman Building, North Main Street, Ohio\"><figcaption>The Shawshank Redemption filming location: the ‘Brewer’, the halfway house to which Brooks is sent: Bissman Building, North Main Street, Ohio</figcaption></figure>\n<p>The town into which the elderly, institutionalised Brooks (<a href=\"https://www.movie-locations.com/people/w/whitmorej.php\">James Whitmore</a>) is released is Mansfield<span class=\"name\"></span> itself. The ‘Brewer’, the halfway house where he carves ‘Brooks was here’ into the beams, is the <a href=\"http://www.bissmanbuilding.com/\" target=\"_blank\">Haunted Bissman Building</a>, <span class=\"name\">193 North Main Street</span>. Built in 1887 as HQ of the Bissman grocery company, the now-disused building is supposedly inhabited by mysterious spirits, and you can participate in regular paranormal investigations. The <a href=\"http://www.bissmanbuilding.com/\" target=\"_blank\">Bissman</a> is also featured in <span class=\"name\">Edward Douglas</span>’s 2010 horror <span class=\"name\">The Dead Matter</span>, with splatter-master <span class=\"name\">Tom Savini</span>.</p>\n<p>The interior of the ‘Brewer’, incidentally, was filmed inside <a href=\"http://www.mrps.org/\" target=\"_blank\">Mansfield Reformatory</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0111161/008.jpg\" alt=\"The Shawshank Redemption filming location: Central Park, Mansfield, Ohio\"><figcaption>The Shawshank Redemption filming location: Brooks looks for jake the crow as he feeds the pigeons: Central Park, Mansfield, Ohio</figcaption></figure>\n<p>South from the <a href=\"http://www.bissmanbuilding.com/\" target=\"_blank\">Bissman Building</a>, on <span class=\"name\">Main Street</span>, it’s in-Mansfield<span class=\"name\"></span>’s <span class=\"name\">Central Park</span> that Brooks sits on a bench forlornly feeding the pigeons, hoping to get a glimpse of Jake, the crow he reared.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0111161/009.jpg\" alt=\"The Shawshank Redemption filming location: Huntington Bank, West Main Street, Ashland, Ohio\"><figcaption>The Shawshank Redemption filming location: ‘Randall Stephens’ withdraws his money from ‘Maine National Bank’: Huntington Bank, West Main Street, Ashland, Ohio</figcaption></figure>\n<p>‘Maine National Bank’, into which the invented ‘Randall Stephens’ strides to withdraw the Warden’s money, is <span class=\"name\">Huntington Bank, 19 West Main Street</span>, in <span class=\"name\">Ashland</span>, about 12 miles northeast of Mansfield. The bank is currently closed.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0111161/010.jpg\" alt=\"The Shawshank Redemption filming location: Carrousel Antiques, West Main Street, Mansfield, Ohio\"><figcaption>The Shawshank Redemption filming location: Red looks in the gunshop and contemplates breaking his parole: Carrousel Antiques, West Main Street, Mansfield, Ohio</figcaption></figure>\n<p>It’s back to <span class=\"name\">Mansfield</span>, where <span class=\"name\">Carrousel Antiques, 118 North Main Street</span>, provided the gun store window into which Red (<a href=\"https://www.movie-locations.com/people/f/freemanm.php\">Morgan Freeman</a>) looks as he considers breaking parole to be returned to prison.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0111161/011.jpg\" alt=\"The Shawshank Redemption filming location: Pleasant Valley Road, Mansfield, Ohio\"><figcaption>The Shawshank Redemption filming location: the oak tree at ‘Buxton’: Pleasant Valley Road, Mansfield, Ohio</figcaption></figure>\n<p>The ‘hayfield up near Buxton’, to which Red travels keeping his promise to Andy, is a private field  near to <a onclick=\"window.open('http://www.malabarfarm.org/', 'farm')\" href=\"#malabar\">Malabar Farm</a>. You can see the site of the oak tree north of <span class=\"name\">Pleasant Valley Road</span> (Co Hwy 303) at Bromfield Road, a little to the east of the entrance to the farm. The majestic tree was a little reduced after being split in two by a lightning strike in 2011, but in 2016 was finally toppled by strong winds. Its remains were cut down and removed.</p>\n<p>Back in <span class=\"name\">Ashland</span>, not far from the bank, <span class=\"name\">Revivals Thrift Store 345 Orange Street</span> became The ‘Trailways Bus Station’, where Red boards the bus to ‘Fort Hancock, Texas’.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0111161/012.jpg\" alt=\"The Shawshank Redemption filming location: Orange Street, Ashland, Ohio\"><figcaption>The Shawshank Redemption filming location: the ‘Trailways Bus Station’, where Red catches the bus to ‘Fort Hancock, Texas’: Orange Street, Ashland, Ohio</figcaption></figure>\n<p>Andy and Red are finally reunited in ‘Mexico’, but that’s not the blue of the Pacific. It’s the Caribbean, and the beach at ‘Zihuatanejo’ is <a href=\"http://www.fws.gov/caribbean/Refuges/Sandypoint/default.htm\" target=\"_blank\">Sandy Point National Wildlife Refuge</a>, a two-mile crescent of sand just south of <span class=\"name\">Frederiksted</span> on the  southwestern tip of <a href=\"http://www.visitusvi.com/stcroix/homepage\" target=\"_blank\">St Croix</a>, largest of the <a href=\"https://www.movie-locations.com/places/caribbean/virginis.php\">U.S. Virgin islands</a>, an unincorporated territory of the United States.</p>\n<p>It is a remote and peaceful spot, but needs to be treated with respect. The beach is a hatching ground for leatherback turtles, and open only at limited times (10am to 4pm on Saturdays and Sundays), and not at all during the breeding season.</p>\n<p>• Many thanks to <span class=\"name\">Erik Hollander</span> for help with this section.</p>",
+  "main_content_text": "One of those odd sleepers, a modest success on release, Shawshank went on to a phenomenally popular afterlife on video and DVD.\n\nAndy Dufresne (Tim Robbins) bides his time during twenty years’ imprisonment for the murder of his wife in this adaptation of a Stephen King story. And being Stephen King, the setting is once again Maine, though you’ll find ‘Shawshank State Prison’ in Ohio. It’s the forbiddingly Gothic Mansfield Reformatory, 100 Reformatory Road, Mansfield, on US Route 30, about 80 miles southwest of Cleveland.\n\nBuilt between 1886 and 1910, the reformatory remained in operation until 1990 and was scheduled for demolition when the film was made. In fact, much of the prison yard has now gone to make room for the adjacent Richland Correctional Institution, but the striking Administration Building lives on as a tourist attraction. Find it just north of downtown Mansfield, off South Olivesburg Road.\n\nAlthough some prison interiors were recreated in the studio, the office of the corrupt Governor Norton (Bob Gunton) really is Mansfield Reformatory.\n\nPrison scenes for Air Force One, Harry and Walter Go To New York and Tango & Cash were also filmed in the reformatory.\n\nMansfield Tourism has laid out a helpful Shawshank Trail if you want to explore the film’s other locations in-Mansfield and the surrounding area. Stickers identify the key locations.\n\nThe golf pro’s house, where Andy’s wife and her lover are murdered, is the Pugh Cabin, which you’ll find on the grounds of Malabar Farm State Park, 4050 Bromfield Road, south of Lucas, a few miles southeast of-Mansfield itself.\n\nAbout 40 miles west of Mansfield, in the town of Upper Sandusky, Andy’s trial is held at Wyandot Courthouse, 109 South Sandusky Avenue.\n\nIncidentally, 228 South 8th Street, also in Upper Sandusky, served as the woodwork shop of ‘Shawshank Prison’.\n\nThe town into which the elderly, institutionalised Brooks (James Whitmore) is released is Mansfield itself. The ‘Brewer’, the halfway house where he carves ‘Brooks was here’ into the beams, is the Haunted Bissman Building, 193 North Main Street. Built in 1887 as HQ of the Bissman grocery company, the now-disused building is supposedly inhabited by mysterious spirits, and you can participate in regular paranormal investigations. The Bissman is also featured in Edward Douglas’s 2010 horror The Dead Matter, with splatter-master Tom Savini.\n\nThe interior of the ‘Brewer’, incidentally, was filmed inside Mansfield Reformatory.\n\nSouth from the Bissman Building, on Main Street, it’s in-Mansfield’s Central Park that Brooks sits on a bench forlornly feeding the pigeons, hoping to get a glimpse of Jake, the crow he reared.\n\n‘Maine National Bank’, into which the invented ‘Randall Stephens’ strides to withdraw the Warden’s money, is Huntington Bank, 19 West Main Street, in Ashland, about 12 miles northeast of Mansfield. The bank is currently closed.\n\nIt’s back to Mansfield, where Carrousel Antiques, 118 North Main Street, provided the gun store window into which Red (Morgan Freeman) looks as he considers breaking parole to be returned to prison.\n\nThe ‘hayfield up near Buxton’, to which Red travels keeping his promise to Andy, is a private field near to Malabar Farm. You can see the site of the oak tree north of Pleasant Valley Road (Co Hwy 303) at Bromfield Road, a little to the east of the entrance to the farm. The majestic tree was a little reduced after being split in two by a lightning strike in 2011, but in 2016 was finally toppled by strong winds. Its remains were cut down and removed.\n\nBack in Ashland, not far from the bank, Revivals Thrift Store 345 Orange Street became The ‘Trailways Bus Station’, where Red boards the bus to ‘Fort Hancock, Texas’.\n\nAndy and Red are finally reunited in ‘Mexico’, but that’s not the blue of the Pacific. It’s the Caribbean, and the beach at ‘Zihuatanejo’ is Sandy Point National Wildlife Refuge, a two-mile crescent of sand just south of Frederiksted on the southwestern tip of St Croix, largest of the U.S. Virgin islands, an unincorporated territory of the United States.\n\nIt is a remote and peaceful spot, but needs to be treated with respect. The beach is a hatching ground for leatherback turtles, and open only at limited times (10am to 4pm on Saturdays and Sundays), and not at all during the breeding season.\n\n• Many thanks to Erik Hollander for help with this section.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption filming location: Red keeps his promise to Andy: Pleasant Valley Road, Mansfield, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/001.jpg",
+      "alt": "The Shawshank Redemption filming location: Pleasant Valley Road, Mansfield, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of those odd sleepers, a modest success on release, Shawshank went on to a phenomenally popular afterlife on video and DVD."
+    },
+    {
+      "type": "paragraph",
+      "text": "Andy Dufresne (Tim Robbins) bides his time during twenty years’ imprisonment for the murder of his wife in this adaptation of a Stephen King story. And being Stephen King, the setting is once again Maine, though you’ll find ‘Shawshank State Prison’ in Ohio. It’s the forbiddingly Gothic Mansfield Reformatory, 100 Reformatory Road, Mansfield, on US Route 30, about 80 miles southwest of Cleveland."
+    },
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption location: ‘Shawshank State Prison’: Ohio State Reformatory, Mansfield, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/003.jpg",
+      "alt": "The Shawshank Redemption location: Ohio State Reformatory, Mansfield, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Built between 1886 and 1910, the reformatory remained in operation until 1990 and was scheduled for demolition when the film was made. In fact, much of the prison yard has now gone to make room for the adjacent Richland Correctional Institution, but the striking Administration Building lives on as a tourist attraction. Find it just north of downtown Mansfield, off South Olivesburg Road."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although some prison interiors were recreated in the studio, the office of the corrupt Governor Norton (Bob Gunton) really is Mansfield Reformatory."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prison scenes for Air Force One, Harry and Walter Go To New York and Tango & Cash were also filmed in the reformatory."
+    },
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption filming location: stickers identify locations on the Shawshank Trail: Shawshank Trail, Mansfield, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/004.jpg",
+      "alt": "The Shawshank Redemption filming location: Mansfield, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mansfield Tourism has laid out a helpful Shawshank Trail if you want to explore the film’s other locations in-Mansfield and the surrounding area. Stickers identify the key locations."
+    },
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption filming location: the house where Andy Dufresne’s wife is murdered: Malabar Farm State Park, Mansfield, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/005.jpg",
+      "alt": "The Shawshank Redemption filming location: Malabar Farm, Mansfield, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "The golf pro’s house, where Andy’s wife and her lover are murdered, is the Pugh Cabin, which you’ll find on the grounds of Malabar Farm State Park, 4050 Bromfield Road, south of Lucas, a few miles southeast of-Mansfield itself."
+    },
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption filming location: the ‘Brewer’, the halfway house to which Brooks is sent: Bissman Building, North Main Street, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/006.jpg",
+      "alt": "The Shawshank Redemption filming location: Bissman Building, North Main Street, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "About 40 miles west of Mansfield, in the town of Upper Sandusky, Andy’s trial is held at Wyandot Courthouse, 109 South Sandusky Avenue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incidentally, 228 South 8th Street, also in Upper Sandusky, served as the woodwork shop of ‘Shawshank Prison’."
+    },
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption filming location: the ‘Brewer’, the halfway house to which Brooks is sent: Bissman Building, North Main Street, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/007.jpg",
+      "alt": "The Shawshank Redemption filming location: Bissman Building, North Main Street, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "The town into which the elderly, institutionalised Brooks (James Whitmore) is released is Mansfield itself. The ‘Brewer’, the halfway house where he carves ‘Brooks was here’ into the beams, is the Haunted Bissman Building, 193 North Main Street. Built in 1887 as HQ of the Bissman grocery company, the now-disused building is supposedly inhabited by mysterious spirits, and you can participate in regular paranormal investigations. The Bissman is also featured in Edward Douglas’s 2010 horror The Dead Matter, with splatter-master Tom Savini."
+    },
+    {
+      "type": "paragraph",
+      "text": "The interior of the ‘Brewer’, incidentally, was filmed inside Mansfield Reformatory."
+    },
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption filming location: Brooks looks for jake the crow as he feeds the pigeons: Central Park, Mansfield, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/008.jpg",
+      "alt": "The Shawshank Redemption filming location: Central Park, Mansfield, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "South from the Bissman Building, on Main Street, it’s in-Mansfield’s Central Park that Brooks sits on a bench forlornly feeding the pigeons, hoping to get a glimpse of Jake, the crow he reared."
+    },
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption filming location: ‘Randall Stephens’ withdraws his money from ‘Maine National Bank’: Huntington Bank, West Main Street, Ashland, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/009.jpg",
+      "alt": "The Shawshank Redemption filming location: Huntington Bank, West Main Street, Ashland, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "‘Maine National Bank’, into which the invented ‘Randall Stephens’ strides to withdraw the Warden’s money, is Huntington Bank, 19 West Main Street, in Ashland, about 12 miles northeast of Mansfield. The bank is currently closed."
+    },
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption filming location: Red looks in the gunshop and contemplates breaking his parole: Carrousel Antiques, West Main Street, Mansfield, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/010.jpg",
+      "alt": "The Shawshank Redemption filming location: Carrousel Antiques, West Main Street, Mansfield, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s back to Mansfield, where Carrousel Antiques, 118 North Main Street, provided the gun store window into which Red (Morgan Freeman) looks as he considers breaking parole to be returned to prison."
+    },
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption filming location: the oak tree at ‘Buxton’: Pleasant Valley Road, Mansfield, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/011.jpg",
+      "alt": "The Shawshank Redemption filming location: Pleasant Valley Road, Mansfield, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘hayfield up near Buxton’, to which Red travels keeping his promise to Andy, is a private field near to Malabar Farm. You can see the site of the oak tree north of Pleasant Valley Road (Co Hwy 303) at Bromfield Road, a little to the east of the entrance to the farm. The majestic tree was a little reduced after being split in two by a lightning strike in 2011, but in 2016 was finally toppled by strong winds. Its remains were cut down and removed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Back in Ashland, not far from the bank, Revivals Thrift Store 345 Orange Street became The ‘Trailways Bus Station’, where Red boards the bus to ‘Fort Hancock, Texas’."
+    },
+    {
+      "type": "image",
+      "caption": "The Shawshank Redemption filming location: the ‘Trailways Bus Station’, where Red catches the bus to ‘Fort Hancock, Texas’: Orange Street, Ashland, Ohio",
+      "src": "_assets/tt0111161%20-%20Shawshank-Redemption/012.jpg",
+      "alt": "The Shawshank Redemption filming location: Orange Street, Ashland, Ohio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Andy and Red are finally reunited in ‘Mexico’, but that’s not the blue of the Pacific. It’s the Caribbean, and the beach at ‘Zihuatanejo’ is Sandy Point National Wildlife Refuge, a two-mile crescent of sand just south of Frederiksted on the southwestern tip of St Croix, largest of the U.S. Virgin islands, an unincorporated territory of the United States."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is a remote and peaceful spot, but needs to be treated with respect. The beach is a hatching ground for leatherback turtles, and open only at limited times (10am to 4pm on Saturdays and Sundays), and not at all during the breeding season."
+    },
+    {
+      "type": "paragraph",
+      "text": "• Many thanks to Erik Hollander for help with this section."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Ohio</h3>\n<p>Visit: Ohio</p>\n<p>Visit: Mansfield</p>\n<p>Visit: Mansfield Reformatory, 100 Reformatory Road, Mansfield, OH 44905 (tel: 419.522.2644)</p>\n<p>Follow: the Shawshank Trail</p>\n<p>Visit: the Haunted Bissman Building, 193 North Main Street, Mansfield, OH 44902 (tel: 419.295.5002)</p>\n<p>Visit: Malabar Farm State Park, 4050 Bromfield Road, Lucas, OH 44843 (tel: 419.892.2784)</p>\n</section>\n<section><h3>Virgin Islands</h3>\n<p>Visit: Virgin Islands</p>\n<p>Getting to: Virgin Islands</p>\n<p>Visit: St Croix</p>\n<p>Visit: Sandy Point National Wildlife Refuge, Frederiksted, St Croix 00840, USVI</p>\n</section>",
+  "visit_info_text": "Ohio\nVisit: Ohio\nVisit: Mansfield\nVisit: Mansfield Reformatory, 100 Reformatory Road, Mansfield, OH 44905 (tel: 419.522.2644)\nFollow: the Shawshank Trail\nVisit: the Haunted Bissman Building, 193 North Main Street, Mansfield, OH 44902 (tel: 419.295.5002)\nVisit: Malabar Farm State Park, 4050 Bromfield Road, Lucas, OH 44843 (tel: 419.892.2784)\nVirgin Islands\nVisit: Virgin Islands\nGetting to: Virgin Islands\nVisit: St Croix\nVisit: Sandy Point National Wildlife Refuge, Frederiksted, St Croix 00840, USVI",
+  "visit_sections": [
+    {
+      "title": "Ohio",
+      "items": [
+        "Visit: Ohio",
+        "Visit: Mansfield",
+        "Visit: Mansfield Reformatory, 100 Reformatory Road, Mansfield, OH 44905 (tel: 419.522.2644)",
+        "Follow: the Shawshank Trail",
+        "Visit: the Haunted Bissman Building, 193 North Main Street, Mansfield, OH 44902 (tel: 419.295.5002)",
+        "Visit: Malabar Farm State Park, 4050 Bromfield Road, Lucas, OH 44843 (tel: 419.892.2784)"
+      ]
+    },
+    {
+      "title": "Virgin Islands",
+      "items": [
+        "Visit: Virgin Islands",
+        "Getting to: Virgin Islands",
+        "Visit: St Croix",
+        "Visit: Sandy Point National Wildlife Refuge, Frederiksted, St Croix 00840, USVI"
+      ]
+    }
+  ]
+}

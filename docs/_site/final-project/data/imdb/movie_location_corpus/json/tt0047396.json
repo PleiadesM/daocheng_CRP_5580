@@ -1,0 +1,108 @@
+{
+  "imdb_id": "tt0047396",
+  "shorthand": "Rear-Window",
+  "title": "Rear Window",
+  "year": 1954,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0047396 - Rear-Window.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0047396 - Rear-Window.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0047396.json",
+  "source_url": "http://www.movie-locations.com/movies/r/Rear-Window.php",
+  "page_title": "Rear Window | Film Locations",
+  "meta_description": "Film locations for Rear Window (1954), in Los Angeles.",
+  "meta_keywords": "Rear Window (1954), film locations, filming locations, tourism, travel, set-jetting, los angeles, paramount pictures, hollywood, alfred hitchcock",
+  "og_title": "Filming Locations for Rear Window (1954), in Los Angeles.",
+  "og_description": "Travel guide to film locations for Rear Window (1954), in Los Angeles.",
+  "og_image": "http://www.movie-locations.com/movies/r/Rear-Window.jpg",
+  "top250_rank": "91",
+  "movie_locations_title": "REAR WINDOW",
+  "movie_locations_regions": "Los Angeles, California",
+  "director": "Alfred Hitchcock",
+  "cast": [
+    "James Stewart",
+    "Grace Kelly",
+    "Raymond Burr",
+    "Thelma Ritter"
+  ],
+  "locations": [
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0047396%20-%20Rear-Window/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0047396 - Rear-Window/001.jpg",
+    "exists": true,
+    "alt": "Rear Window poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0047396/poster.jpg",
+    "corpus_asset_src": "../assets/tt0047396/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0047396%20-%20Rear-Window/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0047396 - Rear-Window/001.jpg",
+    "exists": true,
+    "alt": "Rear Window poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0047396/001.jpg",
+    "corpus_asset_src": "../assets/tt0047396/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0047396%20-%20Rear-Window/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0047396 - Rear-Window/001.jpg",
+      "exists": true,
+      "alt": "Rear Window poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0047396/001.jpg",
+      "corpus_asset_src": "../assets/tt0047396/001.jpg"
+    }
+  ],
+  "main_content_html": "<p>As an <a href=\"https://www.movie-locations.com/people/h/hitchcocka.php\">Alfred Hitchcock</a> favourite, I suppose <span class=\"name\">Rear Window</span> has to be mentioned, if only to record the unsurprising fact that there are no real locations to see.</p>\n<p>It’s set in 'Greenwich Village', New York, but the movie was shot entirely on a gigantic set built at <span class=\"name\">Paramount Studios</span> on <span class=\"name\">Melrose Avenue</span> in <span class=\"name\">Hollywood</span>.</p>\n<p><a href=\"https://www.movie-locations.com/people/h/hitchcocka.php\">Hitchcock</a> loved technical challenges (<span class=\"name\">Lifeboat</span>, set in a single boat; <span class=\"name\">Rope</span>, shot in one ‘unbroken’ take on a single set). The simple setting of one apartment block required the building of one of the largest indoor sets then constructed in <span class=\"name\">Hollywood</span>.</p>\n<p>Too large for the soundstage, in fact. As it was impossible to build higher, the studio floor was removed to allow the necessary height.</p>\n<p>Of the 31 apartments which can be seen from the window of photographer Jeffries (<a href=\"https://www.movie-locations.com/people/s/stewartj.php\">James Stewart</a>),  twelve were fully furnished.     </p>\n<p>If you want to visit the famous studio (you can see the lot in <a href=\"https://www.movie-locations.com/movies/s/Sunset-Boulevard.php\">Sunset Boulevard</a>)  you can book a <a href=\"http://www.paramountstudiotour.com/\" target=\"_blank\">Paramount Studios VIP Tour</a>. The 2-hour tour caters for small groups Monday to Friday.</p>",
+  "main_content_text": "As an Alfred Hitchcock favourite, I suppose Rear Window has to be mentioned, if only to record the unsurprising fact that there are no real locations to see.\n\nIt’s set in 'Greenwich Village', New York, but the movie was shot entirely on a gigantic set built at Paramount Studios on Melrose Avenue in Hollywood.\n\nHitchcock loved technical challenges (Lifeboat, set in a single boat; Rope, shot in one ‘unbroken’ take on a single set). The simple setting of one apartment block required the building of one of the largest indoor sets then constructed in Hollywood.\n\nToo large for the soundstage, in fact. As it was impossible to build higher, the studio floor was removed to allow the necessary height.\n\nOf the 31 apartments which can be seen from the window of photographer Jeffries (James Stewart), twelve were fully furnished.\n\nIf you want to visit the famous studio (you can see the lot in Sunset Boulevard) you can book a Paramount Studios VIP Tour. The 2-hour tour caters for small groups Monday to Friday.",
+  "main_sections": [
+    {
+      "type": "paragraph",
+      "text": "As an Alfred Hitchcock favourite, I suppose Rear Window has to be mentioned, if only to record the unsurprising fact that there are no real locations to see."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s set in 'Greenwich Village', New York, but the movie was shot entirely on a gigantic set built at Paramount Studios on Melrose Avenue in Hollywood."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hitchcock loved technical challenges (Lifeboat, set in a single boat; Rope, shot in one ‘unbroken’ take on a single set). The simple setting of one apartment block required the building of one of the largest indoor sets then constructed in Hollywood."
+    },
+    {
+      "type": "paragraph",
+      "text": "Too large for the soundstage, in fact. As it was impossible to build higher, the studio floor was removed to allow the necessary height."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of the 31 apartments which can be seen from the window of photographer Jeffries (James Stewart), twelve were fully furnished."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to visit the famous studio (you can see the lot in Sunset Boulevard) you can book a Paramount Studios VIP Tour. The 2-hour tour caters for small groups Monday to Friday."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Take: the Paramount Studios VIP Tour, 5515 Melrose Avenue, Hollywood, Los Angeles, CA 90038 (tel: 323.956.1777)</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nTake: the Paramount Studios VIP Tour, 5515 Melrose Avenue, Hollywood, Los Angeles, CA 90038 (tel: 323.956.1777)",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Take: the Paramount Studios VIP Tour, 5515 Melrose Avenue, Hollywood, Los Angeles, CA 90038 (tel: 323.956.1777)"
+      ]
+    }
+  ]
+}

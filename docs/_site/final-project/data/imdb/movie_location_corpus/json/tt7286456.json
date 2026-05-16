@@ -1,0 +1,375 @@
+{
+  "imdb_id": "tt7286456",
+  "shorthand": "Joker-2019",
+  "title": "Joker",
+  "year": 2019,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt7286456 - Joker-2019.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt7286456 - Joker-2019.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt7286456.json",
+  "source_url": "http://www.movie-locations.com/movies/j/Joker-2019.php",
+  "page_title": "Joker | Film Locations",
+  "meta_description": "The film locations for Joker (2019), with Joaquin Phoenix, around New York and New Jersey; including Arthur Fleck's apartment and the 'Joker steps' in the Bronx; 'Arkham State Hospital' in Brooklyn; 'Ha-Ha's' office in Harlem; 'Wayne Manor' on Long Island; 'Wayne Hall' and the clown riot in New Jersey, and more.",
+  "meta_keywords": "Joker film locations, filming locations, tourism, travel, set-jetting, new york, new jersey, bronx, manhattan, brooklyn, long island, joker stairs, steps, wayne manor",
+  "og_title": "Film locations for Joker, in New York and New Jersey, including Arthur Fleck's apartment and the 'Joker steps' in the Bronx; 'Arkham State Hospital' in Brooklyn; 'Ha-Ha's' office in Harlem; 'Wayne Manor' on Long Island; 'Wayne Hall' and the clown riot in New Jersey, and more.",
+  "og_description": "Travel guide to filming locations for Joker, in New York and New Jersey; including Arthur Fleck's apartment and the 'Joker steps' in the Bronx; 'Arkham State Hospital' in Brooklyn; 'Ha-Ha's' office in Harlem; 'Wayne Manor' on Long Island; 'Wayne Hall' and the clown riot in New Jersey, and more.",
+  "og_image": "http://www.movie-locations.com/movies/j/Joker-Bronx-steps.jpg",
+  "top250_rank": "118",
+  "movie_locations_title": "JOKER",
+  "movie_locations_regions": "New York | New Jersey",
+  "director": "Todd Phillips",
+  "cast": [
+    "Joaquin Phoenix",
+    "Robert De Niro",
+    "Frances Conroy",
+    "Zazie Beetz",
+    "Brett Cullen",
+    "Glenn Fleshler",
+    "Shea Whigham",
+    "Bill Camp",
+    "Douglas Hodge"
+  ],
+  "locations": [
+    "New York;",
+    "New Jersey"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt7286456%20-%20Joker-2019/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/002.jpg",
+    "exists": true,
+    "alt": "Joker poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/poster.jpg",
+    "corpus_asset_src": "../assets/tt7286456/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt7286456%20-%20Joker-2019/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/001.jpg",
+    "exists": true,
+    "alt": "Joker filming location: Market Street, Newark, New Jersey",
+    "caption": "Joker film location: Arthur Fleck juggles the sign outside 'Jimmy's Music Store': Market Street, Newark, New Jersey | Image: Google Maps",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/001.jpg",
+    "corpus_asset_src": "../assets/tt7286456/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt7286456%20-%20Joker-2019/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/001.jpg",
+      "exists": true,
+      "alt": "Joker filming location: Market Street, Newark, New Jersey",
+      "caption": "Joker film location: Arthur Fleck juggles the sign outside 'Jimmy's Music Store': Market Street, Newark, New Jersey | Image: Google Maps",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/001.jpg",
+      "corpus_asset_src": "../assets/tt7286456/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt7286456%20-%20Joker-2019/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/002.jpg",
+      "exists": true,
+      "alt": "Joker poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/002.jpg",
+      "corpus_asset_src": "../assets/tt7286456/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt7286456%20-%20Joker-2019/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/003.jpg",
+      "exists": true,
+      "alt": "Joker filming location: 12th Avenue, Manhattanville, Manhattan",
+      "caption": "Joker film location: 'Ha-Ha's' agency: 12th Avenue, Manhattanville, Manhattan | Image: Google Maps",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/003.jpg",
+      "corpus_asset_src": "../assets/tt7286456/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt7286456%20-%20Joker-2019/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/004.jpg",
+      "exists": true,
+      "alt": "Joker filming location: Anderson Avenue, Bronx",
+      "caption": "Joker film location: the apartment Arthur shares with his mom Penny: Anderson Avenue, Bronx | Image: Google Maps",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/004.jpg",
+      "corpus_asset_src": "../assets/tt7286456/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt7286456%20-%20Joker-2019/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/005.jpg",
+      "exists": true,
+      "alt": "Joker filming location: Market Street, Shakespeare Avenue, Bronx",
+      "caption": "Joker film location: Joker dances down the steps: Shakespeare Avenue, Bronx | Image: Google Maps",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/005.jpg",
+      "corpus_asset_src": "../assets/tt7286456/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt7286456%20-%20Joker-2019/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/006.jpg",
+      "exists": true,
+      "alt": "Joker filming location: Hudson County Courthouse, Newark Avenue, Jersey City",
+      "caption": "Joker film location: clowns besiege the fundraiser at 'Wayne Hall': Hudson County Courthouse, Newark Avenue, Jersey City | Photograph: Wikimedia / Jim.henderson",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/006.jpg",
+      "corpus_asset_src": "../assets/tt7286456/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt7286456%20-%20Joker-2019/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/007.jpg",
+      "exists": true,
+      "alt": "Joker filming location: Kings Theatre, Flatbush Avenue, Brooklyn",
+      "caption": "Joker film location: Arthur spots Thomas Wayne at the film showing: Kings Theatre, Flatbush Avenue, Brooklyn | Photograph: Wikimedia / Dewalt718",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/007.jpg",
+      "corpus_asset_src": "../assets/tt7286456/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt7286456%20-%20Joker-2019/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/008.jpg",
+      "exists": true,
+      "alt": "Joker filming location: Brooklyn Army Terminal, 1st Avenue, Brooklyn",
+      "caption": "Joker film location: Arthur visits 'Arkham State Hospital': Brooklyn Army Terminal, 1st Avenue, Brooklyn | Image: Google Maps",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/008.jpg",
+      "corpus_asset_src": "../assets/tt7286456/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt7286456%20-%20Joker-2019/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt7286456 - Joker-2019/009.jpg",
+      "exists": true,
+      "alt": "Joker filming location: Loew's Jersey Theatre, Journal Square Plaza, Jersey City, New Jersey",
+      "caption": "Joker film location: the Wayne family exits the cinema: Loew's Jersey Theatre, Journal Square Plaza, Jersey City, New Jersey | Image: Google Maps",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt7286456/009.jpg",
+      "corpus_asset_src": "../assets/tt7286456/009.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt7286456/001.jpg\" alt=\"Joker filming location: Market Street, Newark, New Jersey\"><figcaption>Joker film location: Arthur Fleck juggles the sign outside 'Jimmy's Music Store': Market Street, Newark, New Jersey | Image: Google Maps</figcaption></figure>\n<p><span class=\"name\">Joker</span> benefits from carefully chosen locations from all over <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> – and <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a> too – knitted together to create the hellish world of Arthur Fleck (<a href=\"https://www.movie-locations.com/people/p/phoenixj.php\">Joaquin Phoenix</a>), in a backstory hugely influenced by <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Martin Scorsese</a>'s 1982 <a href=\"https://www.movie-locations.com/movies/k/King-Of-Comedy.php\">The King Of Comedy</a>.</p>\n<p>We start in <span class=\"name\">Newark</span>, <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a> where Arthur, in his clown costume, dances with an 'Everything must go' sign in front of a failing business. 'Kenny's Music Shop' was an empty store at <span class=\"name\">199 Market Street</span>, alongside the disused <span class=\"name\">Newark Paramount Theatre, 195 Market Street</span> (cunningly disguised as 'Newart').</p>\n<p>Gotham is a tough city and, not only does Arthur's sign get stolen by a bunch of kids, he's given a good kicking in an alleyway. Back at 'Ha-Ha's', the grimly rundown clown-hire agency for which he works, concerned co-worker Randall (<a href=\"https://www.movie-locations.com/people/f/fleshlerg.php\">Glenn Fleshler</a>) furtively gives Arthur a gun for protection.</p>\n<p>One idea considered for the location of 'Ha-Ha's' was naturally the Coney Island Boardwalk, but eventually a rug-cleaning business overlooking the <span class=\"name\">Hudson River</span> in <span class=\"name\">Manhattanville</span>, northwest <span class=\"name\">Harlem</span>, was chosen.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt7286456/003.jpg\" alt=\"Joker filming location: 12th Avenue, Manhattanville, Manhattan\"><figcaption>Joker film location: 'Ha-Ha's' agency: 12th Avenue, Manhattanville, Manhattan | Image: Google Maps</figcaption></figure>\n<p>It's <span class=\"name\">Cleantex, 2335 12th Avenue</span>, between West 133rd and West 134th Streets, with the constant rumble of the West Side Highway outside its window. Sadly, the 'Amusement Mile' murals on <span class=\"name\">12th Avenue</span> have since been painted over.</p>\n<p>Running out of synonyms for glum and grim, we'll take it as read that these descriptions fit many of the film's locations – at least, as they appear on-screen.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt7286456/004.jpg\" alt=\"Joker filming location: Anderson Avenue, Bronx\"><figcaption>Joker film location: the apartment Arthur shares with his mom Penny: Anderson Avenue, Bronx | Image: Google Maps</figcaption></figure>\n<p>None more so that the apartment Arthur shares with his ailing mom Penny (<a href=\"https://www.movie-locations.com/people/c/conroyf.php\">Frances Conroy</a>). It's what was once an imposing art deco block in <span class=\"name\">Highbridge</span>, the <span class=\"name\">Bronx</span>, which is photographed to look like it’s seen better days. Those three archways are <span class=\"name\">1150 Anderson Avenue</span> at West 167th Street, a few blocks north of Yankee Stadium. And, yes, it's right alongside the famous steep flight of steps that's caused so much controversy.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt7286456/005.jpg\" alt=\"Joker filming location: Market Street, Shakespeare Avenue, Bronx\"><figcaption>Joker film location: Joker dances down the steps: Shakespeare Avenue, Bronx | Image: Google Maps</figcaption></figure>\n<p>The steps run from <span class=\"name\">Anderson Avenue</span> down to <span class=\"name\">Shakespeare Avenue</span>.</p>\n<p>The staircase has understandably become a tourist attraction but not all local residents are delighted about this. One big defence of 'movie tourism' is that the inconvenience can bring revenue to a neighbourhood so, if you're going for that once-in-a-lifetime photo-op, please show a little respect. Don't just whizz in and out – take time to explore the area and utilise the local businesses.</p>\n<p>Considering a career as a stand-up comic, Arthur is seen tentatively approaching, then shying away from, 'Gotham Savings Bank'. This looks like it's in the heart of <span class=\"name\">Manhattan</span> / Gotham's <span class=\"name\">Financial District</span>, and it is. It's <span class=\"name\">20 Exchange Place</span> at William Street, which you might recognise as the bank robbed in <a href=\"https://www.movie-locations.com/people/l/lees.php\">Spike Lee</a>'s 2006 thriller <span class=\"name\">Inside Man</span>, with <a href=\"https://www.movie-locations.com/people/w/washingtond.php\">Denzel Washington</a> and <a href=\"https://www.movie-locations.com/people/f/fosterj.php\">Jodie Foster</a>.</p>\n<p>Things go from bad to worse for Arthur as he loses his job and his counselling sessions are cancelled due to cutbacks. When he's hassled and eventually assaulted by three arrogant, drunken yuppies an empty subway carriage, he finally snaps and uses that gun he was given.</p>\n<p>Arthur exits the train and finishes of the last of his tormentors at a disused lower platform of the <span class=\"name\">9th Avenue Subway Station,</span> at 9th Avenue and 39th Street in the <span class=\"name\">Sunset Park</span> district of <span class=\"name\">Brooklyn</span>. The same platform, which has been closed since 1975, was previously seen at the much happier climax of 1986 hit <a href=\"https://www.movie-locations.com/movies/c/Crocodile-Dundee.php\">Crocodile Dundee</a>.</p>\n<p>This whole incident is clearly inspired by the case of <span class=\"name\">Bernard Goetz</span> who shot four guys on a <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> subway train in 1984 and, controversially, become something of a 'celebrity vigilante' – in the same way that the 'Killer Clown' achieves notoriety in the film.</p>\n<p>Arthur flees the scene, through the tunnel on <span class=\"name\">Cherry Street</span> just west of Pike Street where it runs beneath the <span class=\"name\">Manhattan Bridge</span> in <span class=\"name\">Manhattan</span>'s <span class=\"name\">Two Bridges</span> district.</p>\n<p>A rare upbeat moment comes when he seems to strike up a relationship with his neighbour Sophie Dumond (<a href=\"https://www.movie-locations.com/people/b/beetzz.php\">Zazie Beetz</a>), the only person he knows who bothers to turn up for his tryout stand-up routine. Predictably, his act isn't the career-launching breakout he dreamed of, but nevertheless the two stop afterwards for a late night coffee at Twin Donut, <span class=\"name\">3396 Jerome Avenue</span> at East 208th Street, <span class=\"name\">Norwood</span>, back in the <span class=\"name\">Bronx</span> (though this particular branch has since closed).</p>\n<p>It gets complicated when Arthur discovers that his mother believes he's the unacknowledged son of wealthy businessman Thomas Wayne (<a href=\"https://www.movie-locations.com/people/c/cullenb.php\">Brett Cullen</a>), for whom she had once worked. He heads off to 'Wayne Manor' hoping to connect with his estranged father, meets Thomas's son Bruce but gets warned off in no uncertain terms by the butler Alfred (<a href=\"https://www.movie-locations.com/people/h/hodged.php\">Douglas Hodge</a>).</p>\n<p>This incarnation of 'Wayne Manor' has been seen in the role on-screen before – it’s the <span class=\"name\">Webb Institute of Naval Architecture</span> (previously a grand private house called The Braes), <span class=\"name\">298 Crescent Beach Road, Glen Cove</span> on the north shore of <span class=\"name\">Long Island</span>. It appeared as the Wayne home in both <a href=\"https://www.movie-locations.com/people/s/schumacherj.php\">Joel Schumacher</a>'s 1995 <a href=\"https://www.movie-locations.com/movies/b/Batman-Forever.php\">Batman Forever</a> and in the more recent TV series, <span class=\"ital\">Gotham</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt7286456/006.jpg\" alt=\"Joker filming location: Hudson County Courthouse, Newark Avenue, Jersey City\"><figcaption>Joker film location: clowns besiege the fundraiser at 'Wayne Hall': Hudson County Courthouse, Newark Avenue, Jersey City | Photograph: Wikimedia / Jim.henderson</figcaption></figure>\n<p>Not easily put off, Arthur attempts again to contact Wayne, this time at a fundraiser held to finance his campaign to become Mayor of Gotham. This is a black-tie showing of <a href=\"https://www.movie-locations.com/people/c/chaplinc.php\">Charlie Chaplin</a>'s <span class=\"name\">Modern Times</span> at 'Wayne Hall', the frontage of which is <span class=\"name\">Hudson County Courthouse, 583 Newark Avenue</span> in <span class=\"name\">Jersey City</span>.</p>\n<p>As the masked clown protests escalate, the arrogant Wayne becomes a major target for their fury and in the confusion, Arthur manages to infiltrate the hall.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt7286456/007.jpg\" alt=\"Joker filming location: Kings Theatre, Flatbush Avenue, Brooklyn\"><figcaption>Joker film location: Arthur spots Thomas Wayne at the film showing: Kings Theatre, Flatbush Avenue, Brooklyn | Photograph: Wikimedia / Dewalt718</figcaption></figure>\n<p>The incredibly lavish interior, where Arthur is entranced by the silent comedy, is that of the <a href=\"http://www.kingstheatre.com/\" target=\"_blank\">Kings Theatre</a>, <span class=\"name\">1027 Flatbush Avenue, Flatbush</span> in <span class=\"name\">Brooklyn</span>. Like many grand movie palaces, the fortune of the <span class=\"name\">Kings</span> (built in 1929 as Loew's Kings Theatre) declined and in 1977 it closed. Fortunately, it's escaped being redeveloped or divided into smaller screens and has undergone a massive renovation, reopening in 2015.</p>\n<p>Confronting Wayne in the hall’s bathroom, Arthur is shocked by the billionaire’s assertion that not only is is mother delusional but that he was adopted.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt7286456/008.jpg\" alt=\"Joker filming location: Brooklyn Army Terminal, 1st Avenue, Brooklyn\"><figcaption>Joker film location: Arthur visits 'Arkham State Hospital': Brooklyn Army Terminal, 1st Avenue, Brooklyn | Image: Google Maps</figcaption></figure>\n<p>Devastated, Arthur heads off to 'Arkham State Hospital' to consult records. Keeping faithfully to its 70s/80s vibe, there's surprisingly little CGI in the film, but a little digital trickery is needed to turn the <span class=\"name\">Annex</span> of the<span class=\"name\"> Brooklyn Army Terminal</span>, now used as a vast warehouse complex on<span class=\"name\"> 1st Avenue at 58th Street</span>, in <span class=\"name\">Sunset Park, Brooklyn</span>, into the notorious institution. Ironically, the <span class=\"name\">Terminal</span> in real life is signposted – believe it or not – as the <span class=\"name\">BAT Annex</span>.</p>\n<p>A clip of Arthur's excruciating stand-up performance, aired on his beloved Murray Franklin (<a href=\"https://www.movie-locations.com/people/d/deniror.php\">Robert De Niro</a>) chat show, turns him into an object of public ridicule, and proves the last turn of the screw. </p>\n<p>In the disturbing tradition of TV 'freak show' entertainment, Arthur has finally attained celebrity status – though not in the way he intended – and is invited to appear live on the show.</p>\n<p>In a nod to <a href=\"https://www.movie-locations.com/movies/k/King-Of-Comedy.php\">The King Of Comedy</a>, <a href=\"https://www.movie-locations.com/people/d/deniror.php\">De Niro</a> – who played the wannabe stand-up in the 1982 film – graduates to the TV personality role previously played by <a href=\"https://www.movie-locations.com/people/l/lewisjerry.php\">Jerry Lewis</a>.</p>\n<p>A couple more plot developments lead to tragic events. After flipping out, Arthur finds himself pursued by cops down those famous stairs and through the local streets until he leaps on a train heading to 'Old Gotham' at ’18th Avenue Station’.</p>\n<p>A few blocks north of his apartment, Arthur is chased along <span class=\"name\">Macombs Road</span> into <span class=\"name\">Jerome Avenue</span>, <span class=\"name\">Mount Eden</span> in the <span class=\"name\">Bronx</span>, and the elevated train station is <span class=\"name\">170th Street</span> on the IRT Jerome Avenue Line.</p>\n<p>With the pursuing cops waylaid by the crowd of angry clowns, Arthur makes it unscathed to the studios of 'NCB' where he impulsively makes a very public statement live on air. The TV studio was of course recreated in the movies' base, the <span class=\"name\">Steiner Studios, 15 Washington Avenue</span> at the old <span class=\"name\">Brooklyn Navy Yard</span> in <span class=\"name\">Brooklyn</span>.</p>\n<p>He's arrested and while being driven away in a police car, is gratified by the spectacle of rioting, looting and general anarchy he’s unleashed. When the car is rammed by a truck. Arthur finds himself dazed but unexpectedly free.</p>\n<p>The scene of pandemonium is <span class=\"name\">Market Street</span> at <span class=\"name\">Washington Street</span>, back in <span class=\"name\">Newark</span>, <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a>. Don't go looking for 'Ballinger's Department Store' – <span class=\"name\">Laura Ballinger Gardner</span> is the film's Art Director, so it's safe to assume this is a little in-joke.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt7286456/009.jpg\" alt=\"Joker filming location: Loew's Jersey Theatre, Journal Square Plaza, Jersey City, New Jersey\"><figcaption>Joker film location: the Wayne family exits the cinema: Loew's Jersey Theatre, Journal Square Plaza, Jersey City, New Jersey | Image: Google Maps</figcaption></figure>\n<p>In the middle of all the mayhem, a well-off couple and their child exit the cinema, showing <a href=\"https://www.movie-locations.com/people/d/depalmab.php\">Brian De Palma</a>'s <a href=\"https://www.movie-locations.com/movies/b/Blow-Out.php\">Blow Out</a> and <span class=\"name\">Zorro the Gay Blade</span>. The picture house is another Loew's cinema, though surprisingly far from the rest of the action.</p>\n<p>It’s <a href=\"https://loewsjersey.org/\" target=\"_blank\">Loew's Jersey Theatre</a>, <span class=\"name\">54 Journal Square Plaza</span> over in <span class=\"name\">Jersey City</span>.</p>\n<p>I don't need to reveal who the family is. Suffice to say, their evening out ends with gunshots and a broken string of pearls in the alleyway alongside the cinema.</p>",
+  "main_content_text": "Joker benefits from carefully chosen locations from all over New York – and New Jersey too – knitted together to create the hellish world of Arthur Fleck (Joaquin Phoenix), in a backstory hugely influenced by Martin Scorsese's 1982 The King Of Comedy.\n\nWe start in Newark, New Jersey where Arthur, in his clown costume, dances with an 'Everything must go' sign in front of a failing business. 'Kenny's Music Shop' was an empty store at 199 Market Street, alongside the disused Newark Paramount Theatre, 195 Market Street (cunningly disguised as 'Newart').\n\nGotham is a tough city and, not only does Arthur's sign get stolen by a bunch of kids, he's given a good kicking in an alleyway. Back at 'Ha-Ha's', the grimly rundown clown-hire agency for which he works, concerned co-worker Randall (Glenn Fleshler) furtively gives Arthur a gun for protection.\n\nOne idea considered for the location of 'Ha-Ha's' was naturally the Coney Island Boardwalk, but eventually a rug-cleaning business overlooking the Hudson River in Manhattanville, northwest Harlem, was chosen.\n\nIt's Cleantex, 2335 12th Avenue, between West 133rd and West 134th Streets, with the constant rumble of the West Side Highway outside its window. Sadly, the 'Amusement Mile' murals on 12th Avenue have since been painted over.\n\nRunning out of synonyms for glum and grim, we'll take it as read that these descriptions fit many of the film's locations – at least, as they appear on-screen.\n\nNone more so that the apartment Arthur shares with his ailing mom Penny (Frances Conroy). It's what was once an imposing art deco block in Highbridge, the Bronx, which is photographed to look like it’s seen better days. Those three archways are 1150 Anderson Avenue at West 167th Street, a few blocks north of Yankee Stadium. And, yes, it's right alongside the famous steep flight of steps that's caused so much controversy.\n\nThe steps run from Anderson Avenue down to Shakespeare Avenue.\n\nThe staircase has understandably become a tourist attraction but not all local residents are delighted about this. One big defence of 'movie tourism' is that the inconvenience can bring revenue to a neighbourhood so, if you're going for that once-in-a-lifetime photo-op, please show a little respect. Don't just whizz in and out – take time to explore the area and utilise the local businesses.\n\nConsidering a career as a stand-up comic, Arthur is seen tentatively approaching, then shying away from, 'Gotham Savings Bank'. This looks like it's in the heart of Manhattan / Gotham's Financial District, and it is. It's 20 Exchange Place at William Street, which you might recognise as the bank robbed in Spike Lee's 2006 thriller Inside Man, with Denzel Washington and Jodie Foster.\n\nThings go from bad to worse for Arthur as he loses his job and his counselling sessions are cancelled due to cutbacks. When he's hassled and eventually assaulted by three arrogant, drunken yuppies an empty subway carriage, he finally snaps and uses that gun he was given.\n\nArthur exits the train and finishes of the last of his tormentors at a disused lower platform of the 9th Avenue Subway Station, at 9th Avenue and 39th Street in the Sunset Park district of Brooklyn. The same platform, which has been closed since 1975, was previously seen at the much happier climax of 1986 hit Crocodile Dundee.\n\nThis whole incident is clearly inspired by the case of Bernard Goetz who shot four guys on a New York subway train in 1984 and, controversially, become something of a 'celebrity vigilante' – in the same way that the 'Killer Clown' achieves notoriety in the film.\n\nArthur flees the scene, through the tunnel on Cherry Street just west of Pike Street where it runs beneath the Manhattan Bridge in Manhattan's Two Bridges district.\n\nA rare upbeat moment comes when he seems to strike up a relationship with his neighbour Sophie Dumond (Zazie Beetz), the only person he knows who bothers to turn up for his tryout stand-up routine. Predictably, his act isn't the career-launching breakout he dreamed of, but nevertheless the two stop afterwards for a late night coffee at Twin Donut, 3396 Jerome Avenue at East 208th Street, Norwood, back in the Bronx (though this particular branch has since closed).\n\nIt gets complicated when Arthur discovers that his mother believes he's the unacknowledged son of wealthy businessman Thomas Wayne (Brett Cullen), for whom she had once worked. He heads off to 'Wayne Manor' hoping to connect with his estranged father, meets Thomas's son Bruce but gets warned off in no uncertain terms by the butler Alfred (Douglas Hodge).\n\nThis incarnation of 'Wayne Manor' has been seen in the role on-screen before – it’s the Webb Institute of Naval Architecture (previously a grand private house called The Braes), 298 Crescent Beach Road, Glen Cove on the north shore of Long Island. It appeared as the Wayne home in both Joel Schumacher's 1995 Batman Forever and in the more recent TV series, Gotham.\n\nNot easily put off, Arthur attempts again to contact Wayne, this time at a fundraiser held to finance his campaign to become Mayor of Gotham. This is a black-tie showing of Charlie Chaplin's Modern Times at 'Wayne Hall', the frontage of which is Hudson County Courthouse, 583 Newark Avenue in Jersey City.\n\nAs the masked clown protests escalate, the arrogant Wayne becomes a major target for their fury and in the confusion, Arthur manages to infiltrate the hall.\n\nThe incredibly lavish interior, where Arthur is entranced by the silent comedy, is that of the Kings Theatre, 1027 Flatbush Avenue, Flatbush in Brooklyn. Like many grand movie palaces, the fortune of the Kings (built in 1929 as Loew's Kings Theatre) declined and in 1977 it closed. Fortunately, it's escaped being redeveloped or divided into smaller screens and has undergone a massive renovation, reopening in 2015.\n\nConfronting Wayne in the hall’s bathroom, Arthur is shocked by the billionaire’s assertion that not only is is mother delusional but that he was adopted.\n\nDevastated, Arthur heads off to 'Arkham State Hospital' to consult records. Keeping faithfully to its 70s/80s vibe, there's surprisingly little CGI in the film, but a little digital trickery is needed to turn the Annex of the Brooklyn Army Terminal, now used as a vast warehouse complex on 1st Avenue at 58th Street, in Sunset Park, Brooklyn, into the notorious institution. Ironically, the Terminal in real life is signposted – believe it or not – as the BAT Annex.\n\nA clip of Arthur's excruciating stand-up performance, aired on his beloved Murray Franklin (Robert De Niro) chat show, turns him into an object of public ridicule, and proves the last turn of the screw.\n\nIn the disturbing tradition of TV 'freak show' entertainment, Arthur has finally attained celebrity status – though not in the way he intended – and is invited to appear live on the show.\n\nIn a nod to The King Of Comedy, De Niro – who played the wannabe stand-up in the 1982 film – graduates to the TV personality role previously played by Jerry Lewis.\n\nA couple more plot developments lead to tragic events. After flipping out, Arthur finds himself pursued by cops down those famous stairs and through the local streets until he leaps on a train heading to 'Old Gotham' at ’18th Avenue Station’.\n\nA few blocks north of his apartment, Arthur is chased along Macombs Road into Jerome Avenue, Mount Eden in the Bronx, and the elevated train station is 170th Street on the IRT Jerome Avenue Line.\n\nWith the pursuing cops waylaid by the crowd of angry clowns, Arthur makes it unscathed to the studios of 'NCB' where he impulsively makes a very public statement live on air. The TV studio was of course recreated in the movies' base, the Steiner Studios, 15 Washington Avenue at the old Brooklyn Navy Yard in Brooklyn.\n\nHe's arrested and while being driven away in a police car, is gratified by the spectacle of rioting, looting and general anarchy he’s unleashed. When the car is rammed by a truck. Arthur finds himself dazed but unexpectedly free.\n\nThe scene of pandemonium is Market Street at Washington Street, back in Newark, New Jersey. Don't go looking for 'Ballinger's Department Store' – Laura Ballinger Gardner is the film's Art Director, so it's safe to assume this is a little in-joke.\n\nIn the middle of all the mayhem, a well-off couple and their child exit the cinema, showing Brian De Palma's Blow Out and Zorro the Gay Blade. The picture house is another Loew's cinema, though surprisingly far from the rest of the action.\n\nIt’s Loew's Jersey Theatre, 54 Journal Square Plaza over in Jersey City.\n\nI don't need to reveal who the family is. Suffice to say, their evening out ends with gunshots and a broken string of pearls in the alleyway alongside the cinema.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Joker film location: Arthur Fleck juggles the sign outside 'Jimmy's Music Store': Market Street, Newark, New Jersey | Image: Google Maps",
+      "src": "_assets/tt7286456%20-%20Joker-2019/001.jpg",
+      "alt": "Joker filming location: Market Street, Newark, New Jersey"
+    },
+    {
+      "type": "paragraph",
+      "text": "Joker benefits from carefully chosen locations from all over New York – and New Jersey too – knitted together to create the hellish world of Arthur Fleck (Joaquin Phoenix), in a backstory hugely influenced by Martin Scorsese's 1982 The King Of Comedy."
+    },
+    {
+      "type": "paragraph",
+      "text": "We start in Newark, New Jersey where Arthur, in his clown costume, dances with an 'Everything must go' sign in front of a failing business. 'Kenny's Music Shop' was an empty store at 199 Market Street, alongside the disused Newark Paramount Theatre, 195 Market Street (cunningly disguised as 'Newart')."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gotham is a tough city and, not only does Arthur's sign get stolen by a bunch of kids, he's given a good kicking in an alleyway. Back at 'Ha-Ha's', the grimly rundown clown-hire agency for which he works, concerned co-worker Randall (Glenn Fleshler) furtively gives Arthur a gun for protection."
+    },
+    {
+      "type": "paragraph",
+      "text": "One idea considered for the location of 'Ha-Ha's' was naturally the Coney Island Boardwalk, but eventually a rug-cleaning business overlooking the Hudson River in Manhattanville, northwest Harlem, was chosen."
+    },
+    {
+      "type": "image",
+      "caption": "Joker film location: 'Ha-Ha's' agency: 12th Avenue, Manhattanville, Manhattan | Image: Google Maps",
+      "src": "_assets/tt7286456%20-%20Joker-2019/003.jpg",
+      "alt": "Joker filming location: 12th Avenue, Manhattanville, Manhattan"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's Cleantex, 2335 12th Avenue, between West 133rd and West 134th Streets, with the constant rumble of the West Side Highway outside its window. Sadly, the 'Amusement Mile' murals on 12th Avenue have since been painted over."
+    },
+    {
+      "type": "paragraph",
+      "text": "Running out of synonyms for glum and grim, we'll take it as read that these descriptions fit many of the film's locations – at least, as they appear on-screen."
+    },
+    {
+      "type": "image",
+      "caption": "Joker film location: the apartment Arthur shares with his mom Penny: Anderson Avenue, Bronx | Image: Google Maps",
+      "src": "_assets/tt7286456%20-%20Joker-2019/004.jpg",
+      "alt": "Joker filming location: Anderson Avenue, Bronx"
+    },
+    {
+      "type": "paragraph",
+      "text": "None more so that the apartment Arthur shares with his ailing mom Penny (Frances Conroy). It's what was once an imposing art deco block in Highbridge, the Bronx, which is photographed to look like it’s seen better days. Those three archways are 1150 Anderson Avenue at West 167th Street, a few blocks north of Yankee Stadium. And, yes, it's right alongside the famous steep flight of steps that's caused so much controversy."
+    },
+    {
+      "type": "image",
+      "caption": "Joker film location: Joker dances down the steps: Shakespeare Avenue, Bronx | Image: Google Maps",
+      "src": "_assets/tt7286456%20-%20Joker-2019/005.jpg",
+      "alt": "Joker filming location: Market Street, Shakespeare Avenue, Bronx"
+    },
+    {
+      "type": "paragraph",
+      "text": "The steps run from Anderson Avenue down to Shakespeare Avenue."
+    },
+    {
+      "type": "paragraph",
+      "text": "The staircase has understandably become a tourist attraction but not all local residents are delighted about this. One big defence of 'movie tourism' is that the inconvenience can bring revenue to a neighbourhood so, if you're going for that once-in-a-lifetime photo-op, please show a little respect. Don't just whizz in and out – take time to explore the area and utilise the local businesses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Considering a career as a stand-up comic, Arthur is seen tentatively approaching, then shying away from, 'Gotham Savings Bank'. This looks like it's in the heart of Manhattan / Gotham's Financial District, and it is. It's 20 Exchange Place at William Street, which you might recognise as the bank robbed in Spike Lee's 2006 thriller Inside Man, with Denzel Washington and Jodie Foster."
+    },
+    {
+      "type": "paragraph",
+      "text": "Things go from bad to worse for Arthur as he loses his job and his counselling sessions are cancelled due to cutbacks. When he's hassled and eventually assaulted by three arrogant, drunken yuppies an empty subway carriage, he finally snaps and uses that gun he was given."
+    },
+    {
+      "type": "paragraph",
+      "text": "Arthur exits the train and finishes of the last of his tormentors at a disused lower platform of the 9th Avenue Subway Station, at 9th Avenue and 39th Street in the Sunset Park district of Brooklyn. The same platform, which has been closed since 1975, was previously seen at the much happier climax of 1986 hit Crocodile Dundee."
+    },
+    {
+      "type": "paragraph",
+      "text": "This whole incident is clearly inspired by the case of Bernard Goetz who shot four guys on a New York subway train in 1984 and, controversially, become something of a 'celebrity vigilante' – in the same way that the 'Killer Clown' achieves notoriety in the film."
+    },
+    {
+      "type": "paragraph",
+      "text": "Arthur flees the scene, through the tunnel on Cherry Street just west of Pike Street where it runs beneath the Manhattan Bridge in Manhattan's Two Bridges district."
+    },
+    {
+      "type": "paragraph",
+      "text": "A rare upbeat moment comes when he seems to strike up a relationship with his neighbour Sophie Dumond (Zazie Beetz), the only person he knows who bothers to turn up for his tryout stand-up routine. Predictably, his act isn't the career-launching breakout he dreamed of, but nevertheless the two stop afterwards for a late night coffee at Twin Donut, 3396 Jerome Avenue at East 208th Street, Norwood, back in the Bronx (though this particular branch has since closed)."
+    },
+    {
+      "type": "paragraph",
+      "text": "It gets complicated when Arthur discovers that his mother believes he's the unacknowledged son of wealthy businessman Thomas Wayne (Brett Cullen), for whom she had once worked. He heads off to 'Wayne Manor' hoping to connect with his estranged father, meets Thomas's son Bruce but gets warned off in no uncertain terms by the butler Alfred (Douglas Hodge)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This incarnation of 'Wayne Manor' has been seen in the role on-screen before – it’s the Webb Institute of Naval Architecture (previously a grand private house called The Braes), 298 Crescent Beach Road, Glen Cove on the north shore of Long Island. It appeared as the Wayne home in both Joel Schumacher's 1995 Batman Forever and in the more recent TV series, Gotham."
+    },
+    {
+      "type": "image",
+      "caption": "Joker film location: clowns besiege the fundraiser at 'Wayne Hall': Hudson County Courthouse, Newark Avenue, Jersey City | Photograph: Wikimedia / Jim.henderson",
+      "src": "_assets/tt7286456%20-%20Joker-2019/006.jpg",
+      "alt": "Joker filming location: Hudson County Courthouse, Newark Avenue, Jersey City"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not easily put off, Arthur attempts again to contact Wayne, this time at a fundraiser held to finance his campaign to become Mayor of Gotham. This is a black-tie showing of Charlie Chaplin's Modern Times at 'Wayne Hall', the frontage of which is Hudson County Courthouse, 583 Newark Avenue in Jersey City."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the masked clown protests escalate, the arrogant Wayne becomes a major target for their fury and in the confusion, Arthur manages to infiltrate the hall."
+    },
+    {
+      "type": "image",
+      "caption": "Joker film location: Arthur spots Thomas Wayne at the film showing: Kings Theatre, Flatbush Avenue, Brooklyn | Photograph: Wikimedia / Dewalt718",
+      "src": "_assets/tt7286456%20-%20Joker-2019/007.jpg",
+      "alt": "Joker filming location: Kings Theatre, Flatbush Avenue, Brooklyn"
+    },
+    {
+      "type": "paragraph",
+      "text": "The incredibly lavish interior, where Arthur is entranced by the silent comedy, is that of the Kings Theatre, 1027 Flatbush Avenue, Flatbush in Brooklyn. Like many grand movie palaces, the fortune of the Kings (built in 1929 as Loew's Kings Theatre) declined and in 1977 it closed. Fortunately, it's escaped being redeveloped or divided into smaller screens and has undergone a massive renovation, reopening in 2015."
+    },
+    {
+      "type": "paragraph",
+      "text": "Confronting Wayne in the hall’s bathroom, Arthur is shocked by the billionaire’s assertion that not only is is mother delusional but that he was adopted."
+    },
+    {
+      "type": "image",
+      "caption": "Joker film location: Arthur visits 'Arkham State Hospital': Brooklyn Army Terminal, 1st Avenue, Brooklyn | Image: Google Maps",
+      "src": "_assets/tt7286456%20-%20Joker-2019/008.jpg",
+      "alt": "Joker filming location: Brooklyn Army Terminal, 1st Avenue, Brooklyn"
+    },
+    {
+      "type": "paragraph",
+      "text": "Devastated, Arthur heads off to 'Arkham State Hospital' to consult records. Keeping faithfully to its 70s/80s vibe, there's surprisingly little CGI in the film, but a little digital trickery is needed to turn the Annex of the Brooklyn Army Terminal, now used as a vast warehouse complex on 1st Avenue at 58th Street, in Sunset Park, Brooklyn, into the notorious institution. Ironically, the Terminal in real life is signposted – believe it or not – as the BAT Annex."
+    },
+    {
+      "type": "paragraph",
+      "text": "A clip of Arthur's excruciating stand-up performance, aired on his beloved Murray Franklin (Robert De Niro) chat show, turns him into an object of public ridicule, and proves the last turn of the screw."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the disturbing tradition of TV 'freak show' entertainment, Arthur has finally attained celebrity status – though not in the way he intended – and is invited to appear live on the show."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a nod to The King Of Comedy, De Niro – who played the wannabe stand-up in the 1982 film – graduates to the TV personality role previously played by Jerry Lewis."
+    },
+    {
+      "type": "paragraph",
+      "text": "A couple more plot developments lead to tragic events. After flipping out, Arthur finds himself pursued by cops down those famous stairs and through the local streets until he leaps on a train heading to 'Old Gotham' at ’18th Avenue Station’."
+    },
+    {
+      "type": "paragraph",
+      "text": "A few blocks north of his apartment, Arthur is chased along Macombs Road into Jerome Avenue, Mount Eden in the Bronx, and the elevated train station is 170th Street on the IRT Jerome Avenue Line."
+    },
+    {
+      "type": "paragraph",
+      "text": "With the pursuing cops waylaid by the crowd of angry clowns, Arthur makes it unscathed to the studios of 'NCB' where he impulsively makes a very public statement live on air. The TV studio was of course recreated in the movies' base, the Steiner Studios, 15 Washington Avenue at the old Brooklyn Navy Yard in Brooklyn."
+    },
+    {
+      "type": "paragraph",
+      "text": "He's arrested and while being driven away in a police car, is gratified by the spectacle of rioting, looting and general anarchy he’s unleashed. When the car is rammed by a truck. Arthur finds himself dazed but unexpectedly free."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scene of pandemonium is Market Street at Washington Street, back in Newark, New Jersey. Don't go looking for 'Ballinger's Department Store' – Laura Ballinger Gardner is the film's Art Director, so it's safe to assume this is a little in-joke."
+    },
+    {
+      "type": "image",
+      "caption": "Joker film location: the Wayne family exits the cinema: Loew's Jersey Theatre, Journal Square Plaza, Jersey City, New Jersey | Image: Google Maps",
+      "src": "_assets/tt7286456%20-%20Joker-2019/009.jpg",
+      "alt": "Joker filming location: Loew's Jersey Theatre, Journal Square Plaza, Jersey City, New Jersey"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the middle of all the mayhem, a well-off couple and their child exit the cinema, showing Brian De Palma's Blow Out and Zorro the Gay Blade. The picture house is another Loew's cinema, though surprisingly far from the rest of the action."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s Loew's Jersey Theatre, 54 Journal Square Plaza over in Jersey City."
+    },
+    {
+      "type": "paragraph",
+      "text": "I don't need to reveal who the family is. Suffice to say, their evening out ends with gunshots and a broken string of pearls in the alleyway alongside the cinema."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n<p>Visit: the Kings Theatre, 1027 Flatbush Avenue, Brooklyn, NY 11226</p>\n</section>\n<section><h3>New Jersey</h3>\n<p>Visit: New Jersey</p>\n<p>Visit: Newark</p>\n<p>Visit: Jersey City</p>\n<p>Visit: Loew's Jersey Theatre, 54 Journal Square Plaza, Jersey City, NJ 07306 (tel: 201.798.6055)</p>\n</section>",
+  "visit_info_text": "New York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nVisit: the Kings Theatre, 1027 Flatbush Avenue, Brooklyn, NY 11226\nNew Jersey\nVisit: New Jersey\nVisit: Newark\nVisit: Jersey City\nVisit: Loew's Jersey Theatre, 54 Journal Square Plaza, Jersey City, NJ 07306 (tel: 201.798.6055)",
+  "visit_sections": [
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA",
+        "Visit: the Kings Theatre, 1027 Flatbush Avenue, Brooklyn, NY 11226"
+      ]
+    },
+    {
+      "title": "New Jersey",
+      "items": [
+        "Visit: New Jersey",
+        "Visit: Newark",
+        "Visit: Jersey City",
+        "Visit: Loew's Jersey Theatre, 54 Journal Square Plaza, Jersey City, NJ 07306 (tel: 201.798.6055)"
+      ]
+    }
+  ]
+}

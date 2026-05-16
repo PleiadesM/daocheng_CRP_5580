@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt0816692",
+  "shorthand": "Interstellar",
+  "title": "Interstellar",
+  "year": 2014,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0816692 - Interstellar.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0816692 - Interstellar.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0816692.json",
+  "source_url": "http://www.movie-locations.com/movies/i/Interstellar.php",
+  "page_title": "Interstellar | Film Locations",
+  "meta_description": "Filming locations for Christopher Nolan's Interstellar (2014), around Alberta; Iceland; and  at the Western Bonaventura Hotel, Downtown Los Angeles.",
+  "meta_keywords": "Interstellar (2014), film locations, filming locations, travel, tourism, set-jetting, alberta, canada, iceland, los angeles, california, christopher nolan",
+  "og_title": "Filming Locations for Christopher Nolan's Interstellar (2014), film locations in Alberta, Iceland and California.",
+  "og_description": "Filming locations for Christopher Nolan's Interstellar (2014), around Alberta; Iceland; and  at the Western Bonaventura Hotel, Downtown Los Angeles.",
+  "og_image": "http://www.movie-locations.com/movies/i/interstellar-meta.jpg",
+  "top250_rank": "21",
+  "movie_locations_title": "INTERSTELLAR",
+  "movie_locations_regions": "Alberta | Iceland | Los Angeles, California",
+  "director": "Christopher Nolan",
+  "cast": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Michael Caine",
+    "Jessica Chastain",
+    "Casey Affleck",
+    "Wes Bentley",
+    "Matt Damon",
+    "Topher Grace",
+    "John Lithgow",
+    "Ellen Burstyn",
+    "David Oyelowo",
+    "William Devane",
+    "Timothée Chalamet"
+  ],
+  "locations": [
+    "Alberta;",
+    "Iceland;",
+    "Los Angeles, California"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0816692%20-%20Interstellar/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0816692 - Interstellar/002.jpg",
+    "exists": true,
+    "alt": "Interstellar poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0816692/poster.jpg",
+    "corpus_asset_src": "../assets/tt0816692/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0816692%20-%20Interstellar/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0816692 - Interstellar/001.jpg",
+    "exists": true,
+    "alt": "Interstellar filming location: Svinafellsjokull Glacier, Iceland",
+    "caption": "Interstellar film location: the ice planet: Svinafellsjokull Glacier, Iceland | Photograph: wikimedia / Zairon",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0816692/001.jpg",
+    "corpus_asset_src": "../assets/tt0816692/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0816692%20-%20Interstellar/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0816692 - Interstellar/001.jpg",
+      "exists": true,
+      "alt": "Interstellar filming location: Svinafellsjokull Glacier, Iceland",
+      "caption": "Interstellar film location: the ice planet: Svinafellsjokull Glacier, Iceland | Photograph: wikimedia / Zairon",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0816692/001.jpg",
+      "corpus_asset_src": "../assets/tt0816692/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0816692%20-%20Interstellar/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0816692 - Interstellar/002.jpg",
+      "exists": true,
+      "alt": "Interstellar poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0816692/002.jpg",
+      "corpus_asset_src": "../assets/tt0816692/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0816692%20-%20Interstellar/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0816692 - Interstellar/003.jpg",
+      "exists": true,
+      "alt": "Interstellar filming location: Longview School, Longview, Alberta",
+      "caption": "Interstellar filming location: the parent-teacher meeting: Longview School, Longview, Alberta | Photograph: Google Maps",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0816692/003.jpg",
+      "corpus_asset_src": "../assets/tt0816692/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0816692%20-%20Interstellar/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0816692 - Interstellar/004.jpg",
+      "exists": true,
+      "alt": "Interstellar filming location: Westin Bonaventure, South Figueroa, downtown Los Angeles",
+      "caption": "Interstellar film location: the cavernous space facility: Westin Bonaventure Hotel, South Figueroa Street, Downtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0816692/004.jpg",
+      "corpus_asset_src": "../assets/tt0816692/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0816692%20-%20Interstellar/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0816692 - Interstellar/005.jpg",
+      "exists": true,
+      "alt": "Interstellar filming location: Eldhraun Lava Field, Iceland",
+      "caption": "Interstellar film location: the alien planet surface: Eldhraun Lava Field, Iceland | Photograph: wikimedia / Zairon",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0816692/005.jpg",
+      "corpus_asset_src": "../assets/tt0816692/005.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0816692/001.jpg\" alt=\"Interstellar filming location: Svinafellsjokull Glacier, Iceland\"><figcaption>Interstellar film location: the ice planet: Svinafellsjokull Glacier, Iceland | Photograph: wikimedia / Zairon</figcaption></figure>\n<p>Discover where <span class=\"name\">Christopher Nolan</span>'s <span class=\"name\">Interstellar</span> (2014) was filmed, around <span class=\"name\">Alberta</span>; <span class=\"name\">Iceland</span>; and  at the <span class=\"name\">Western Bonaventura Hotel, Downtown Los Angeles</span>.</p>\n<p><a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>’s sci-fi epic owes quite a debt to <a href=\"https://www.movie-locations.com/people/k/kubricks.php\">Stanley Kubrick</a>’s <a href=\"https://www.movie-locations.com/movies/0/2001-A-Space-Odyssey.php\">2001: A Space Odyssey</a>, and is mightily impressive for most of its running length.</p>\n<p>The method of space travel was based on the work of physicist <span class=\"name\">Dr Kip Thorne</span> (which was also the basis for <span class=\"name\">Carl Sagan</span>'s novel, <a href=\"https://www.movie-locations.com/movies/c/Contact.php\">Contact</a>), and <span class=\"name\">Dr Thorne</span> laid down two guidelines to be strictly adhered to: nothing would violate established physical laws, and all the wild speculations would spring from science and not from the creative mind of a screenwriter.</p>\n<p>Then one character observes that “Love is the one thing that we're capable of perceiving that transcends dimensions of time and space”, which feels like the ultimate screenwriter cop-out.</p>\n<p>The early, earthbound scenes are filmed in the area around <span class=\"name\">Calgary</span>, in <a href=\"https://www.movie-locations.com/places/canada/alberta.php\">Alberta</a>, <span class=\"name\">Canada</span>, coincidentally near several locations from <a href=\"https://www.movie-locations.com/people/l/leea.php\">Ang Lee</a>’s <a href=\"https://www.movie-locations.com/movies/b/Brokeback-Mountain.php\">Brokeback Mountain</a>.</p>\n<p>The ranch-house where Cooper (<a href=\"https://www.movie-locations.com/people/m/mcconaugheym.php\">Matthew McConaughey</a>) lives with his kids and his father (<a href=\"https://www.movie-locations.com/people/l/lithgowj.php\">John Lithgow</a>) was built for the film near <span class=\"name\">Longview</span>, about 35 miles south of Calgary.</p>\n<p>After his experience as producer on <a href=\"https://www.movie-locations.com/movies/m/Man-Of-Steel.php\">Man Of Steel</a>, director <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Nolan</a> believed it was feasible to grow the 500 acres of corn needed. Not only that, but the corn was then sold at a profit.</p>\n<p>The school, where Cooper learns that “the world needs farmers” at the parent-teacher conference, is<span class=\"name\"> Longview School, 128 Morrison Road</span>, in <span class=\"name\">Longview</span>.</p>\n<p>North of Longview, toward Calgary, the <span class=\"name\">Seaman Stadium</span> in the town of <span class=\"name\">Okotoks</span> hosted the ball-game which is brought to a premature end by one of the increasingly frequent dust storms threatening the planet.</p>\n<p>The small town through which the Cooper family drives during the storm is the <span class=\"name\">Main Street</span> of <span class=\"name\">Fort Macleod</span>, over 100 miles southeast of Calgary, where giant fans kicked up thick (but biodegradable) dust. You probably won’t recognise <span class=\"name\">Fort Macleod</span> behind those impenetrable clouds, but it was the town which became ‘Riverton’ in <a href=\"https://www.movie-locations.com/movies/b/Brokeback-Mountain.php\">Brokeback Mountain</a>, where Ennis and Alma (<a href=\"https://www.movie-locations.com/people/l/ledgerh.php\">Heath Ledger</a> and <a href=\"https://www.movie-locations.com/people/w/williamsmichelle.php\">Michelle Williams</a>) lived in an apartment above the Laundromat.</p>\n<p>Responding to mysterious messages, the Coopers take the <span class=\"name\">Spray Lakes Road</span> / <span class=\"name\">Three Sisters Parkway</span> east from <span class=\"name\">Canmore</span> a couple of miles to the entrance to the secret NORAD facility, which was built at Goat Creek parking lot, south of <span class=\"name\">Whiteman’s Pond</span> beneath <span class=\"name\">Ha Ling Peak</span>. More <a href=\"https://www.movie-locations.com/movies/b/Brokeback-Mountain.php\">Brokeback</a> – this was the area where Ennis and Jack pitched their tent on the night their passions erupted.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0816692/004.jpg\" alt=\"Interstellar filming location: Westin Bonaventure, South Figueroa, downtown Los Angeles\"><figcaption>Interstellar film location: the cavernous space facility: Westin Bonaventure Hotel, South Figueroa Street, Downtown Los Angeles</figcaption></figure>\n<p>The cavernous interior of the NASA facility, with its circular balconies, is the enormous lobby of the <a href=\"http://www.starwoodhotels.com/westin/property/overview/index.php?propertyID=1004\" target=\"_blank\">Westin Bonaventure Hotel</a>, <span class=\"name\">404 South Figueroa Street</span>, downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>. It took three weeks to build the giant set which towered up to Level 6, and three days to shoot the scenes.</p>\n<p>The hotel is a screen favourite, seen in <a href=\"https://www.movie-locations.com/movies/t/True-Lies.php\">True Lies</a>, <a href=\"https://www.movie-locations.com/movies/i/In-The-Line-Of-Fire.php\">In The Line of Fire</a>, <a href=\"https://www.movie-locations.com/people/r/raimis.php\">Sam Raimi</a>'s <a href=\"https://www.movie-locations.com/movies/d/Darkman-1990.php\">Darkman</a>, the 1983 remake of <a href=\"https://www.movie-locations.com/movies/b/Breathless.php\">Breathless</a>, <a href=\"https://www.movie-locations.com/movies/s/Strange-Days.php\">Strange Days</a>, <a href=\"https://www.movie-locations.com/movies/r/Rain-Man.php\">Rain Man</a> and glimpsed as the band’s record company HQ in <a href=\"https://www.movie-locations.com/movies/t/This-Is-Spinal-Tap.php\">This Is Spinal Tap</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0816692/005.jpg\" alt=\"Interstellar filming location: Eldhraun Lava Field, Iceland\"><figcaption>Interstellar film location: the alien planet surface: Eldhraun Lava Field, Iceland | Photograph: wikimedia / Zairon</figcaption></figure>\n<p>The water and ice planet surfaces were filmed in <a href=\"https://www.movie-locations.com/places/europe/iceland.php\">Iceland</a>, where <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Nolan</a> had previously filmed parts of <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a> in 2005. Mock spaceships weighing around 4,500 kg had to be transported to the icy wastes.</p>\n<p>The two main filming sites are <span class=\"name\">Orrustuhóll</span> in the <span class=\"name\">Eldhraun lava field</span>; and <span class=\"name\">Svínafellsjökull</span>, east of Skaftafell, an outlet glacier of Vatnajökull, both in southern <a href=\"https://www.movie-locations.com/places/europe/iceland.php\">Iceland</a>.</p>\n<p><span class=\"name\">Orrustuhóll</span> (not to be confused with Orrustuhóll in western <a href=\"https://www.movie-locations.com/places/europe/iceland.php\">Iceland</a>) is part of a vast lava field about nine miles northeast of <span class=\"name\">Kirkjubaejarklaustur</span>. It was an islet in the middle of the Hverfisfljót River until, in 1783, the Lakagígar eruption inundated the land with one of the largest lava flows in the country’s history. The river subsequently found its way back to the surface and the warm water has encouraged vegetation in the area that was nothing more than black sand. It’s claimed that the Apollo 11 crew trained for their impending moonwalk here.</p>\n<p>The icy planet of Dr Mann (<a href=\"https://www.movie-locations.com/people/d/damonm.php\">Matt Damon</a>) is <span class=\"name\">Svínafellsjökull Glacier</span>, east of <span class=\"name\">Skaftafell</span>, an outlet glacier of Vatnajökull in <a href=\"http://www.vatnajokulsthjodgardur.is/english\" target=\"_blank\">Vatnajökull National Park</a>. Parts of <a href=\"https://www.movie-locations.com/movies/b/Batman-Begins.php\">Batman Begins</a> and TV’s<span class=\"ital\"> Game Of Thrones</span> were also filmed here.</p>",
+  "main_content_text": "Discover where Christopher Nolan's Interstellar (2014) was filmed, around Alberta; Iceland; and at the Western Bonaventura Hotel, Downtown Los Angeles.\n\nChristopher Nolan’s sci-fi epic owes quite a debt to Stanley Kubrick’s 2001: A Space Odyssey, and is mightily impressive for most of its running length.\n\nThe method of space travel was based on the work of physicist Dr Kip Thorne (which was also the basis for Carl Sagan's novel, Contact), and Dr Thorne laid down two guidelines to be strictly adhered to: nothing would violate established physical laws, and all the wild speculations would spring from science and not from the creative mind of a screenwriter.\n\nThen one character observes that “Love is the one thing that we're capable of perceiving that transcends dimensions of time and space”, which feels like the ultimate screenwriter cop-out.\n\nThe early, earthbound scenes are filmed in the area around Calgary, in Alberta, Canada, coincidentally near several locations from Ang Lee’s Brokeback Mountain.\n\nThe ranch-house where Cooper (Matthew McConaughey) lives with his kids and his father (John Lithgow) was built for the film near Longview, about 35 miles south of Calgary.\n\nAfter his experience as producer on Man Of Steel, director Nolan believed it was feasible to grow the 500 acres of corn needed. Not only that, but the corn was then sold at a profit.\n\nThe school, where Cooper learns that “the world needs farmers” at the parent-teacher conference, is Longview School, 128 Morrison Road, in Longview.\n\nNorth of Longview, toward Calgary, the Seaman Stadium in the town of Okotoks hosted the ball-game which is brought to a premature end by one of the increasingly frequent dust storms threatening the planet.\n\nThe small town through which the Cooper family drives during the storm is the Main Street of Fort Macleod, over 100 miles southeast of Calgary, where giant fans kicked up thick (but biodegradable) dust. You probably won’t recognise Fort Macleod behind those impenetrable clouds, but it was the town which became ‘Riverton’ in Brokeback Mountain, where Ennis and Alma (Heath Ledger and Michelle Williams) lived in an apartment above the Laundromat.\n\nResponding to mysterious messages, the Coopers take the Spray Lakes Road / Three Sisters Parkway east from Canmore a couple of miles to the entrance to the secret NORAD facility, which was built at Goat Creek parking lot, south of Whiteman’s Pond beneath Ha Ling Peak. More Brokeback – this was the area where Ennis and Jack pitched their tent on the night their passions erupted.\n\nThe cavernous interior of the NASA facility, with its circular balconies, is the enormous lobby of the Westin Bonaventure Hotel, 404 South Figueroa Street, downtown Los Angeles. It took three weeks to build the giant set which towered up to Level 6, and three days to shoot the scenes.\n\nThe hotel is a screen favourite, seen in True Lies, In The Line of Fire, Sam Raimi's Darkman, the 1983 remake of Breathless, Strange Days, Rain Man and glimpsed as the band’s record company HQ in This Is Spinal Tap.\n\nThe water and ice planet surfaces were filmed in Iceland, where Nolan had previously filmed parts of Batman Begins in 2005. Mock spaceships weighing around 4,500 kg had to be transported to the icy wastes.\n\nThe two main filming sites are Orrustuhóll in the Eldhraun lava field; and Svínafellsjökull, east of Skaftafell, an outlet glacier of Vatnajökull, both in southern Iceland.\n\nOrrustuhóll (not to be confused with Orrustuhóll in western Iceland) is part of a vast lava field about nine miles northeast of Kirkjubaejarklaustur. It was an islet in the middle of the Hverfisfljót River until, in 1783, the Lakagígar eruption inundated the land with one of the largest lava flows in the country’s history. The river subsequently found its way back to the surface and the warm water has encouraged vegetation in the area that was nothing more than black sand. It’s claimed that the Apollo 11 crew trained for their impending moonwalk here.\n\nThe icy planet of Dr Mann (Matt Damon) is Svínafellsjökull Glacier, east of Skaftafell, an outlet glacier of Vatnajökull in Vatnajökull National Park. Parts of Batman Begins and TV’s Game Of Thrones were also filmed here.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Interstellar film location: the ice planet: Svinafellsjokull Glacier, Iceland | Photograph: wikimedia / Zairon",
+      "src": "_assets/tt0816692%20-%20Interstellar/001.jpg",
+      "alt": "Interstellar filming location: Svinafellsjokull Glacier, Iceland"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover where Christopher Nolan's Interstellar (2014) was filmed, around Alberta; Iceland; and at the Western Bonaventura Hotel, Downtown Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Christopher Nolan’s sci-fi epic owes quite a debt to Stanley Kubrick’s 2001: A Space Odyssey, and is mightily impressive for most of its running length."
+    },
+    {
+      "type": "paragraph",
+      "text": "The method of space travel was based on the work of physicist Dr Kip Thorne (which was also the basis for Carl Sagan's novel, Contact), and Dr Thorne laid down two guidelines to be strictly adhered to: nothing would violate established physical laws, and all the wild speculations would spring from science and not from the creative mind of a screenwriter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then one character observes that “Love is the one thing that we're capable of perceiving that transcends dimensions of time and space”, which feels like the ultimate screenwriter cop-out."
+    },
+    {
+      "type": "paragraph",
+      "text": "The early, earthbound scenes are filmed in the area around Calgary, in Alberta, Canada, coincidentally near several locations from Ang Lee’s Brokeback Mountain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ranch-house where Cooper (Matthew McConaughey) lives with his kids and his father (John Lithgow) was built for the film near Longview, about 35 miles south of Calgary."
+    },
+    {
+      "type": "paragraph",
+      "text": "After his experience as producer on Man Of Steel, director Nolan believed it was feasible to grow the 500 acres of corn needed. Not only that, but the corn was then sold at a profit."
+    },
+    {
+      "type": "paragraph",
+      "text": "The school, where Cooper learns that “the world needs farmers” at the parent-teacher conference, is Longview School, 128 Morrison Road, in Longview."
+    },
+    {
+      "type": "paragraph",
+      "text": "North of Longview, toward Calgary, the Seaman Stadium in the town of Okotoks hosted the ball-game which is brought to a premature end by one of the increasingly frequent dust storms threatening the planet."
+    },
+    {
+      "type": "paragraph",
+      "text": "The small town through which the Cooper family drives during the storm is the Main Street of Fort Macleod, over 100 miles southeast of Calgary, where giant fans kicked up thick (but biodegradable) dust. You probably won’t recognise Fort Macleod behind those impenetrable clouds, but it was the town which became ‘Riverton’ in Brokeback Mountain, where Ennis and Alma (Heath Ledger and Michelle Williams) lived in an apartment above the Laundromat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Responding to mysterious messages, the Coopers take the Spray Lakes Road / Three Sisters Parkway east from Canmore a couple of miles to the entrance to the secret NORAD facility, which was built at Goat Creek parking lot, south of Whiteman’s Pond beneath Ha Ling Peak. More Brokeback – this was the area where Ennis and Jack pitched their tent on the night their passions erupted."
+    },
+    {
+      "type": "image",
+      "caption": "Interstellar film location: the cavernous space facility: Westin Bonaventure Hotel, South Figueroa Street, Downtown Los Angeles",
+      "src": "_assets/tt0816692%20-%20Interstellar/004.jpg",
+      "alt": "Interstellar filming location: Westin Bonaventure, South Figueroa, downtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The cavernous interior of the NASA facility, with its circular balconies, is the enormous lobby of the Westin Bonaventure Hotel, 404 South Figueroa Street, downtown Los Angeles. It took three weeks to build the giant set which towered up to Level 6, and three days to shoot the scenes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hotel is a screen favourite, seen in True Lies, In The Line of Fire, Sam Raimi's Darkman, the 1983 remake of Breathless, Strange Days, Rain Man and glimpsed as the band’s record company HQ in This Is Spinal Tap."
+    },
+    {
+      "type": "image",
+      "caption": "Interstellar film location: the alien planet surface: Eldhraun Lava Field, Iceland | Photograph: wikimedia / Zairon",
+      "src": "_assets/tt0816692%20-%20Interstellar/005.jpg",
+      "alt": "Interstellar filming location: Eldhraun Lava Field, Iceland"
+    },
+    {
+      "type": "paragraph",
+      "text": "The water and ice planet surfaces were filmed in Iceland, where Nolan had previously filmed parts of Batman Begins in 2005. Mock spaceships weighing around 4,500 kg had to be transported to the icy wastes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The two main filming sites are Orrustuhóll in the Eldhraun lava field; and Svínafellsjökull, east of Skaftafell, an outlet glacier of Vatnajökull, both in southern Iceland."
+    },
+    {
+      "type": "paragraph",
+      "text": "Orrustuhóll (not to be confused with Orrustuhóll in western Iceland) is part of a vast lava field about nine miles northeast of Kirkjubaejarklaustur. It was an islet in the middle of the Hverfisfljót River until, in 1783, the Lakagígar eruption inundated the land with one of the largest lava flows in the country’s history. The river subsequently found its way back to the surface and the warm water has encouraged vegetation in the area that was nothing more than black sand. It’s claimed that the Apollo 11 crew trained for their impending moonwalk here."
+    },
+    {
+      "type": "paragraph",
+      "text": "The icy planet of Dr Mann (Matt Damon) is Svínafellsjökull Glacier, east of Skaftafell, an outlet glacier of Vatnajökull in Vatnajökull National Park. Parts of Batman Begins and TV’s Game Of Thrones were also filmed here."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Alberta</h3>\n<p>Visit: Alberta</p>\n<p>Visit: Calgary</p>\n<p>Visit: Canmore</p>\n<p>Visit: Fort Macleod</p>\n</section>\n<section><h3>Iceland</h3>\n<p>Visit: Iceland</p>\n<p>Visit: Reykjavik</p>\n<p>Flights: Keflavík International Airport, Southern Peninsula, 235, Iceland (tel: +354.425.6000)</p>\n<p>Visit: Vatnajökull National Park</p>\n</section>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Stay at: the Westin Bonaventure Hotel, 404 South Figueroa Street, Los Angeles, CA, 90071 (tel: 213.624.1000)</p>\n</section>",
+  "visit_info_text": "Alberta\nVisit: Alberta\nVisit: Calgary\nVisit: Canmore\nVisit: Fort Macleod\nIceland\nVisit: Iceland\nVisit: Reykjavik\nFlights: Keflavík International Airport, Southern Peninsula, 235, Iceland (tel: +354.425.6000)\nVisit: Vatnajökull National Park\nCalifornia | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nStay at: the Westin Bonaventure Hotel, 404 South Figueroa Street, Los Angeles, CA, 90071 (tel: 213.624.1000)",
+  "visit_sections": [
+    {
+      "title": "Alberta",
+      "items": [
+        "Visit: Alberta",
+        "Visit: Calgary",
+        "Visit: Canmore",
+        "Visit: Fort Macleod"
+      ]
+    },
+    {
+      "title": "Iceland",
+      "items": [
+        "Visit: Iceland",
+        "Visit: Reykjavik",
+        "Flights: Keflavík International Airport, Southern Peninsula, 235, Iceland (tel: +354.425.6000)",
+        "Visit: Vatnajökull National Park"
+      ]
+    },
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Stay at: the Westin Bonaventure Hotel, 404 South Figueroa Street, Los Angeles, CA, 90071 (tel: 213.624.1000)"
+      ]
+    }
+  ]
+}

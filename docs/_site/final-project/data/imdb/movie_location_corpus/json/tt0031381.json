@@ -1,0 +1,180 @@
+{
+  "imdb_id": "tt0031381",
+  "shorthand": "Gone-With-The-Wind",
+  "title": "Gone With The Wind",
+  "year": 1939,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0031381 - Gone-With-The-Wind.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0031381 - Gone-With-The-Wind.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0031381.json",
+  "source_url": "http://www.movie-locations.com/movies/g/Gone-With-The-Wind.php",
+  "page_title": "Gone With The Wind | Film Locations",
+  "meta_description": "Filming locations for classic film Gone With the Wind, around Los Angeles and California",
+  "meta_keywords": "Gone With The Wind, film locations, filming locations, travel, tourism, set-jetting, los angeles, culver city, north little rock mill, arkansas, tara, busch gardens, mgm, culver city",
+  "og_title": "Filming Locations for Gone With The Wind (1939)",
+  "og_description": "Travel guide to filming locations for Gone With the Wind (1939), around Los Angeles and California.",
+  "og_image": "http://www.movie-locations.com/movies/g/Gone-With-The-Wind.jpg",
+  "top250_rank": "202",
+  "movie_locations_title": "GONE WITH THE WIND",
+  "movie_locations_regions": "Los Angeles, California | Arkansas",
+  "director": "Victor Fleming | George Cukor | Sam Wood",
+  "cast": [
+    "Vivien Leigh",
+    "Clark Gable",
+    "Leslie Howard",
+    "Olivia De Havilland",
+    "Hattie McDaniel",
+    "Thomas Mitchell",
+    "Olin Howlin",
+    "Jane Darwell",
+    "Ward Bond"
+  ],
+  "locations": [
+    "Los Angeles, California;",
+    "Arkansas"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0031381%20-%20Gone-With-The-Wind/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0031381 - Gone-With-The-Wind/002.jpg",
+    "exists": true,
+    "alt": "Gone With The Wind poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0031381/poster.jpg",
+    "corpus_asset_src": "../assets/tt0031381/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0031381%20-%20Gone-With-The-Wind/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0031381 - Gone-With-The-Wind/001.jpg",
+    "exists": true,
+    "alt": "Gone With the Wind filming location: Culver Studios, Washington Boulevard, Culver City, Los Angeles",
+    "caption": "Gone With The Wind filming location: The studio where Gone With The Wind was filmed: Culver Studios, Washington Boulevard, Culver City, Los Angeles",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0031381/001.jpg",
+    "corpus_asset_src": "../assets/tt0031381/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0031381%20-%20Gone-With-The-Wind/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0031381 - Gone-With-The-Wind/001.jpg",
+      "exists": true,
+      "alt": "Gone With the Wind filming location: Culver Studios, Washington Boulevard, Culver City, Los Angeles",
+      "caption": "Gone With The Wind filming location: The studio where Gone With The Wind was filmed: Culver Studios, Washington Boulevard, Culver City, Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0031381/001.jpg",
+      "corpus_asset_src": "../assets/tt0031381/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0031381%20-%20Gone-With-The-Wind/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0031381 - Gone-With-The-Wind/002.jpg",
+      "exists": true,
+      "alt": "Gone With The Wind poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0031381/002.jpg",
+      "corpus_asset_src": "../assets/tt0031381/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0031381%20-%20Gone-With-The-Wind/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0031381 - Gone-With-The-Wind/003.jpg",
+      "exists": true,
+      "alt": "Gone With the Wind filming location: North Little Rock Mill, North Little Rock, Arkansas",
+      "caption": "Gone With The Wind: the old watermill seen at the opening: North Little Rock Mill, North Little Rock, Arkansas | Photograph: wikimedia / Ernest Mettendorf",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0031381/003.jpg",
+      "corpus_asset_src": "../assets/tt0031381/003.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0031381/001.jpg\" alt=\"Gone With the Wind filming location: Culver Studios, Washington Boulevard, Culver City, Los Angeles\"><figcaption>Gone With The Wind filming location: The studio where Gone With The Wind was filmed: Culver Studios, Washington Boulevard, Culver City, Los Angeles</figcaption></figure>\n<p>Although people still arrive in Atlanta expecting to visit Scarlett O'Hara’s Deep South estate, not a single scene of the classic film was shot in <a href=\"https://www.movie-locations.com/places/usa/georgia.php\">Georgia</a>.</p>\n<p>\nVirtually all the movie was filmed at what was then the Selznick International Studios. This studio, built by <a href=\"https://www.movie-locations.com/people/g/griffithdw.php\">DW Griffith</a>’s contemporary and early innovator <span class=\"name\">Tom Ince</span> in 1916, passed into various hands over the years. In 1924 it was Pathe Studios, in 1925 the DeMille Studios (<span class=\"name\">King of Kings</span> was made here in 1927), in 1931 RKO-Pathe (when <a href=\"https://www.movie-locations.com/movies/k/King-Kong-1933.php\">King Kong</a> was filmed here). Later, in 1957, it became Desilu-Culver (under the ownership of <span class=\"name\">Desi Arnaz</span> and <span class=\"name\">Lucille Ball</span>) and later still just <span class=\"name\">Culver Studios</span>. Most of <a href=\"https://www.movie-locations.com/people/s/spielbergs.php\">Steven Spielberg</a>'s <a href=\"https://www.movie-locations.com/movies/e/ET.php\">E.T.</a> was filmed here.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0031381/003.jpg\" alt=\"Gone With the Wind filming location: North Little Rock Mill, North Little Rock, Arkansas\"><figcaption>Gone With The Wind: the old watermill seen at the opening: North Little Rock Mill, North Little Rock, Arkansas | Photograph: wikimedia / Ernest Mettendorf</figcaption></figure>\n<p>You'll probably recognise it as the mansion seen before the titles of classic <span class=\"name\">David O Selznick</span> productions. It's at <span class=\"name\">9336 Washington Boulevard</span> between Ince and Van Buren, <span class=\"name\">Culver City</span>. The <span class=\"name\">Washington Boulevard</span> entrance appears as the grand approach to the ‘big new house in Atlanta’ into which Scarlett and Rhett move after their marriage. The building itself is heavily disguised with a matte painting (a painting on glass placed in front of the camera, used before effects could be achieved with CGI), but the formal lawns, and the path with its central hedge, remain virtually unchanged.</p>\n<p>The stuio frontage is also seen as the 'Cheyne Mansion' at the opening of <a href=\"https://www.movie-locations.com/people/f/flemingv.php\">Victor Fleming</a>'s 1937 <a href=\"https://www.movie-locations.com/movies/c/Captains-Courageous.php\">Captains Courageous</a>, with <a href=\"https://www.movie-locations.com/people/b/bartholomewf.php\">Freddie Bartholomew</a> and Oscar-winning <a href=\"https://www.movie-locations.com/people/t/tracys.php\">Spencer Tracy</a>.</p>\n<p>One of the earliest shots in the can was the burning of ‘Atlanta’, so early, in fact, that Scarlett O’Hara hadn’t yet been cast – so legend has it. <a href=\"https://www.movie-locations.com/people/l/leighv.php\">Vivien Leigh</a> supposedly arrived during filming and instantly secured the part. Well it makes a good story, and this is Hollywood, so why not print the legend?</p>\n<p>\nWhat went up in flames in the scene was the old Selznick backlot, in a massive space-clearing operation. You can plainly see the giant gates of <a href=\"https://www.movie-locations.com/movies/k/King-Kong-1933.php\">King Kong</a>’s ‘Skull Island’ – strangely out of place in Civil War-era ‘Atlanta’ – during the conflagration.</p>\n<p>\nThe few locations include the barbecue at ‘Twelve Oaks’, which used the long-gone <span class=\"name\">Busch Gardens</span> in <span class=\"name\">Pasadena</span>, an estate built by the Busch brewing family. Remnants of the landscaping can still be seen in gardens of the houses around <span class=\"name\">Arroyo Boulevard</span> between <span class=\"name\">Bellefontaine Street</span> and <span class=\"name\">Madeline Drive</span> (the gardens also stood in for the grounds of ‘Xanadu’ in <span class=\"name\">Citizen Kane</span>).</p>\n<p>\nWhen Scarlett vows never to go hungry again, it’s an early morning sunrise at <span class=\"name\">Lasky Mesa, Calabasas</span>, northwest of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a> in the <span class=\"name\">Simi Valley</span>. Loads of movies were shot here, including the 1936 film of <span class=\"name\">The Charge of the Light Brigade</span>. The area, between <span class=\"name\">Agoura</span> and <span class=\"name\">Woodland Hills</span>, is now known as the <span class=\"name\">Ahmanson Ranch</span>, and is currently scheduled to be redeveloped. The final horse ride of Gerald O’Hara (<a href=\"https://www.movie-locations.com/people/m/mitchellt.php\">Thomas Mitchell</a>) was also filmed at <span class=\"name\">Calabasas</span>.</p>\n<p>\nThe attack in Shantytown is at <span class=\"name\">Big Bear Lake</span> at <span class=\"name\">San Bernardino</span>, east of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>. Gerald’s walk with Scarlett was filmed on the <span class=\"name\">Ruess Ranch, Malibou Lake</span>, near Malibu Creek State Park, between Malibu and Thousand Oaks.</p>\n<p>\nThe cotton fields of Tara, and O’Hara’s first horse ride, are around <span class=\"name\">Chico</span>, way up in northern <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>, some 80 miles north of Sacramento. Filming took place around <span class=\"name\">Bidwell Park</span>, <span class=\"name\">Pentz Road</span>, and <span class=\"name\">Paradise Apple Orchard</span>.</p>\n<p>\nNot surprisingly, several estates lay claim to be the inspiration for ‘Tara’. The staircase was supposedly based on an original at <a href=\"http://www.chretienpoint.com\" target=\"_blank\">Chretien Point Plantation</a>, about four miles from <span class=\"name\">Sunset</span>, between Lake Charles and Baton Rouge, <a href=\"https://www.movie-locations.com/places/usa/louisiana.php\">Louisiana</a>, while the avenue of oaks is based on one at <a href=\"http://www.boonehallplantation.com\" target=\"_blank\">Boone Hall Plantation</a>, seven miles north of Charleston, near US17, <a href=\"https://www.movie-locations.com/places/usa/scarolina.php\">South Carolina</a> (one of the estates seen in the 2004 film of <span class=\"name\">Nicholas Sparks</span> romance <a href=\"https://www.movie-locations.com/movies/n/Notebook.php\">The Notebook</a>).</p>\n<p>One briefly glimpsed location is <a href=\"http://littlerock.about.com/cs/nature/a/aaoldmill.htm\" target=\"_blank\">North Little Rock Mill</a>, the picturesque watermill seen at the opening of the film. You can find it in <span class=\"name\">TR Pugh Memorial Park</span> on <span class=\"name\">Lakeshore Drive</span>, in <span class=\"name\">North Little Rock</span>, <a href=\"https://www.movie-locations.com/places/usa/arkansas.php\">Arkansas</a>, across the Arkansas River from <span class=\"name\">Little Rock</span> itself. Despite its quaint appearance, the mill was actually built in the Thirties and so was brand new at the time of filming. It was deliberately designed to look like a historic part of the landscape. </p>",
+  "main_content_text": "Although people still arrive in Atlanta expecting to visit Scarlett O'Hara’s Deep South estate, not a single scene of the classic film was shot in Georgia.\n\nVirtually all the movie was filmed at what was then the Selznick International Studios. This studio, built by DW Griffith’s contemporary and early innovator Tom Ince in 1916, passed into various hands over the years. In 1924 it was Pathe Studios, in 1925 the DeMille Studios (King of Kings was made here in 1927), in 1931 RKO-Pathe (when King Kong was filmed here). Later, in 1957, it became Desilu-Culver (under the ownership of Desi Arnaz and Lucille Ball) and later still just Culver Studios. Most of Steven Spielberg's E.T. was filmed here.\n\nYou'll probably recognise it as the mansion seen before the titles of classic David O Selznick productions. It's at 9336 Washington Boulevard between Ince and Van Buren, Culver City. The Washington Boulevard entrance appears as the grand approach to the ‘big new house in Atlanta’ into which Scarlett and Rhett move after their marriage. The building itself is heavily disguised with a matte painting (a painting on glass placed in front of the camera, used before effects could be achieved with CGI), but the formal lawns, and the path with its central hedge, remain virtually unchanged.\n\nThe stuio frontage is also seen as the 'Cheyne Mansion' at the opening of Victor Fleming's 1937 Captains Courageous, with Freddie Bartholomew and Oscar-winning Spencer Tracy.\n\nOne of the earliest shots in the can was the burning of ‘Atlanta’, so early, in fact, that Scarlett O’Hara hadn’t yet been cast – so legend has it. Vivien Leigh supposedly arrived during filming and instantly secured the part. Well it makes a good story, and this is Hollywood, so why not print the legend?\n\nWhat went up in flames in the scene was the old Selznick backlot, in a massive space-clearing operation. You can plainly see the giant gates of King Kong’s ‘Skull Island’ – strangely out of place in Civil War-era ‘Atlanta’ – during the conflagration.\n\nThe few locations include the barbecue at ‘Twelve Oaks’, which used the long-gone Busch Gardens in Pasadena, an estate built by the Busch brewing family. Remnants of the landscaping can still be seen in gardens of the houses around Arroyo Boulevard between Bellefontaine Street and Madeline Drive (the gardens also stood in for the grounds of ‘Xanadu’ in Citizen Kane).\n\nWhen Scarlett vows never to go hungry again, it’s an early morning sunrise at Lasky Mesa, Calabasas, northwest of Los Angeles in the Simi Valley. Loads of movies were shot here, including the 1936 film of The Charge of the Light Brigade. The area, between Agoura and Woodland Hills, is now known as the Ahmanson Ranch, and is currently scheduled to be redeveloped. The final horse ride of Gerald O’Hara (Thomas Mitchell) was also filmed at Calabasas.\n\nThe attack in Shantytown is at Big Bear Lake at San Bernardino, east of Los Angeles. Gerald’s walk with Scarlett was filmed on the Ruess Ranch, Malibou Lake, near Malibu Creek State Park, between Malibu and Thousand Oaks.\n\nThe cotton fields of Tara, and O’Hara’s first horse ride, are around Chico, way up in northern California, some 80 miles north of Sacramento. Filming took place around Bidwell Park, Pentz Road, and Paradise Apple Orchard.\n\nNot surprisingly, several estates lay claim to be the inspiration for ‘Tara’. The staircase was supposedly based on an original at Chretien Point Plantation, about four miles from Sunset, between Lake Charles and Baton Rouge, Louisiana, while the avenue of oaks is based on one at Boone Hall Plantation, seven miles north of Charleston, near US17, South Carolina (one of the estates seen in the 2004 film of Nicholas Sparks romance The Notebook).\n\nOne briefly glimpsed location is North Little Rock Mill, the picturesque watermill seen at the opening of the film. You can find it in TR Pugh Memorial Park on Lakeshore Drive, in North Little Rock, Arkansas, across the Arkansas River from Little Rock itself. Despite its quaint appearance, the mill was actually built in the Thirties and so was brand new at the time of filming. It was deliberately designed to look like a historic part of the landscape.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Gone With The Wind filming location: The studio where Gone With The Wind was filmed: Culver Studios, Washington Boulevard, Culver City, Los Angeles",
+      "src": "_assets/tt0031381%20-%20Gone-With-The-Wind/001.jpg",
+      "alt": "Gone With the Wind filming location: Culver Studios, Washington Boulevard, Culver City, Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although people still arrive in Atlanta expecting to visit Scarlett O'Hara’s Deep South estate, not a single scene of the classic film was shot in Georgia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Virtually all the movie was filmed at what was then the Selznick International Studios. This studio, built by DW Griffith’s contemporary and early innovator Tom Ince in 1916, passed into various hands over the years. In 1924 it was Pathe Studios, in 1925 the DeMille Studios (King of Kings was made here in 1927), in 1931 RKO-Pathe (when King Kong was filmed here). Later, in 1957, it became Desilu-Culver (under the ownership of Desi Arnaz and Lucille Ball) and later still just Culver Studios. Most of Steven Spielberg's E.T. was filmed here."
+    },
+    {
+      "type": "image",
+      "caption": "Gone With The Wind: the old watermill seen at the opening: North Little Rock Mill, North Little Rock, Arkansas | Photograph: wikimedia / Ernest Mettendorf",
+      "src": "_assets/tt0031381%20-%20Gone-With-The-Wind/003.jpg",
+      "alt": "Gone With the Wind filming location: North Little Rock Mill, North Little Rock, Arkansas"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll probably recognise it as the mansion seen before the titles of classic David O Selznick productions. It's at 9336 Washington Boulevard between Ince and Van Buren, Culver City. The Washington Boulevard entrance appears as the grand approach to the ‘big new house in Atlanta’ into which Scarlett and Rhett move after their marriage. The building itself is heavily disguised with a matte painting (a painting on glass placed in front of the camera, used before effects could be achieved with CGI), but the formal lawns, and the path with its central hedge, remain virtually unchanged."
+    },
+    {
+      "type": "paragraph",
+      "text": "The stuio frontage is also seen as the 'Cheyne Mansion' at the opening of Victor Fleming's 1937 Captains Courageous, with Freddie Bartholomew and Oscar-winning Spencer Tracy."
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the earliest shots in the can was the burning of ‘Atlanta’, so early, in fact, that Scarlett O’Hara hadn’t yet been cast – so legend has it. Vivien Leigh supposedly arrived during filming and instantly secured the part. Well it makes a good story, and this is Hollywood, so why not print the legend?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What went up in flames in the scene was the old Selznick backlot, in a massive space-clearing operation. You can plainly see the giant gates of King Kong’s ‘Skull Island’ – strangely out of place in Civil War-era ‘Atlanta’ – during the conflagration."
+    },
+    {
+      "type": "paragraph",
+      "text": "The few locations include the barbecue at ‘Twelve Oaks’, which used the long-gone Busch Gardens in Pasadena, an estate built by the Busch brewing family. Remnants of the landscaping can still be seen in gardens of the houses around Arroyo Boulevard between Bellefontaine Street and Madeline Drive (the gardens also stood in for the grounds of ‘Xanadu’ in Citizen Kane)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When Scarlett vows never to go hungry again, it’s an early morning sunrise at Lasky Mesa, Calabasas, northwest of Los Angeles in the Simi Valley. Loads of movies were shot here, including the 1936 film of The Charge of the Light Brigade. The area, between Agoura and Woodland Hills, is now known as the Ahmanson Ranch, and is currently scheduled to be redeveloped. The final horse ride of Gerald O’Hara (Thomas Mitchell) was also filmed at Calabasas."
+    },
+    {
+      "type": "paragraph",
+      "text": "The attack in Shantytown is at Big Bear Lake at San Bernardino, east of Los Angeles. Gerald’s walk with Scarlett was filmed on the Ruess Ranch, Malibou Lake, near Malibu Creek State Park, between Malibu and Thousand Oaks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cotton fields of Tara, and O’Hara’s first horse ride, are around Chico, way up in northern California, some 80 miles north of Sacramento. Filming took place around Bidwell Park, Pentz Road, and Paradise Apple Orchard."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not surprisingly, several estates lay claim to be the inspiration for ‘Tara’. The staircase was supposedly based on an original at Chretien Point Plantation, about four miles from Sunset, between Lake Charles and Baton Rouge, Louisiana, while the avenue of oaks is based on one at Boone Hall Plantation, seven miles north of Charleston, near US17, South Carolina (one of the estates seen in the 2004 film of Nicholas Sparks romance The Notebook)."
+    },
+    {
+      "type": "paragraph",
+      "text": "One briefly glimpsed location is North Little Rock Mill, the picturesque watermill seen at the opening of the film. You can find it in TR Pugh Memorial Park on Lakeshore Drive, in North Little Rock, Arkansas, across the Arkansas River from Little Rock itself. Despite its quaint appearance, the mill was actually built in the Thirties and so was brand new at the time of filming. It was deliberately designed to look like a historic part of the landscape."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n</section>\n<section><h3>Arkansas</h3>\n<p>Visit: Arkansas</p>\n<p>Visit: North Little Rock Mill, TR Pugh Memorial Park, North Little Rock, AR 72116 (tel: 501.758.1424)</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nArkansas\nVisit: Arkansas\nVisit: North Little Rock Mill, TR Pugh Memorial Park, North Little Rock, AR 72116 (tel: 501.758.1424)",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro"
+      ]
+    },
+    {
+      "title": "Arkansas",
+      "items": [
+        "Visit: Arkansas",
+        "Visit: North Little Rock Mill, TR Pugh Memorial Park, North Little Rock, AR 72116 (tel: 501.758.1424)"
+      ]
+    }
+  ]
+}

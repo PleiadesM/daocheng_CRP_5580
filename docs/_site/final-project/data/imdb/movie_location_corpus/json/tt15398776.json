@@ -1,0 +1,399 @@
+{
+  "imdb_id": "tt15398776",
+  "shorthand": "Oppenheimer",
+  "title": "Oppenheimer",
+  "year": 2023,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt15398776 - Oppenheimer.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt15398776 - Oppenheimer.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt15398776.json",
+  "source_url": "http://www.movie-locations.com/movies/o/Oppenheimer.php",
+  "page_title": "Oppenheimer | Film Locations",
+  "meta_description": "Film locations for Oppenheimer (2023), in New Mexico, Los Angeles, California, Princeton New Jersey, Cambridge University and Switzerland.",
+  "meta_keywords": "",
+  "og_title": "Filming locations for Oppenheimer (2023) around the world: in New Mexico, Los Angeles, New Jersey in the USA; Cambridge in the UK and in Switzerland.",
+  "og_description": "Filming locations for Oppenheimer (2023) around the world: in New Mexico, Los Angeles, New Jersey in the USA; Cambridge in the UK and in Switzerland.",
+  "og_image": "http://www.movie-locations.com/movies/o/oppenheimer-meta.jpg",
+  "top250_rank": "183",
+  "movie_locations_title": "OPPENHEIMER",
+  "movie_locations_regions": "New Mexico | Los Angeles, California | New Jersey | Cambridgeshire, UK | Switzerland",
+  "director": "Christopher Nolan",
+  "cast": [
+    "Cillian Murphy",
+    "Emily Blunt",
+    "Robert Downey Jr",
+    "Alden Ehrenreich",
+    "Scott Grimes",
+    "Jason Clarke",
+    "Tony Goldwyn",
+    "James D'Arcy",
+    "Kenneth Branagh",
+    "Tom Conti",
+    "David Krumholtz",
+    "Josh Hartnett",
+    "Florence Pugh",
+    "Matthew Modine",
+    "David Dastmalchian",
+    "Matt Damon",
+    "Dane DeHaan",
+    "Jack Quaid",
+    "Rami Malek",
+    "Casey Affleck",
+    "Dylan Arnold",
+    "James Remar",
+    "Gary Oldman"
+  ],
+  "locations": [
+    "New Mexico;",
+    "Los Angeles, California;",
+    "New Jersey;",
+    "Cambridgeshire, UK;",
+    "Switzerland"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt15398776%20-%20Oppenheimer/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt15398776 - Oppenheimer/002.jpg",
+    "exists": true,
+    "alt": "Oppenheimer poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt15398776/poster.jpg",
+    "corpus_asset_src": "../assets/tt15398776/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt15398776%20-%20Oppenheimer/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt15398776 - Oppenheimer/001.jpg",
+    "exists": true,
+    "alt": "Oppenheimer film location: Los Alamos Main Gate, Los Alamos, New Mexico",
+    "caption": "Oppenheimer film location: recreation of the original Main Gate entrance to Los Alamos: Los Alamos Main Gate, Los Alamos, New Mexico | Photograph: Michael Vi / Shutterstock",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt15398776/001.jpg",
+    "corpus_asset_src": "../assets/tt15398776/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt15398776 - Oppenheimer/001.jpg",
+      "exists": true,
+      "alt": "Oppenheimer film location: Los Alamos Main Gate, Los Alamos, New Mexico",
+      "caption": "Oppenheimer film location: recreation of the original Main Gate entrance to Los Alamos: Los Alamos Main Gate, Los Alamos, New Mexico | Photograph: Michael Vi / Shutterstock",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt15398776/001.jpg",
+      "corpus_asset_src": "../assets/tt15398776/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt15398776 - Oppenheimer/002.jpg",
+      "exists": true,
+      "alt": "Oppenheimer poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt15398776/002.jpg",
+      "corpus_asset_src": "../assets/tt15398776/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt15398776 - Oppenheimer/003.jpg",
+      "exists": true,
+      "alt": "Oppenheimer film location: Lamy Train Station, Lamy, New Mexico",
+      "caption": "Oppenheimer film location: workers arrive by train at Los Alamos: Lamy Train Station, Lamy, New Mexico | Photograph: Wikimedia / Jeffrey.b.stark",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt15398776/003.jpg",
+      "corpus_asset_src": "../assets/tt15398776/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt15398776 - Oppenheimer/004.jpg",
+      "exists": true,
+      "alt": "Oppenheimer film location: Fuller Lodge, Los Alamos, New Mexico",
+      "caption": "Oppenheimer film location: the town's community centre: Fuller Lodge, Los Alamos, New Mexico | Photograph: Wikimedia / Bill Johnson",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt15398776/004.jpg",
+      "corpus_asset_src": "../assets/tt15398776/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt15398776 - Oppenheimer/005.jpg",
+      "exists": true,
+      "alt": "Oppenheimer film location: Bataan Memorial Building, Santa Fe, New Mexico",
+      "caption": "Oppenheimer film location: the 'DC' hearing for Lewis Strauss: Bataan Memorial Building, Santa Fe, New Mexico | Photograph: tishomir / Shutterstock",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt15398776/005.jpg",
+      "corpus_asset_src": "../assets/tt15398776/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt15398776 - Oppenheimer/006.jpg",
+      "exists": true,
+      "alt": "Oppenheimer film location: Cambridge University, Cambridgeshire",
+      "caption": "Oppenheimer film location: Oppenheimer studies in the UK: Cambridge University, Cambridgeshire | Photograph: Pajor Pawel / Shutterstock",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt15398776/006.jpg",
+      "corpus_asset_src": "../assets/tt15398776/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt15398776 - Oppenheimer/007.jpg",
+      "exists": true,
+      "alt": "Oppenheimer film location: The Ebell of Los Angeles, off Wilshire Boulevard, midtown Los Angeles",
+      "caption": "Oppenheimer film location: Oppenheimer meets Heisenberg in 'Switzerland': Ebell of Los Angeles, off Wilshire Boulevard, midtown Los Angeles",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt15398776/007.jpg",
+      "corpus_asset_src": "../assets/tt15398776/007.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt15398776/001.jpg\" alt=\"Oppenheimer film location: Los Alamos Main Gate, Los Alamos, New Mexico\"><figcaption>Oppenheimer film location: recreation of the original Main Gate entrance to Los Alamos: Los Alamos Main Gate, Los Alamos, New Mexico | Photograph: Michael Vi / Shutterstock</figcaption></figure>\n<p>Discover the places where <span class=\"name\">Christopher Nolan</span>'s Oscar-winning <span class=\"name\">Oppenheimer</span> (2023) was filmed around the world: in <span class=\"name\">New Mexico, Los Angeles, New Jersey</span> in the <span class=\"name\">USA</span>; <span class=\"name\">Cambridge</span> in the <span class=\"name\">UK</span> and in <span class=\"name\">Switzerland</span>.</p>\n<p>The complex flashback structure of <a href=\"https://www.movie-locations.com/people/n/nolanc.php\">Christopher Nolan</a>’s crazily successful biopic (though that seems too small a word) would make a standard narrative account impossible so we'll just whizz through the locations.</p>\n<p>The framing device is the AEC hearing to review the security clearance of Robert Oppenheimer (<a href=\"https://www.movie-locations.com/people/m/murphyc.php\">Cillian Murphy</a>). The hearing's intensely claustrophobic atmosphere was achieved by filming this in the genuinely constricting confines of a real, none-too-large, office in <span class=\"name\">The Alhambra</span>, an office complex at <span class=\"name\">1000 South Fremont Avenue, Alhambra</span> in the San Gabriel Valley, about eight miles northeast of Downtown <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>The main focus of the film though, is on the Los Alamos complex in <a href=\"https://www.movie-locations.com/places/usa/newmexico.php\">New Mexico</a>, home to the Manhattan Project, to build an atomic bomb before Nazi Germany during WWII.</p>\n<p><a href=\"https://visitlosalamos.org/\">Los Alamos</a>, an isolated town in northern <a href=\"https://www.movie-locations.com/places/usa/newmexico.php\">New Mexico</a>, was virtually taken over by by the US government and developed as a highly secret ‘closed city’ to house and service the people working on the project, and accessible by only two gates. </p>\n<p>It was finally opened up to the public in 1957. In fact, some interiors remain unchanged from the 1940s, including that of the1929 ranch-style home which was occupied by the Oppenheimers. This was used in the film but it remains a private residence and isn’t open to visitors.</p>\n<p>Another place you can't visit is the <span class=\"name\">Civilian Women’s Dormitory</span> which housed many of the women who worked there. This was used as the lab where the progress of the amounts of uranium and plutonium processed are displayed using those glass bowls of marbles.</p>\n<p>Other places in <a href=\"https://visitlosalamos.org/\">Los Alamos</a>, managed by the <a href=\"https://www.nps.gov/mapr/planyourvisit/losalamos-nm.htm\" target=\"_blank\">National Park Service</a>, are available for self-guided tours.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt15398776/003.jpg\" alt=\"Oppenheimer film location: Lamy Train Station, Lamy, New Mexico\"><figcaption>Oppenheimer film location: workers arrive by train at Los Alamos: Lamy Train Station, Lamy, New Mexico | Photograph: Wikimedia / Jeffrey.b.stark</figcaption></figure>\n<p>Workers on the project arrive at <a href=\"https://www.greatamericanstations.com/stations/lamy-nm-lmy/\">Lamy Train Station</a>, a Spanish Mission-style structure on <span class=\"name\">Old Lamy Trail</span> in <span class=\"name\">Lamy</span>, a town just south of Santa Fe. The station predates the town, being built in 1909 for the Atcheson Topeka and Santa Fe Railway – yes, that’s the one immortalised in song by <a href=\"https://www.movie-locations.com/people/g/garlandj.php\">Judy Garland</a> in 1946 movie <span class=\"name\">The Harvey Girls</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt15398776/004.jpg\" alt=\"Oppenheimer film location: Fuller Lodge, Los Alamos, New Mexico\"><figcaption>Oppenheimer film location: the town's community centre: Fuller Lodge, Los Alamos, New Mexico | Photograph: Wikimedia / Bill Johnson</figcaption></figure>\n<p><span class=\"name\">Fuller Lodge, 2132 Central Avenue</span>, built in 1928 as the dining hall for the Los Alamos Ranch School, also predates the town. After being requisitioned in 1942, it was converted into a community centre, and that’s how it’s seen in the film. Today it functions as an arts centre.</p>\n<p><a href=\"https://visitlosalamos.org/\">Los Alamos</a> itself couldn't be used for exterior shots as it's been substantially redeveloped since the 1940s with more modern homes and strip malls.</p>\n<p>This meant recreating it from scratch. The town, as it used to be, was constructed at <a href=\"https://ghostranch.org\" target=\"_blank\">Ghost Ranch</a>, <a href=\"https://www.newmexico.org/places-to-visit/regions/northcentral/abiquiu/\">Abiquiu</a>, on <span class=\"name\">US84</span>, about 40 miles north of the real thing.</p>\n<p>Once the home of painter <span class=\"name\">Georgia O'Keeffe</span>, the <a href=\"https://ghostranch.org\" target=\"_blank\">Ranch</a> is now an education and retreat centre. Its 21,000 acres were given to the Presbyterian Church in 1955 as part of a land grant called Piedra Lumbre ('Shining Rock')The dramatic name ‘Ghost Ranch’ was supposedly inspired by the numerous tales hauntings. In fact, it was once home to cattle rustlers who called it 'Ranch of the Witches' to discourage people from nosing around. The name was re-imagined, as we'd say today, by a subsequent owner.</p>\n<p>Among other films featuring the spectacular scenery around <a href=\"https://ghostranch.org\" target=\"_blank\">Ghost Ranch</a> are <a href=\"https://www.movie-locations.com/people/s/spielbergs.php\">Steven Spielberg</a>’s <a href=\"https://www.movie-locations.com/movies/i/Indiana-Jones-And-The-Kingdom-Of-The-Crystal-Skull.php\">Indiana Jones and the Kingdom of the Crystal Skull</a>; <a href=\"https://www.movie-locations.com/movies/c/Cowboys-And-Aliens.php\">Cowboys and Aliens</a>, with <a href=\"https://www.movie-locations.com/people/f/fordh.php\">Harrison Ford</a>; <span class=\"name\">Jim Sheridan</span>’s <span class=\"name\">Brothers</span> (2009) with <a href=\"https://www.movie-locations.com/people/m/maguiret.php\">Tobey Maguire</a> and <a href=\"https://www.movie-locations.com/people/g/gyllenhaalj.php\">Jake Gyllenhaal</a>; <a href=\"https://www.movie-locations.com/people/m/mangoldj.php\">James Mangold</a>’s 2007 remake of <span class=\"name\">3:10 to Yuma</span>, <a href=\"https://www.movie-locations.com/people/k/kasdanl.php\">Lawrence Kasdan</a>’s <span class=\"name\">Wyatt Earp</span> (1994) with <a href=\"https://www.movie-locations.com/people/c/costnerk.php\">Kevin Costner</a>; <span class=\"name\">City Slickers</span>, <a href=\"https://www.movie-locations.com/people/f/fuquaa.php\">Antoine Fuqua</a>'s 2016 remake of <span class=\"name\">The Magnificent Seven</span> and others. You can take a <a href=\"https://aztecnm.com\" target=\"_blank\">Ghost Ranch Movie Tour</a>.     </p>\n<p>The tower for the Trinity test of the prototype bomb was reconstructed for the film near <span class=\"name\">Belen</span>, Valencia County, south of Albuquerque in the centre of <a href=\"https://www.movie-locations.com/places/usa/newmexico.php\">New Mexico</a>. This is about 200 miles north of the real site – <a href=\"https://home.army.mil/wsmr/about/visitor-information\">White Sands Missile Range</a>.</p>\n<p>The bomb (before being fully assembled) actually passed through <span class=\"name\">Belen</span> en route to the real test site. Local legend maintains that there was a brief stop here, at (the now gone) Roy's Cafe on Main Street.</p>\n<p>One more major location featured throughout the film is another security hearing, this one to determine the suitability of Lewis Strauss (<a href=\"https://www.movie-locations.com/people/d/downeyjrr.php\">Robert Downey Jr</a>) for the cabinet post of Commerce Secretary.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt15398776/005.jpg\" alt=\"Oppenheimer film location: Bataan Memorial Building, Santa Fe, New Mexico\"><figcaption>Oppenheimer film location: the 'DC' hearing for Lewis Strauss: Bataan Memorial Building, Santa Fe, New Mexico | Photograph: tishomir / Shutterstock</figcaption></figure>\n<p>Although this took place in ‘Washington DC’, the hearing was filmed in the <span class=\"name\">Bataan Memorial Building, 400 Don Gaspar Avenue</span>, <a href=\"https://www.santafe.org/\" target=\"_blank\">Santa Fe</a> which, until 1966, served as <a href=\"https://www.movie-locations.com/places/usa/newmexico.php\">New Mexico</a>’s State Capitol.</p>\n<p>Now to the many other secondary locations, many of which are the authentic places.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt15398776/006.jpg\" alt=\"Oppenheimer film location: Cambridge University, Cambridgeshire\"><figcaption>Oppenheimer film location: Oppenheimer studies in the UK: Cambridge University, Cambridgeshire | Photograph: Pajor Pawel / Shutterstock</figcaption></figure>\n<p>First to the <span class=\"name\">UK</span>, and <a href=\"https://www.cam.ac.uk/\" target=\"_blank\">Cambridge University</a>, where Oppenheimer proves useless in the lab and (in the movie) almost offs Nils Bohr (<a href=\"https://www.movie-locations.com/people/b/branaghk.php\">Kenneth Branagh</a>) with a cyanide-laced apple.</p>\n<p>Dating from the 13th century, <a href=\"https://www.cam.ac.uk/\" target=\"_blank\">Cambridge</a> is the world’s third oldest university, just behind its rival, Oxford. I’m not sure laboratory interiors were filmed here but the exteriors are real enough.</p>\n<p>The scene-setting shows picturesque <span class=\"name\">Kings College</span> overlooking the <span class=\"name\">River Cam</span>. It looks gorgeous but Oppenheimer studied at <span class=\"name\">Christ’s College</span>.</p>\n<p>Strauss first meets Oppenheimer on the campus of the <a href=\"https://www.ias.edu/about/faqs\" target=\"_blank\">Institute for Advanced Study,</a> <a href=\"https://www.visitprinceton.org/\" target=\"_blank\">Princeton</a>, <a href=\"https://www.movie-locations.com/places/usa/newjersey.php\">New Jersey</a>, in front of <span class=\"name\">Fuld Hall</span>, which stands on <span class=\"name\">Einstein Drive</span>. The address alerts you to the fact that, yes, <span class=\"name\">Albert Einstein</span> was here. The great scientist was never officially on the facility of <span class=\"name\">Princeton</span> but he taught and lived here for many years.</p>\n<p>The <a href=\"https://www.ias.edu/about/faqs\" target=\"_blank\">Institute</a>'s woods and grounds, though not the buildings, are open to visitors.</p>\n<p>The relationship between Oppenheimer and Strauss becomes edgy after Strauss excitedly introduces Oppenheimer to Einstein (<a href=\"https://www.movie-locations.com/people/c/contit.php\">Tom Conti</a>) only to discover they’re already friends. Einstein’s apparent, though unintended, snub  is the basis of Strauss’s lingering animosity.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt15398776/007.jpg\" alt=\"Oppenheimer film location: The Ebell of Los Angeles, off Wilshire Boulevard, midtown Los Angeles\"><figcaption>Oppenheimer film location: Oppenheimer meets Heisenberg in 'Switzerland': Ebell of Los Angeles, off Wilshire Boulevard, midtown Los Angeles</figcaption></figure>\n<p>While in Europe, Oppenheimer meets another great physicist, Werner Heisenberg (I suppose casting <a href=\"https://www.movie-locations.com/people/c/cranstonb.php\">Bryan Cranston</a> would have been a distracting in-joke?) in 'Switzerland'. In reality, this is the <a href=\"http://ebellla.org\" target=\"_blank\">Ebell Of Los Angeles</a>, <span class=\"name\">4400 West Eighth Street</span> at Lucerne Boulevard, <span class=\"name\">Midtown</span> <a href=\"https://www.movie-locations.com/places/usa/la.php\">LA</a>.</p>\n<p>A complex, comprised of a women’s club and the <a href=\"https://ebellofla.org/theatre/\" target=\"_blank\">Wilshire Ebell Theatre</a>, is a frequent filming location seen in <a href=\"https://www.movie-locations.com/movies/a/Addams-Family.php\">The Addams Family</a>, <a href=\"https://www.movie-locations.com/movies/g/Ghost.php\">Ghost</a>, <a href=\"https://www.movie-locations.com/movies/a/Air-Force-One.php\">Air Force One</a>, <a href=\"https://www.movie-locations.com/movies/a/Artist.php\">The Artist,</a> <a href=\"https://www.movie-locations.com/movies/c/Catch-Me-If-You-Can.php\">Catch Me If You Can</a>, <a href=\"https://www.movie-locations.com/movies/o/Old-School.php\">Old School</a>, <a href=\"https://www.movie-locations.com/movies/c/Cruel-Intentions.php\">Cruel Intentions</a>, <a href=\"https://www.movie-locations.com/movies/d/Darkman-1990.php\">Darkman</a> and <a href=\"https://www.movie-locations.com/movies/d/Death-Becomes-Her.php\">Death Becomes Her</a>. It turns up as a hospital in both <a href=\"https://www.movie-locations.com/movies/f/Forrest-Gump.php\">Forrest Gump</a> and <span class=\"name\">The Curious Case of Benjamin Button</span>.</p>\n<p>Back in the USA, Oppenheimer begins work alongside the more practical experimentalist Ernest Lawrence (<a href=\"https://www.movie-locations.com/people/h/hartnettj.php\">Josh Hartnett</a>) at the <a href=\"https://www.berkeley.edu/\" target=\"_blank\">University of California</a>, <span class=\"name\">Berkeley</span>, north of Oakland, across the Bay from <a href=\"https://www.movie-locations.com/places/usa/sanfran.php\">San Francisco</a>.</p>\n<p>Although warned not to get involved in politics, Oppenheimer does tag along with his brother Frank (<a href=\"https://www.movie-locations.com/people/a/arnoldd.php\">Dylan Arnold</a>) to a Communist Party meeting, unaware of what this will mean for him in the future.</p>\n<p>The venue for the meeting is the landmark 1904 craftsman home at <span class=\"name\">327 Sierra Woods Drive</span> in <span class=\"name\">Sierra Madre</span>, known as the <span class=\"name\">Edgar W Camp House</span>. It was designed by the famous team of <span class=\"name\">Greene and Greene</span>, who also designed the Gamble House – Doc Brown's bungalow in <a href=\"https://www.movie-locations.com/movies/b/Back-To-The-Future.php\">Back to the Future</a>.</p>\n<p>It’s here he fatefully learns that the most effective way to send money to help the republicans in the Spanish Civil War is via the Communist Party and also where he starts an on/off physical relationship with Jean Tatlock (<a href=\"https://www.movie-locations.com/people/p/pughf.php\">Florence Pugh</a>).</p>\n<p>Walking with Jean, Oppenheimer sees a frantic Ernest Lawrence rushing, half-shaved, out of a barber shop. Supposedly in ‘Berkeley’ they’re still in <span class=\"name\">Sierra Madre</span>, strolling past the <span class=\"name\">Sierra Madre Playhouse</span> in a charmingly unmodernised stretch of <span class=\"name\">Sierra Madre Boulevard</span>.</p>\n<p>Lawrence’s apparently crazed behaviour is the result of hearing that the atom has been split – but by the Germans. The race is now on to weaponise nuclear power before the Nazi Germany.</p>\n<p>As the team to work on “the project” is assembled, it’s back to <a href=\"https://www.visitprinceton.org/\" target=\"_blank\">Princeton</a> to recruit physicist Richard Feynman (<a href=\"https://www.movie-locations.com/people/q/quaidj.php\">Jack Quaid</a>).</p>\n<p>Responding to an emotional call from Jean Tatlock, Oppenheimer flies to ‘San Francisco’ to meet with her. The ‘San Francisco’ hotel  is the <span class=\"name\">South Galleria</span> of the familiar <a href=\"https://www.millenniumhotels.com/en/los-angeles/millennium-biltmore-hotel-los-angeles/\" target=\"_blank\">Millennium Biltmore Hotel</a>, <span class=\"name\">506 South Grand Avenue</span>, a smart Spanish-Italian Renaissance landmark, <span class=\"name\">Downtown</span> <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>Built in 1923, the <a href=\"https://www.millenniumhotels.com/en/los-angeles/millennium-biltmore-hotel-los-angeles/\" target=\"_blank\">Biltmore</a> has been a regular movie location over the years, from <a href=\"https://www.movie-locations.com/movies/b/Beverly-Hills-Cop.php\">Beverly Hills Cop</a>, <a href=\"https://www.movie-locations.com/movies/s/Sting-1973.php\">The Sting</a> and <a href=\"https://www.movie-locations.com/movies/g/Ghostbusters.php\">Ghostbusters</a> to <a href=\"https://www.movie-locations.com/movies/i/In-The-Line-Of-Fire.php\">In The Line Of Fire</a>, <a href=\"https://www.movie-locations.com/movies/n/New-York-New-York.php\">New York, New York</a>, <a href=\"https://www.movie-locations.com/people/c/carpenterj.php\">John Carpenter</a>'s <a href=\"https://www.movie-locations.com/movies/t/They-Live.php\">They Live</a>, <span class=\"name\">Splash</span>, <a href=\"https://www.movie-locations.com/movies/i/Independence-Day.php\">Independence Day</a>, <a href=\"https://www.movie-locations.com/movies/s/Species-1995.php\">Species</a> and <a href=\"https://www.movie-locations.com/movies/d/Daredevil.php\">Daredevil</a>. It hosted the Oscars, too, during the Thirties.     </p>\n<p>One studio interior is The White House’s Oval Office, where President Harry Truman (<a href=\"https://www.movie-locations.com/people/o/oldmang.php\">Gary Oldman</a>) calls Oppenheimer a “cry baby”. This was meant to have been filmed in The Richard Nixon Presidential Library and Museum in Yorba Linda, <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>. When that became suddenly unavailable, the studio set from <span class=\"name\">Armando Iannucci</span>’s satirical TV series <span class=\"ital\">Veep</span> was hurriedly brought out of storage to be reassembled and redressed at <span class=\"name\">Universal Studios</span>.</p>",
+  "main_content_text": "Discover the places where Christopher Nolan's Oscar-winning Oppenheimer (2023) was filmed around the world: in New Mexico, Los Angeles, New Jersey in the USA; Cambridge in the UK and in Switzerland.\n\nThe complex flashback structure of Christopher Nolan’s crazily successful biopic (though that seems too small a word) would make a standard narrative account impossible so we'll just whizz through the locations.\n\nThe framing device is the AEC hearing to review the security clearance of Robert Oppenheimer (Cillian Murphy). The hearing's intensely claustrophobic atmosphere was achieved by filming this in the genuinely constricting confines of a real, none-too-large, office in The Alhambra, an office complex at 1000 South Fremont Avenue, Alhambra in the San Gabriel Valley, about eight miles northeast of Downtown Los Angeles.\n\nThe main focus of the film though, is on the Los Alamos complex in New Mexico, home to the Manhattan Project, to build an atomic bomb before Nazi Germany during WWII.\n\nLos Alamos, an isolated town in northern New Mexico, was virtually taken over by by the US government and developed as a highly secret ‘closed city’ to house and service the people working on the project, and accessible by only two gates.\n\nIt was finally opened up to the public in 1957. In fact, some interiors remain unchanged from the 1940s, including that of the1929 ranch-style home which was occupied by the Oppenheimers. This was used in the film but it remains a private residence and isn’t open to visitors.\n\nAnother place you can't visit is the Civilian Women’s Dormitory which housed many of the women who worked there. This was used as the lab where the progress of the amounts of uranium and plutonium processed are displayed using those glass bowls of marbles.\n\nOther places in Los Alamos, managed by the National Park Service, are available for self-guided tours.\n\nWorkers on the project arrive at Lamy Train Station, a Spanish Mission-style structure on Old Lamy Trail in Lamy, a town just south of Santa Fe. The station predates the town, being built in 1909 for the Atcheson Topeka and Santa Fe Railway – yes, that’s the one immortalised in song by Judy Garland in 1946 movie The Harvey Girls.\n\nFuller Lodge, 2132 Central Avenue, built in 1928 as the dining hall for the Los Alamos Ranch School, also predates the town. After being requisitioned in 1942, it was converted into a community centre, and that’s how it’s seen in the film. Today it functions as an arts centre.\n\nLos Alamos itself couldn't be used for exterior shots as it's been substantially redeveloped since the 1940s with more modern homes and strip malls.\n\nThis meant recreating it from scratch. The town, as it used to be, was constructed at Ghost Ranch, Abiquiu, on US84, about 40 miles north of the real thing.\n\nOnce the home of painter Georgia O'Keeffe, the Ranch is now an education and retreat centre. Its 21,000 acres were given to the Presbyterian Church in 1955 as part of a land grant called Piedra Lumbre ('Shining Rock')The dramatic name ‘Ghost Ranch’ was supposedly inspired by the numerous tales hauntings. In fact, it was once home to cattle rustlers who called it 'Ranch of the Witches' to discourage people from nosing around. The name was re-imagined, as we'd say today, by a subsequent owner.\n\nAmong other films featuring the spectacular scenery around Ghost Ranch are Steven Spielberg’s Indiana Jones and the Kingdom of the Crystal Skull; Cowboys and Aliens, with Harrison Ford; Jim Sheridan’s Brothers (2009) with Tobey Maguire and Jake Gyllenhaal; James Mangold’s 2007 remake of 3:10 to Yuma, Lawrence Kasdan’s Wyatt Earp (1994) with Kevin Costner; City Slickers, Antoine Fuqua's 2016 remake of The Magnificent Seven and others. You can take a Ghost Ranch Movie Tour.\n\nThe tower for the Trinity test of the prototype bomb was reconstructed for the film near Belen, Valencia County, south of Albuquerque in the centre of New Mexico. This is about 200 miles north of the real site – White Sands Missile Range.\n\nThe bomb (before being fully assembled) actually passed through Belen en route to the real test site. Local legend maintains that there was a brief stop here, at (the now gone) Roy's Cafe on Main Street.\n\nOne more major location featured throughout the film is another security hearing, this one to determine the suitability of Lewis Strauss (Robert Downey Jr) for the cabinet post of Commerce Secretary.\n\nAlthough this took place in ‘Washington DC’, the hearing was filmed in the Bataan Memorial Building, 400 Don Gaspar Avenue, Santa Fe which, until 1966, served as New Mexico’s State Capitol.\n\nNow to the many other secondary locations, many of which are the authentic places.\n\nFirst to the UK, and Cambridge University, where Oppenheimer proves useless in the lab and (in the movie) almost offs Nils Bohr (Kenneth Branagh) with a cyanide-laced apple.\n\nDating from the 13th century, Cambridge is the world’s third oldest university, just behind its rival, Oxford. I’m not sure laboratory interiors were filmed here but the exteriors are real enough.\n\nThe scene-setting shows picturesque Kings College overlooking the River Cam. It looks gorgeous but Oppenheimer studied at Christ’s College.\n\nStrauss first meets Oppenheimer on the campus of the Institute for Advanced Study, Princeton, New Jersey, in front of Fuld Hall, which stands on Einstein Drive. The address alerts you to the fact that, yes, Albert Einstein was here. The great scientist was never officially on the facility of Princeton but he taught and lived here for many years.\n\nThe Institute's woods and grounds, though not the buildings, are open to visitors.\n\nThe relationship between Oppenheimer and Strauss becomes edgy after Strauss excitedly introduces Oppenheimer to Einstein (Tom Conti) only to discover they’re already friends. Einstein’s apparent, though unintended, snub is the basis of Strauss’s lingering animosity.\n\nWhile in Europe, Oppenheimer meets another great physicist, Werner Heisenberg (I suppose casting Bryan Cranston would have been a distracting in-joke?) in 'Switzerland'. In reality, this is the Ebell Of Los Angeles, 4400 West Eighth Street at Lucerne Boulevard, Midtown LA.\n\nA complex, comprised of a women’s club and the Wilshire Ebell Theatre, is a frequent filming location seen in The Addams Family, Ghost, Air Force One, The Artist, Catch Me If You Can, Old School, Cruel Intentions, Darkman and Death Becomes Her. It turns up as a hospital in both Forrest Gump and The Curious Case of Benjamin Button.\n\nBack in the USA, Oppenheimer begins work alongside the more practical experimentalist Ernest Lawrence (Josh Hartnett) at the University of California, Berkeley, north of Oakland, across the Bay from San Francisco.\n\nAlthough warned not to get involved in politics, Oppenheimer does tag along with his brother Frank (Dylan Arnold) to a Communist Party meeting, unaware of what this will mean for him in the future.\n\nThe venue for the meeting is the landmark 1904 craftsman home at 327 Sierra Woods Drive in Sierra Madre, known as the Edgar W Camp House. It was designed by the famous team of Greene and Greene, who also designed the Gamble House – Doc Brown's bungalow in Back to the Future.\n\nIt’s here he fatefully learns that the most effective way to send money to help the republicans in the Spanish Civil War is via the Communist Party and also where he starts an on/off physical relationship with Jean Tatlock (Florence Pugh).\n\nWalking with Jean, Oppenheimer sees a frantic Ernest Lawrence rushing, half-shaved, out of a barber shop. Supposedly in ‘Berkeley’ they’re still in Sierra Madre, strolling past the Sierra Madre Playhouse in a charmingly unmodernised stretch of Sierra Madre Boulevard.\n\nLawrence’s apparently crazed behaviour is the result of hearing that the atom has been split – but by the Germans. The race is now on to weaponise nuclear power before the Nazi Germany.\n\nAs the team to work on “the project” is assembled, it’s back to Princeton to recruit physicist Richard Feynman (Jack Quaid).\n\nResponding to an emotional call from Jean Tatlock, Oppenheimer flies to ‘San Francisco’ to meet with her. The ‘San Francisco’ hotel is the South Galleria of the familiar Millennium Biltmore Hotel, 506 South Grand Avenue, a smart Spanish-Italian Renaissance landmark, Downtown Los Angeles.\n\nBuilt in 1923, the Biltmore has been a regular movie location over the years, from Beverly Hills Cop, The Sting and Ghostbusters to In The Line Of Fire, New York, New York, John Carpenter's They Live, Splash, Independence Day, Species and Daredevil. It hosted the Oscars, too, during the Thirties.\n\nOne studio interior is The White House’s Oval Office, where President Harry Truman (Gary Oldman) calls Oppenheimer a “cry baby”. This was meant to have been filmed in The Richard Nixon Presidential Library and Museum in Yorba Linda, California. When that became suddenly unavailable, the studio set from Armando Iannucci’s satirical TV series Veep was hurriedly brought out of storage to be reassembled and redressed at Universal Studios.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Oppenheimer film location: recreation of the original Main Gate entrance to Los Alamos: Los Alamos Main Gate, Los Alamos, New Mexico | Photograph: Michael Vi / Shutterstock",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/001.jpg",
+      "alt": "Oppenheimer film location: Los Alamos Main Gate, Los Alamos, New Mexico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover the places where Christopher Nolan's Oscar-winning Oppenheimer (2023) was filmed around the world: in New Mexico, Los Angeles, New Jersey in the USA; Cambridge in the UK and in Switzerland."
+    },
+    {
+      "type": "paragraph",
+      "text": "The complex flashback structure of Christopher Nolan’s crazily successful biopic (though that seems too small a word) would make a standard narrative account impossible so we'll just whizz through the locations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The framing device is the AEC hearing to review the security clearance of Robert Oppenheimer (Cillian Murphy). The hearing's intensely claustrophobic atmosphere was achieved by filming this in the genuinely constricting confines of a real, none-too-large, office in The Alhambra, an office complex at 1000 South Fremont Avenue, Alhambra in the San Gabriel Valley, about eight miles northeast of Downtown Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "The main focus of the film though, is on the Los Alamos complex in New Mexico, home to the Manhattan Project, to build an atomic bomb before Nazi Germany during WWII."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Alamos, an isolated town in northern New Mexico, was virtually taken over by by the US government and developed as a highly secret ‘closed city’ to house and service the people working on the project, and accessible by only two gates."
+    },
+    {
+      "type": "paragraph",
+      "text": "It was finally opened up to the public in 1957. In fact, some interiors remain unchanged from the 1940s, including that of the1929 ranch-style home which was occupied by the Oppenheimers. This was used in the film but it remains a private residence and isn’t open to visitors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another place you can't visit is the Civilian Women’s Dormitory which housed many of the women who worked there. This was used as the lab where the progress of the amounts of uranium and plutonium processed are displayed using those glass bowls of marbles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other places in Los Alamos, managed by the National Park Service, are available for self-guided tours."
+    },
+    {
+      "type": "image",
+      "caption": "Oppenheimer film location: workers arrive by train at Los Alamos: Lamy Train Station, Lamy, New Mexico | Photograph: Wikimedia / Jeffrey.b.stark",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/003.jpg",
+      "alt": "Oppenheimer film location: Lamy Train Station, Lamy, New Mexico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Workers on the project arrive at Lamy Train Station, a Spanish Mission-style structure on Old Lamy Trail in Lamy, a town just south of Santa Fe. The station predates the town, being built in 1909 for the Atcheson Topeka and Santa Fe Railway – yes, that’s the one immortalised in song by Judy Garland in 1946 movie The Harvey Girls."
+    },
+    {
+      "type": "image",
+      "caption": "Oppenheimer film location: the town's community centre: Fuller Lodge, Los Alamos, New Mexico | Photograph: Wikimedia / Bill Johnson",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/004.jpg",
+      "alt": "Oppenheimer film location: Fuller Lodge, Los Alamos, New Mexico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuller Lodge, 2132 Central Avenue, built in 1928 as the dining hall for the Los Alamos Ranch School, also predates the town. After being requisitioned in 1942, it was converted into a community centre, and that’s how it’s seen in the film. Today it functions as an arts centre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Alamos itself couldn't be used for exterior shots as it's been substantially redeveloped since the 1940s with more modern homes and strip malls."
+    },
+    {
+      "type": "paragraph",
+      "text": "This meant recreating it from scratch. The town, as it used to be, was constructed at Ghost Ranch, Abiquiu, on US84, about 40 miles north of the real thing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the home of painter Georgia O'Keeffe, the Ranch is now an education and retreat centre. Its 21,000 acres were given to the Presbyterian Church in 1955 as part of a land grant called Piedra Lumbre ('Shining Rock')The dramatic name ‘Ghost Ranch’ was supposedly inspired by the numerous tales hauntings. In fact, it was once home to cattle rustlers who called it 'Ranch of the Witches' to discourage people from nosing around. The name was re-imagined, as we'd say today, by a subsequent owner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among other films featuring the spectacular scenery around Ghost Ranch are Steven Spielberg’s Indiana Jones and the Kingdom of the Crystal Skull; Cowboys and Aliens, with Harrison Ford; Jim Sheridan’s Brothers (2009) with Tobey Maguire and Jake Gyllenhaal; James Mangold’s 2007 remake of 3:10 to Yuma, Lawrence Kasdan’s Wyatt Earp (1994) with Kevin Costner; City Slickers, Antoine Fuqua's 2016 remake of The Magnificent Seven and others. You can take a Ghost Ranch Movie Tour."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tower for the Trinity test of the prototype bomb was reconstructed for the film near Belen, Valencia County, south of Albuquerque in the centre of New Mexico. This is about 200 miles north of the real site – White Sands Missile Range."
+    },
+    {
+      "type": "paragraph",
+      "text": "The bomb (before being fully assembled) actually passed through Belen en route to the real test site. Local legend maintains that there was a brief stop here, at (the now gone) Roy's Cafe on Main Street."
+    },
+    {
+      "type": "paragraph",
+      "text": "One more major location featured throughout the film is another security hearing, this one to determine the suitability of Lewis Strauss (Robert Downey Jr) for the cabinet post of Commerce Secretary."
+    },
+    {
+      "type": "image",
+      "caption": "Oppenheimer film location: the 'DC' hearing for Lewis Strauss: Bataan Memorial Building, Santa Fe, New Mexico | Photograph: tishomir / Shutterstock",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/005.jpg",
+      "alt": "Oppenheimer film location: Bataan Memorial Building, Santa Fe, New Mexico"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although this took place in ‘Washington DC’, the hearing was filmed in the Bataan Memorial Building, 400 Don Gaspar Avenue, Santa Fe which, until 1966, served as New Mexico’s State Capitol."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now to the many other secondary locations, many of which are the authentic places."
+    },
+    {
+      "type": "image",
+      "caption": "Oppenheimer film location: Oppenheimer studies in the UK: Cambridge University, Cambridgeshire | Photograph: Pajor Pawel / Shutterstock",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/006.jpg",
+      "alt": "Oppenheimer film location: Cambridge University, Cambridgeshire"
+    },
+    {
+      "type": "paragraph",
+      "text": "First to the UK, and Cambridge University, where Oppenheimer proves useless in the lab and (in the movie) almost offs Nils Bohr (Kenneth Branagh) with a cyanide-laced apple."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dating from the 13th century, Cambridge is the world’s third oldest university, just behind its rival, Oxford. I’m not sure laboratory interiors were filmed here but the exteriors are real enough."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scene-setting shows picturesque Kings College overlooking the River Cam. It looks gorgeous but Oppenheimer studied at Christ’s College."
+    },
+    {
+      "type": "paragraph",
+      "text": "Strauss first meets Oppenheimer on the campus of the Institute for Advanced Study, Princeton, New Jersey, in front of Fuld Hall, which stands on Einstein Drive. The address alerts you to the fact that, yes, Albert Einstein was here. The great scientist was never officially on the facility of Princeton but he taught and lived here for many years."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Institute's woods and grounds, though not the buildings, are open to visitors."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relationship between Oppenheimer and Strauss becomes edgy after Strauss excitedly introduces Oppenheimer to Einstein (Tom Conti) only to discover they’re already friends. Einstein’s apparent, though unintended, snub is the basis of Strauss’s lingering animosity."
+    },
+    {
+      "type": "image",
+      "caption": "Oppenheimer film location: Oppenheimer meets Heisenberg in 'Switzerland': Ebell of Los Angeles, off Wilshire Boulevard, midtown Los Angeles",
+      "src": "_assets/tt15398776%20-%20Oppenheimer/007.jpg",
+      "alt": "Oppenheimer film location: The Ebell of Los Angeles, off Wilshire Boulevard, midtown Los Angeles"
+    },
+    {
+      "type": "paragraph",
+      "text": "While in Europe, Oppenheimer meets another great physicist, Werner Heisenberg (I suppose casting Bryan Cranston would have been a distracting in-joke?) in 'Switzerland'. In reality, this is the Ebell Of Los Angeles, 4400 West Eighth Street at Lucerne Boulevard, Midtown LA."
+    },
+    {
+      "type": "paragraph",
+      "text": "A complex, comprised of a women’s club and the Wilshire Ebell Theatre, is a frequent filming location seen in The Addams Family, Ghost, Air Force One, The Artist, Catch Me If You Can, Old School, Cruel Intentions, Darkman and Death Becomes Her. It turns up as a hospital in both Forrest Gump and The Curious Case of Benjamin Button."
+    },
+    {
+      "type": "paragraph",
+      "text": "Back in the USA, Oppenheimer begins work alongside the more practical experimentalist Ernest Lawrence (Josh Hartnett) at the University of California, Berkeley, north of Oakland, across the Bay from San Francisco."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although warned not to get involved in politics, Oppenheimer does tag along with his brother Frank (Dylan Arnold) to a Communist Party meeting, unaware of what this will mean for him in the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "The venue for the meeting is the landmark 1904 craftsman home at 327 Sierra Woods Drive in Sierra Madre, known as the Edgar W Camp House. It was designed by the famous team of Greene and Greene, who also designed the Gamble House – Doc Brown's bungalow in Back to the Future."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s here he fatefully learns that the most effective way to send money to help the republicans in the Spanish Civil War is via the Communist Party and also where he starts an on/off physical relationship with Jean Tatlock (Florence Pugh)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Walking with Jean, Oppenheimer sees a frantic Ernest Lawrence rushing, half-shaved, out of a barber shop. Supposedly in ‘Berkeley’ they’re still in Sierra Madre, strolling past the Sierra Madre Playhouse in a charmingly unmodernised stretch of Sierra Madre Boulevard."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lawrence’s apparently crazed behaviour is the result of hearing that the atom has been split – but by the Germans. The race is now on to weaponise nuclear power before the Nazi Germany."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the team to work on “the project” is assembled, it’s back to Princeton to recruit physicist Richard Feynman (Jack Quaid)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Responding to an emotional call from Jean Tatlock, Oppenheimer flies to ‘San Francisco’ to meet with her. The ‘San Francisco’ hotel is the South Galleria of the familiar Millennium Biltmore Hotel, 506 South Grand Avenue, a smart Spanish-Italian Renaissance landmark, Downtown Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Built in 1923, the Biltmore has been a regular movie location over the years, from Beverly Hills Cop, The Sting and Ghostbusters to In The Line Of Fire, New York, New York, John Carpenter's They Live, Splash, Independence Day, Species and Daredevil. It hosted the Oscars, too, during the Thirties."
+    },
+    {
+      "type": "paragraph",
+      "text": "One studio interior is The White House’s Oval Office, where President Harry Truman (Gary Oldman) calls Oppenheimer a “cry baby”. This was meant to have been filmed in The Richard Nixon Presidential Library and Museum in Yorba Linda, California. When that became suddenly unavailable, the studio set from Armando Iannucci’s satirical TV series Veep was hurriedly brought out of storage to be reassembled and redressed at Universal Studios."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New Mexico</h3>\n<p>Visit: New Mexico</p>\n<p>Visit: Los Alamos</p>\n<p>Visit LOS ALAMOS SITES: National Park Service</p>\n<p>Visit: Lamy Train Station</p>\n<p>Visit: Abiquiu</p>\n<p>Visit: Ghost Ranch, Abiquiu</p>\n<p>TAKE THE: Ghost Ranch Movie Tour</p>\n<p>Visit: Santa Fe</p>\n</section>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n<p>Stay at: the Millennium Biltmore Hotel, 506 South Grand Avenue, Los Angeles, CA 90071 (tel: 213.624.1011)</p>\n<p>VISIT: the Ebell Of Los Angeles, 743 South Lucerne Boulevard, Los Angeles, CA 90005 (tel: 323.931.1277)</p>\n</section>\n<section><h3>New Jersey</h3>\n<p>Visit: New Jersey</p>\n<p>Visit: Princeton</p>\n<p>Visit: the Institute for Advanced Study, Princeton</p>\n</section>\n<section><h3>UK | Cambridgeshire</h3>\n<p>Visit: Cambridgeshire</p>\n<p>Visit: Cambridge (rail: King's Cross Station, London)</p>\n<p>Visit: Cambridge University</p>\n</section>\n<section><h3>Switzerland</h3>\n<p>Visit: Switzerland</p>\n</section>",
+  "visit_info_text": "New Mexico\nVisit: New Mexico\nVisit: Los Alamos\nVisit LOS ALAMOS SITES: National Park Service\nVisit: Lamy Train Station\nVisit: Abiquiu\nVisit: Ghost Ranch, Abiquiu\nTAKE THE: Ghost Ranch Movie Tour\nVisit: Santa Fe\nCalifornia | Los Angeles\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nStay at: the Millennium Biltmore Hotel, 506 South Grand Avenue, Los Angeles, CA 90071 (tel: 213.624.1011)\nVISIT: the Ebell Of Los Angeles, 743 South Lucerne Boulevard, Los Angeles, CA 90005 (tel: 323.931.1277)\nNew Jersey\nVisit: New Jersey\nVisit: Princeton\nVisit: the Institute for Advanced Study, Princeton\nUK | Cambridgeshire\nVisit: Cambridgeshire\nVisit: Cambridge (rail: King's Cross Station, London)\nVisit: Cambridge University\nSwitzerland\nVisit: Switzerland",
+  "visit_sections": [
+    {
+      "title": "New Mexico",
+      "items": [
+        "Visit: New Mexico",
+        "Visit: Los Alamos",
+        "Visit LOS ALAMOS SITES: National Park Service",
+        "Visit: Lamy Train Station",
+        "Visit: Abiquiu",
+        "Visit: Ghost Ranch, Abiquiu",
+        "TAKE THE: Ghost Ranch Movie Tour",
+        "Visit: Santa Fe"
+      ]
+    },
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro",
+        "Stay at: the Millennium Biltmore Hotel, 506 South Grand Avenue, Los Angeles, CA 90071 (tel: 213.624.1011)",
+        "VISIT: the Ebell Of Los Angeles, 743 South Lucerne Boulevard, Los Angeles, CA 90005 (tel: 323.931.1277)"
+      ]
+    },
+    {
+      "title": "New Jersey",
+      "items": [
+        "Visit: New Jersey",
+        "Visit: Princeton",
+        "Visit: the Institute for Advanced Study, Princeton"
+      ]
+    },
+    {
+      "title": "UK | Cambridgeshire",
+      "items": [
+        "Visit: Cambridgeshire",
+        "Visit: Cambridge (rail: King's Cross Station, London)",
+        "Visit: Cambridge University"
+      ]
+    },
+    {
+      "title": "Switzerland",
+      "items": [
+        "Visit: Switzerland"
+      ]
+    }
+  ]
+}

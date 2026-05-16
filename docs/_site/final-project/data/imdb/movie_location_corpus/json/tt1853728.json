@@ -1,0 +1,248 @@
+{
+  "imdb_id": "tt1853728",
+  "shorthand": "Django-Unchained",
+  "title": "Django Unchained",
+  "year": 2013,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt1853728 - Django-Unchained.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt1853728 - Django-Unchained.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt1853728.json",
+  "source_url": "http://www.movie-locations.com/movies/d/Django-Unchained.php",
+  "page_title": "Django Unchained | Film Locations",
+  "meta_description": "Django Unchained film locations, in Louisiana, California and Wyoming.",
+  "meta_keywords": "Django Unchained film locations guide, filming locations, movie locations,travel, tourism, set-jetting, california, lone pine, jackson hole wyoming, new orleans, evergreen plantation, candyland, quentin tarantino, samuel l jackson, jamie foxx, leonardo di caprio",
+  "og_title": "Film Locations for Tarantino's Django Unchained (2013), in Louisiana, California and Wyoming.",
+  "og_description": "Film locations for Django Unchained (2013), in Louisiana, California and Wyoming.",
+  "og_image": "http://www.movie-locations.com/movies/d/Django-Unchained-Evergreen-Plantation-House.jpg",
+  "top250_rank": "46",
+  "movie_locations_title": "DJANGO UNCHAINED",
+  "movie_locations_regions": "California; Louisiana; Wyoming",
+  "director": "Quentin Tarantino",
+  "cast": [
+    "Jamie Foxx",
+    "Christoph Waltz",
+    "Leonardo Di Caprio",
+    "Samuel L Jackson",
+    "Kerry Washington",
+    "Don Johnson",
+    "Walton Goggins",
+    "Dennis Christopher",
+    "Franco Nero",
+    "Bruce Dern",
+    "James Remar",
+    "Don Stroud",
+    "Michael Parks",
+    "James Russo",
+    "Zoe Bell",
+    "Jonah Hill",
+    "Amber Tamblyn",
+    "Russ Tamblyn",
+    "Marcus Henderson",
+    "Tom Savini"
+  ],
+  "locations": [
+    "California; Louisiana; Wyoming"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt1853728%20-%20Django-Unchained/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1853728 - Django-Unchained/002.jpg",
+    "exists": true,
+    "alt": "Django Unchained poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1853728/poster.jpg",
+    "corpus_asset_src": "../assets/tt1853728/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt1853728%20-%20Django-Unchained/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1853728 - Django-Unchained/001.jpg",
+    "exists": true,
+    "alt": "Django Unchained film location: Evergreen Plantation, Edgard, Louisiana",
+    "caption": "Django Unchained film location: ‘Bennett Manor’, home of slave master Big Daddy: Evergreen Plantation, Edgard, Louisiana | Photograph: Shutterstock / Roberto Michel",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1853728/001.jpg",
+    "corpus_asset_src": "../assets/tt1853728/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt1853728%20-%20Django-Unchained/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1853728 - Django-Unchained/001.jpg",
+      "exists": true,
+      "alt": "Django Unchained film location: Evergreen Plantation, Edgard, Louisiana",
+      "caption": "Django Unchained film location: ‘Bennett Manor’, home of slave master Big Daddy: Evergreen Plantation, Edgard, Louisiana | Photograph: Shutterstock / Roberto Michel",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1853728/001.jpg",
+      "corpus_asset_src": "../assets/tt1853728/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1853728%20-%20Django-Unchained/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1853728 - Django-Unchained/002.jpg",
+      "exists": true,
+      "alt": "Django Unchained poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1853728/002.jpg",
+      "corpus_asset_src": "../assets/tt1853728/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1853728%20-%20Django-Unchained/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1853728 - Django-Unchained/003.jpg",
+      "exists": true,
+      "alt": "Django Unchained film location: Alabama Hills, Lone Pine, California",
+      "caption": "Django Unchained film location: Django and the slaves are led through the wilderness: Alabama Hills, Lone Pine, California",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1853728/003.jpg",
+      "corpus_asset_src": "../assets/tt1853728/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt1853728%20-%20Django-Unchained/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt1853728 - Django-Unchained/004.jpg",
+      "exists": true,
+      "alt": "Django Unchained film location: Kelly Warm Springs, Grand Teton National Park, Wyoming",
+      "caption": "Django Unchained film location: Django dreams of Broomhilda: Kelly Warm Springs, Grand Teton National Park, Wyoming | Photograph: Shutterstock / Adam Reck",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt1853728/004.jpg",
+      "corpus_asset_src": "../assets/tt1853728/004.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt1853728/001.jpg\" alt=\"Django Unchained film location: Evergreen Plantation, Edgard, Louisiana\"><figcaption>Django Unchained film location: ‘Bennett Manor’, home of slave master Big Daddy: Evergreen Plantation, Edgard, Louisiana | Photograph: Shutterstock / Roberto Michel</figcaption></figure>\n<p>The locations for <span class=\"name\">Django Unchained</span>, <a href=\"https://www.movie-locations.com/people/t/tarantinoq.php\">Quentin Tarantino</a>’s gleefully provocative blending of ugly history and Spaghetti homage range over three states – though not Texas, where the opening scenes appear to be set. </p>\n<p>The introduction of slaves being led through a rocky wilderness uses the irresistibly photogenic formations of the <span class=\"name\">Alabama Hills</span> at <span class=\"name\">Lone Pine</span> in <span class=\"name\">Central</span> <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1853728/003.jpg\" alt=\"Django Unchained film location: Alabama Hills, Lone Pine, California\"><figcaption>Django Unchained film location: Django and the slaves are led through the wilderness: Alabama Hills, Lone Pine, California</figcaption></figure>\n<p><span class=\"name\">Lone Pine</span> is a tiny town on <span class=\"name\">I-395</span>, between Ridgecrest and Bishop. From its <span class=\"name\">Main Street</span>,  take the <span class=\"name\">Whitney Portal Road</span> west. When you get to <span class=\"name\">Movie Road</span>, you know you’ve found the right area.</p>\n<p>Overlooked by the jagged, snow-capped <span class=\"name\">Sierra Nevada</span> range, capped by <span class=\"name\">Mount Whitney</span> – the highest point in the USA outside Alaska – the <span class=\"name\">Alabama Hills</span> have been the backdrop to hundreds of films, including <a href=\"https://www.movie-locations.com/movies/i/Iron-Man.php\">Iron Man</a>, <a href=\"https://www.movie-locations.com/movies/b/Bad-Day-At-Black-Rock.php\">Bad Day At Black Rock</a>, <a href=\"https://www.movie-locations.com/movies/k/King-Of-The-Khyber-Rifles.php\">King Of The Khyber Rifles</a> and <span class=\"name\">High Sierra</span>.</p>\n<p>There’s an annual <a href=\"http://www.lonepinefilmfestival.org/\" target=\"_blank\">Lone Pine Film Festival</a> in October, celebrating the area’s cinematic history.</p>\n<p>Forget the ‘Somewhere in Texas’ subtitle. The first meeting of Django (<a href=\"https://www.movie-locations.com/people/f/foxxj.php\">Jamie Foxx</a>) and Dr Schultz (<a href=\"https://www.movie-locations.com/people/w/waltzc.php\">Christoph Waltz</a>)  was filmed in the  woods of <span class=\"name\">Independence</span>, on <span class=\"name\">I-395</span> about 15 miles north of <span class=\"name\">Lone Pine</span>. </p>\n<p>The town of ‘Daughtrey, Texas’, where the pair “start trouble” – by riding down the Main Street – is the <a href=\"http://www.melodyranchstudio.com/\" target=\"blank\">Melody Ranch</a>, <span class=\"name\">24715 Oak Creek</span>, <span class=\"name\">Newhall</span> near Santa Clarita, a few miles north of <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>Opened by Monogram Pictures in 1915, the ranch was used as the setting for countless Westerns, including most of <a href=\"https://www.movie-locations.com/people/w/waynej.php\">John Wayne</a>’s Lone Star Monogram titles, as well as early Republic Pictures, such as <span class=\"name\">Tumbling Tumbleweeds</span>, with Singing Cowboy <span class=\"name\">Gene Autry</span>. In 1952, <span class=\"name\">Autry</span> went on to buy the studio. Television programs filmed at <a href=\"http://www.melodyranchstudio.com/\" target=\"blank\">Melody Ranch</a> include favourites <span class=\"ital\">Hopalong Cassidy</span>, <span class=\"ital\">Wild Bill Hickok</span>, <span class=\"ital\">Wyatt Earp</span>, <span class=\"ital\">Cisco Kid</span>, and the classic, <span class=\"ital\">Gunsmoke</span>.</p>\n<p>Although the lot was virtually destroyed by a catastrophic fire in 1962, it’s since been painstakingly rebuilt. Did you  recognise the main street as <span class=\"ital\">Deadwood</span>, from the TV series? The really great news is that you can visit the studio, and its museum of film and TV memorabilia, on a <a href=\"http://www.melodyranchstudio.com/museum.php\" target=\"blank\">VIP Tour</a>. </p>\n<p>The gathering of Pythonesque racist bag-heads, as they plan to raid Schultz’s wagon, was filmed at another famous ranch, the  <a href=\"http://www.bigskymovieranch.com/\" target=\"blank\">Big Sky Movie Ranch</a>, <span class=\"name\">4927 Bennett Road</span> in <span class=\"name\">Simi Valley</span>, a little closer to <a href=\"https://www.movie-locations.com/places/usa/la.php\">Los Angeles</a>.</p>\n<p>The wintery journey of Django and Schultz was scheduled to be filmed in the peaks around Mammoth, <a href=\"https://www.movie-locations.com/places/usa/california.php\">California</a> but, as seems inevitable for any movie production relying on weather, there wasn’t enough snow. </p>\n<figure class=\"mainpic\"><img src=\"../assets/tt1853728/004.jpg\" alt=\"Django Unchained film location: Kelly Warm Springs, Grand Teton National Park, Wyoming\"><figcaption>Django Unchained film location: Django dreams of Broomhilda: Kelly Warm Springs, Grand Teton National Park, Wyoming | Photograph: Shutterstock / Adam Reck</figcaption></figure>\n<p>The sets were disassembled and shipped  north to <a href=\"http://www.jacksonhole.com/\" target=\"blank\">Jackson Hole</a> in <a href=\"https://www.movie-locations.com/places/usa/wyoming.php\">Wyoming</a>, near the <a href=\"https://www.movie-locations.com/places/usa/idaho.php\">Idaho</a> border,  with the <span class=\"name\">Grand Tetons</span> providing a dependably wintery alternative to the High Sierras. The scenes were shot in <a href=\"http://www.nps.gov/grte/\" target=\"blank\">Grand Teton National Park</a>, around <span class=\"name\">Antelope Flats</span> and the <span class=\"name\">Kelly</span> area, including <span class=\"name\">Kelly Warm Springs</span>, in which Django dreams of his wife Broomhilda (<a href=\"https://www.movie-locations.com/people/w/washingtonk.php\">Kerry Washington</a>) as he bathes.  The elk herds were filmed at their northern feeding grounds next to the <a href=\"http://www.fws.gov/nationalelkrefuge/\" target=\"blank\">National Elk Refuge</a>.</p>\n<p>The <a href=\"http://www.fws.gov/nationalelkrefuge/\" target=\"blank\">Refuge</a>, established way back in 1912 to provide and preserve the winter habitat for the  Jackson Elk Herd, is six miles wide at its widest point and ten miles long. Each winter, it's home to around 7,500 elk, one of the largest herds in the world.</p>\n<p>The area aound <span class=\"name\">Kelly</span> was famously used by <a href=\"https://www.movie-locations.com/people/s/stevensg.php\">George Stevens</a> as the magnificent backdrop to 1953 classic <a href=\"https://www.movie-locations.com/movies/s/Shane.php\">Shane.</a></p>\n<p>It’s off to <a href=\"https://www.movie-locations.com/places/usa/louisiana.php\">Louisiana</a> for most of the rest of the film. ‘Bennett Manor’, the elegant home of slave master Big Daddy (<a href=\"https://www.movie-locations.com/people/j/johnsond.php\">Don Johnson</a>), where Django and Schultz attempt to ingratiate themselves in order to get to the sadistic Brittle brothers, is supposedly  ‘Gatlinburg’, which is in the mountains of eastern Tennessee.      </p>\n<p>In fact, the house is at the <a href=\"http://evergreenplantation.org/\" target=\"blank\">Evergreen Plantation</a>, <span class=\"name\">4677 Hwy 18</span>, in <span class=\"name\">Edgard</span>, on the west bank of the Mississippi River, between New Orleans and Baton Rouge. The plantation is a  working sugar cane plantation, so there is no cotton. Fava bean plants were grown and individually dressed with heads of cotton. </p>\n<p>With no fewer than 37 of its buildings listed on the National Register of Historic Places, <a href=\"http://evergreenplantation.org/\" target=\"blank\">Evergreen</a> is the most intact plantation complex in the South – and the film’s scenes of slavery were filmed at the plantation’s existing slave quarters. </p>\n<p>The ‘Candyland’ home of monstrous Calvin Candie (<a href=\"https://www.movie-locations.com/people/d/dicapriol.php\">Leonardo Di Caprio</a>), as you might guess from the way it’s used, was specially built for the movie. The exterior was erected overlooking the sugar cane fields at <a href=\"http://evergreenplantation.org/\" target=\"blank\">Evergreen</a>. The  interior was constructed on a stage at <span class=\"name\">Second Line Stages</span> studio in <span class=\"name\">New Orleans</span>.</p>",
+  "main_content_text": "The locations for Django Unchained, Quentin Tarantino’s gleefully provocative blending of ugly history and Spaghetti homage range over three states – though not Texas, where the opening scenes appear to be set.\n\nThe introduction of slaves being led through a rocky wilderness uses the irresistibly photogenic formations of the Alabama Hills at Lone Pine in Central California.\n\nLone Pine is a tiny town on I-395, between Ridgecrest and Bishop. From its Main Street, take the Whitney Portal Road west. When you get to Movie Road, you know you’ve found the right area.\n\nOverlooked by the jagged, snow-capped Sierra Nevada range, capped by Mount Whitney – the highest point in the USA outside Alaska – the Alabama Hills have been the backdrop to hundreds of films, including Iron Man, Bad Day At Black Rock, King Of The Khyber Rifles and High Sierra.\n\nThere’s an annual Lone Pine Film Festival in October, celebrating the area’s cinematic history.\n\nForget the ‘Somewhere in Texas’ subtitle. The first meeting of Django (Jamie Foxx) and Dr Schultz (Christoph Waltz) was filmed in the woods of Independence, on I-395 about 15 miles north of Lone Pine.\n\nThe town of ‘Daughtrey, Texas’, where the pair “start trouble” – by riding down the Main Street – is the Melody Ranch, 24715 Oak Creek, Newhall near Santa Clarita, a few miles north of Los Angeles.\n\nOpened by Monogram Pictures in 1915, the ranch was used as the setting for countless Westerns, including most of John Wayne’s Lone Star Monogram titles, as well as early Republic Pictures, such as Tumbling Tumbleweeds, with Singing Cowboy Gene Autry. In 1952, Autry went on to buy the studio. Television programs filmed at Melody Ranch include favourites Hopalong Cassidy, Wild Bill Hickok, Wyatt Earp, Cisco Kid, and the classic, Gunsmoke.\n\nAlthough the lot was virtually destroyed by a catastrophic fire in 1962, it’s since been painstakingly rebuilt. Did you recognise the main street as Deadwood, from the TV series? The really great news is that you can visit the studio, and its museum of film and TV memorabilia, on a VIP Tour.\n\nThe gathering of Pythonesque racist bag-heads, as they plan to raid Schultz’s wagon, was filmed at another famous ranch, the Big Sky Movie Ranch, 4927 Bennett Road in Simi Valley, a little closer to Los Angeles.\n\nThe wintery journey of Django and Schultz was scheduled to be filmed in the peaks around Mammoth, California but, as seems inevitable for any movie production relying on weather, there wasn’t enough snow.\n\nThe sets were disassembled and shipped north to Jackson Hole in Wyoming, near the Idaho border, with the Grand Tetons providing a dependably wintery alternative to the High Sierras. The scenes were shot in Grand Teton National Park, around Antelope Flats and the Kelly area, including Kelly Warm Springs, in which Django dreams of his wife Broomhilda (Kerry Washington) as he bathes. The elk herds were filmed at their northern feeding grounds next to the National Elk Refuge.\n\nThe Refuge, established way back in 1912 to provide and preserve the winter habitat for the Jackson Elk Herd, is six miles wide at its widest point and ten miles long. Each winter, it's home to around 7,500 elk, one of the largest herds in the world.\n\nThe area aound Kelly was famously used by George Stevens as the magnificent backdrop to 1953 classic Shane.\n\nIt’s off to Louisiana for most of the rest of the film. ‘Bennett Manor’, the elegant home of slave master Big Daddy (Don Johnson), where Django and Schultz attempt to ingratiate themselves in order to get to the sadistic Brittle brothers, is supposedly ‘Gatlinburg’, which is in the mountains of eastern Tennessee.\n\nIn fact, the house is at the Evergreen Plantation, 4677 Hwy 18, in Edgard, on the west bank of the Mississippi River, between New Orleans and Baton Rouge. The plantation is a working sugar cane plantation, so there is no cotton. Fava bean plants were grown and individually dressed with heads of cotton.\n\nWith no fewer than 37 of its buildings listed on the National Register of Historic Places, Evergreen is the most intact plantation complex in the South – and the film’s scenes of slavery were filmed at the plantation’s existing slave quarters.\n\nThe ‘Candyland’ home of monstrous Calvin Candie (Leonardo Di Caprio), as you might guess from the way it’s used, was specially built for the movie. The exterior was erected overlooking the sugar cane fields at Evergreen. The interior was constructed on a stage at Second Line Stages studio in New Orleans.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Django Unchained film location: ‘Bennett Manor’, home of slave master Big Daddy: Evergreen Plantation, Edgard, Louisiana | Photograph: Shutterstock / Roberto Michel",
+      "src": "_assets/tt1853728%20-%20Django-Unchained/001.jpg",
+      "alt": "Django Unchained film location: Evergreen Plantation, Edgard, Louisiana"
+    },
+    {
+      "type": "paragraph",
+      "text": "The locations for Django Unchained, Quentin Tarantino’s gleefully provocative blending of ugly history and Spaghetti homage range over three states – though not Texas, where the opening scenes appear to be set."
+    },
+    {
+      "type": "paragraph",
+      "text": "The introduction of slaves being led through a rocky wilderness uses the irresistibly photogenic formations of the Alabama Hills at Lone Pine in Central California."
+    },
+    {
+      "type": "image",
+      "caption": "Django Unchained film location: Django and the slaves are led through the wilderness: Alabama Hills, Lone Pine, California",
+      "src": "_assets/tt1853728%20-%20Django-Unchained/003.jpg",
+      "alt": "Django Unchained film location: Alabama Hills, Lone Pine, California"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lone Pine is a tiny town on I-395, between Ridgecrest and Bishop. From its Main Street, take the Whitney Portal Road west. When you get to Movie Road, you know you’ve found the right area."
+    },
+    {
+      "type": "paragraph",
+      "text": "Overlooked by the jagged, snow-capped Sierra Nevada range, capped by Mount Whitney – the highest point in the USA outside Alaska – the Alabama Hills have been the backdrop to hundreds of films, including Iron Man, Bad Day At Black Rock, King Of The Khyber Rifles and High Sierra."
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s an annual Lone Pine Film Festival in October, celebrating the area’s cinematic history."
+    },
+    {
+      "type": "paragraph",
+      "text": "Forget the ‘Somewhere in Texas’ subtitle. The first meeting of Django (Jamie Foxx) and Dr Schultz (Christoph Waltz) was filmed in the woods of Independence, on I-395 about 15 miles north of Lone Pine."
+    },
+    {
+      "type": "paragraph",
+      "text": "The town of ‘Daughtrey, Texas’, where the pair “start trouble” – by riding down the Main Street – is the Melody Ranch, 24715 Oak Creek, Newhall near Santa Clarita, a few miles north of Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opened by Monogram Pictures in 1915, the ranch was used as the setting for countless Westerns, including most of John Wayne’s Lone Star Monogram titles, as well as early Republic Pictures, such as Tumbling Tumbleweeds, with Singing Cowboy Gene Autry. In 1952, Autry went on to buy the studio. Television programs filmed at Melody Ranch include favourites Hopalong Cassidy, Wild Bill Hickok, Wyatt Earp, Cisco Kid, and the classic, Gunsmoke."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the lot was virtually destroyed by a catastrophic fire in 1962, it’s since been painstakingly rebuilt. Did you recognise the main street as Deadwood, from the TV series? The really great news is that you can visit the studio, and its museum of film and TV memorabilia, on a VIP Tour."
+    },
+    {
+      "type": "paragraph",
+      "text": "The gathering of Pythonesque racist bag-heads, as they plan to raid Schultz’s wagon, was filmed at another famous ranch, the Big Sky Movie Ranch, 4927 Bennett Road in Simi Valley, a little closer to Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "The wintery journey of Django and Schultz was scheduled to be filmed in the peaks around Mammoth, California but, as seems inevitable for any movie production relying on weather, there wasn’t enough snow."
+    },
+    {
+      "type": "image",
+      "caption": "Django Unchained film location: Django dreams of Broomhilda: Kelly Warm Springs, Grand Teton National Park, Wyoming | Photograph: Shutterstock / Adam Reck",
+      "src": "_assets/tt1853728%20-%20Django-Unchained/004.jpg",
+      "alt": "Django Unchained film location: Kelly Warm Springs, Grand Teton National Park, Wyoming"
+    },
+    {
+      "type": "paragraph",
+      "text": "The sets were disassembled and shipped north to Jackson Hole in Wyoming, near the Idaho border, with the Grand Tetons providing a dependably wintery alternative to the High Sierras. The scenes were shot in Grand Teton National Park, around Antelope Flats and the Kelly area, including Kelly Warm Springs, in which Django dreams of his wife Broomhilda (Kerry Washington) as he bathes. The elk herds were filmed at their northern feeding grounds next to the National Elk Refuge."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Refuge, established way back in 1912 to provide and preserve the winter habitat for the Jackson Elk Herd, is six miles wide at its widest point and ten miles long. Each winter, it's home to around 7,500 elk, one of the largest herds in the world."
+    },
+    {
+      "type": "paragraph",
+      "text": "The area aound Kelly was famously used by George Stevens as the magnificent backdrop to 1953 classic Shane."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s off to Louisiana for most of the rest of the film. ‘Bennett Manor’, the elegant home of slave master Big Daddy (Don Johnson), where Django and Schultz attempt to ingratiate themselves in order to get to the sadistic Brittle brothers, is supposedly ‘Gatlinburg’, which is in the mountains of eastern Tennessee."
+    },
+    {
+      "type": "paragraph",
+      "text": "In fact, the house is at the Evergreen Plantation, 4677 Hwy 18, in Edgard, on the west bank of the Mississippi River, between New Orleans and Baton Rouge. The plantation is a working sugar cane plantation, so there is no cotton. Fava bean plants were grown and individually dressed with heads of cotton."
+    },
+    {
+      "type": "paragraph",
+      "text": "With no fewer than 37 of its buildings listed on the National Register of Historic Places, Evergreen is the most intact plantation complex in the South – and the film’s scenes of slavery were filmed at the plantation’s existing slave quarters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Candyland’ home of monstrous Calvin Candie (Leonardo Di Caprio), as you might guess from the way it’s used, was specially built for the movie. The exterior was erected overlooking the sugar cane fields at Evergreen. The interior was constructed on a stage at Second Line Stages studio in New Orleans."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>California | Los Angeles</h3>\n<p>Visit: California</p>\n<p>Visit: Lone Pine, US Route 395</p>\n<p>Visit: the Lone Pine Film Festival</p>\n<p>Visit: the Melody Ranch, 24715 Oak Creek, Newhall, CA 91321 (tel: 661.259.9669)</p>\n<p>Visit: Los Angeles</p>\n<p>Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)</p>\n<p>Travelling around: Los Angeles Metro</p>\n</section>\n<section><h3>Louisiana</h3>\n<p>Visit: Louisiana</p>\n<p>Visit: New Orleans</p>\n<p>Flights: Louis Armstrong International Airport, 900 Airline Drive, Kenner, LA 70062 (tel: 504.464.0831)</p>\n<p>Visit: the Evergreen Plantation, 4677 Hwy 18, Edgard, LA 70049 (tel: 985.497.3837)</p>\n</section>\n<section><h3>Wyoming</h3>\n<p>Visit: Wyoming</p>\n<p>Visit: Jackson Hole</p>\n<p>Flights: Jackson Hole Airport, 1250 East Airport Road, Jackson, WY 83001 (tel: 307.733.7682)</p>\n<p>Visit: Grand Teton National Park (tel: 307.739.3300)</p>\n<p>Visit: the National Elk Refuge, 675 East Broadway, Jackson, WY 83001 (tel: 307.733.9212)</p>\n</section>",
+  "visit_info_text": "California | Los Angeles\nVisit: California\nVisit: Lone Pine, US Route 395\nVisit: the Lone Pine Film Festival\nVisit: the Melody Ranch, 24715 Oak Creek, Newhall, CA 91321 (tel: 661.259.9669)\nVisit: Los Angeles\nFlights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)\nTravelling around: Los Angeles Metro\nLouisiana\nVisit: Louisiana\nVisit: New Orleans\nFlights: Louis Armstrong International Airport, 900 Airline Drive, Kenner, LA 70062 (tel: 504.464.0831)\nVisit: the Evergreen Plantation, 4677 Hwy 18, Edgard, LA 70049 (tel: 985.497.3837)\nWyoming\nVisit: Wyoming\nVisit: Jackson Hole\nFlights: Jackson Hole Airport, 1250 East Airport Road, Jackson, WY 83001 (tel: 307.733.7682)\nVisit: Grand Teton National Park (tel: 307.739.3300)\nVisit: the National Elk Refuge, 675 East Broadway, Jackson, WY 83001 (tel: 307.733.9212)",
+  "visit_sections": [
+    {
+      "title": "California | Los Angeles",
+      "items": [
+        "Visit: California",
+        "Visit: Lone Pine, US Route 395",
+        "Visit: the Lone Pine Film Festival",
+        "Visit: the Melody Ranch, 24715 Oak Creek, Newhall, CA 91321 (tel: 661.259.9669)",
+        "Visit: Los Angeles",
+        "Flights: Los Angeles International Airport (LAX), 1 World Way, Los Angeles, CA 90045 (tel: 424.646.5252)",
+        "Travelling around: Los Angeles Metro"
+      ]
+    },
+    {
+      "title": "Louisiana",
+      "items": [
+        "Visit: Louisiana",
+        "Visit: New Orleans",
+        "Flights: Louis Armstrong International Airport, 900 Airline Drive, Kenner, LA 70062 (tel: 504.464.0831)",
+        "Visit: the Evergreen Plantation, 4677 Hwy 18, Edgard, LA 70049 (tel: 985.497.3837)"
+      ]
+    },
+    {
+      "title": "Wyoming",
+      "items": [
+        "Visit: Wyoming",
+        "Visit: Jackson Hole",
+        "Flights: Jackson Hole Airport, 1250 East Airport Road, Jackson, WY 83001 (tel: 307.733.7682)",
+        "Visit: Grand Teton National Park (tel: 307.739.3300)",
+        "Visit: the National Elk Refuge, 675 East Broadway, Jackson, WY 83001 (tel: 307.733.9212)"
+      ]
+    }
+  ]
+}

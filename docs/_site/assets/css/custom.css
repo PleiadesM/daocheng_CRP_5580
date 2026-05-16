@@ -197,16 +197,16 @@ a:visited {
     position: relative;
 }
 
-/* Paragraphs inside content: use 60% width so sidenotes have room.
-   If you DON'T need sidenotes on a given page, add class .no-sidenotes
-   to the page content wrapper and paragraphs go full-width (see below). */
+/* Paragraphs default to full width (no sidenotes by default).
+   To enable sidenotes on a specific page, add class .with-sidenotes
+   to the body or a wrapper div and paragraphs narrow to 60%. */
 .page__content > p,
 .page__content > section > p,
 .page__content > footer,
 .page__content > table,
 .page__content > section > footer,
 .page__content > section > table {
-    width: 60%;
+    width: 100%;
 }
 
 .page__content > dl,
@@ -215,7 +215,7 @@ a:visited {
 .page__content > section > dl,
 .page__content > section > ol,
 .page__content > section > ul {
-    width: 55%;
+    width: 90%;
     -webkit-padding-start: 5%;
 }
 
@@ -271,17 +271,43 @@ label.margin-toggle:not(.sidenote-number) {
     display: none;
 }
 
-/* ---------- Fullwidth override ---------- */
-/* For pages where you don't want sidenotes, add class "no-sidenotes"
-   to the page's body or a wrapper div. Paragraphs revert to 100%. */
-.no-sidenotes .page__content > p,
-.no-sidenotes .page__content > section > p,
-.no-sidenotes .page__content > footer,
-.no-sidenotes .page__content > table,
-.no-sidenotes .page__content > dl,
-.no-sidenotes .page__content > ol,
-.no-sidenotes .page__content > ul {
-    width: 100%;
+/* ---------- Sidenote opt-in ---------- */
+/* To enable sidenotes on a specific page, add class "with-sidenotes"
+   to the page's body or a wrapper div. Paragraphs narrow to 60%
+   to make room for sidenotes in the right margin. */
+.with-sidenotes .page__content > p,
+.with-sidenotes .page__content > section > p,
+.with-sidenotes .page__content > footer,
+.with-sidenotes .page__content > table,
+.with-sidenotes .page__content > section > footer,
+.with-sidenotes .page__content > section > table {
+    width: 60%;
+}
+
+.with-sidenotes .page__content > dl,
+.with-sidenotes .page__content > ol,
+.with-sidenotes .page__content > ul,
+.with-sidenotes .page__content > section > dl,
+.with-sidenotes .page__content > section > ol,
+.with-sidenotes .page__content > section > ul {
+    width: 55%;
+}
+
+.with-sidenotes .page__content blockquote p,
+.with-sidenotes .page__content blockquote footer {
+    width: 55%;
+}
+
+.with-sidenotes .page__content figure {
+    max-width: 60%;
+}
+
+.with-sidenotes .page__content pre > code {
+    width: 52.5%;
+}
+
+.with-sidenotes .page__content hr {
+    width: 60%;
 }
 
 /* ---------- Figures & Captions (Tufte-style) ---------- */
@@ -291,7 +317,7 @@ label.margin-toggle:not(.sidenote-number) {
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
-    max-width: 60%;
+    max-width: 100%;
     margin: 0 0 3em 0;
 }
 
@@ -325,12 +351,12 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 .page__content blockquote p {
-    width: 55%;
+    width: 100%;
     margin-right: 40px;
 }
 
 .page__content blockquote footer {
-    width: 55%;
+    width: 100%;
     font-size: 1.1rem;
     text-align: right;
 }
@@ -368,7 +394,7 @@ label.margin-toggle:not(.sidenote-number) {
 
 .page__content pre > code {
     font-size: 0.9rem;
-    width: 52.5%;
+    width: 92.5%;
     margin-left: 2.5%;
     overflow-x: auto;
     display: block;
@@ -393,7 +419,7 @@ label.margin-toggle:not(.sidenote-number) {
 .page__content hr {
     display: block;
     height: 1px;
-    width: 60%;
+    width: 100%;
     border: 0;
     border-top: 1px solid #ccc;
     margin: 1em 0;

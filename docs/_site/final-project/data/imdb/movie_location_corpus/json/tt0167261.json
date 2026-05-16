@@ -1,0 +1,178 @@
+{
+  "imdb_id": "tt0167261",
+  "shorthand": "Lord-Of-The-Rings-The-Two-Towers",
+  "title": "Lord Of The Rings: The Two Towers",
+  "year": 2002,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0167261 - Lord-Of-The-Rings-The-Two-Towers.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0167261 - Lord-Of-The-Rings-The-Two-Towers.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0167261.json",
+  "source_url": "http://www.movie-locations.com/movies/l/Lord-Of-The-Rings-The-Two Towers.php",
+  "page_title": "Lord Of The Rings: The Two Towers | Film Locations",
+  "meta_description": "Filming locations for Lord of the Rings: The Two Towers around New Zealand.",
+  "meta_keywords": "Lord of the Rings: The Two Towers filming locations, travel, tourism, set-jetting, new zealand, wellington, harcourt park, fiordland, peter jackson, tolkien",
+  "og_title": "Filming Locations for Lord of the Rings: The Two Towers (2002)",
+  "og_description": "Travel guide to filming locations for Peter Jackson's Lord of the Rings: The Two Towers (2002) in New Zealand.",
+  "og_image": "http://www.movie-locations.com/movies/l/Lord-Of-The-Rings-The-Two Towers.jpg",
+  "top250_rank": "18",
+  "movie_locations_title": "THE LORD OF THE RINGS: THE TWO TOWERS",
+  "movie_locations_regions": "New Zealand",
+  "director": "Peter Jackson",
+  "cast": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Ian Holm",
+    "Christopher Lee",
+    "Viggo Mortensen",
+    "Orlando Bloom",
+    "Cate Blanchett",
+    "Sean Astin",
+    "John Rhys-Davies",
+    "Liv Tyler",
+    "Hugo Weaving",
+    "Brad Dourif",
+    "David Wenham"
+  ],
+  "locations": [
+    "New Zealand"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0167261%20-%20Lord-Of-The-Rings-The-Two-Towers/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167261 - Lord-Of-The-Rings-The-Two-Towers/002.jpg",
+    "exists": true,
+    "alt": "Lord Of The Rings: The Two Towers poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167261/poster.jpg",
+    "corpus_asset_src": "../assets/tt0167261/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0167261%20-%20Lord-Of-The-Rings-The-Two-Towers/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167261 - Lord-Of-The-Rings-The-Two-Towers/001.jpg",
+    "exists": true,
+    "alt": "Lord of the Rings: The Two Towers filming location: Ida Valley, New Zealand",
+    "caption": "Lord of the Rings: The Two Towers location: the ‘Plains of Rohan’: Ida Valley, New Zealand | Photograph: Wikimedia / Pseudopanax",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167261/001.jpg",
+    "corpus_asset_src": "../assets/tt0167261/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0167261%20-%20Lord-Of-The-Rings-The-Two-Towers/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167261 - Lord-Of-The-Rings-The-Two-Towers/001.jpg",
+      "exists": true,
+      "alt": "Lord of the Rings: The Two Towers filming location: Ida Valley, New Zealand",
+      "caption": "Lord of the Rings: The Two Towers location: the ‘Plains of Rohan’: Ida Valley, New Zealand | Photograph: Wikimedia / Pseudopanax",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167261/001.jpg",
+      "corpus_asset_src": "../assets/tt0167261/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0167261%20-%20Lord-Of-The-Rings-The-Two-Towers/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167261 - Lord-Of-The-Rings-The-Two-Towers/002.jpg",
+      "exists": true,
+      "alt": "Lord Of The Rings: The Two Towers poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167261/002.jpg",
+      "corpus_asset_src": "../assets/tt0167261/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0167261%20-%20Lord-Of-The-Rings-The-Two-Towers/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167261 - Lord-Of-The-Rings-The-Two-Towers/003.jpg",
+      "exists": true,
+      "alt": "Lord of the Rings: The Two Towers filming location: Kepler Mire, Te Anau, New Zealand",
+      "caption": "Lord of the Rings: The Two Towers location: the ‘Dead Marshes’: Kepler Mire, Te Anau, New Zealand | Photograph: Wikimedia / Motorau",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167261/003.jpg",
+      "corpus_asset_src": "../assets/tt0167261/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0167261%20-%20Lord-Of-The-Rings-The-Two-Towers/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0167261 - Lord-Of-The-Rings-The-Two-Towers/004.jpg",
+      "exists": true,
+      "alt": "Lord of the Rings: The Two Towers location: Dry Creek Quarry, Haywards Hill, Wellington, New Zealand",
+      "caption": "Lord of the Rings: The Two Towers location: Minas Tirith and the Battle of Helm's Deep: Dry Creek Quarry, Haywards Hill, Wellington, New Zealand | Photograph: Tourism New Zealand",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0167261/004.jpg",
+      "corpus_asset_src": "../assets/tt0167261/004.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0167261/001.jpg\" alt=\"Lord of the Rings: The Two Towers filming location: Ida Valley, New Zealand\"><figcaption>Lord of the Rings: The Two Towers location: the ‘Plains of Rohan’: Ida Valley, New Zealand | Photograph: Wikimedia / Pseudopanax</figcaption></figure>\n<p>In episode two, the fellowship is falling apart, Boromir is dead and Saruman (<a href=\"https://www.movie-locations.com/people/l/leec.php\">Christopher Lee</a>) has plans to wage war on Middle Earth.</p>\n<p>Of course, <a href=\"https://www.movie-locations.com/places/oceania/newzealand.php\">New Zealand</a> again supplies the varied landscapes of <span class=\"name\">Tolkien</span>’s fantastic realm.</p>\n<p>First to the <span class=\"name\">South Island</span> and the area around <span class=\"name\">Queensland</span>. About 40 miles southeast of the city, on State Highway 6, is the town of Alexandra. Around <span class=\"name\">Poolburn Reservoir</span> in the <span class=\"name\">Ida Valley</span>, about 25 miles east of Alexandra, stood the village on the ‘Plains of Rohan’, where the children are sent off to safety before the Orc attack. The village set built here no longer stands.</p>\n<p>In the area around <span class=\"name\">Poolburn Reservoir</span> on <span class=\"name\">Rough Ridge</span> in the <span class=\"name\">Ida Valley</span> about 25 miles east of Alexandra, stood the village on the ‘Plains of Rohan’, where the children are sent off to safety before the Orc attack. Your best bet is to visit from <a href=\"http://www.idavalley.co.nz/accommodation/bonspiel-accommodation-and-tours/\" target=\"_blank\">Bonspiel Station</a>, a working farm with accommodation on <span class=\"name\">Moa Creek Road</span>, about five miles south of Poolburn. From here there are tours to Poolburn Dam and the movie filming sites.</p>\n<p>For practical reasons, the ‘Dead Marshes’ had to be created on sets, but the wider landscape shots are the <span class=\"name\">Kepler Mire</span>, largest of the wetlands in the <span class=\"name\">Te Anau</span> basin, west of Queenstown in the <a href=\"http://www.fiordland.org.nz/About-Fiordland/Fiordland-National-Park.asp\" target=\"blank\">Fiordland</a> region and an important nature conservancy area, which gave rise to concern about the effect filming might have on the delicate ecosystem.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0167261/003.jpg\" alt=\"Lord of the Rings: The Two Towers filming location: Kepler Mire, Te Anau, New Zealand\"><figcaption>Lord of the Rings: The Two Towers location: the ‘Dead Marshes’: Kepler Mire, Te Anau, New Zealand | Photograph: Wikimedia / Motorau</figcaption></figure>\n<p>The <span class=\"name\">Kepler Mire</span> (named after astronomer <span class=\"name\">Johannes Kepler</span>), and also descriptively known as <span class=\"name\">Dismal Swamp</span>, is a String bog (a feature subject to repeated freezing and thawing, often found near glaciers and ice sheets), which covers more than 2000 acres east of <span class=\"name\">State Highway 95</span> between Te Anau and Manapouri.</p>\n<p>You can best view the bog  from the <span class=\"name\">Mount York Road</span>, running east off <span class=\"name\">Highway 95</span>. </p>\n<p>On the southwestern tip of <span class=\"name\">North Island</span>, the huge fortress city of ‘Minas Tirith’ and ‘Helm’s Deep’, where the awesome climactic battle takes place, were built at <span class=\"name\">Dry Creek Quarry</span>, a vast mining complex surrounded by a chainlink fence on <span class=\"name\">Western Hutt Road</span> at the bottom of <span class=\"name\">Haywards Hill</span> in <span class=\"name\">Wellington</span> (<span class=\"ital\">rail: Manor Park</span>). Since <span class=\"name\">Dry Creek</span> remains a working quarry, the sets were dismantled after filming.</p>",
+  "main_content_text": "In episode two, the fellowship is falling apart, Boromir is dead and Saruman (Christopher Lee) has plans to wage war on Middle Earth.\n\nOf course, New Zealand again supplies the varied landscapes of Tolkien’s fantastic realm.\n\nFirst to the South Island and the area around Queensland. About 40 miles southeast of the city, on State Highway 6, is the town of Alexandra. Around Poolburn Reservoir in the Ida Valley, about 25 miles east of Alexandra, stood the village on the ‘Plains of Rohan’, where the children are sent off to safety before the Orc attack. The village set built here no longer stands.\n\nIn the area around Poolburn Reservoir on Rough Ridge in the Ida Valley about 25 miles east of Alexandra, stood the village on the ‘Plains of Rohan’, where the children are sent off to safety before the Orc attack. Your best bet is to visit from Bonspiel Station, a working farm with accommodation on Moa Creek Road, about five miles south of Poolburn. From here there are tours to Poolburn Dam and the movie filming sites.\n\nFor practical reasons, the ‘Dead Marshes’ had to be created on sets, but the wider landscape shots are the Kepler Mire, largest of the wetlands in the Te Anau basin, west of Queenstown in the Fiordland region and an important nature conservancy area, which gave rise to concern about the effect filming might have on the delicate ecosystem.\n\nThe Kepler Mire (named after astronomer Johannes Kepler), and also descriptively known as Dismal Swamp, is a String bog (a feature subject to repeated freezing and thawing, often found near glaciers and ice sheets), which covers more than 2000 acres east of State Highway 95 between Te Anau and Manapouri.\n\nYou can best view the bog from the Mount York Road, running east off Highway 95.\n\nOn the southwestern tip of North Island, the huge fortress city of ‘Minas Tirith’ and ‘Helm’s Deep’, where the awesome climactic battle takes place, were built at Dry Creek Quarry, a vast mining complex surrounded by a chainlink fence on Western Hutt Road at the bottom of Haywards Hill in Wellington (rail: Manor Park). Since Dry Creek remains a working quarry, the sets were dismantled after filming.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Lord of the Rings: The Two Towers location: the ‘Plains of Rohan’: Ida Valley, New Zealand | Photograph: Wikimedia / Pseudopanax",
+      "src": "_assets/tt0167261%20-%20Lord-Of-The-Rings-The-Two-Towers/001.jpg",
+      "alt": "Lord of the Rings: The Two Towers filming location: Ida Valley, New Zealand"
+    },
+    {
+      "type": "paragraph",
+      "text": "In episode two, the fellowship is falling apart, Boromir is dead and Saruman (Christopher Lee) has plans to wage war on Middle Earth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, New Zealand again supplies the varied landscapes of Tolkien’s fantastic realm."
+    },
+    {
+      "type": "paragraph",
+      "text": "First to the South Island and the area around Queensland. About 40 miles southeast of the city, on State Highway 6, is the town of Alexandra. Around Poolburn Reservoir in the Ida Valley, about 25 miles east of Alexandra, stood the village on the ‘Plains of Rohan’, where the children are sent off to safety before the Orc attack. The village set built here no longer stands."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the area around Poolburn Reservoir on Rough Ridge in the Ida Valley about 25 miles east of Alexandra, stood the village on the ‘Plains of Rohan’, where the children are sent off to safety before the Orc attack. Your best bet is to visit from Bonspiel Station, a working farm with accommodation on Moa Creek Road, about five miles south of Poolburn. From here there are tours to Poolburn Dam and the movie filming sites."
+    },
+    {
+      "type": "paragraph",
+      "text": "For practical reasons, the ‘Dead Marshes’ had to be created on sets, but the wider landscape shots are the Kepler Mire, largest of the wetlands in the Te Anau basin, west of Queenstown in the Fiordland region and an important nature conservancy area, which gave rise to concern about the effect filming might have on the delicate ecosystem."
+    },
+    {
+      "type": "image",
+      "caption": "Lord of the Rings: The Two Towers location: the ‘Dead Marshes’: Kepler Mire, Te Anau, New Zealand | Photograph: Wikimedia / Motorau",
+      "src": "_assets/tt0167261%20-%20Lord-Of-The-Rings-The-Two-Towers/003.jpg",
+      "alt": "Lord of the Rings: The Two Towers filming location: Kepler Mire, Te Anau, New Zealand"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Kepler Mire (named after astronomer Johannes Kepler), and also descriptively known as Dismal Swamp, is a String bog (a feature subject to repeated freezing and thawing, often found near glaciers and ice sheets), which covers more than 2000 acres east of State Highway 95 between Te Anau and Manapouri."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can best view the bog from the Mount York Road, running east off Highway 95."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the southwestern tip of North Island, the huge fortress city of ‘Minas Tirith’ and ‘Helm’s Deep’, where the awesome climactic battle takes place, were built at Dry Creek Quarry, a vast mining complex surrounded by a chainlink fence on Western Hutt Road at the bottom of Haywards Hill in Wellington (rail: Manor Park). Since Dry Creek remains a working quarry, the sets were dismantled after filming."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New Zealand</h3>\n<p>Visit: New Zealand</p>\n<p>NORTH ISLAND</p>\n<p>Visit: Wellington</p>\n<p>Flights: Wellington International Airport, Stewart Duff Drive, Rongotai, Wellington 6022 (tel: +64.4.385.5100)</p>\n<p>SOUTH ISLAND</p>\n<p>Visit: Queenstown</p>\n<p>Flights: Queenstown Airport, Sir Henry Wigley Drive, Frankton, Queenstown 9300 (tel: +64 3-450 9031)</p>\n<p>Visit: Bonspiel Station, Moa Creek Road, Moa Creek, Central Otago (tel: 03.447.4205)</p>\n<p>Visit: Fiordland National Park, Lakefront Drive, Te Anau 9640 (tel: +64.3.249.7924)</p>\n</section>",
+  "visit_info_text": "New Zealand\nVisit: New Zealand\nNORTH ISLAND\nVisit: Wellington\nFlights: Wellington International Airport, Stewart Duff Drive, Rongotai, Wellington 6022 (tel: +64.4.385.5100)\nSOUTH ISLAND\nVisit: Queenstown\nFlights: Queenstown Airport, Sir Henry Wigley Drive, Frankton, Queenstown 9300 (tel: +64 3-450 9031)\nVisit: Bonspiel Station, Moa Creek Road, Moa Creek, Central Otago (tel: 03.447.4205)\nVisit: Fiordland National Park, Lakefront Drive, Te Anau 9640 (tel: +64.3.249.7924)",
+  "visit_sections": [
+    {
+      "title": "New Zealand",
+      "items": [
+        "Visit: New Zealand",
+        "NORTH ISLAND",
+        "Visit: Wellington",
+        "Flights: Wellington International Airport, Stewart Duff Drive, Rongotai, Wellington 6022 (tel: +64.4.385.5100)",
+        "SOUTH ISLAND",
+        "Visit: Queenstown",
+        "Flights: Queenstown Airport, Sir Henry Wigley Drive, Frankton, Queenstown 9300 (tel: +64 3-450 9031)",
+        "Visit: Bonspiel Station, Moa Creek Road, Moa Creek, Central Otago (tel: 03.447.4205)",
+        "Visit: Fiordland National Park, Lakefront Drive, Te Anau 9640 (tel: +64.3.249.7924)"
+      ]
+    }
+  ]
+}

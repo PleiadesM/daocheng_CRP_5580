@@ -1,0 +1,320 @@
+{
+  "imdb_id": "tt0075314",
+  "shorthand": "Taxi-Driver",
+  "title": "Taxi Driver",
+  "year": 1976,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0075314 - Taxi-Driver.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0075314 - Taxi-Driver.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0075314.json",
+  "source_url": "http://www.movie-locations.com/movies/t/Taxi-Driver.php",
+  "page_title": "Film Locations for Taxi Driver (1976) around New York – Movie-Locations.com",
+  "meta_description": "Film locations for Martin Scorsese's Taxi Driver (1976), in New York: 57th Street at 11th Avenue (cab office); Times Square; 226 East 13th Street, East Village (Iris's hotel); St Regis Hotel, 2 East 55th Street (Travis picks up Betsy); Lyric Theatre, 214 West 43rd Street (cinema); Broadway at 63rd Street (campaign HQ)",
+  "meta_keywords": "Taxi Driver (1976), film locations, filming locations, tourism, travel, set-jetting, new york, manhattan, east village, st regis hotel, columbus circle, martin scorsese, robert de niro, travis bickle",
+  "og_title": "Film Locations for Martin Scorsese's Taxi Driver (1976), with Robert de Niro, in New York – including Times Square, the East Village, Columbus Circle and the St Regis Hotel.",
+  "og_description": "Filming Locations in New York: 57th Street at 11th Avenue (cab office); Times Square; 226 East 13th Street, East Village (Iris's hotel); St Regis Hotel, 2 East 55th Street (Travis picks up Betsy); Lyric Theatre, 214 West 43rd Street (cinema); Broadway at 63rd Street (campaign HQ)",
+  "og_image": "http://www.movie-locations.com/movies/t/Taxi-Driver-doorway.jpg",
+  "top250_rank": "182",
+  "movie_locations_title": "TAXI DRIVER",
+  "movie_locations_regions": "New York",
+  "director": "Martin Scorsese",
+  "cast": [
+    "Robert de Niro",
+    "Jodie Foster",
+    "Harvey Keitel",
+    "Cybill Shepherd",
+    "Peter Boyle",
+    "Albert Brooks",
+    "Diahnne Abbott",
+    "NEW YORK locations",
+    "▶ 57th Street at 11th Avenue (site of the cab office – demolished)",
+    "▶ Hotel Olcott, 27 West 72nd Street (Travis Bickle drops off a fare)",
+    "▶ Gray Line Visitor Center, 777 Eighth Avenue (Travis walks past Hollywood cinema)",
+    "▶ Broadway at Sesame Street (site of Palantine campaign HQ)",
+    "▶ Duane Reade, Columbus Circle (Travis meets Betsy for coffee)",
+    "▶ Columbus Avenue at West 89th Street, Upper West Side (Travis's cab gets egged)",
+    "▶ Lyric Theatre, 214 West 43rd Street (Travis takes Betsy to an adult movie)",
+    "▶ Ed Sullivan Theatre, side entrance on West 53rd Street (Travis phones Betsy)",
+    "▶ Muldoon's Irish Pub, 692 Third Avenue (fomerly McAnn's bar where Travis picks up fare)",
+    "▶ Tudor City, East 41st Street (passenger looking up at figure in window)",
+    "▶ Belmore Cafeteria, Park Avenue South (site of cabbies' cafe – demoilished)",
+    "▶ Fifth Avenue at 19th Street (Travis picked up in cab by Easy Andy)",
+    "▶ 87 Columbia Heights, Brooklyn (Travis buys guns)",
+    "▶ Cadman Plaza West, Brooklyn (Bickle chats to secret service guy)",
+    "▶ 546 Columbus Avenue, Upper West Side (Travis shoots supermarket robber)",
+    "▶ Seventh Avenue at 38th Street (Travis moved along at Palantine rally)",
+    "▶ 204 East 13th Street, East Village (doorway where Sport hangs out)",
+    "▶ 226 East 13th Street, East Village (Iris's rundown hotel)",
+    "▶ Columbus Circle (Travis turns up at rally with mohawk)",
+    "▶ St Regis Hotel, 2 East 55th Street, Midtown (Travis picks up Betsy)"
+  ],
+  "locations": [
+    "New York"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0075314%20-%20Taxi-Driver/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0075314 - Taxi-Driver/002.jpg",
+    "exists": true,
+    "alt": "Taxi Driver poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0075314/poster.jpg",
+    "corpus_asset_src": "../assets/tt0075314/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0075314%20-%20Taxi-Driver/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0075314 - Taxi-Driver/001.jpg",
+    "exists": true,
+    "alt": "Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York",
+    "caption": "Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0075314/001.jpg",
+    "corpus_asset_src": "../assets/tt0075314/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0075314%20-%20Taxi-Driver/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0075314 - Taxi-Driver/001.jpg",
+      "exists": true,
+      "alt": "Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York",
+      "caption": "Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0075314/001.jpg",
+      "corpus_asset_src": "../assets/tt0075314/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0075314%20-%20Taxi-Driver/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0075314 - Taxi-Driver/002.jpg",
+      "exists": true,
+      "alt": "Taxi Driver poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0075314/002.jpg",
+      "corpus_asset_src": "../assets/tt0075314/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0075314%20-%20Taxi-Driver/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0075314 - Taxi-Driver/003.jpg",
+      "exists": true,
+      "alt": "Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York",
+      "caption": "Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0075314/003.jpg",
+      "corpus_asset_src": "../assets/tt0075314/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0075314%20-%20Taxi-Driver/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0075314 - Taxi-Driver/004.jpg",
+      "exists": true,
+      "alt": "Taxi Driver location: Columbus Circle, New York",
+      "caption": "Taxi Driver location: Bickle plans to shoot the candidate: Columbus Circle, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0075314/004.jpg",
+      "corpus_asset_src": "../assets/tt0075314/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0075314%20-%20Taxi-Driver/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0075314 - Taxi-Driver/005.jpg",
+      "exists": true,
+      "alt": "Taxi Driver location: Columbus Circle, New York",
+      "caption": "Taxi Driver location: Bickle is picked up by Betsy: St Regis Hotel, East 55th Street, New York",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0075314/005.jpg",
+      "corpus_asset_src": "../assets/tt0075314/005.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0075314/001.jpg\" alt=\"Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York\"><figcaption>Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York</figcaption></figure>\n<p>If it were nothing else, <span class=\"name\">Taxi Driver</span> would be a priceless expressionist portrait of <a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> in the mid-Seventies, before the great clean-up. But, of course, it is much more.</p>\n<p><a href=\"https://www.movie-locations.com/places/usa/nyc.php\">New York</a> has undergone a profound transformation and many of the film’s sleazy locations are either gone or unrecognisable.</p>\n<p>▶ The cab office to which troubled insomniac Travis Bickle (<a href=\"https://www.movie-locations.com/people/d/deniror.php\">Robert de Niro</a>) applies for a night-time job, stood on the north side of <span class=\"name\">57th Street</span>, at <span class=\"name\">11th Avenue</span> and was still standing when I first visited. It’s finally fallen victim to redevelopment. By the mid-Nineties, the Pier 97 Terminal Building on 11th Avenue, which serviced the Swedish American Line, and the West Side Elevated Highway you can see in the background of the film, were already gone. <span class=\"name\">Pier 97</span>, which has since been used as a carpark, is now being developed as a recreation area. <a href=\"#1st\">⏏</a></p>\n<p>Bickle’s nighttime meanderings centre around the old <span class=\"name\">Times Square</span> back when it was the notorious heart of the city’s less salubrious entertainment sector (“All the animals come out at night…”).</p>\n<p>Of course, porn, sex work and drugs haven’t disappeared entirely but they’ve been driven away from what is now the glittering centre of Big Apple tourism. It’s difficult to make out the buildings any more beneath all that eye-popping dazzle.</p>\n<p>▶ Bickle drops off a fare at one location which remains almost unchanged, the <span class=\"name\" id=\"olcott\">Hotel Olcott, 27 West 72nd Street</span> on the <span class=\"name\">Upper West Side</span>.     </p>\n<p>The <span class=\"name\">Olcott</span> is just west of the Dakota Building and, though it’s now a residential block, <span class=\"name\">Mark David Chapman</span>, the murderer of <span class=\"name\">John Lennon</span>, briefly stayed here while it was still a hotel. <a href=\"#1st\">⏏</a></p>\n<p>▶ Bickle whiles away his sleepless days in porno theatres. The scene of him plodding blankly along the street swigging on a bottle of Peach Brandy, which has gone on to become a classic image from the film, was shot on <span class=\"name\" id=\"grayline\">8th Avenue at West 47th Street</span>, just northeast of <span class=\"name\">Times Square</span>. He passes the Hollywood porno house. That canopy still remains but now marks the entrance to the <span class=\"name\">Gray Line Visitor Center, 777 Eighth Avenue</span>. <a href=\"#1st\">⏏</a></p>\n<p>His destination is the ‘Show and Tell’ Live Show and XXX Movies, which stood a little further along at <span class=\"name\">735 Eighth Avenue</span>. The movie house, along with its neighbours, been replaced by the swish new <span class=\"name\">Riu Plaza New York Times Square Hotel</span>. Show and Tell’s concession girl, who gives Bickle such a hard time was more amenable in real life. It’s <span class=\"name\">Diahnne Abbott</span>, who went on to marry <a href=\"https://www.movie-locations.com/people/d/deniror.php\">de Niro</a>.</p>\n<p>Bickle’s awkward but intriguing advances, get a better reception from Betsy (<a href=\"https://www.movie-locations.com/people/s/shepherdc.php\">Cybill Shepherd</a>), in his eyes the ideal of pristine femininity, who works in the campaign HQ to get Charles ‘We are the people’ Palantine elected president.</p>\n<p>▶ The campaign office is another lost location. It’s been replaced by the Bank of America Financial Center, on the southeast corner of<span class=\"name\"> Broadway</span> and, believe it or not, <span class=\"name\">Sesame Street</span> (which is actually a stretch of West 63rd Street). You can still recognise the building’s distinctive footprint. <a href=\"#1st\">⏏</a></p>\n<p>▶ Wary but fascinated, Betsy meets Bickle for coffee and pie at what was Charles Coffee Shop, now redeveloped as a branch of drugstore <span class=\"name\">Duane Reade, 4 Columbus Circle</span> on the corner of Eighth Avenue at 58th Street, with that view of the <span class=\"name\">Christopher Columbus Column</span>. <a href=\"#1st\">⏏</a></p>\n<p>Nighttime shots give a glimpse of the old and notoriously rough Terminal Bar, <span class=\"name\">Eighth Avenue</span> on the northeast corner of West 41st Street, named after its position opposite the Port Authority Bus Terminal.</p>\n<p>The Terminal closed in 1982 and the block has been redeveloped as the <span class=\"name\">New York Times Building</span>. The all-night bar in <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Scorsese</a>’s dark 1985 comedy <a href=\"https://www.movie-locations.com/movies/a/After-Hours.php\">After Hours</a> was supposed to be the Terminal, and so the Emerald Pub in SoHo (which itself has now closed) stood in for it.</p>\n<p>▶ Up north, on <span class=\"name\">Columbus Avenue at West 89th Street</span>, Bickle’s cab is egged by a gang of youths. It’s another dodgy-looking area which has since been redeveloped. <a href=\"#1st\">⏏</a></p>\n<p>▶ Bickle, naively, takes Betsy to see a movie at the Lyric Theater, which is showing <span class=\"name\">Sometime Sweet Susan</span> (though the movie they actually watch is the controversial Swedish film <span class=\"name\">Language of Love</span>, a Sixties sex-ed documentary which found fame when a campaign by anti-pornography groups conferred on it a tantalizing reputation as a porn classic).  Surprisingly, the ornate <a href=\"http://www.lyricbroadway.com/\" target=\"_blank\">Lyric Theatre</a>, <span class=\"name\">214 West 43rd Street</span>, is still in business, though now as a legit live theatre currently (2019) hosting <span class=\"ital\">Harry Potter and the Cursed Child</span>. <a href=\"#1st\">⏏</a></p>\n<p>The horrified Betsy storms out and the blossoming relationship ends abruptly. Bickle’s desperately pleading phone call to Betsy makes for one of the most emotionally painful sequences in the film, as <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Scorsese</a>’s camera moves quietly away from the excruciating conversation.</p>\n<p>▶ Oddly, that public phone is in the <span class=\"name\">West 53rd Street</span> office entrance of the <span class=\"name\">Ed Sullivan Theater</span>, <span class=\"name\">1697 Broadway</span>, home of <span class=\"ital\">The Late Show with Stephen Colbert</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ The next sequence is disturbing in a whole different way. It begins straightforwardly enough as Bickle picks up a fare outside McAnn’s Bar, which stood at <span class=\"name\">692 Third Avenue</span> at East 43rd Street (the premises now houses <a href=\"https://www.facebook.com/pages/Muldoons-Irish-Pub/108131422562464\" target=\"_blank\">Muldoon’s Irish Pub</a>). <a href=\"#1st\">⏏</a></p>\n<p>When they arrive at the destination, the customer wants to just sit and talk… and talk… an endless flow of misogyny and hate. The troubled passenger was to have been played by <a href=\"https://www.movie-locations.com/people/m/memmolig.php\">George Memmoli</a> (who played Philbin in <a href=\"https://www.movie-locations.com/people/d/depalmab.php\">Brian de Palma</a>’s <a href=\"https://www.movie-locations.com/movies/p/Phantom-Of-The-Paradise.php\">Phantom of the Paradise</a>) but when he pulled out through illness, <a href=\"https://www.movie-locations.com/people/s/scorsesem.php\">Scorsese</a> took over the part himself.</p>\n<p>▶ The apartment block where the man fixates on the woman in the window is <span class=\"name\">Tudor City Place at East 41st Street</span>, a residential complex only a couple of blocks east of McAnn’s. <span class=\"name\">Tudor City</span> also appears in <span class=\"name\">Splash!</span>, <a href=\"https://www.movie-locations.com/movies/s/Scarface-1983.php\">Scarface</a> and <a href=\"https://www.movie-locations.com/movies/b/Bourne-Ultimatum.php\">The Bourne Ultimatum</a>, as well as becoming the residence of Norman Osborne / The Green Goblin in <a href=\"https://www.movie-locations.com/people/r/raimis.php\">Sam Raimi</a>’s <a href=\"https://www.movie-locations.com/movies/s/Spider-Man.php\">Spider-Man</a> films. <a href=\"#1st\">⏏</a></p>\n<p>▶ This litany of bile seems to chime with Bickle. The cabbies’ hangout, where he confides that he’s having “bad ideas” to the Wizard (<a href=\"https://www.movie-locations.com/people/b/boylep.php\">Peter Boyle</a>) was the Belmore Cafeteria, which stood on <span class=\"name\">Park Avenue South at 28th Street</span>. It was a real 24/7 café that’s long since disappeared. You can glimpse it again in the original 1974<a href=\"https://www.movie-locations.com/movies/t/Taking-Of-Pelham-123-1974.php\"> The Taking of Pelham 1-2-3</a>. <a href=\"#1st\">⏏</a></p>\n<p>▶ As a terrible plan begins to take shape, Bickle is picked up in – what else – a cab, to meet Easy Andy, a ‘travelling salesman’, on the northwest corner of <span class=\"name\">Fifth Avenue at 19th Street</span>. <a href=\"#1st\">⏏</a></p>\n<p>▶ The hotel room where Andy enthusiastically presents Bickle with a tantalising array of weaponry is across the East River from Manhattan. It’s <span class=\"name\">87 Columbia Heights</span>, <span class=\"name\">Brooklyn</span>, overlooking the Brooklyn Queens Expressway and the Brooklyn Bridge. <a href=\"#1st\">⏏</a></p>\n<p>▶ Still in <span class=\"name\">Brooklyn</span> is the Palantine rally where Bickle chats to the inscrutable secret service officer. This is <span class=\"name\">Pineapple Walk</span> on <span class=\"name\">Cadman Plaza West</span>, opposite Cadman Plaza Park, near Clark Street Station. <a href=\"#1st\">⏏</a></p>\n<p>▶ Now armed and bristling with pent-up frustration, Bickle gets his opportunity to act when he discovers his local grocery store being threatened. The ‘R&amp;M Supermarket’, where he shoots the would-be robber is <span class=\"name\">546 Columbus Avenue</span>, on the <span class=\"name\">Upper West Side </span>just three blocks south of where his cab got egged. <a href=\"#1st\">⏏</a></p>\n<p>▶ Beginning to fixate on Senator Palantine, he’s moved on as he sits idly in his cab watching another rally, held on <span class=\"name\">Seventh Avenue at 38th Street</span>. <a href=\"#1st\">⏏</a></p>\n<p>A ’new chapter’ begins when Bickle finds another innocent female to fixate on. He sees the worryingly young Iris (<a href=\"https://www.movie-locations.com/people/f/fosterj.php\">Jodie Foster</a>) and her friend walking past the Variety Theatre, which is long gone.</p>\n<p>They’re clearly being used for sex work and he follows them on to <span class=\"name\">East 13th Street</span> in the <span class=\"name\">East Village</span>.</p>\n<p>▶ Bickle ingratiates himself with Iris’s pimp, Matthew / Sport (<a href=\"https://www.movie-locations.com/people/k/keitelh.php\">Harvey Keitel</a>) who hangs out in the doorway of <span class=\"name\">204 East 13th Street</span>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0075314/003.jpg\" alt=\"Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York\"><figcaption>Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York</figcaption></figure>\n<p>▶ A little further long, <span class=\"name\">226 East 13th Street</span>, between Second and Third Avenues, is the decrepit hotel in which Iris is expected to provide services for paying customers but where Bickle wants only to talk to her. Of course, it’s now a smart private home. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0075314/004.jpg\" alt=\"Taxi Driver location: Columbus Circle, New York\"><figcaption>Taxi Driver location: Bickle plans to shoot the candidate: Columbus Circle, New York</figcaption></figure>\n<p>▶ Now a man on a mission, Bickle turns up sporting a mohawk, intending to assassinate Palantine at the big rally held in <span class=\"name\">Columbus Circle</span> at the southwest corner of <span class=\"name\">Central Park</span>. <a href=\"#1st\">⏏</a></p>\n<p>When he’s thwarted, it’s back to the <span class=\"name\">East Village</span> and that hotel for the climactic bloodbath.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0075314/005.jpg\" alt=\"Taxi Driver location: Columbus Circle, New York\"><figcaption>Taxi Driver location: Bickle is picked up by Betsy: St Regis Hotel, East 55th Street, New York</figcaption></figure>\n<p>▶ A quiet coda finds Bickle, several months later and now a hero, meeting once again with Betsy when he picks her up outside the <a href=\"https://www.marriott.com/hotels/travel/nycxr-the-st-regis-new-york/\" target=\"_blank\">St Regis Hotel</a>, <span class=\"name\">2 East 55th Street</span> at Fifth Avenue. <a href=\"#1st\">⏏</a></p>\n<p>The venerable hotel, opened by <span class=\"name\">John Jacob Astor</span> in 1904, is also featured in <a href=\"https://www.movie-locations.com/movies/g/Godfather.php\">The Godfather</a>, <a href=\"https://www.movie-locations.com/people/a/allenw.php\">Woody Allen</a>’s <a href=\"https://www.movie-locations.com/movies/r/Radio-Days.php\">Radio Days</a> and <a href=\"https://www.movie-locations.com/movies/h/Hannah-And-Her-Sisters.php\">Hannah and Her Sisters</a>, <a href=\"https://www.movie-locations.com/movies/d/Devil-Wears-Prada.php\">The Devil Wears Prada</a> and <a href=\"https://www.movie-locations.com/movies/f/First-Wives-Club.php\">The First Wives Club</a>.</p>",
+  "main_content_text": "If it were nothing else, Taxi Driver would be a priceless expressionist portrait of New York in the mid-Seventies, before the great clean-up. But, of course, it is much more.\n\nNew York has undergone a profound transformation and many of the film’s sleazy locations are either gone or unrecognisable.\n\n▶ The cab office to which troubled insomniac Travis Bickle (Robert de Niro) applies for a night-time job, stood on the north side of 57th Street, at 11th Avenue and was still standing when I first visited. It’s finally fallen victim to redevelopment. By the mid-Nineties, the Pier 97 Terminal Building on 11th Avenue, which serviced the Swedish American Line, and the West Side Elevated Highway you can see in the background of the film, were already gone. Pier 97, which has since been used as a carpark, is now being developed as a recreation area. ⏏\n\nBickle’s nighttime meanderings centre around the old Times Square back when it was the notorious heart of the city’s less salubrious entertainment sector (“All the animals come out at night…”).\n\nOf course, porn, sex work and drugs haven’t disappeared entirely but they’ve been driven away from what is now the glittering centre of Big Apple tourism. It’s difficult to make out the buildings any more beneath all that eye-popping dazzle.\n\n▶ Bickle drops off a fare at one location which remains almost unchanged, the Hotel Olcott, 27 West 72nd Street on the Upper West Side.\n\nThe Olcott is just west of the Dakota Building and, though it’s now a residential block, Mark David Chapman, the murderer of John Lennon, briefly stayed here while it was still a hotel. ⏏\n\n▶ Bickle whiles away his sleepless days in porno theatres. The scene of him plodding blankly along the street swigging on a bottle of Peach Brandy, which has gone on to become a classic image from the film, was shot on 8th Avenue at West 47th Street, just northeast of Times Square. He passes the Hollywood porno house. That canopy still remains but now marks the entrance to the Gray Line Visitor Center, 777 Eighth Avenue. ⏏\n\nHis destination is the ‘Show and Tell’ Live Show and XXX Movies, which stood a little further along at 735 Eighth Avenue. The movie house, along with its neighbours, been replaced by the swish new Riu Plaza New York Times Square Hotel. Show and Tell’s concession girl, who gives Bickle such a hard time was more amenable in real life. It’s Diahnne Abbott, who went on to marry de Niro.\n\nBickle’s awkward but intriguing advances, get a better reception from Betsy (Cybill Shepherd), in his eyes the ideal of pristine femininity, who works in the campaign HQ to get Charles ‘We are the people’ Palantine elected president.\n\n▶ The campaign office is another lost location. It’s been replaced by the Bank of America Financial Center, on the southeast corner of Broadway and, believe it or not, Sesame Street (which is actually a stretch of West 63rd Street). You can still recognise the building’s distinctive footprint. ⏏\n\n▶ Wary but fascinated, Betsy meets Bickle for coffee and pie at what was Charles Coffee Shop, now redeveloped as a branch of drugstore Duane Reade, 4 Columbus Circle on the corner of Eighth Avenue at 58th Street, with that view of the Christopher Columbus Column. ⏏\n\nNighttime shots give a glimpse of the old and notoriously rough Terminal Bar, Eighth Avenue on the northeast corner of West 41st Street, named after its position opposite the Port Authority Bus Terminal.\n\nThe Terminal closed in 1982 and the block has been redeveloped as the New York Times Building. The all-night bar in Scorsese’s dark 1985 comedy After Hours was supposed to be the Terminal, and so the Emerald Pub in SoHo (which itself has now closed) stood in for it.\n\n▶ Up north, on Columbus Avenue at West 89th Street, Bickle’s cab is egged by a gang of youths. It’s another dodgy-looking area which has since been redeveloped. ⏏\n\n▶ Bickle, naively, takes Betsy to see a movie at the Lyric Theater, which is showing Sometime Sweet Susan (though the movie they actually watch is the controversial Swedish film Language of Love, a Sixties sex-ed documentary which found fame when a campaign by anti-pornography groups conferred on it a tantalizing reputation as a porn classic). Surprisingly, the ornate Lyric Theatre, 214 West 43rd Street, is still in business, though now as a legit live theatre currently (2019) hosting Harry Potter and the Cursed Child. ⏏\n\nThe horrified Betsy storms out and the blossoming relationship ends abruptly. Bickle’s desperately pleading phone call to Betsy makes for one of the most emotionally painful sequences in the film, as Scorsese’s camera moves quietly away from the excruciating conversation.\n\n▶ Oddly, that public phone is in the West 53rd Street office entrance of the Ed Sullivan Theater, 1697 Broadway, home of The Late Show with Stephen Colbert. ⏏\n\n▶ The next sequence is disturbing in a whole different way. It begins straightforwardly enough as Bickle picks up a fare outside McAnn’s Bar, which stood at 692 Third Avenue at East 43rd Street (the premises now houses Muldoon’s Irish Pub). ⏏\n\nWhen they arrive at the destination, the customer wants to just sit and talk… and talk… an endless flow of misogyny and hate. The troubled passenger was to have been played by George Memmoli (who played Philbin in Brian de Palma’s Phantom of the Paradise) but when he pulled out through illness, Scorsese took over the part himself.\n\n▶ The apartment block where the man fixates on the woman in the window is Tudor City Place at East 41st Street, a residential complex only a couple of blocks east of McAnn’s. Tudor City also appears in Splash!, Scarface and The Bourne Ultimatum, as well as becoming the residence of Norman Osborne / The Green Goblin in Sam Raimi’s Spider-Man films. ⏏\n\n▶ This litany of bile seems to chime with Bickle. The cabbies’ hangout, where he confides that he’s having “bad ideas” to the Wizard (Peter Boyle) was the Belmore Cafeteria, which stood on Park Avenue South at 28th Street. It was a real 24/7 café that’s long since disappeared. You can glimpse it again in the original 1974 The Taking of Pelham 1-2-3. ⏏\n\n▶ As a terrible plan begins to take shape, Bickle is picked up in – what else – a cab, to meet Easy Andy, a ‘travelling salesman’, on the northwest corner of Fifth Avenue at 19th Street. ⏏\n\n▶ The hotel room where Andy enthusiastically presents Bickle with a tantalising array of weaponry is across the East River from Manhattan. It’s 87 Columbia Heights, Brooklyn, overlooking the Brooklyn Queens Expressway and the Brooklyn Bridge. ⏏\n\n▶ Still in Brooklyn is the Palantine rally where Bickle chats to the inscrutable secret service officer. This is Pineapple Walk on Cadman Plaza West, opposite Cadman Plaza Park, near Clark Street Station. ⏏\n\n▶ Now armed and bristling with pent-up frustration, Bickle gets his opportunity to act when he discovers his local grocery store being threatened. The ‘R&M Supermarket’, where he shoots the would-be robber is 546 Columbus Avenue, on the Upper West Side just three blocks south of where his cab got egged. ⏏\n\n▶ Beginning to fixate on Senator Palantine, he’s moved on as he sits idly in his cab watching another rally, held on Seventh Avenue at 38th Street. ⏏\n\nA ’new chapter’ begins when Bickle finds another innocent female to fixate on. He sees the worryingly young Iris (Jodie Foster) and her friend walking past the Variety Theatre, which is long gone.\n\nThey’re clearly being used for sex work and he follows them on to East 13th Street in the East Village.\n\n▶ Bickle ingratiates himself with Iris’s pimp, Matthew / Sport (Harvey Keitel) who hangs out in the doorway of 204 East 13th Street. ⏏\n\n▶ A little further long, 226 East 13th Street, between Second and Third Avenues, is the decrepit hotel in which Iris is expected to provide services for paying customers but where Bickle wants only to talk to her. Of course, it’s now a smart private home. ⏏\n\n▶ Now a man on a mission, Bickle turns up sporting a mohawk, intending to assassinate Palantine at the big rally held in Columbus Circle at the southwest corner of Central Park. ⏏\n\nWhen he’s thwarted, it’s back to the East Village and that hotel for the climactic bloodbath.\n\n▶ A quiet coda finds Bickle, several months later and now a hero, meeting once again with Betsy when he picks her up outside the St Regis Hotel, 2 East 55th Street at Fifth Avenue. ⏏\n\nThe venerable hotel, opened by John Jacob Astor in 1904, is also featured in The Godfather, Woody Allen’s Radio Days and Hannah and Her Sisters, The Devil Wears Prada and The First Wives Club.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York",
+      "src": "_assets/tt0075314%20-%20Taxi-Driver/001.jpg",
+      "alt": "Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "If it were nothing else, Taxi Driver would be a priceless expressionist portrait of New York in the mid-Seventies, before the great clean-up. But, of course, it is much more."
+    },
+    {
+      "type": "paragraph",
+      "text": "New York has undergone a profound transformation and many of the film’s sleazy locations are either gone or unrecognisable."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The cab office to which troubled insomniac Travis Bickle (Robert de Niro) applies for a night-time job, stood on the north side of 57th Street, at 11th Avenue and was still standing when I first visited. It’s finally fallen victim to redevelopment. By the mid-Nineties, the Pier 97 Terminal Building on 11th Avenue, which serviced the Swedish American Line, and the West Side Elevated Highway you can see in the background of the film, were already gone. Pier 97, which has since been used as a carpark, is now being developed as a recreation area. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bickle’s nighttime meanderings centre around the old Times Square back when it was the notorious heart of the city’s less salubrious entertainment sector (“All the animals come out at night…”)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, porn, sex work and drugs haven’t disappeared entirely but they’ve been driven away from what is now the glittering centre of Big Apple tourism. It’s difficult to make out the buildings any more beneath all that eye-popping dazzle."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Bickle drops off a fare at one location which remains almost unchanged, the Hotel Olcott, 27 West 72nd Street on the Upper West Side."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Olcott is just west of the Dakota Building and, though it’s now a residential block, Mark David Chapman, the murderer of John Lennon, briefly stayed here while it was still a hotel. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Bickle whiles away his sleepless days in porno theatres. The scene of him plodding blankly along the street swigging on a bottle of Peach Brandy, which has gone on to become a classic image from the film, was shot on 8th Avenue at West 47th Street, just northeast of Times Square. He passes the Hollywood porno house. That canopy still remains but now marks the entrance to the Gray Line Visitor Center, 777 Eighth Avenue. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "His destination is the ‘Show and Tell’ Live Show and XXX Movies, which stood a little further along at 735 Eighth Avenue. The movie house, along with its neighbours, been replaced by the swish new Riu Plaza New York Times Square Hotel. Show and Tell’s concession girl, who gives Bickle such a hard time was more amenable in real life. It’s Diahnne Abbott, who went on to marry de Niro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bickle’s awkward but intriguing advances, get a better reception from Betsy (Cybill Shepherd), in his eyes the ideal of pristine femininity, who works in the campaign HQ to get Charles ‘We are the people’ Palantine elected president."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The campaign office is another lost location. It’s been replaced by the Bank of America Financial Center, on the southeast corner of Broadway and, believe it or not, Sesame Street (which is actually a stretch of West 63rd Street). You can still recognise the building’s distinctive footprint. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Wary but fascinated, Betsy meets Bickle for coffee and pie at what was Charles Coffee Shop, now redeveloped as a branch of drugstore Duane Reade, 4 Columbus Circle on the corner of Eighth Avenue at 58th Street, with that view of the Christopher Columbus Column. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nighttime shots give a glimpse of the old and notoriously rough Terminal Bar, Eighth Avenue on the northeast corner of West 41st Street, named after its position opposite the Port Authority Bus Terminal."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Terminal closed in 1982 and the block has been redeveloped as the New York Times Building. The all-night bar in Scorsese’s dark 1985 comedy After Hours was supposed to be the Terminal, and so the Emerald Pub in SoHo (which itself has now closed) stood in for it."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Up north, on Columbus Avenue at West 89th Street, Bickle’s cab is egged by a gang of youths. It’s another dodgy-looking area which has since been redeveloped. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Bickle, naively, takes Betsy to see a movie at the Lyric Theater, which is showing Sometime Sweet Susan (though the movie they actually watch is the controversial Swedish film Language of Love, a Sixties sex-ed documentary which found fame when a campaign by anti-pornography groups conferred on it a tantalizing reputation as a porn classic). Surprisingly, the ornate Lyric Theatre, 214 West 43rd Street, is still in business, though now as a legit live theatre currently (2019) hosting Harry Potter and the Cursed Child. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "The horrified Betsy storms out and the blossoming relationship ends abruptly. Bickle’s desperately pleading phone call to Betsy makes for one of the most emotionally painful sequences in the film, as Scorsese’s camera moves quietly away from the excruciating conversation."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Oddly, that public phone is in the West 53rd Street office entrance of the Ed Sullivan Theater, 1697 Broadway, home of The Late Show with Stephen Colbert. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The next sequence is disturbing in a whole different way. It begins straightforwardly enough as Bickle picks up a fare outside McAnn’s Bar, which stood at 692 Third Avenue at East 43rd Street (the premises now houses Muldoon’s Irish Pub). ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "When they arrive at the destination, the customer wants to just sit and talk… and talk… an endless flow of misogyny and hate. The troubled passenger was to have been played by George Memmoli (who played Philbin in Brian de Palma’s Phantom of the Paradise) but when he pulled out through illness, Scorsese took over the part himself."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The apartment block where the man fixates on the woman in the window is Tudor City Place at East 41st Street, a residential complex only a couple of blocks east of McAnn’s. Tudor City also appears in Splash!, Scarface and The Bourne Ultimatum, as well as becoming the residence of Norman Osborne / The Green Goblin in Sam Raimi’s Spider-Man films. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ This litany of bile seems to chime with Bickle. The cabbies’ hangout, where he confides that he’s having “bad ideas” to the Wizard (Peter Boyle) was the Belmore Cafeteria, which stood on Park Avenue South at 28th Street. It was a real 24/7 café that’s long since disappeared. You can glimpse it again in the original 1974 The Taking of Pelham 1-2-3. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ As a terrible plan begins to take shape, Bickle is picked up in – what else – a cab, to meet Easy Andy, a ‘travelling salesman’, on the northwest corner of Fifth Avenue at 19th Street. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ The hotel room where Andy enthusiastically presents Bickle with a tantalising array of weaponry is across the East River from Manhattan. It’s 87 Columbia Heights, Brooklyn, overlooking the Brooklyn Queens Expressway and the Brooklyn Bridge. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Still in Brooklyn is the Palantine rally where Bickle chats to the inscrutable secret service officer. This is Pineapple Walk on Cadman Plaza West, opposite Cadman Plaza Park, near Clark Street Station. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Now armed and bristling with pent-up frustration, Bickle gets his opportunity to act when he discovers his local grocery store being threatened. The ‘R&M Supermarket’, where he shoots the would-be robber is 546 Columbus Avenue, on the Upper West Side just three blocks south of where his cab got egged. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Beginning to fixate on Senator Palantine, he’s moved on as he sits idly in his cab watching another rally, held on Seventh Avenue at 38th Street. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "A ’new chapter’ begins when Bickle finds another innocent female to fixate on. He sees the worryingly young Iris (Jodie Foster) and her friend walking past the Variety Theatre, which is long gone."
+    },
+    {
+      "type": "paragraph",
+      "text": "They’re clearly being used for sex work and he follows them on to East 13th Street in the East Village."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Bickle ingratiates himself with Iris’s pimp, Matthew / Sport (Harvey Keitel) who hangs out in the doorway of 204 East 13th Street. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York",
+      "src": "_assets/tt0075314%20-%20Taxi-Driver/003.jpg",
+      "alt": "Taxi Driver location: The bloody shoot-up: 13th Street, East Village, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ A little further long, 226 East 13th Street, between Second and Third Avenues, is the decrepit hotel in which Iris is expected to provide services for paying customers but where Bickle wants only to talk to her. Of course, it’s now a smart private home. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Taxi Driver location: Bickle plans to shoot the candidate: Columbus Circle, New York",
+      "src": "_assets/tt0075314%20-%20Taxi-Driver/004.jpg",
+      "alt": "Taxi Driver location: Columbus Circle, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Now a man on a mission, Bickle turns up sporting a mohawk, intending to assassinate Palantine at the big rally held in Columbus Circle at the southwest corner of Central Park. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "When he’s thwarted, it’s back to the East Village and that hotel for the climactic bloodbath."
+    },
+    {
+      "type": "image",
+      "caption": "Taxi Driver location: Bickle is picked up by Betsy: St Regis Hotel, East 55th Street, New York",
+      "src": "_assets/tt0075314%20-%20Taxi-Driver/005.jpg",
+      "alt": "Taxi Driver location: Columbus Circle, New York"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ A quiet coda finds Bickle, several months later and now a hero, meeting once again with Betsy when he picks her up outside the St Regis Hotel, 2 East 55th Street at Fifth Avenue. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "The venerable hotel, opened by John Jacob Astor in 1904, is also featured in The Godfather, Woody Allen’s Radio Days and Hannah and Her Sisters, The Devil Wears Prada and The First Wives Club."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>New York</h3>\n<p>Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)</p>\n<p>Visit: New York</p>\n<p>Travel around: MTA</p>\n<p>Stay at: the St Regis Hotel, 2 East 55th Street, New York, NY 10022 (tel: 212.753.4500)</p>\n</section>",
+  "visit_info_text": "New York\nFlights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)\nVisit: New York\nTravel around: MTA\nStay at: the St Regis Hotel, 2 East 55th Street, New York, NY 10022 (tel: 212.753.4500)",
+  "visit_sections": [
+    {
+      "title": "New York",
+      "items": [
+        "Flights: John F Kennedy International Airport, New York, NY 11430 (tel: 718.244.4444)",
+        "Visit: New York",
+        "Travel around: MTA",
+        "Stay at: the St Regis Hotel, 2 East 55th Street, New York, NY 10022 (tel: 212.753.4500)"
+      ]
+    }
+  ]
+}

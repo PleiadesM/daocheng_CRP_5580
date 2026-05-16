@@ -1,0 +1,438 @@
+{
+  "imdb_id": "tt0086879",
+  "shorthand": "Amadeus",
+  "title": "Amadeus",
+  "year": 1984,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0086879 - Amadeus.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0086879 - Amadeus.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0086879.json",
+  "source_url": "http://www.movie-locations.com/movies/a/Amadeus.php",
+  "page_title": "Film locations for Amadeus (1984)",
+  "meta_description": "Filming locations for Milos Forman's Oscar-winning Amadeus, with F Murray Abraham and Tom Hulce; around Prague, including the Estates Theatre (previously the Tyl Theatre), the Archbishop's Palace and the Palace at Kromeriz",
+  "meta_keywords": "Amadeus, film locations, filming locations, travel, tourism, visit, set-jetting, prague, estates theatre, archbishop's palace, kromeriz, mozart, milos forman",
+  "og_title": "Filming Locations for Amadeus (1984)",
+  "og_description": "Visit the real filming locations for Milos Forman's Amadeus (1984), around Prague in the Czech Republic, including the Estates Theatre, the Archbishop's Palace and the Church of St Giles.",
+  "og_image": "http://www.movie-locations.com/movies/a/amadeus-meta.jpg",
+  "top250_rank": "93",
+  "movie_locations_title": "AMADEUS",
+  "movie_locations_regions": "Prague, Czech Republic",
+  "director": "Milos Forman",
+  "cast": [
+    "F Murray Abraham",
+    "Tom Hulce",
+    "Elizabeth Berridge",
+    "Simon Callow",
+    "Jeffrey Jones",
+    "Vincent Schiavelli",
+    "Nicholas Kepros",
+    "Kenny Baker",
+    "Cynthia Nixon"
+  ],
+  "locations": [
+    "Prague, Czech Republic"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0086879%20-%20Amadeus/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/002.jpg",
+    "exists": true,
+    "alt": "Amadeus poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/poster.jpg",
+    "corpus_asset_src": "../assets/tt0086879/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0086879%20-%20Amadeus/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/001.jpg",
+    "exists": true,
+    "alt": "Amadeus location: Estates Theatre, Zelezna Street, Prague",
+    "caption": "Amadeus location: the ‘Vienna’ opera house: Estates Theatre, Zelezna Street, Prague | wikimedia / Jorge Royan",
+    "width": 630,
+    "height": 420,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/001.jpg",
+    "corpus_asset_src": "../assets/tt0086879/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0086879%20-%20Amadeus/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/001.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Estates Theatre, Zelezna Street, Prague",
+      "caption": "Amadeus location: the ‘Vienna’ opera house: Estates Theatre, Zelezna Street, Prague | wikimedia / Jorge Royan",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/001.jpg",
+      "corpus_asset_src": "../assets/tt0086879/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/002.jpg",
+      "exists": true,
+      "alt": "Amadeus poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/002.jpg",
+      "corpus_asset_src": "../assets/tt0086879/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/003.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Maltézské pomoc, Lazenska, Mala Strana, Prague",
+      "caption": "Amadeus location: Salieri is discovered after attempting suicide: Maltézské pomoc, Lazenska, Mala Strana, Prague",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/003.jpg",
+      "corpus_asset_src": "../assets/tt0086879/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/004.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Maltézské pomoc, Lazenska, Mala Strana, Prague",
+      "caption": "Amadeus location: Salieri is discovered after attempting suicide: exterior of the Maltézské pomoc, Lazenska, Mala Strana, Prague",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/004.jpg",
+      "corpus_asset_src": "../assets/tt0086879/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/005.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Maltézské pomoc, Lazenska, Mala Strana, Prague",
+      "caption": "Amadeus location: the injured Salieri is rushed through the streets of 'Vienna': Misenska, Prague",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/005.jpg",
+      "corpus_asset_src": "../assets/tt0086879/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/006.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Kromeriz Palace, Czech Republic",
+      "caption": "Amadeus location: Salieri first encounters Mozart: Kromeriz Palace, Czech Republic | Photograph: iStockphoto / graphia76",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/006.jpg",
+      "corpus_asset_src": "../assets/tt0086879/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/007.jpg",
+      "exists": true,
+      "alt": "Amadeus location: the Archbishop's Palace, Prague",
+      "caption": "Amadeus location: the ‘emperor’s palace’: Archbishop’s Palace, Hradcany Square, Prague",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/007.jpg",
+      "corpus_asset_src": "../assets/tt0086879/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/008.jpg",
+      "exists": true,
+      "alt": "Amadeus location: the Archbishop's Palace, Prague",
+      "caption": "Amadeus location: Mozart tries on a succession of wigs: Danish Embassy, Maltezske nam, Prague",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/008.jpg",
+      "corpus_asset_src": "../assets/tt0086879/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/009.jpg",
+      "exists": true,
+      "alt": "Amadeus location: the Archbishop's Palace, Prague",
+      "caption": "Amadeus location: Wolfgang and Constanze are married: Church of St Giles, Husova, Stare Mesto, Prague",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/009.jpg",
+      "corpus_asset_src": "../assets/tt0086879/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/010.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Kanovnická, Mala Strana, Prague",
+      "caption": "Amadeus location: the home of Wolfgang and Constanze: Kanovnická, Mala Strana, Prague",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/010.jpg",
+      "corpus_asset_src": "../assets/tt0086879/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/011.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Kanovnická, Mala Strana, Prague",
+      "caption": "Amadeus location: the road leading to the home of Wolfgang and Constanze: Hradcanske nam, Mala Strana, Prague",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/011.jpg",
+      "corpus_asset_src": "../assets/tt0086879/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/012.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Valdstejnsky palac, Mala Strana, Prague",
+      "caption": "Amadeus location: the outdoor concert: Valdstejnsky palac, Mala Strana, Prague",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/012.jpg",
+      "corpus_asset_src": "../assets/tt0086879/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/013.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Estates Theatre, Zelezna Street, Prague",
+      "caption": "Amadeus location: the ‘Vienna’ opera house: exterior of Estates Theatre, Zelezna Street, Prague",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/013.jpg",
+      "corpus_asset_src": "../assets/tt0086879/013.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/014.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/014.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Maltézské nám, Mala Strana, Prague",
+      "caption": "Amadeus location: Salieri visits Mozart: Maltézské nám, Mala Strana, Prague",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/014.jpg",
+      "corpus_asset_src": "../assets/tt0086879/014.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0086879%20-%20Amadeus/015.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0086879 - Amadeus/015.jpg",
+      "exists": true,
+      "alt": "Amadeus location: Leopold Gate, Prague",
+      "caption": "Amadeus location: Mozart's coffin leaves the city: Leopold Gate, Prague",
+      "width": 630,
+      "height": 420,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0086879/015.jpg",
+      "corpus_asset_src": "../assets/tt0086879/015.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0086879/001.jpg\" alt=\"Amadeus location: Estates Theatre, Zelezna Street, Prague\"><figcaption>Amadeus location: the ‘Vienna’ opera house: Estates Theatre, Zelezna Street, Prague | wikimedia / Jorge Royan</figcaption></figure>\n<p><span class=\"name\">Peter Shaffer</span> adapts his own stage play – a fantasia on the supposed envy held by court composer Antonio Salieri for the brattish genius Wolfgang Amadeus Mozart – which was filmed almost entirely in real castles and palaces in <span class=\"name\">Prague</span> and throughout the <a href=\"https://www.movie-locations.com/places/europe/czech.php\">Czech Republic</a>.</p>\n<p>Only four sets were built for the movie – the Volkstheater, where Schikanader (<a href=\"https://www.movie-locations.com/people/c/callows.php\">Simon Callow</a>) stages a surreal pastiche of Mozart's work; Salieri’s hospital room; the interior of Mozart’s apartment; and the staircase where he meets his father, at <span class=\"name\">Prague</span>’s <span class=\"name\">Barrandov Studios</span>. The famous studios, in the suburb of <span class=\"name\">Hlubocepy</span>, were founded in 1933 by President <span class=\"name\">Vaclav Havel</span>’s uncle Milos.</p>\n<p>The relatively unchanged <span class=\"name\">Staré Mesto</span> (<span class=\"name\">Old Town</span>) and <span class=\"name\">Malá Strana</span> (<span class=\"name\">Lesser Town</span>) of <span class=\"name\">Prague</span> stand in for 18th century ‘Vienna’.\t\t</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/003.jpg\" alt=\"Amadeus location: Maltézské pomoc, Lazenska, Mala Strana, Prague\"><figcaption>Amadeus location: Salieri is discovered after attempting suicide: Maltézské pomoc, Lazenska, Mala Strana, Prague</figcaption></figure>\n<p><span class=\"name\">Malá Strana</span>, to the west, reached by the <span class=\"name\">Charles Bridge</span> (<span class=\"name\">Karluv Most</span>) over the Vltava River, is the first stop.</p>\n<p>The interior of Salieri's (<a href=\"https://www.movie-locations.com/people/a/abrahamfm.php\">F Murray Abraham</a>) home, where the older composer is discovered by servants after attempting suicide, is <span class=\"name\">Maltézské pomoc, Lazenska 2</span>,  <span class=\"name\">Malá Strana</span>, the former Palace of the Grand Prior of the Knights of Malta. For a while, this housed <span class=\"name\">Prague</span>’s Museum of Musical Instruments but it’s now home to the <span class=\"name\">Anglo-American College</span>, a private liberal arts college and not open to the public.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/004.jpg\" alt=\"Amadeus location: Maltézské pomoc, Lazenska, Mala Strana, Prague\"><figcaption>Amadeus location: Salieri is discovered after attempting suicide: exterior of the Maltézské pomoc, Lazenska, Mala Strana, Prague</figcaption></figure>\n<p>A little to the northeast of the Knights' Palace, the injured Salieri is rushed through the streets of old 'Vienna', represented by <span class=\"name\">Misenska</span>, a narrow, curved cobbled street running west from \n      <span class=\"name\">U Lužického semináře</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/005.jpg\" alt=\"Amadeus location: Maltézské pomoc, Lazenska, Mala Strana, Prague\"><figcaption>Amadeus location: the injured Salieri is rushed through the streets of 'Vienna': Misenska, Prague</figcaption></figure>\n<p>The hospital in which he's incarcerated and where he confesses all to the flummoxed young priest, is <span class=\"name\">Za Invalidovnou 579/3</span>, in the <span class=\"name\">Karlin</span> district to the northeast of the Old Town.</p>\n<p>The complex was built in 1737 based on the idea of Les Invalides in <span class=\"name\">Paris</span>, to house invalided war veterans and gives its name to the local metro station, <span class=\"name\">Invalidovna</span>.</p>\n<p>In 1935, the patients were moved to another facility and the building taken over for use by the Czech army, but after being damaged by the disastrous flood of 2002 it was closed and shuttered, until extensive renovations can be carried out.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/006.jpg\" alt=\"Amadeus location: Kromeriz Palace, Czech Republic\"><figcaption>Amadeus location: Salieri first encounters Mozart: Kromeriz Palace, Czech Republic | Photograph: iStockphoto / graphia76</figcaption></figure>\n<p>The story flashes back to Salieri's first encounter with Mozart (<a href=\"https://www.movie-locations.com/people/h/hulcet.php\">Tom Hulce</a>), when he sets himself the goal of recognising the the young prodigy at a concert given by the Prince Archbishop Colloredo of Salzburg. The lavish interior of the Prince's palace is the Baroque <a href=\"http://www.zamek-kromeriz.cz/en/\" target=\"_blank\">Kromeriz Castle</a>, northern Moravia in the eastern part of the <a href=\"https://www.movie-locations.com/places/europe/czech.php\">Czech Republic</a>, the one-time residence of bishops and archbishops of Olomouc in Moravia.</p>\n<p>The castle’s Audience Chamber was also used in another classical biopic, 1994's <span class=\"name\">Immortal Beloved</span>, with <a href=\"https://www.movie-locations.com/people/o/oldmang.php\">Gary Oldman</a> as Beethoven. The palace and its gardens are open for guided tours.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/007.jpg\" alt=\"Amadeus location: the Archbishop's Palace, Prague\"><figcaption>Amadeus location: the ‘emperor’s palace’: Archbishop’s Palace, Hradcany Square, Prague</figcaption></figure>\n<p>The palace of Vienna's Emperor Joseph II (<a href=\"https://www.movie-locations.com/people/j/jonesj.php\">Jeffrey Jones</a>) is the restored <span class=\"name\">Archbishop’s Palace</span> (<span class=\"name\">Arcibiskupsky Palác</span>, formerly Gryspek Palace) on <span class=\"name\">Hradcanské námestí</span> (<span class=\"name\">Hradcany Square</span>), the residence of Prague's archbishops since 1562.</p>\n<p>Originally a Renaissance mansion, it was bought by <span class=\"name\">Ferdinand I</span> from the Royal Private Secretary – <span class=\"name\">Florian von Gryspek</span> – and presented to the Catholic Archbishop of Prague. During the 16th century it was rebuilt and extended before being remodelled in the Baroque style between 1675 and 1688. In 1764 <span class=\"name\">Johan Joseph Wirch </span>reworked it into Rococo style and decorated the interior in sumptuous splendour. It's the HQ of the Catholic Church in Prague and not open to the public.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/008.jpg\" alt=\"Amadeus location: the Archbishop's Palace, Prague\"><figcaption>Amadeus location: Mozart tries on a succession of wigs: Danish Embassy, Maltezske nam, Prague</figcaption></figure>\n<p>The excitable Mozart gets a little too enthusiastic when trying on a selection of extravagant wigs. Oddly, this 'wigmaker shop' is <span class=\"name\">Prague</span>'s <span class=\"name\">Danish Embassy, Maltezske nam 5</span>, a little west of the Knight's Palace.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/009.jpg\" alt=\"Amadeus location: the Archbishop's Palace, Prague\"><figcaption>Amadeus location: Wolfgang and Constanze are married: Church of St Giles, Husova, Stare Mesto, Prague</figcaption></figure>\n<p>Finally, to the Old Town itself where Mozart, against his father's wishes, marries Constanze in <span class=\"name\">Kostel svateho Jilji (Church of St Giles), Husova 17</span> – easily overlooked, being tucked away in the maze of tiny streets south of <span class=\"name\">Staroměstské náměstí</span>, the <span class=\"name\">Old Town Square</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/010.jpg\" alt=\"Amadeus location: Kanovnická, Mala Strana, Prague\"><figcaption>Amadeus location: the home of Wolfgang and Constanze: Kanovnická, Mala Strana, Prague</figcaption></figure>\n<p>It's back to <span class=\"name\">Malá Strana</span> and the northwest corner of  <span class=\"name\">Hradcanské námestí</span>, where a golden sunburst was added over the nautical coat-of-arms above the door at <span class=\"name\">Kanovnická 2</span>, to become the home of Wolfgang and Constanze.\n\t\t\n\t\t</p>\n<p>You can briefly glimpse <span class=\"name\">Mozart</span>'s real house in Vienna\n in in <a href=\"https://www.movie-locations.com/people/c/cavanil.php\">Liliana Cavani</a>'s perverse 1974 drama <a href=\"https://www.movie-locations.com/movies/n/Night-Porter.php\">The Night Porter</a>, with <a href=\"https://www.movie-locations.com/people/b/bogarded.php\">Dirk Bogarde</a> and <a href=\"https://www.movie-locations.com/people/r/ramplingc.php\">Charlotte Rampling</a>.        \n\t\t</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/011.jpg\" alt=\"Amadeus location: Kanovnická, Mala Strana, Prague\"><figcaption>Amadeus location: the road leading to the home of Wolfgang and Constanze: Hradcanske nam, Mala Strana, Prague</figcaption></figure>\n<p>The beautifully unchanged houses along the north side of <span class=\"name\">Hradcanské námestí</span> provide the suitably period approach to their house.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/012.jpg\" alt=\"Amadeus location: Valdstejnsky palac, Mala Strana, Prague\"><figcaption>Amadeus location: the outdoor concert: Valdstejnsky palac, Mala Strana, Prague</figcaption></figure>\n<p>Mozart's open-air concert for the Pope was filmed at the <span class=\"name\">Wallenstein Gardens</span> of <a href=\"http://www.prague.eu/en/object/places/468/wallenstein-palace-valdstejnsky-palac\" target=\"_blank\">Valdštejnský palác</a> (<span class=\"name\">Wallenstein Palace</span><span class=\"cap\">), </span><span class=\"name\">Valdstejnske nam 4</span>. This vast palace complex, the first monumental early Baroque secular building in Prague, was built in 1630 for one of the most powerful and wealthy Czech noblemen of the period, <span class=\"name\">Albrecht von Wallenstein</span>. Today it is the seat of the Czech Senate, and the gardens are open to the public.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/013.jpg\" alt=\"Amadeus location: Estates Theatre, Zelezna Street, Prague\"><figcaption>Amadeus location: the ‘Vienna’ opera house: exterior of Estates Theatre, Zelezna Street, Prague</figcaption></figure>\n<p>The opera performances – <span class=\"ital\">Seraglio</span>, <span class=\"ital\">Marriage of Figaro</span> and <span class=\"ital\">Don Giovanni</span> – were filmed in the unchanged <a href=\"http://www.narodni-divadlo.cz/cs\" target=\"_blank\">Prague Estates Theatre</a> (formerly the Tyl Theatre), <span class=\"name\">Zelezna ulice 11</span> (<span class=\"name\">Zelezna Street</span>) at Havirska Street in <span class=\"name\">Staré Mesto</span> southeast of the Old Town Square. Built in 1783 for <span class=\"name\">Count Anton von Nostitz-Rieneck</span>, as the Nostitz Theatre, it became the German Theatre in the mid-19th century until 1945, when it was renamed for Czech dramatist and actor <span class=\"name\">Josef Kajetan Tyl</span>.</p>\n<p>During his lifetime, Mozart was always more appreciated in <span class=\"name\">Prague</span> than in Vienna, and the composer actually staged the première of <span class=\"ital\">Don Giovann</span>i at the <a href=\"http://www.narodni-divadlo.cz/cs\" target=\"_blank\">Estates</a>, on 29 October 1787. The theatre is featured again in <a href=\"https://www.movie-locations.com/people/c/cohenr.php\">Rob Cohen</a>’s adrenaline-fuelled <a href=\"https://www.movie-locations.com/movies/x/XXX-2002.php\">XXX</a>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/014.jpg\" alt=\"Amadeus location: Maltézské nám, Mala Strana, Prague\"><figcaption>Amadeus location: Salieri visits Mozart: Maltézské nám, Mala Strana, Prague</figcaption></figure>\n<p>The increasingly bitter Salieri plots a terrible punishment for the man he perceives as God's favourite. The low, arched passageway through which  Salieri walks to visit Mozart can be seen on the eastern side of <span class=\"name\">Maltézské nám</span>, just south of Lazenska – directly opposite the Danish Embassy location. It now houses smart terrace cafes.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0086879/015.jpg\" alt=\"Amadeus location: Leopold Gate, Prague\"><figcaption>Amadeus location: Mozart's coffin leaves the city: Leopold Gate, Prague</figcaption></figure>\n<p>When  Salieri's cruel scheme comes to its conclusion, the body of Mozart leaves the city via the <a href=\"http://www.welcometoprague.eu/leopold-s-gate\" target=\"_blank\">Leopold Gate</a>,<span class=\"name\">128 00 Vyšehrad</span>, to be an unceremoniously dumped into a paupers' mass grave. The <a href=\"http://www.welcometoprague.eu/leopold-s-gate\" target=\"_blank\">Gate</a>, dating from 1672, is part of <span class=\"name\">Vyšehrad</span> (<span class=\"name\">Upper Castle</span>), a historic fort south of the city abandoned as a \n\t\t\n\t\troyal home in the 14th Century when Prague Castle was built on the other side of the Vltava River.</p>\n<p>It was remodelled in the Baroque style and, around 1840, was adjusted to operate as a drawbridge – you can see the double pulley holes, with which the bridge was controlled.</p>",
+  "main_content_text": "Peter Shaffer adapts his own stage play – a fantasia on the supposed envy held by court composer Antonio Salieri for the brattish genius Wolfgang Amadeus Mozart – which was filmed almost entirely in real castles and palaces in Prague and throughout the Czech Republic.\n\nOnly four sets were built for the movie – the Volkstheater, where Schikanader (Simon Callow) stages a surreal pastiche of Mozart's work; Salieri’s hospital room; the interior of Mozart’s apartment; and the staircase where he meets his father, at Prague’s Barrandov Studios. The famous studios, in the suburb of Hlubocepy, were founded in 1933 by President Vaclav Havel’s uncle Milos.\n\nThe relatively unchanged Staré Mesto (Old Town) and Malá Strana (Lesser Town) of Prague stand in for 18th century ‘Vienna’.\n\nMalá Strana, to the west, reached by the Charles Bridge (Karluv Most) over the Vltava River, is the first stop.\n\nThe interior of Salieri's (F Murray Abraham) home, where the older composer is discovered by servants after attempting suicide, is Maltézské pomoc, Lazenska 2, Malá Strana, the former Palace of the Grand Prior of the Knights of Malta. For a while, this housed Prague’s Museum of Musical Instruments but it’s now home to the Anglo-American College, a private liberal arts college and not open to the public.\n\nA little to the northeast of the Knights' Palace, the injured Salieri is rushed through the streets of old 'Vienna', represented by Misenska, a narrow, curved cobbled street running west from U Lužického semináře.\n\nThe hospital in which he's incarcerated and where he confesses all to the flummoxed young priest, is Za Invalidovnou 579/3, in the Karlin district to the northeast of the Old Town.\n\nThe complex was built in 1737 based on the idea of Les Invalides in Paris, to house invalided war veterans and gives its name to the local metro station, Invalidovna.\n\nIn 1935, the patients were moved to another facility and the building taken over for use by the Czech army, but after being damaged by the disastrous flood of 2002 it was closed and shuttered, until extensive renovations can be carried out.\n\nThe story flashes back to Salieri's first encounter with Mozart (Tom Hulce), when he sets himself the goal of recognising the the young prodigy at a concert given by the Prince Archbishop Colloredo of Salzburg. The lavish interior of the Prince's palace is the Baroque Kromeriz Castle, northern Moravia in the eastern part of the Czech Republic, the one-time residence of bishops and archbishops of Olomouc in Moravia.\n\nThe castle’s Audience Chamber was also used in another classical biopic, 1994's Immortal Beloved, with Gary Oldman as Beethoven. The palace and its gardens are open for guided tours.\n\nThe palace of Vienna's Emperor Joseph II (Jeffrey Jones) is the restored Archbishop’s Palace (Arcibiskupsky Palác, formerly Gryspek Palace) on Hradcanské námestí (Hradcany Square), the residence of Prague's archbishops since 1562.\n\nOriginally a Renaissance mansion, it was bought by Ferdinand I from the Royal Private Secretary – Florian von Gryspek – and presented to the Catholic Archbishop of Prague. During the 16th century it was rebuilt and extended before being remodelled in the Baroque style between 1675 and 1688. In 1764 Johan Joseph Wirch reworked it into Rococo style and decorated the interior in sumptuous splendour. It's the HQ of the Catholic Church in Prague and not open to the public.\n\nThe excitable Mozart gets a little too enthusiastic when trying on a selection of extravagant wigs. Oddly, this 'wigmaker shop' is Prague's Danish Embassy, Maltezske nam 5, a little west of the Knight's Palace.\n\nFinally, to the Old Town itself where Mozart, against his father's wishes, marries Constanze in Kostel svateho Jilji (Church of St Giles), Husova 17 – easily overlooked, being tucked away in the maze of tiny streets south of Staroměstské náměstí, the Old Town Square.\n\nIt's back to Malá Strana and the northwest corner of Hradcanské námestí, where a golden sunburst was added over the nautical coat-of-arms above the door at Kanovnická 2, to become the home of Wolfgang and Constanze.\n\nYou can briefly glimpse Mozart's real house in Vienna in in Liliana Cavani's perverse 1974 drama The Night Porter, with Dirk Bogarde and Charlotte Rampling.\n\nThe beautifully unchanged houses along the north side of Hradcanské námestí provide the suitably period approach to their house.\n\nMozart's open-air concert for the Pope was filmed at the Wallenstein Gardens of Valdštejnský palác (Wallenstein Palace), Valdstejnske nam 4. This vast palace complex, the first monumental early Baroque secular building in Prague, was built in 1630 for one of the most powerful and wealthy Czech noblemen of the period, Albrecht von Wallenstein. Today it is the seat of the Czech Senate, and the gardens are open to the public.\n\nThe opera performances – Seraglio, Marriage of Figaro and Don Giovanni – were filmed in the unchanged Prague Estates Theatre (formerly the Tyl Theatre), Zelezna ulice 11 (Zelezna Street) at Havirska Street in Staré Mesto southeast of the Old Town Square. Built in 1783 for Count Anton von Nostitz-Rieneck, as the Nostitz Theatre, it became the German Theatre in the mid-19th century until 1945, when it was renamed for Czech dramatist and actor Josef Kajetan Tyl.\n\nDuring his lifetime, Mozart was always more appreciated in Prague than in Vienna, and the composer actually staged the première of Don Giovanni at the Estates, on 29 October 1787. The theatre is featured again in Rob Cohen’s adrenaline-fuelled XXX.\n\nThe increasingly bitter Salieri plots a terrible punishment for the man he perceives as God's favourite. The low, arched passageway through which Salieri walks to visit Mozart can be seen on the eastern side of Maltézské nám, just south of Lazenska – directly opposite the Danish Embassy location. It now houses smart terrace cafes.\n\nWhen Salieri's cruel scheme comes to its conclusion, the body of Mozart leaves the city via the Leopold Gate,128 00 Vyšehrad, to be an unceremoniously dumped into a paupers' mass grave. The Gate, dating from 1672, is part of Vyšehrad (Upper Castle), a historic fort south of the city abandoned as a royal home in the 14th Century when Prague Castle was built on the other side of the Vltava River.\n\nIt was remodelled in the Baroque style and, around 1840, was adjusted to operate as a drawbridge – you can see the double pulley holes, with which the bridge was controlled.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Amadeus location: the ‘Vienna’ opera house: Estates Theatre, Zelezna Street, Prague | wikimedia / Jorge Royan",
+      "src": "_assets/tt0086879%20-%20Amadeus/001.jpg",
+      "alt": "Amadeus location: Estates Theatre, Zelezna Street, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "Peter Shaffer adapts his own stage play – a fantasia on the supposed envy held by court composer Antonio Salieri for the brattish genius Wolfgang Amadeus Mozart – which was filmed almost entirely in real castles and palaces in Prague and throughout the Czech Republic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Only four sets were built for the movie – the Volkstheater, where Schikanader (Simon Callow) stages a surreal pastiche of Mozart's work; Salieri’s hospital room; the interior of Mozart’s apartment; and the staircase where he meets his father, at Prague’s Barrandov Studios. The famous studios, in the suburb of Hlubocepy, were founded in 1933 by President Vaclav Havel’s uncle Milos."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relatively unchanged Staré Mesto (Old Town) and Malá Strana (Lesser Town) of Prague stand in for 18th century ‘Vienna’."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: Salieri is discovered after attempting suicide: Maltézské pomoc, Lazenska, Mala Strana, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/003.jpg",
+      "alt": "Amadeus location: Maltézské pomoc, Lazenska, Mala Strana, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "Malá Strana, to the west, reached by the Charles Bridge (Karluv Most) over the Vltava River, is the first stop."
+    },
+    {
+      "type": "paragraph",
+      "text": "The interior of Salieri's (F Murray Abraham) home, where the older composer is discovered by servants after attempting suicide, is Maltézské pomoc, Lazenska 2, Malá Strana, the former Palace of the Grand Prior of the Knights of Malta. For a while, this housed Prague’s Museum of Musical Instruments but it’s now home to the Anglo-American College, a private liberal arts college and not open to the public."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: Salieri is discovered after attempting suicide: exterior of the Maltézské pomoc, Lazenska, Mala Strana, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/004.jpg",
+      "alt": "Amadeus location: Maltézské pomoc, Lazenska, Mala Strana, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "A little to the northeast of the Knights' Palace, the injured Salieri is rushed through the streets of old 'Vienna', represented by Misenska, a narrow, curved cobbled street running west from U Lužického semináře."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: the injured Salieri is rushed through the streets of 'Vienna': Misenska, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/005.jpg",
+      "alt": "Amadeus location: Maltézské pomoc, Lazenska, Mala Strana, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "The hospital in which he's incarcerated and where he confesses all to the flummoxed young priest, is Za Invalidovnou 579/3, in the Karlin district to the northeast of the Old Town."
+    },
+    {
+      "type": "paragraph",
+      "text": "The complex was built in 1737 based on the idea of Les Invalides in Paris, to house invalided war veterans and gives its name to the local metro station, Invalidovna."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1935, the patients were moved to another facility and the building taken over for use by the Czech army, but after being damaged by the disastrous flood of 2002 it was closed and shuttered, until extensive renovations can be carried out."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: Salieri first encounters Mozart: Kromeriz Palace, Czech Republic | Photograph: iStockphoto / graphia76",
+      "src": "_assets/tt0086879%20-%20Amadeus/006.jpg",
+      "alt": "Amadeus location: Kromeriz Palace, Czech Republic"
+    },
+    {
+      "type": "paragraph",
+      "text": "The story flashes back to Salieri's first encounter with Mozart (Tom Hulce), when he sets himself the goal of recognising the the young prodigy at a concert given by the Prince Archbishop Colloredo of Salzburg. The lavish interior of the Prince's palace is the Baroque Kromeriz Castle, northern Moravia in the eastern part of the Czech Republic, the one-time residence of bishops and archbishops of Olomouc in Moravia."
+    },
+    {
+      "type": "paragraph",
+      "text": "The castle’s Audience Chamber was also used in another classical biopic, 1994's Immortal Beloved, with Gary Oldman as Beethoven. The palace and its gardens are open for guided tours."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: the ‘emperor’s palace’: Archbishop’s Palace, Hradcany Square, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/007.jpg",
+      "alt": "Amadeus location: the Archbishop's Palace, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "The palace of Vienna's Emperor Joseph II (Jeffrey Jones) is the restored Archbishop’s Palace (Arcibiskupsky Palác, formerly Gryspek Palace) on Hradcanské námestí (Hradcany Square), the residence of Prague's archbishops since 1562."
+    },
+    {
+      "type": "paragraph",
+      "text": "Originally a Renaissance mansion, it was bought by Ferdinand I from the Royal Private Secretary – Florian von Gryspek – and presented to the Catholic Archbishop of Prague. During the 16th century it was rebuilt and extended before being remodelled in the Baroque style between 1675 and 1688. In 1764 Johan Joseph Wirch reworked it into Rococo style and decorated the interior in sumptuous splendour. It's the HQ of the Catholic Church in Prague and not open to the public."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: Mozart tries on a succession of wigs: Danish Embassy, Maltezske nam, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/008.jpg",
+      "alt": "Amadeus location: the Archbishop's Palace, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "The excitable Mozart gets a little too enthusiastic when trying on a selection of extravagant wigs. Oddly, this 'wigmaker shop' is Prague's Danish Embassy, Maltezske nam 5, a little west of the Knight's Palace."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: Wolfgang and Constanze are married: Church of St Giles, Husova, Stare Mesto, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/009.jpg",
+      "alt": "Amadeus location: the Archbishop's Palace, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, to the Old Town itself where Mozart, against his father's wishes, marries Constanze in Kostel svateho Jilji (Church of St Giles), Husova 17 – easily overlooked, being tucked away in the maze of tiny streets south of Staroměstské náměstí, the Old Town Square."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: the home of Wolfgang and Constanze: Kanovnická, Mala Strana, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/010.jpg",
+      "alt": "Amadeus location: Kanovnická, Mala Strana, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's back to Malá Strana and the northwest corner of Hradcanské námestí, where a golden sunburst was added over the nautical coat-of-arms above the door at Kanovnická 2, to become the home of Wolfgang and Constanze."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can briefly glimpse Mozart's real house in Vienna in in Liliana Cavani's perverse 1974 drama The Night Porter, with Dirk Bogarde and Charlotte Rampling."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: the road leading to the home of Wolfgang and Constanze: Hradcanske nam, Mala Strana, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/011.jpg",
+      "alt": "Amadeus location: Kanovnická, Mala Strana, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "The beautifully unchanged houses along the north side of Hradcanské námestí provide the suitably period approach to their house."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: the outdoor concert: Valdstejnsky palac, Mala Strana, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/012.jpg",
+      "alt": "Amadeus location: Valdstejnsky palac, Mala Strana, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mozart's open-air concert for the Pope was filmed at the Wallenstein Gardens of Valdštejnský palác (Wallenstein Palace), Valdstejnske nam 4. This vast palace complex, the first monumental early Baroque secular building in Prague, was built in 1630 for one of the most powerful and wealthy Czech noblemen of the period, Albrecht von Wallenstein. Today it is the seat of the Czech Senate, and the gardens are open to the public."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: the ‘Vienna’ opera house: exterior of Estates Theatre, Zelezna Street, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/013.jpg",
+      "alt": "Amadeus location: Estates Theatre, Zelezna Street, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "The opera performances – Seraglio, Marriage of Figaro and Don Giovanni – were filmed in the unchanged Prague Estates Theatre (formerly the Tyl Theatre), Zelezna ulice 11 (Zelezna Street) at Havirska Street in Staré Mesto southeast of the Old Town Square. Built in 1783 for Count Anton von Nostitz-Rieneck, as the Nostitz Theatre, it became the German Theatre in the mid-19th century until 1945, when it was renamed for Czech dramatist and actor Josef Kajetan Tyl."
+    },
+    {
+      "type": "paragraph",
+      "text": "During his lifetime, Mozart was always more appreciated in Prague than in Vienna, and the composer actually staged the première of Don Giovanni at the Estates, on 29 October 1787. The theatre is featured again in Rob Cohen’s adrenaline-fuelled XXX."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: Salieri visits Mozart: Maltézské nám, Mala Strana, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/014.jpg",
+      "alt": "Amadeus location: Maltézské nám, Mala Strana, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "The increasingly bitter Salieri plots a terrible punishment for the man he perceives as God's favourite. The low, arched passageway through which Salieri walks to visit Mozart can be seen on the eastern side of Maltézské nám, just south of Lazenska – directly opposite the Danish Embassy location. It now houses smart terrace cafes."
+    },
+    {
+      "type": "image",
+      "caption": "Amadeus location: Mozart's coffin leaves the city: Leopold Gate, Prague",
+      "src": "_assets/tt0086879%20-%20Amadeus/015.jpg",
+      "alt": "Amadeus location: Leopold Gate, Prague"
+    },
+    {
+      "type": "paragraph",
+      "text": "When Salieri's cruel scheme comes to its conclusion, the body of Mozart leaves the city via the Leopold Gate,128 00 Vyšehrad, to be an unceremoniously dumped into a paupers' mass grave. The Gate, dating from 1672, is part of Vyšehrad (Upper Castle), a historic fort south of the city abandoned as a royal home in the 14th Century when Prague Castle was built on the other side of the Vltava River."
+    },
+    {
+      "type": "paragraph",
+      "text": "It was remodelled in the Baroque style and, around 1840, was adjusted to operate as a drawbridge – you can see the double pulley holes, with which the bridge was controlled."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>Czech Republic</h3>\n<p>Visit: Czech Republic</p>\n<p>Visit: Prague</p>\n<p>Flights: Václav Havel Airport Prague, Aviatická, 161 08 Praha 6 (tel: 420.220.111.888)</p>\n<p>Visit: Prague Estates Theatre, Železná ulice / Ovocný trh, Praha 1 (tel: 420.224.901.448)</p>\n<p>Visit: Kromeriz Castle, Sněmovní nám. 1, 767 01 Kroměříž (tel: 420.573.502.011)</p>\n</section>",
+  "visit_info_text": "Czech Republic\nVisit: Czech Republic\nVisit: Prague\nFlights: Václav Havel Airport Prague, Aviatická, 161 08 Praha 6 (tel: 420.220.111.888)\nVisit: Prague Estates Theatre, Železná ulice / Ovocný trh, Praha 1 (tel: 420.224.901.448)\nVisit: Kromeriz Castle, Sněmovní nám. 1, 767 01 Kroměříž (tel: 420.573.502.011)",
+  "visit_sections": [
+    {
+      "title": "Czech Republic",
+      "items": [
+        "Visit: Czech Republic",
+        "Visit: Prague",
+        "Flights: Václav Havel Airport Prague, Aviatická, 161 08 Praha 6 (tel: 420.220.111.888)",
+        "Visit: Prague Estates Theatre, Železná ulice / Ovocný trh, Praha 1 (tel: 420.224.901.448)",
+        "Visit: Kromeriz Castle, Sněmovní nám. 1, 767 01 Kroměříž (tel: 420.573.502.011)"
+      ]
+    }
+  ]
+}

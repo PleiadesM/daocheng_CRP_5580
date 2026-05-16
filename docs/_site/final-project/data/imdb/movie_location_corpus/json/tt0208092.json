@@ -1,0 +1,245 @@
+{
+  "imdb_id": "tt0208092",
+  "shorthand": "Snatch-2000",
+  "title": "Snatch",
+  "year": 2000,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt0208092 - Snatch-2000.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt0208092 - Snatch-2000.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt0208092.json",
+  "source_url": "http://www.movie-locations.com/movies/s/Snatch-2000.php",
+  "page_title": "Snatch | Film Locations",
+  "meta_description": "Film locations for Guy Ritchie's Snatch (2000), around London.",
+  "meta_keywords": "Snatch (2000), film locations, filming locations, tourism, travel, set-jetting, london, guy ritchie, brad pitt",
+  "og_title": "Film Locations for Guy Ritchie's Snatch (2000), around London.",
+  "og_description": "Travel guide to filming locations for Guy Ritchie's Snatch (2000), around London.",
+  "og_image": "http://www.movie-locations.com/movies/s/Snatch-Mitre-Pub-ext.jpg",
+  "top250_rank": "184",
+  "movie_locations_title": "SNATCH",
+  "movie_locations_regions": "London",
+  "director": "Guy Ritchie",
+  "cast": [
+    "Jason Statham",
+    "Lennie James",
+    "Alan Ford",
+    "Vinnie Jones",
+    "Brad Pitt",
+    "Benicio Del Toro",
+    "Ade",
+    "Rade Serbedzija",
+    "Ewen Bremner",
+    "Robbie Gee"
+  ],
+  "locations": [
+    "London"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt0208092%20-%20Snatch-2000/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0208092 - Snatch-2000/002.jpg",
+    "exists": true,
+    "alt": "Snatch poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0208092/poster.jpg",
+    "corpus_asset_src": "../assets/tt0208092/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt0208092%20-%20Snatch-2000/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0208092 - Snatch-2000/001.jpg",
+    "exists": true,
+    "alt": "Snatch film location: Ye Old Mitre Tavern, Hatton Garden, London EC1",
+    "caption": "Snatch film location: Ye Old Mitre Tavern, Hatton Garden, London EC1",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0208092/001.jpg",
+    "corpus_asset_src": "../assets/tt0208092/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0208092 - Snatch-2000/001.jpg",
+      "exists": true,
+      "alt": "Snatch film location: Ye Old Mitre Tavern, Hatton Garden, London EC1",
+      "caption": "Snatch film location: Ye Old Mitre Tavern, Hatton Garden, London EC1",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0208092/001.jpg",
+      "corpus_asset_src": "../assets/tt0208092/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0208092 - Snatch-2000/002.jpg",
+      "exists": true,
+      "alt": "Snatch poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0208092/002.jpg",
+      "corpus_asset_src": "../assets/tt0208092/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0208092 - Snatch-2000/003.jpg",
+      "exists": true,
+      "alt": "Snatch film location: Hatton Garden, London EC1",
+      "caption": "Snatch film location: Doug the Head's diamond store: Hatton Garden, London EC1",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0208092/003.jpg",
+      "corpus_asset_src": "../assets/tt0208092/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0208092 - Snatch-2000/004.jpg",
+      "exists": true,
+      "alt": "Snatch film location: 88 Teesdale Street, Bethnal Green, London E2",
+      "caption": "Snatch film location: Sol's pawn shop: 88 Teesdale Street, Bethnal Green, London E2",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0208092/004.jpg",
+      "corpus_asset_src": "../assets/tt0208092/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0208092 - Snatch-2000/005.jpg",
+      "exists": true,
+      "alt": "Snatch film location: Jester's Amusements, Broadway, West Ealing, London W7",
+      "caption": "Snatch film location: Turkish's office: Jester's Amusements, Broadway, West Ealing, London W7",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0208092/005.jpg",
+      "corpus_asset_src": "../assets/tt0208092/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0208092 - Snatch-2000/006.jpg",
+      "exists": true,
+      "alt": "Snatch film location: 41 Tees Avenue, Perivale",
+      "caption": "Snatch film location: the home of Boris the Blade: Tees Avenue, Perivale",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0208092/006.jpg",
+      "corpus_asset_src": "../assets/tt0208092/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0208092 - Snatch-2000/007.jpg",
+      "exists": true,
+      "alt": "Snatch film location: Caesar's, Streatham Hill, London SW2",
+      "caption": "Snatch film location: The unlicensed boxing match: Caesars (since demolished), Streatham Hill, London SW2",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0208092/007.jpg",
+      "corpus_asset_src": "../assets/tt0208092/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt0208092 - Snatch-2000/008.jpg",
+      "exists": true,
+      "alt": "Snatch film location: The Jolly Gardeners, Black Prince Road, Lambeth, London SE11",
+      "caption": "Snatch film location: ‘The Drowning Trout’: Zeitgeist, formerly The Jolly Gardeners, Black Prince Road, Lambeth, London SE11",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt0208092/008.jpg",
+      "corpus_asset_src": "../assets/tt0208092/008.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt0208092/001.jpg\" alt=\"Snatch film location: Ye Old Mitre Tavern, Hatton Garden, London EC1\"><figcaption>Snatch film location: Ye Old Mitre Tavern, Hatton Garden, London EC1</figcaption></figure>\n<p>Where else would you expect to find the locations for a <a href=\"https://www.movie-locations.com/people/r/ritchieg.php\">Guy Ritchie</a> gangster movie but in <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>? It’s snappy and inventive, to be sure, but the director’s compulsive laddishness was starting to outstay its welcome.</p>\n<p>The diamond store of Doug the Head (<span class=\"name\">Mike Reid</span>) is <span class=\"name\">Premier House, 12-13 Hatton Garden, EC1</span>, near Holborn. His nearby local (where director <a href=\"https://www.movie-locations.com/people/r/ritchieg.php\">Ritchie</a> puts in a microcameo as Man Reading Newspaper) is <a href=\"http://www.yeoldemitreholborn.co.uk/\" target=\"_blank\">Ye Olde Mitre Tavern</a>, <span class=\"name\">between 8 &amp; 9 Hatton Gardens</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0208092/003.jpg\" alt=\"Snatch film location: Hatton Garden, London EC1\"><figcaption>Snatch film location: Doug the Head's diamond store: Hatton Garden, London EC1</figcaption></figure>\n<p>For once the ‘Ye Olde’ isn’t a <span class=\"ital\">faux</span> addition from the 70s, but the real deal. Tucked away in the narrow alley between <span class=\"name\">8 and 9 Hatton Garden</span>, marked by an old crooked street lamp and a small sign in the shape of a bishop’s mitre, is this this tiny pub, with wood-panelled bars. Local workers ensure that it can get pretty busy at lunchtimes.</p>\n<p>The pub was built in 1547 for servants of the palace of the Bishops of Ely, <a href=\"https://www.movie-locations.com/places/uk/cambs.php\">Cambridgeshire</a> (and is technically still part of that county), but after the reformation, <span class=\"name\">Queen Elizabeth I</span> obliged the bishops to rent land to one of her courtiers, <span class=\"name\">Sir Christopher Hatton</span>, hence the name of the area. Shades of <a href=\"https://www.movie-locations.com/movies/p/Passport-To-Pimlico.php\">Passport to Pimlico</a> – since the bar is technically not part of <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>, legend has it that police must ask permission to enter – which is quite possibly why it’s Doug’s local.</p>\n<p>Naturally, it’s off to <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>’s <span class=\"name\">East End</span>, specifically <span class=\"name\">Bethnal Green</span>, the old stamping ground of the <span class=\"name\">Kray</span> twins in the 60s – see <a href=\"https://www.movie-locations.com/people/m/medakp.php\">Peter Medak</a>’s <a href=\"https://www.movie-locations.com/movies/k/Krays.php\">The Krays</a> or <a href=\"https://www.movie-locations.com/people/h/helgelandb.php\">Brian Helgeland</a>'s <a href=\"https://www.movie-locations.com/movies/l/Legend-2015.php\">Legend</a> for two contrasting takes on their career.</p>\n<p><span class=\"name\">88 Teesdale Street, E2</span>, became Sol’s (<a href=\"https://www.movie-locations.com/people/j/jamesl.php\">Lennie James</a>) pawn shop. Just along the street, by the way, 112a Teesdale Street was the ‘Albion Rooms’, the flat shared, in matier times, by <span class=\"name\">Pete Docherty</span> and <span class=\"name\">Carl Barat</span> of <span class=\"name\">The Libertines</span>.</p>\n<p><span class=\"name\">Bethnal Green Town Hall, Cambridge Heath Road</span> at Patriot Square (also used in <a href=\"https://www.movie-locations.com/movies/l/Lock-Stock-And-Two-Smoking-Barrels.php\">Lock, Stock and Two Smoking Barrels</a>), became the tailor of Franky Four Fingers (<a href=\"https://www.movie-locations.com/people/d/deltorob.php\">Benicio Del Toro</a>).</p>\n<p>On the <span class=\"name\">Park Royal Industrial Estate</span> just behind Central Middlesex Hospital, west <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a>, a casually tossed carton of milk precipitates the motor smash.</p>\n<p>Even further west, in <span class=\"name\">West Ealing</span>, <span class=\"name\">Reels Amusements </span>(which was Jesters at the time of filming)<span class=\"name\">, 127 Broadway</span> at Coldershaw Road, is the games arcade and the office of wide-boy Turkish (<a href=\"https://www.movie-locations.com/people/s/stathamj.php\">Jason Statham</a>) that gets smashed up.</p>\n<p>Near the next tube stop north (<span class=\"ital\">South Greenford</span>) is <span class=\"name\">14 Tees Avenue, Perivale</span>, across the A40, which was home to Boris the Blade (<a href=\"https://www.movie-locations.com/people/s/serbedzijar.php\">Rade Serbedzija</a>).</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt0208092/007.jpg\" alt=\"Snatch film location: Caesar's, Streatham Hill, London SW2\"><figcaption>Snatch film location: The unlicensed boxing match: Caesars (since demolished), Streatham Hill, London SW2</figcaption></figure>\n<p>Way south of the river, Caesars Nightclub, which  stood at <span class=\"name\">156-160 Streatham Hill</span>, was the venue where Mickey O'Neil (<a href=\"https://www.movie-locations.com/people/p/pittb.php\">Brad Pitt</a>) slugged it out in the unlicensed boxing match. The venue, which brought a touch of Las Vegas to South <a href=\"https://www.movie-locations.com/places/uk/gtrlondon.php\">London</a> with its horse-drawn chariot frontage, was the first purpose built ballroom in England, opening in 1928 as The Locarno Ballroom. It's claimed that stars such as <span class=\"name\">Glenn Miller</span>, <a href=\"https://www.movie-locations.com/people/l/laurels.php\">Laurel</a> &amp; <a href=\"https://www.movie-locations.com/people/h/hardyo.php\">Hardy</a>, and <a href=\"https://www.movie-locations.com/people/c/chaplinc.php\">Charlie Chaplin</a> once appeared here. It was a music venue in the 60s and latterly hosted boxing, lap-dancing and all sorts. It closed in 2010 and has been demolished to make way for, yes, more bloody 'luxury' apartments – but <a href=\"http://www.caesars.uk.com/\" target=\"_blank\">Caesar's</a> website lives on for now.<br>\n\t  </p>\n<p>‘The Drowning Trout’, the big old pub where Bullet-Tooth Tony (<a href=\"https://www.movie-locations.com/people/j/jonesv.php\">Vinnie Jones</a>) is confronted by Sol and co before the bloody shoot up, was The Jolly Gardeners, in Lambeth, across the river from Westminster. It seems the trout has now well and truly drowned and the pub has been revamped, becoming (and I'm not kidding) a German gastropub, <a href=\"http://zeitgeist-london.com/gastropub/\" target=\"_blank\">Zeitgeist</a>, <span class=\"name\">49 Black Prince Road</span>, at Tyers Street, <span class=\"name\">SE11</span>.</p>\n<p>Nearby, <span class=\"name\">Salamanca Place</span> is where Brick-Top’s heavies catch up with Tyrone (<a href=\"https://www.movie-locations.com/people/a/ade.php\">Ade</a>) but it too has since been completely redeveloped.</p>",
+  "main_content_text": "Where else would you expect to find the locations for a Guy Ritchie gangster movie but in London? It’s snappy and inventive, to be sure, but the director’s compulsive laddishness was starting to outstay its welcome.\n\nThe diamond store of Doug the Head (Mike Reid) is Premier House, 12-13 Hatton Garden, EC1, near Holborn. His nearby local (where director Ritchie puts in a microcameo as Man Reading Newspaper) is Ye Olde Mitre Tavern, between 8 & 9 Hatton Gardens.\n\nFor once the ‘Ye Olde’ isn’t a faux addition from the 70s, but the real deal. Tucked away in the narrow alley between 8 and 9 Hatton Garden, marked by an old crooked street lamp and a small sign in the shape of a bishop’s mitre, is this this tiny pub, with wood-panelled bars. Local workers ensure that it can get pretty busy at lunchtimes.\n\nThe pub was built in 1547 for servants of the palace of the Bishops of Ely, Cambridgeshire (and is technically still part of that county), but after the reformation, Queen Elizabeth I obliged the bishops to rent land to one of her courtiers, Sir Christopher Hatton, hence the name of the area. Shades of Passport to Pimlico – since the bar is technically not part of London, legend has it that police must ask permission to enter – which is quite possibly why it’s Doug’s local.\n\nNaturally, it’s off to London’s East End, specifically Bethnal Green, the old stamping ground of the Kray twins in the 60s – see Peter Medak’s The Krays or Brian Helgeland's Legend for two contrasting takes on their career.\n\n88 Teesdale Street, E2, became Sol’s (Lennie James) pawn shop. Just along the street, by the way, 112a Teesdale Street was the ‘Albion Rooms’, the flat shared, in matier times, by Pete Docherty and Carl Barat of The Libertines.\n\nBethnal Green Town Hall, Cambridge Heath Road at Patriot Square (also used in Lock, Stock and Two Smoking Barrels), became the tailor of Franky Four Fingers (Benicio Del Toro).\n\nOn the Park Royal Industrial Estate just behind Central Middlesex Hospital, west London, a casually tossed carton of milk precipitates the motor smash.\n\nEven further west, in West Ealing, Reels Amusements (which was Jesters at the time of filming), 127 Broadway at Coldershaw Road, is the games arcade and the office of wide-boy Turkish (Jason Statham) that gets smashed up.\n\nNear the next tube stop north (South Greenford) is 14 Tees Avenue, Perivale, across the A40, which was home to Boris the Blade (Rade Serbedzija).\n\nWay south of the river, Caesars Nightclub, which stood at 156-160 Streatham Hill, was the venue where Mickey O'Neil (Brad Pitt) slugged it out in the unlicensed boxing match. The venue, which brought a touch of Las Vegas to South London with its horse-drawn chariot frontage, was the first purpose built ballroom in England, opening in 1928 as The Locarno Ballroom. It's claimed that stars such as Glenn Miller, Laurel & Hardy, and Charlie Chaplin once appeared here. It was a music venue in the 60s and latterly hosted boxing, lap-dancing and all sorts. It closed in 2010 and has been demolished to make way for, yes, more bloody 'luxury' apartments – but Caesar's website lives on for now.\n\n‘The Drowning Trout’, the big old pub where Bullet-Tooth Tony (Vinnie Jones) is confronted by Sol and co before the bloody shoot up, was The Jolly Gardeners, in Lambeth, across the river from Westminster. It seems the trout has now well and truly drowned and the pub has been revamped, becoming (and I'm not kidding) a German gastropub, Zeitgeist, 49 Black Prince Road, at Tyers Street, SE11.\n\nNearby, Salamanca Place is where Brick-Top’s heavies catch up with Tyrone (Ade) but it too has since been completely redeveloped.",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Snatch film location: Ye Old Mitre Tavern, Hatton Garden, London EC1",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/001.jpg",
+      "alt": "Snatch film location: Ye Old Mitre Tavern, Hatton Garden, London EC1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where else would you expect to find the locations for a Guy Ritchie gangster movie but in London? It’s snappy and inventive, to be sure, but the director’s compulsive laddishness was starting to outstay its welcome."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diamond store of Doug the Head (Mike Reid) is Premier House, 12-13 Hatton Garden, EC1, near Holborn. His nearby local (where director Ritchie puts in a microcameo as Man Reading Newspaper) is Ye Olde Mitre Tavern, between 8 & 9 Hatton Gardens."
+    },
+    {
+      "type": "image",
+      "caption": "Snatch film location: Doug the Head's diamond store: Hatton Garden, London EC1",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/003.jpg",
+      "alt": "Snatch film location: Hatton Garden, London EC1"
+    },
+    {
+      "type": "paragraph",
+      "text": "For once the ‘Ye Olde’ isn’t a faux addition from the 70s, but the real deal. Tucked away in the narrow alley between 8 and 9 Hatton Garden, marked by an old crooked street lamp and a small sign in the shape of a bishop’s mitre, is this this tiny pub, with wood-panelled bars. Local workers ensure that it can get pretty busy at lunchtimes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pub was built in 1547 for servants of the palace of the Bishops of Ely, Cambridgeshire (and is technically still part of that county), but after the reformation, Queen Elizabeth I obliged the bishops to rent land to one of her courtiers, Sir Christopher Hatton, hence the name of the area. Shades of Passport to Pimlico – since the bar is technically not part of London, legend has it that police must ask permission to enter – which is quite possibly why it’s Doug’s local."
+    },
+    {
+      "type": "paragraph",
+      "text": "Naturally, it’s off to London’s East End, specifically Bethnal Green, the old stamping ground of the Kray twins in the 60s – see Peter Medak’s The Krays or Brian Helgeland's Legend for two contrasting takes on their career."
+    },
+    {
+      "type": "paragraph",
+      "text": "88 Teesdale Street, E2, became Sol’s (Lennie James) pawn shop. Just along the street, by the way, 112a Teesdale Street was the ‘Albion Rooms’, the flat shared, in matier times, by Pete Docherty and Carl Barat of The Libertines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bethnal Green Town Hall, Cambridge Heath Road at Patriot Square (also used in Lock, Stock and Two Smoking Barrels), became the tailor of Franky Four Fingers (Benicio Del Toro)."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the Park Royal Industrial Estate just behind Central Middlesex Hospital, west London, a casually tossed carton of milk precipitates the motor smash."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even further west, in West Ealing, Reels Amusements (which was Jesters at the time of filming), 127 Broadway at Coldershaw Road, is the games arcade and the office of wide-boy Turkish (Jason Statham) that gets smashed up."
+    },
+    {
+      "type": "paragraph",
+      "text": "Near the next tube stop north (South Greenford) is 14 Tees Avenue, Perivale, across the A40, which was home to Boris the Blade (Rade Serbedzija)."
+    },
+    {
+      "type": "image",
+      "caption": "Snatch film location: The unlicensed boxing match: Caesars (since demolished), Streatham Hill, London SW2",
+      "src": "_assets/tt0208092%20-%20Snatch-2000/007.jpg",
+      "alt": "Snatch film location: Caesar's, Streatham Hill, London SW2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Way south of the river, Caesars Nightclub, which stood at 156-160 Streatham Hill, was the venue where Mickey O'Neil (Brad Pitt) slugged it out in the unlicensed boxing match. The venue, which brought a touch of Las Vegas to South London with its horse-drawn chariot frontage, was the first purpose built ballroom in England, opening in 1928 as The Locarno Ballroom. It's claimed that stars such as Glenn Miller, Laurel & Hardy, and Charlie Chaplin once appeared here. It was a music venue in the 60s and latterly hosted boxing, lap-dancing and all sorts. It closed in 2010 and has been demolished to make way for, yes, more bloody 'luxury' apartments – but Caesar's website lives on for now."
+    },
+    {
+      "type": "paragraph",
+      "text": "‘The Drowning Trout’, the big old pub where Bullet-Tooth Tony (Vinnie Jones) is confronted by Sol and co before the bloody shoot up, was The Jolly Gardeners, in Lambeth, across the river from Westminster. It seems the trout has now well and truly drowned and the pub has been revamped, becoming (and I'm not kidding) a German gastropub, Zeitgeist, 49 Black Prince Road, at Tyers Street, SE11."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nearby, Salamanca Place is where Brick-Top’s heavies catch up with Tyrone (Ade) but it too has since been completely redeveloped."
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>UK | London</h3>\n<p>Flights: Heathrow Airport; Gatwick Airport</p>\n<p>Visit: London</p>\n<p>Travelling: Transport For London</p>\n<p>Visit: Ye Olde Mitre Tavern, 1 Ely Place, London EC1N 6SJ (tel: 020.7405.4751)</p>\n<p>Visit: Zeitgeist, 49-51 Black Prince Road, Lambeth, London SE11 6AB (tel: 020.7840.0426)</p>\n</section>",
+  "visit_info_text": "UK | London\nFlights: Heathrow Airport; Gatwick Airport\nVisit: London\nTravelling: Transport For London\nVisit: Ye Olde Mitre Tavern, 1 Ely Place, London EC1N 6SJ (tel: 020.7405.4751)\nVisit: Zeitgeist, 49-51 Black Prince Road, Lambeth, London SE11 6AB (tel: 020.7840.0426)",
+  "visit_sections": [
+    {
+      "title": "UK | London",
+      "items": [
+        "Flights: Heathrow Airport; Gatwick Airport",
+        "Visit: London",
+        "Travelling: Transport For London",
+        "Visit: Ye Olde Mitre Tavern, 1 Ely Place, London EC1N 6SJ (tel: 020.7405.4751)",
+        "Visit: Zeitgeist, 49-51 Black Prince Road, Lambeth, London SE11 6AB (tel: 020.7840.0426)"
+      ]
+    }
+  ]
+}

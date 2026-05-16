@@ -1,0 +1,450 @@
+{
+  "imdb_id": "tt4154756",
+  "shorthand": "Avengers-Infinity-War",
+  "title": "Avengers: Infinity War",
+  "year": 2018,
+  "source_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/tt4154756 - Avengers-Infinity-War.html",
+  "clean_html_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/html/tt4154756 - Avengers-Infinity-War.html",
+  "json_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/json/tt4154756.json",
+  "source_url": "http://www.movie-locations.com/movies/a/Avengers-Infinity-War.php",
+  "page_title": "Film locations for Marvel's Avengers: Infinity War (2018), in Scotland, Brazil and the Philippines",
+  "meta_description": "Film locations for Marvel's Avengers: Infinity War (2018), in Edinburgh: Miss Katie Cupcake, 52 Cockburn Street, Edinburgh (kebab house); Laila’s Mediterranean Bistro, Cockburn Street, Edinburgh (Wanda thrown through window); City Chambers, Royal Mile, Edinburgh (fight with the Black Order); Edinburgh Waverley Station (arrival of Captain America and Falcon).",
+  "meta_keywords": "Avengers: Infinity War (2018) film locations, filming locations, tourism, set-jetting, travel, edinburgh, scotland",
+  "og_title": "Filming Locations for Avengers: Infinity War (2018), in Edinburgh.",
+  "og_description": "Film locations for Marvel's Avengers: Infinity War (2018), in Edinburgh: Miss Katie Cupcake, 52 Cockburn Street, Edinburgh (kebab house); Laila’s Mediterranean Bistro, Cockburn Street, Edinburgh (Wanda thrown through window); City Chambers, Royal Mile, Edinburgh (fight with the Black Order); Edinburgh Waverley Station (arrival of Captain America and Falcon).",
+  "og_image": "http://www.movie-locations.com/movies/a/Avengers-Infinity-War-Cockburn-Street-Edinburgh.jpg",
+  "top250_rank": "81",
+  "movie_locations_title": "AVENGERS: INFINITY WAR",
+  "movie_locations_regions": "Scotland | Brazil | Philippines",
+  "director": "Anthony Russo | Joe Russo",
+  "cast": [
+    "Chris Evans",
+    "Robert Downey Jr",
+    "Josh Brolin",
+    "Sebastian Stan",
+    "Scarlett Johansson",
+    "Chris Hemsworth",
+    "Mark Ruffalo",
+    "Anthony Mackie",
+    "Chadwick Boseman",
+    "Tom Holland",
+    "Chris Pratt",
+    "Zoe Saldana",
+    "Bradley Cooper",
+    "Dave Bautista",
+    "Vin Diesel",
+    "Karen Gillan",
+    "Benedict Cumberbatch",
+    "Peter Dinklage",
+    "Tom Hiddleston",
+    "Letitia Wright",
+    "Don Cheadle",
+    "Elizabeth Olsen",
+    "Paul Bettany",
+    "Idris Elba",
+    "Gwyneth Paltrow",
+    "Benedict Wong",
+    "Benicio Del Toro",
+    "William Hurt",
+    "Pom Klementieff",
+    "Sean Gunn",
+    "Ariana Greenblatt",
+    "Kerry Condon",
+    "EDINBURGH locations",
+    "▶ Miss Katie Cupcake, 52 Cockburn Street, Old Town (Wanda Maximoff and Vision see the news at the ‘Husnu Kebab House’)",
+    "▶ Laila’s Mediterranean Bistro, Cockburn Street, Old Town (Wanda thrown through the window)",
+    "▶ City Chambers, the Royal Mile, Old Town (Wanda whisks away the wounded Vision to the courtyard)",
+    "▶ St Giles Cathedral, the Royal Mile, Old Town (the fight continues on the cathedral roof)",
+    "▶ Parliament Square, Old Town (Midnight and Maximoff face each other)",
+    "▶ Edinburgh Waverley Station (arrival of Captain America, Black Widow and Falcon)",
+    "BRAZIL locations",
+    "▶ Lençois Maranhenses National Park, Maranhão State (the lagoons and white sand dunes of the planet Vormir)",
+    "PHILIPPINES locations",
+    "▶ Banaue Rice Terraces, Ifugao, Luzon (ending with Thanos)"
+  ],
+  "locations": [
+    "Scotland;",
+    "Brazil;",
+    "Philippines"
+  ],
+  "poster_image": {
+    "role": "poster",
+    "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/002.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/002.jpg",
+    "exists": true,
+    "alt": "Avengers: Infinity War poster",
+    "caption": "",
+    "width": 95,
+    "height": 140,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/poster.jpg",
+    "corpus_asset_src": "../assets/tt4154756/poster.jpg"
+  },
+  "hero_image": {
+    "role": "hero",
+    "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/001.jpg",
+    "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/001.jpg",
+    "exists": true,
+    "alt": "Avengers: Infinity War film location: Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh",
+    "caption": "Avengers: Infinity War location: Wanda and Vision at the 'Husnu Kebab House': Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh",
+    "width": null,
+    "height": null,
+    "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/001.jpg",
+    "corpus_asset_src": "../assets/tt4154756/001.jpg"
+  },
+  "images": [
+    {
+      "role": "hero",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/001.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/001.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: Wanda and Vision at the 'Husnu Kebab House': Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/001.jpg",
+      "corpus_asset_src": "../assets/tt4154756/001.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/002.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/002.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War poster",
+      "caption": "",
+      "width": 95,
+      "height": 140,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/002.jpg",
+      "corpus_asset_src": "../assets/tt4154756/002.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/003.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/003.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: Wanda and Vision at the 'Husnu Kebab House': Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/003.jpg",
+      "corpus_asset_src": "../assets/tt4154756/003.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/004.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/004.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: Laila's Bistro, Cockburn Street, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: Wanda gets thrown through the window during the fight: Laila's Bistro, Cockburn Street, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/004.jpg",
+      "corpus_asset_src": "../assets/tt4154756/004.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/005.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/005.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: Fleshmarket Close, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: that street sign is real: Fleshmarket Close, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/005.jpg",
+      "corpus_asset_src": "../assets/tt4154756/005.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/006.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/006.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: Courtyard, City Chambers, Royal Mile, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: Avengers: Infinity War location: the fight continues over the rooftops: Courtyard, City Chambers, Royal Mile, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/006.jpg",
+      "corpus_asset_src": "../assets/tt4154756/006.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/007.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/007.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: City Chambers, Royal Mile, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: the fight continues over the rooftops: City Chambers, Royal Mile, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/007.jpg",
+      "corpus_asset_src": "../assets/tt4154756/007.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/008.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/008.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: St Giles' Cathedral, Royal Mile, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: Vision and Glaive struggle on the cathedral roof: St Giles' Cathedral, Royal Mile, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/008.jpg",
+      "corpus_asset_src": "../assets/tt4154756/008.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/009.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/009.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: Parliament Square, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: Midnight and Wanda Maximoff face off below the cathedral: Parliament Square, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/009.jpg",
+      "corpus_asset_src": "../assets/tt4154756/009.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/010.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/010.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: Wanda and Vision crash through the station roof: Waverley Station, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/010.jpg",
+      "corpus_asset_src": "../assets/tt4154756/010.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/011.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/011.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: Captain America and Black Widow join the fray: Waverley Station, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/011.jpg",
+      "corpus_asset_src": "../assets/tt4154756/011.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/012.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/012.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: battling against the Black Order: Waverley Station, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/012.jpg",
+      "corpus_asset_src": "../assets/tt4154756/012.jpg"
+    },
+    {
+      "role": "content",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/013.jpg",
+      "absolute_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_html/_assets/tt4154756 - Avengers-Infinity-War/013.jpg",
+      "exists": true,
+      "alt": "Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh",
+      "caption": "Avengers: Infinity War location: the rogue Avengers make their exit in the Quinjet: Waverley Station, Old Town, Edinburgh",
+      "width": null,
+      "height": null,
+      "corpus_asset_path": "/Users/pleiadesm./Downloads/IMDB-Terminal/IMDB/movie_locations_corpus/assets/tt4154756/013.jpg",
+      "corpus_asset_src": "../assets/tt4154756/013.jpg"
+    }
+  ],
+  "main_content_html": "<figure class=\"mainpic\"><img src=\"../assets/tt4154756/001.jpg\" alt=\"Avengers: Infinity War film location: Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: Wanda and Vision at the 'Husnu Kebab House': Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh</figcaption></figure>\n<p>Like many of its predecessors, Marvel’s mega-populated blockbuster was based at <span class=\"name\">Pinewood Atlanta Studios</span> in <a href=\"https://www.movie-locations.com/places/usa/atlanta.php\">Atlanta</a>, <a href=\"https://www.movie-locations.com/places/usa/georgia.php\">Georgia</a>, where – given the story’s interplanetary setting – most of it was filmed on studio sets.</p>\n<p>There’s a visit to Earth to catch up with Wanda Maximoff (<a href=\"https://www.movie-locations.com/people/o/olsene.php\">Elizabeth Olsen</a>) and Vision (<a href=\"https://www.movie-locations.com/people/b/bettanyp.php\">Paul Bettany</a>), who’ve retired to a quiet unavenging life in <span class=\"name\">Edinburgh</span>, <a href=\"https://www.movie-locations.com/places/uk/scotland.php\">Scotland</a>.</p>\n<p>Well, not that quiet. They seem to be living in the famously touristy heart of the city where you’re never more than 50 yards from a set of bagpipes, though the streets seem oddly deserted. And oddly quiet.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/003.jpg\" alt=\"Avengers: Infinity War film location: Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: Wanda and Vision at the 'Husnu Kebab House': Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh</figcaption></figure>\n<p>▶ Their attention is caught by a news report of the Black order attack on Greenwich Village on TV in the local takeaway.</p>\n<p>The ‘Husnu Kebab House’ is no such thing. In reality, this corner store is <a href=\"http://www.misskatiecupcake.com/\" target=\"_blank\">Miss Katie Cupcake</a>, <span class=\"name\">52 Cockburn Street</span> (pronounced ‘Coburn’ if you don’t want to embarrass yourself), just north of the Royal Mile which runs through the historic <span class=\"name\">Old Town</span> from Edinburgh Castle to Holyrood Palace.</p>\n<p>It’s an upscale gift store offering everything from handmade jewellery to vintage trinkets. A rare place to get a souvenir of your visit that involves neither bagpipes nor tartan.</p>\n<p>A sly joke is the sign hanging in the mock eatery, which reads ‘We will deep-fry your kebab’. Well done the impish set-dresser who came up with that. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/004.jpg\" alt=\"Avengers: Infinity War film location: Laila's Bistro, Cockburn Street, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: Wanda gets thrown through the window during the fight: Laila's Bistro, Cockburn Street, Old Town, Edinburgh</figcaption></figure>\n<p>▶ It’s here on <span class=\"name\">Cockburn Street</span> that Wanda and Vision are attacked by Corvus Glaive and Proxima Midnight of the Black Order, anxious to get possession of the Mind Stone, inconveniently embedded in Vision's forehead.</p>\n<p>The ensuing superpowered ruckus sees Wanda thrown through the window of <a href=\"http://lailas-bistro.co.uk/\" target=\"_blank\">Laila’s Mediterranean Bistro</a> opposite the 'kebab house' – which now proudly announces its screen-star status with a faux-smashed window pane. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/005.jpg\" alt=\"Avengers: Infinity War film location: Fleshmarket Close, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: that street sign is real: Fleshmarket Close, Old Town, Edinburgh</figcaption></figure>\n<p>By the way, the street name you may have glimpsed, <span class=\"name\">Fleshmarket Close</span>, isn’t a bit of grisly set-dressing – that really is the name of the alleyway alongside <a href=\"http://www.misskatiecupcake.com/\" target=\"_blank\">Katie Cupcake</a>’s.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/006.jpg\" alt=\"Avengers: Infinity War film location: Courtyard, City Chambers, Royal Mile, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: Avengers: Infinity War location: the fight continues over the rooftops: Courtyard, City Chambers, Royal Mile, Old Town, Edinburgh</figcaption></figure>\n<p>▶ When Vision is wounded, Wanda whisks him away over the rooftops and into the pillared courtyard of the <span class=\"name\">City Chambers</span> on the <span class=\"name\">Royal Mile</span> itself, with its classical statue of Alexander the Great with his horse Bucephalus, where the desperate fight continues. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/007.jpg\" alt=\"Avengers: Infinity War film location: City Chambers, Royal Mile, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: the fight continues over the rooftops: City Chambers, Royal Mile, Old Town, Edinburgh</figcaption></figure>\n<p>The battle continues with fireballs lighting up the classical architecture of the <span class=\"name\">Royal Mile</span>.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/008.jpg\" alt=\"Avengers: Infinity War film location: St Giles' Cathedral, Royal Mile, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: Vision and Glaive struggle on the cathedral roof: St Giles' Cathedral, Royal Mile, Old Town, Edinburgh</figcaption></figure>\n<p>▶ Defying gravity, Vision and Glaive end up struggling on the roof of the 14th century <a href=\"https://stgilescathedral.org.uk/\" target=\"_blank\">St Giles’ Cathedral</a>, across the street from the <span class=\"name\">Chambers</span>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/009.jpg\" alt=\"Avengers: Infinity War film location: Parliament Square, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: Midnight and Wanda Maximoff face off below the cathedral: Parliament Square, Old Town, Edinburgh</figcaption></figure>\n<p>▶ Below the <span class=\"name\">Cathedral</span>, Midnight and Maximoff are facing off against each other on <span class=\"name\">Parliament Square</span>. <a href=\"#1st\">⏏</a></p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/010.jpg\" alt=\"Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: Wanda and Vision crash through the station roof: Waverley Station, Old Town, Edinburgh</figcaption></figure>\n<p>▶ Vision is seriously injured but when Wanda tries to carry him away to safety, she crashes through the expansive glass roof of <a href=\"http://www.networkrail.co.uk/edinburgh-waverley-station/\" target=\"_blank\">Edinburgh Waverley Station</a>, the city’s main rail terminus.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/011.jpg\" alt=\"Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: Captain America and Black Widow join the fray: Waverley Station, Old Town, Edinburgh</figcaption></figure>\n<p>Only the sudden and unexpected arrival of Captain America (<a href=\"https://www.movie-locations.com/people/e/evansc.php\">Chris Evans</a>) and Black Widow (<a href=\"https://www.movie-locations.com/people/j/johanssons.php\">Scarlett Johansson</a>), followed by Falcon (<a href=\"https://www.movie-locations.com/people/m/mackiea.php\">Anthony Mackie</a>) swooping into the station concourse, turns the tide.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/012.jpg\" alt=\"Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: battling against the Black Order: Waverley Station, Old Town, Edinburgh</figcaption></figure>\n<p>The battle takes advantage of the wide open space alongside <span class=\"name\">Platform 2</span>. Don't be fooled – that ‘Saluto’s’ coffee bar is nothing more than a temporary set built for the film.</p>\n<figure class=\"mainpic\"><img src=\"../assets/tt4154756/013.jpg\" alt=\"Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh\"><figcaption>Avengers: Infinity War location: the rogue Avengers make their exit in the Quinjet: Waverley Station, Old Town, Edinburgh</figcaption></figure>\n<p>After the Black Order's tactical retreat, the rogue Avengers team makes a theatrical exit in their stolen Quinjet from the station’s <span class=\"name\">Waverley Bridge </span>road entrance. <a href=\"#1st\">⏏</a></p>\n<p>The film's other locations are largely 'background plates' captured by a Second Unit, a small camera crew unencumbered by those expensive Hollywood stars.</p>\n<p>▶ These suitably spectacular shots can then be incorporated digitally, as when the lagoons and white sand dunes of the <a href=\"https://parquelencois.com.br/\" target=\"_blank\">Lençois Maranhenses National Park</a> on the northeastern coast of <a href=\"https://www.movie-locations.com/places/samerica/brazil.php\">Brazil</a> become the basis for landscape of the planet Vormir, where Thanos (<a href=\"https://www.movie-locations.com/people/b/brolinj.php\">Josh Brolin</a>) searches for the Soul Stone. These freshwater pools are temporarily formed during the rainy season as water gathers in the depressions. <a href=\"#1st\">⏏</a></p>\n<p>▶ It hardly seems worth issuing a spoiler alert that the ending is famously downbeat, so let's just say that Thanos, alone but not happy, looks out over what are the <a href=\"http://www.banaueterraces.com/\" target=\"_blank\">Banaue Rice Terraces</a> of <span class=\"name\">Ifugao</span>, in the heart of <span class=\"name\">Luzon</span>, the largest island of <a href=\"https://www.movie-locations.com/places/asia/philippines.php\">Philippines</a>.</p>\n<p>There’s precious little recorded history but it’s probable that these terraces were painstakingly carved out of the mountainsides by indigenous people, with minimal technology, around 2,000 years ago.</p>\n<p>The forests and beaches of <span class=\"name\">Luzon</span> had previously stood in for 'Vietnam' in <a href=\"https://www.movie-locations.com/people/c/coppolaff.php\">Francis Ford Coppola</a>'s epic <a href=\"https://www.movie-locations.com/movies/a/Apocalypse-Now.php\">Apocalypse Now</a>. <a href=\"#1st\">⏏</a></p>",
+  "main_content_text": "Like many of its predecessors, Marvel’s mega-populated blockbuster was based at Pinewood Atlanta Studios in Atlanta, Georgia, where – given the story’s interplanetary setting – most of it was filmed on studio sets.\n\nThere’s a visit to Earth to catch up with Wanda Maximoff (Elizabeth Olsen) and Vision (Paul Bettany), who’ve retired to a quiet unavenging life in Edinburgh, Scotland.\n\nWell, not that quiet. They seem to be living in the famously touristy heart of the city where you’re never more than 50 yards from a set of bagpipes, though the streets seem oddly deserted. And oddly quiet.\n\n▶ Their attention is caught by a news report of the Black order attack on Greenwich Village on TV in the local takeaway.\n\nThe ‘Husnu Kebab House’ is no such thing. In reality, this corner store is Miss Katie Cupcake, 52 Cockburn Street (pronounced ‘Coburn’ if you don’t want to embarrass yourself), just north of the Royal Mile which runs through the historic Old Town from Edinburgh Castle to Holyrood Palace.\n\nIt’s an upscale gift store offering everything from handmade jewellery to vintage trinkets. A rare place to get a souvenir of your visit that involves neither bagpipes nor tartan.\n\nA sly joke is the sign hanging in the mock eatery, which reads ‘We will deep-fry your kebab’. Well done the impish set-dresser who came up with that. ⏏\n\n▶ It’s here on Cockburn Street that Wanda and Vision are attacked by Corvus Glaive and Proxima Midnight of the Black Order, anxious to get possession of the Mind Stone, inconveniently embedded in Vision's forehead.\n\nThe ensuing superpowered ruckus sees Wanda thrown through the window of Laila’s Mediterranean Bistro opposite the 'kebab house' – which now proudly announces its screen-star status with a faux-smashed window pane. ⏏\n\nBy the way, the street name you may have glimpsed, Fleshmarket Close, isn’t a bit of grisly set-dressing – that really is the name of the alleyway alongside Katie Cupcake’s.\n\n▶ When Vision is wounded, Wanda whisks him away over the rooftops and into the pillared courtyard of the City Chambers on the Royal Mile itself, with its classical statue of Alexander the Great with his horse Bucephalus, where the desperate fight continues. ⏏\n\nThe battle continues with fireballs lighting up the classical architecture of the Royal Mile.\n\n▶ Defying gravity, Vision and Glaive end up struggling on the roof of the 14th century St Giles’ Cathedral, across the street from the Chambers. ⏏\n\n▶ Below the Cathedral, Midnight and Maximoff are facing off against each other on Parliament Square. ⏏\n\n▶ Vision is seriously injured but when Wanda tries to carry him away to safety, she crashes through the expansive glass roof of Edinburgh Waverley Station, the city’s main rail terminus.\n\nOnly the sudden and unexpected arrival of Captain America (Chris Evans) and Black Widow (Scarlett Johansson), followed by Falcon (Anthony Mackie) swooping into the station concourse, turns the tide.\n\nThe battle takes advantage of the wide open space alongside Platform 2. Don't be fooled – that ‘Saluto’s’ coffee bar is nothing more than a temporary set built for the film.\n\nAfter the Black Order's tactical retreat, the rogue Avengers team makes a theatrical exit in their stolen Quinjet from the station’s Waverley Bridge road entrance. ⏏\n\nThe film's other locations are largely 'background plates' captured by a Second Unit, a small camera crew unencumbered by those expensive Hollywood stars.\n\n▶ These suitably spectacular shots can then be incorporated digitally, as when the lagoons and white sand dunes of the Lençois Maranhenses National Park on the northeastern coast of Brazil become the basis for landscape of the planet Vormir, where Thanos (Josh Brolin) searches for the Soul Stone. These freshwater pools are temporarily formed during the rainy season as water gathers in the depressions. ⏏\n\n▶ It hardly seems worth issuing a spoiler alert that the ending is famously downbeat, so let's just say that Thanos, alone but not happy, looks out over what are the Banaue Rice Terraces of Ifugao, in the heart of Luzon, the largest island of Philippines.\n\nThere’s precious little recorded history but it’s probable that these terraces were painstakingly carved out of the mountainsides by indigenous people, with minimal technology, around 2,000 years ago.\n\nThe forests and beaches of Luzon had previously stood in for 'Vietnam' in Francis Ford Coppola's epic Apocalypse Now. ⏏",
+  "main_sections": [
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: Wanda and Vision at the 'Husnu Kebab House': Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/001.jpg",
+      "alt": "Avengers: Infinity War film location: Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like many of its predecessors, Marvel’s mega-populated blockbuster was based at Pinewood Atlanta Studios in Atlanta, Georgia, where – given the story’s interplanetary setting – most of it was filmed on studio sets."
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s a visit to Earth to catch up with Wanda Maximoff (Elizabeth Olsen) and Vision (Paul Bettany), who’ve retired to a quiet unavenging life in Edinburgh, Scotland."
+    },
+    {
+      "type": "paragraph",
+      "text": "Well, not that quiet. They seem to be living in the famously touristy heart of the city where you’re never more than 50 yards from a set of bagpipes, though the streets seem oddly deserted. And oddly quiet."
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: Wanda and Vision at the 'Husnu Kebab House': Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/003.jpg",
+      "alt": "Avengers: Infinity War film location: Miss Katie Cupcake, Cockburn Street, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Their attention is caught by a news report of the Black order attack on Greenwich Village on TV in the local takeaway."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ‘Husnu Kebab House’ is no such thing. In reality, this corner store is Miss Katie Cupcake, 52 Cockburn Street (pronounced ‘Coburn’ if you don’t want to embarrass yourself), just north of the Royal Mile which runs through the historic Old Town from Edinburgh Castle to Holyrood Palace."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s an upscale gift store offering everything from handmade jewellery to vintage trinkets. A rare place to get a souvenir of your visit that involves neither bagpipes nor tartan."
+    },
+    {
+      "type": "paragraph",
+      "text": "A sly joke is the sign hanging in the mock eatery, which reads ‘We will deep-fry your kebab’. Well done the impish set-dresser who came up with that. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: Wanda gets thrown through the window during the fight: Laila's Bistro, Cockburn Street, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/004.jpg",
+      "alt": "Avengers: Infinity War film location: Laila's Bistro, Cockburn Street, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ It’s here on Cockburn Street that Wanda and Vision are attacked by Corvus Glaive and Proxima Midnight of the Black Order, anxious to get possession of the Mind Stone, inconveniently embedded in Vision's forehead."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ensuing superpowered ruckus sees Wanda thrown through the window of Laila’s Mediterranean Bistro opposite the 'kebab house' – which now proudly announces its screen-star status with a faux-smashed window pane. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: that street sign is real: Fleshmarket Close, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/005.jpg",
+      "alt": "Avengers: Infinity War film location: Fleshmarket Close, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "By the way, the street name you may have glimpsed, Fleshmarket Close, isn’t a bit of grisly set-dressing – that really is the name of the alleyway alongside Katie Cupcake’s."
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: Avengers: Infinity War location: the fight continues over the rooftops: Courtyard, City Chambers, Royal Mile, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/006.jpg",
+      "alt": "Avengers: Infinity War film location: Courtyard, City Chambers, Royal Mile, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ When Vision is wounded, Wanda whisks him away over the rooftops and into the pillared courtyard of the City Chambers on the Royal Mile itself, with its classical statue of Alexander the Great with his horse Bucephalus, where the desperate fight continues. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: the fight continues over the rooftops: City Chambers, Royal Mile, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/007.jpg",
+      "alt": "Avengers: Infinity War film location: City Chambers, Royal Mile, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "The battle continues with fireballs lighting up the classical architecture of the Royal Mile."
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: Vision and Glaive struggle on the cathedral roof: St Giles' Cathedral, Royal Mile, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/008.jpg",
+      "alt": "Avengers: Infinity War film location: St Giles' Cathedral, Royal Mile, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Defying gravity, Vision and Glaive end up struggling on the roof of the 14th century St Giles’ Cathedral, across the street from the Chambers. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: Midnight and Wanda Maximoff face off below the cathedral: Parliament Square, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/009.jpg",
+      "alt": "Avengers: Infinity War film location: Parliament Square, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Below the Cathedral, Midnight and Maximoff are facing off against each other on Parliament Square. ⏏"
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: Wanda and Vision crash through the station roof: Waverley Station, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/010.jpg",
+      "alt": "Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ Vision is seriously injured but when Wanda tries to carry him away to safety, she crashes through the expansive glass roof of Edinburgh Waverley Station, the city’s main rail terminus."
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: Captain America and Black Widow join the fray: Waverley Station, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/011.jpg",
+      "alt": "Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "Only the sudden and unexpected arrival of Captain America (Chris Evans) and Black Widow (Scarlett Johansson), followed by Falcon (Anthony Mackie) swooping into the station concourse, turns the tide."
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: battling against the Black Order: Waverley Station, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/012.jpg",
+      "alt": "Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "The battle takes advantage of the wide open space alongside Platform 2. Don't be fooled – that ‘Saluto’s’ coffee bar is nothing more than a temporary set built for the film."
+    },
+    {
+      "type": "image",
+      "caption": "Avengers: Infinity War location: the rogue Avengers make their exit in the Quinjet: Waverley Station, Old Town, Edinburgh",
+      "src": "_assets/tt4154756%20-%20Avengers-Infinity-War/013.jpg",
+      "alt": "Avengers: Infinity War film location: Waverley Station, Old Town, Edinburgh"
+    },
+    {
+      "type": "paragraph",
+      "text": "After the Black Order's tactical retreat, the rogue Avengers team makes a theatrical exit in their stolen Quinjet from the station’s Waverley Bridge road entrance. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "The film's other locations are largely 'background plates' captured by a Second Unit, a small camera crew unencumbered by those expensive Hollywood stars."
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ These suitably spectacular shots can then be incorporated digitally, as when the lagoons and white sand dunes of the Lençois Maranhenses National Park on the northeastern coast of Brazil become the basis for landscape of the planet Vormir, where Thanos (Josh Brolin) searches for the Soul Stone. These freshwater pools are temporarily formed during the rainy season as water gathers in the depressions. ⏏"
+    },
+    {
+      "type": "paragraph",
+      "text": "▶ It hardly seems worth issuing a spoiler alert that the ending is famously downbeat, so let's just say that Thanos, alone but not happy, looks out over what are the Banaue Rice Terraces of Ifugao, in the heart of Luzon, the largest island of Philippines."
+    },
+    {
+      "type": "paragraph",
+      "text": "There’s precious little recorded history but it’s probable that these terraces were painstakingly carved out of the mountainsides by indigenous people, with minimal technology, around 2,000 years ago."
+    },
+    {
+      "type": "paragraph",
+      "text": "The forests and beaches of Luzon had previously stood in for 'Vietnam' in Francis Ford Coppola's epic Apocalypse Now. ⏏"
+    }
+  ],
+  "visit_info_html": "<h2>Visit The Film Locations</h2>\n<section><h3>UK | Scotland</h3>\n<p>Visit: Scotland</p>\n<p>Visit: Edinburgh</p>\n<p>Rail: Edinburgh Waverley Station</p>\n<p>Visit: St Giles’ Cathedral,</p>\n<p>Visit: Miss Katie Cupcake, 52 Cockburn Street</p>\n<p>Visit: Laila’s Mediterranean Bistro</p>\n</section>\n<section><h3>Brazil</h3>\n<p>Visit: Brazil</p>\n<p>Visit: Lençois Maranhenses National Park</p>\n</section>\n<section><h3>Philippines</h3>\n<p>Visit: the Philippines</p>\n<p>Flights: Manila Ninoy Aquino International Airport, Andrews Avenue, Pasay, 1300 Metro Manila, Philippines (tel: 63.2.877.7888)</p>\n<p>Visit: Banaue Rice Terraces</p>\n</section>",
+  "visit_info_text": "UK | Scotland\nVisit: Scotland\nVisit: Edinburgh\nRail: Edinburgh Waverley Station\nVisit: St Giles’ Cathedral,\nVisit: Miss Katie Cupcake, 52 Cockburn Street\nVisit: Laila’s Mediterranean Bistro\nBrazil\nVisit: Brazil\nVisit: Lençois Maranhenses National Park\nPhilippines\nVisit: the Philippines\nFlights: Manila Ninoy Aquino International Airport, Andrews Avenue, Pasay, 1300 Metro Manila, Philippines (tel: 63.2.877.7888)\nVisit: Banaue Rice Terraces",
+  "visit_sections": [
+    {
+      "title": "UK | Scotland",
+      "items": [
+        "Visit: Scotland",
+        "Visit: Edinburgh",
+        "Rail: Edinburgh Waverley Station",
+        "Visit: St Giles’ Cathedral,",
+        "Visit: Miss Katie Cupcake, 52 Cockburn Street",
+        "Visit: Laila’s Mediterranean Bistro"
+      ]
+    },
+    {
+      "title": "Brazil",
+      "items": [
+        "Visit: Brazil",
+        "Visit: Lençois Maranhenses National Park"
+      ]
+    },
+    {
+      "title": "Philippines",
+      "items": [
+        "Visit: the Philippines",
+        "Flights: Manila Ninoy Aquino International Airport, Andrews Avenue, Pasay, 1300 Metro Manila, Philippines (tel: 63.2.877.7888)",
+        "Visit: Banaue Rice Terraces"
+      ]
+    }
+  ]
+}
