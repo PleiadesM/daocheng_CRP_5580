@@ -10,30 +10,15 @@ custom_head: head/custom.html
 # Feature Row
 
 feature_row:
-  - image_path: assets/images/tasksFeature.jpg
-    alt: "pins on the pinboard"
-    title: "Tasks"
-    excerpt: "These are the **tasks** assigned in LA5880 course."
-    url: "tasks/"
-    btn_label: "View tasks"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/exercisesFeature.jpg
-    alt: "A hand pointing to a colorful map"
-    title: "Exercises"
-    excerpt: "The **exercises** are mainly about the hand on operation using GIS softwares."
-    url: "exercises/"
-    btn_label: "View exercises"
-    btn_class: "btn--primary"
   - image_path: /assets/images/assignmentsFeature.jpg
-    title: "Assignments"
-    excerpt: "The major **assignments** in the course."
-    url: "assignments/"
-    btn_label: "View assignments"
+    title: "Mini Project"
+    excerpt: "Ars and Culture Economy: Iowa and the United States, 2001–2023."
+    url: "assignments/miniproject.md"
+    btn_label: "View Mini Project"
     btn_class: "btn--primary"
   - image_path: /assets/images/finalProjectFeature.jpg
     title: "Final Project"
-    excerpt: "My **final project** for the course, still planning."
+    excerpt: "Filmimng Location Maps"
     url: "final-project/"
     btn_label: "View Final Project"
     btn_class: "btn--primary"
@@ -67,11 +52,9 @@ Please see the major updates below to find the assignments.
 - *Feb. 16, 2026:* [The first graded assignment](assignments/assignment_1/) has been uploaded.
 
 
-<!-- {% include feature_row %} -->
+{% include feature_row %}
 
-<!-- <div class="button-container">
-  <a href="tasks/" class="btn btn--primary">View Tasks</a>
-  <a href="exercises/" class="btn btn--primary">View Exercises</a>
-  <a href="assignments/" class="btn btn--primary">View Assignments</a>
+<div class="button-container">
+  <a href="assignments/miniproject.md" class="btn btn--primary">View Assignments</a>
   <a href="final-project/" class="btn btn--primary">View Final Project</a>
-</div> -->
+</div>
